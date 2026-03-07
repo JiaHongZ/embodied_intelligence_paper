@@ -1,3 +1,7 @@
-# Hri Papers
+# Human-Robot Interaction Papers (2025)
 
-No papers yet.
+## May
+
+- [ReactDance: Hierarchical Representation for High-Fidelity and Coherent Long-Form Reactive Dance Generation](http://arxiv.org/abs/2505.05589v3)
+  Jingzhong Lin, Xinru Li, Yuanyuan Qi, Bohao Zhang, Wenxiang Liu, Kecheng Tang, Wenxuan Huang, Xiangfeng Xu, Bangyan Li, Changbo Wang, Gaoqi He
+  Code: nan
