@@ -1,44 +1,37 @@
-from datetime import datetime, timezone
+from __future__ import annotations
 
-from ei_paper_index.models import ArxivPaper
-from ei_paper_index.processor import PaperProcessor
+from pathlib import Path
 
-
-def build_paper(title: str, summary: str, updated: datetime) -> ArxivPaper:
-    return ArxivPaper(
-        id="id",
-        title=title,
-        summary=summary,
-        authors=["A"],
-        published=updated,
-        updated=updated,
-        arxiv_url="https://arxiv.org/abs/1234.5678",
-        pdf_url=None,
-        categories=["cs.RO"],
-    )
+from paper_tracker.categorizer import categorize_paper, extract_github_link
+from paper_tracker.database import update_paper_database
 
 
-def test_filters_keyword_and_date() -> None:
-    now = datetime(2026, 3, 7, 10, 0, tzinfo=timezone.utc)
-    processor = PaperProcessor(now_utc=now)
-
-    keep = build_paper("Embodied robot navigation", "Good paper", now.replace(tzinfo=None))
-    old = build_paper("Embodied robot navigation", "Old", datetime(2026, 2, 20, 10, 0))
-    irrelevant = build_paper("Graph theory", "No robotics", now.replace(tzinfo=None))
-
-    out = processor.filter_recent_and_relevant([keep, old, irrelevant], days=2)
-    assert len(out) == 1
-    assert out[0].title == keep.title
+def test_extract_github_link() -> None:
+    abstract = "Code available at https://github.com/example/repo for robot manipulation."
+    assert extract_github_link(abstract) == "https://github.com/example/repo"
 
 
-def test_categorizes_vla_and_manipulation() -> None:
-    processor = PaperProcessor(now_utc=datetime(2026, 3, 7, tzinfo=timezone.utc))
-    paper = build_paper(
-        "A Vision-Language-Action model for dexterous manipulation",
-        "We propose a VLA approach for robot manipulation.",
-        datetime(2026, 3, 7, 10, 0),
-    )
+def test_categorize_paper() -> None:
+    paper = {"title": "A Vision-Language-Action Policy", "abstract": "A VLA model for robotics."}
+    assert categorize_paper(paper) == "Vision-Language-Action"
 
-    result = processor.categorize([paper])[0]
-    assert "Vision-Language-Action" in result.topics
-    assert "Robot Manipulation" in result.topics
+
+def test_update_paper_database_dedup(tmp_path: Path) -> None:
+    db = tmp_path / "papers.json"
+    raw = [
+        {
+            "title": "Paper A",
+            "authors": ["Alice"],
+            "abstract": "robot manipulation",
+            "arxiv_id": "2603.12345",
+            "arxiv_url": "https://arxiv.org/abs/2603.12345",
+            "pdf_url": "https://arxiv.org/pdf/2603.12345.pdf",
+            "published_date": "2026-03-01",
+            "year": 2026,
+            "month": "March",
+        }
+    ]
+    out1 = update_paper_database(raw, db)
+    out2 = update_paper_database(raw, db)
+    assert len(out1) == 1
+    assert len(out2) == 1

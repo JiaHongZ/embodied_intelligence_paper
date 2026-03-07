@@ -1,5 +1,10 @@
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .pytest_cache/
 .venv/
-data/latest_papers.json
+venv/
+*.egg-info/
+data/new_papers.json
+data/categorized_papers.json
