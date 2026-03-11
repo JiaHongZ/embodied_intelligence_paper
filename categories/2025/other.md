@@ -2,6 +2,9 @@
 
 ## December
 
+- [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
+  Shuhan Zhang, Tin Lun Lam
+  Code: nan
 - [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
@@ -28,6 +31,15 @@
   Code: nan
 - [GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference](http://arxiv.org/abs/2509.19916v3)
   Zijun Che, Yinghong Zhang, Shengyi Liang, Boyu Zhou, Jun Ma, Jinni Zhou
+  Code: nan
+- [CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](http://arxiv.org/abs/2509.04859v3)
+  Hannah Schieber, Dominik Frischmann, Victor Schaack, Simon Boche, Angela Schoellig, Stefan Leutenegger, Daniel Roth
+  Code: nan
+
+## August
+
+- [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
+  Hakjin Lee, Junghoon Seo, Jaehoon Sim
   Code: nan
 
 ## June

@@ -23,6 +23,12 @@
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
+- [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
+  Neil Janwani, Varun Madabushi, Maegan Tucker
+  Code: nan
+- [Asset-Centric Metric-Semantic Maps of Indoor Environments](http://arxiv.org/abs/2510.10778v2)
+  Christopher D. Hsu, Pratik Chaudhari
+  Code: nan
 - [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
   Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
   Code: https://github.com/zoeyliu1999/EgoTraj-Bench
@@ -64,4 +70,13 @@
 
 - [PeRoI: A Pedestrian-Robot Interaction Dataset for Learning Avoidance, Neutrality, and Attraction Behaviors in Social Navigation](http://arxiv.org/abs/2503.16481v3)
   Subham Agrawal, Nico Ostermann-Myrau, Nils Dengler, Maren Bennewitz
+  Code: nan
+- [LLM-Advisor: An LLM Benchmark for Cost-efficient Path Planning across Multiple Terrains](http://arxiv.org/abs/2503.01236v2)
+  Ling Xiao, Toshihiko Yamasaki
+  Code: nan
+
+## January
+
+- [Unveiling the Potential of iMarkers: Invisible Fiducial Markers for Advanced Robotics](http://arxiv.org/abs/2501.15505v5)
+  Ali Tourani, Deniz Isinsu Avsar, Hriday Bavle, Jose Luis Sanchez-Lopez, Jan Lagerwall, Holger Voos
   Code: nan

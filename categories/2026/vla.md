@@ -2,6 +2,21 @@
 
 ## March
 
+- [Generative Drifting is Secretly Score Matching: a Spectral and Variational Perspective](http://arxiv.org/abs/2603.09936v1)
+  Erkan Turan, Maks Ovsjanikov
+  Code: nan
+- [TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions](http://arxiv.org/abs/2603.09782v1)
+  Nerea Gallego, Fernando Salanova, Claudio Mannarano, Cristian Mahulea, Eduardo Montijano
+  Code: nan
+- [An Optimal Control Approach To Transformer Training](http://arxiv.org/abs/2603.09571v1)
+  Kağan Akman, Naci Saldı, Serdar Yüksel
+  Code: nan
+- [StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving](http://arxiv.org/abs/2603.09482v1)
+  Yuan Gao, Dengyuan Hua, Mattia Piccinini, Finn Rasmus Schäfer, Korbinian Moller, Lin Li, Johannes Betz
+  Code: nan
+- [EvoDriveVLA: Evolving Autonomous Driving Vision-Language-Action Model via Collaborative Perception-Planning Distillation](http://arxiv.org/abs/2603.09465v1)
+  Jiajun Cao, Xiaoan Zhang, Xiaobao Wei, Liyuqiu Huang, Wang Zijian, Hanzhen Zhang, Zhengyu Jia, Wei Mao, Hao Wang, Xianming Liu, Shuchang Zhou Liu, Yang Wang, Shanghang Zhang
+  Code: https://github.com/hey-cjj/EvoDriveVLA
 - [SaiVLA-0: Cerebrum--Pons--Cerebellum Tripartite Architecture for Compute-Aware Vision-Language-Action](http://arxiv.org/abs/2603.08124v1)
   Xiang Shi, Wenlong Huang, Menglin Zou, Xinhai Sun
   Code: nan
