@@ -1,5 +1,11 @@
 # Embodied Agents Papers (2025)
 
+## November
+
+- [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v3)
+  Dayong Liu, Chao Xu, Weihong Chen, Suyu Zhang, Juncheng Wang, Jiankang Deng, Baigui Sun, Yang Liu
+  Code: nan
+
 ## October
 
 - [Conflict-Based Search as a Protocol: A Multi-Agent Motion Planning Protocol for Heterogeneous Agents, Solvers, and Independent Tasks](http://arxiv.org/abs/2510.00425v2)

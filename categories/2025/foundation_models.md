@@ -5,6 +5,9 @@
 - [Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](http://arxiv.org/abs/2512.00883v2)
   Jiahua Wang, Leqi Zheng, Jialong Wu, Yaoxin Mao
   Code: nan
+- [GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](http://arxiv.org/abs/2511.03400v3)
+  Minquan Gao, Xinyi Li, Qing Yan, Xiaojian Sun, Xiaopan Zhang, Chien-Ming Huang, Jiachen Li
+  Code: nan
 
 ## October
 

@@ -2,6 +2,15 @@
 
 ## March
 
+- [Learning Visuomotor Policy for Multi-Robot Laser Tag Game](http://arxiv.org/abs/2603.11980v1)
+  Kai Li, Shiyu Zhao
+  Code: nan
+- [Disentangled Representation Learning through Unsupervised Symmetry Group Discovery](http://arxiv.org/abs/2603.11790v1)
+  Dang-Nhu Barthélémy, Annabi Louis, Argentieri Sylvain
+  Code: nan
+- [MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks](http://arxiv.org/abs/2603.11554v1)
+  Lirong Che, Shuo Wen, Shan Huang, Chuang Wang, Yuzhe Yang, Gregory Dudek, Xueqian Wang, Jian Su
+  Code: nan
 - [DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime](http://arxiv.org/abs/2603.10538v1)
   Julian Lorenz, Vladyslav Kovganko, Elias Kohout, Mrunmai Phatak, Daniel Kienzle, Rainer Lienhart
   Code: nan
@@ -25,6 +34,9 @@
   Code: nan
 - [Reading the Mood Behind Words: Integrating Prosody-Derived Emotional Context into Socially Responsive VR Agents](http://arxiv.org/abs/2603.09324v1)
   SangYeop Jeong, Yeongseo Na, Seung Gyu Jeong, Jin-Woo Jeong, Seong-Eun Kim
+  Code: nan
+- [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](http://arxiv.org/abs/2603.09731v2)
+  Chengjun Yu, Xuhan Zhu, Chaoqun Du, Pengfei Yu, Wei Zhai, Yang Cao, Zheng-Jun Zha
   Code: nan
 - [DeReCo: Decoupling Representation and Coordination Learning for Object-Adaptive Decentralized Multi-Robot Cooperative Transport](http://arxiv.org/abs/2603.08111v1)
   Kazuki Shibata, Ryosuke Sota, Shandil Dhiresh Bosch, Yuki Kadokawa, Tsurumine Yoshihisa, Takamitsu Matsubara

@@ -2,6 +2,9 @@
 
 ## March
 
+- [HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](http://arxiv.org/abs/2603.11975v1)
+  Jiayue Pu, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
+  Code: nan
 - [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](http://arxiv.org/abs/2603.11041v1)
   Shuyao Shang, Bing Zhan, Yunfei Yan, Yuqi Wang, Yingyan Li, Yasong An, Xiaoman Wang, Jierui Liu, Lu Hou, Lue Fan, Zhaoxiang Zhang, Tieniu Tan
   Code: nan

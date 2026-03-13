@@ -47,6 +47,9 @@
 - [SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation](http://arxiv.org/abs/2510.25268v2)
   Wang zhi, Yuyan Liu, Liu Liu, Li Zhang, Ruixuan Lu, Dan Guo
   Code: nan
+- [XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation](http://arxiv.org/abs/2510.11036v2)
+  Yeonseo Lee, Jungwook Mun, Hyosup Shin, Guebin Hwang, Junhee Nam, Taeyeop Lee, Sungho Jo
+  Code: nan
 - [MachaGrasp: Morphology-Aware Cross-Embodiment Dexterous Hand Articulation Generation for Grasping](http://arxiv.org/abs/2510.06068v3)
   Heng Zhang, Kevin Yuchen Ma, Mike Zheng Shou, Weisi Lin, Yan Wu
   Code: nan
@@ -64,6 +67,9 @@
   Code: nan
 - [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
   Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
+  Code: nan
+- [ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations](http://arxiv.org/abs/2509.11125v3)
+  Zheng Li, Pei Qu, Yufei Jia, Shihui Zhou, Haizhou Ge, Jiahang Cao, Jinni Zhou, Guyue Zhou, Jun Ma
   Code: nan
 
 ## July
@@ -86,6 +92,9 @@
 
 ## May
 
+- [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
+  Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
 - [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v5)
   Yuxing Chen, Bowen Xiao, He Wang
   Code: nan

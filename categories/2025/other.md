@@ -15,6 +15,12 @@
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
 
+## November
+
+- [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
+  Alex Diep
+  Code: nan
+
 ## October
 
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)

@@ -11,6 +11,9 @@
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
+- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
+  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
+  Code: nan
 - [ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies](http://arxiv.org/abs/2511.17781v2)
   Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu
   Code: nan
@@ -70,6 +73,12 @@
 
 - [Scalable Aerial GNSS Localization for Marine Robots](http://arxiv.org/abs/2505.04095v2)
   Shuo Wen, Edwin Meriaux, Mariana Sosa Guzmán, Charlotte Morissette, Chloe Si, Bobak Baghi, Gregory Dudek
+  Code: nan
+
+## April
+
+- [Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot](http://arxiv.org/abs/2504.21767v2)
+  Yinglei Zhu, Sixiao He, Yan Ning, Zhenghao Qi, Zhuoyuan Yong, Yihua Qin, Jianyu Chen
   Code: nan
 
 ## March
