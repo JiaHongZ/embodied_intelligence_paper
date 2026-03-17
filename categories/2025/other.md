@@ -11,6 +11,9 @@
 - [BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization](http://arxiv.org/abs/2512.15111v2)
   Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas
   Code: nan
+- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
+  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
+  Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
@@ -23,12 +26,24 @@
 
 ## October
 
+- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v2)
+  Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
+  Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
   Code: https://github.com/ylylyl-sjtu/ODI-Bench
+- [Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition](http://arxiv.org/abs/2510.09653v3)
+  Ranjan Sapkota, Manoj Karkee
+  Code: nan
+- [Optimization-Based Robust Permissive Synthesis for Interval MDPs](http://arxiv.org/abs/2510.03481v2)
+  Khang Vo Huynh, David Parker, Lu Feng
+  Code: nan
 
 ## September
 
+- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
+  Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
+  Code: nan
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
   Code: nan
@@ -38,6 +53,9 @@
 - [GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference](http://arxiv.org/abs/2509.19916v3)
   Zijun Che, Yinghong Zhang, Shengyi Liang, Boyu Zhou, Jun Ma, Jinni Zhou
   Code: nan
+- [Surgical Video Understanding with Label Interpolation](http://arxiv.org/abs/2509.18802v2)
+  Garam Kim, Tae Kyeong Jeong, Juyoun Park
+  Code: nan
 - [CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](http://arxiv.org/abs/2509.04859v3)
   Hannah Schieber, Dominik Frischmann, Victor Schaack, Simon Boche, Angela Schoellig, Stefan Leutenegger, Daniel Roth
   Code: nan
@@ -46,6 +64,9 @@
 
 - [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
   Hakjin Lee, Junghoon Seo, Jaehoon Sim
+  Code: nan
+- [MoRoCo: An Online Topology-Adaptive Framework for Multi-Operator Multi-Robot Coordination under Restricted Communication](http://arxiv.org/abs/2508.07657v2)
+  Zhuoli Tian, Yanze Bao, Yuyang Zhang, Meng Guo
   Code: nan
 
 ## June

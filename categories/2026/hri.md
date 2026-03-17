@@ -2,6 +2,9 @@
 
 ## March
 
+- [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
+  Lukáš Hajdúch, Viktor Kocur
+  Code: nan
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
   Code: nan

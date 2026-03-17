@@ -17,6 +17,9 @@
 - [ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies](http://arxiv.org/abs/2511.17781v2)
   Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu
   Code: nan
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v4)
+  Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
+  Code: https://github.com/ylwhxht/MSGNav
 - [Runge-Kutta Approximations for Direct Coning Compensation Applying Lie Theory](http://arxiv.org/abs/2511.00412v2)
   John A. Christian, Michael R. Walker, Wyatt Bridgman, Michael J. Sparapany
   Code: nan
@@ -79,6 +82,9 @@
 
 - [Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot](http://arxiv.org/abs/2504.21767v2)
   Yinglei Zhu, Sixiao He, Yan Ning, Zhenghao Qi, Zhuoyuan Yong, Yihua Qin, Jianyu Chen
+  Code: nan
+- [Barrier-Riccati Synthesis for Nonlinear Safe Control with Expanded Region of Attraction](http://arxiv.org/abs/2504.15453v3)
+  Hassan Almubarak, Maitham F. AL-Sunni, Justin T. Dubbin, Nader Sadegh, John M. Dolan, Evangelos A. Theodorou
   Code: nan
 
 ## March

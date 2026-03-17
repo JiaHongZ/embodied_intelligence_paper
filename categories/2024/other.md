@@ -14,3 +14,9 @@
 - [Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space](http://arxiv.org/abs/2409.08439v3)
   Maximilian Stölzle, Cosimo Della Santina
   Code: nan
+
+## August
+
+- [Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding](http://arxiv.org/abs/2408.13024v3)
+  Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao
+  Code: nan

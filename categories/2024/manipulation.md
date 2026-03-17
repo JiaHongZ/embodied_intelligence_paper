@@ -1,5 +1,11 @@
 # Robot Manipulation Papers (2024)
 
+## December
+
+- [RoboMD: Uncovering Robot Vulnerabilities through Semantic Potential Fields](http://arxiv.org/abs/2412.02818v3)
+  Som Sagar, Jiafei Duan, Sreevishakh Vasudevan, Yifan Zhou, Heni Ben Amor, Dieter Fox, Ransalu Senanayake
+  Code: nan
+
 ## November
 
 - [Image Compression Using Novel View Synthesis Priors](http://arxiv.org/abs/2411.13862v3)
