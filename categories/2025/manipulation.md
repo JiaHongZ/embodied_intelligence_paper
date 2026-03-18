@@ -56,17 +56,23 @@
 - [CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation](http://arxiv.org/abs/2510.00726v2)
   Giovanni Minelli, Giulio Turrisi, Victor Barasuol, Claudio Semini
   Code: https://github.com/iit-DLSLab/croSTAta
+- [Traj2Action: A Co-Denoising Framework for Trajectory-Guided Human-to-Robot Skill Transfer](http://arxiv.org/abs/2510.00491v2)
+  Han Zhou, Jinjin Cao, Liyuan Ma, Xueji Fang, Guo-jun Qi
+  Code: nan
 
 ## September
 
-- [Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v2)
-  E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo
-  Code: nan
 - [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](http://arxiv.org/abs/2509.22407v2)
   Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang, Zhen Lu, Yue Yang
   Code: nan
+- [Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v2)
+  E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo
+  Code: nan
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v3)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
+  Code: nan
+- [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
+  Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee
   Code: nan
 - [Learning Dexterous Manipulation with Quantized Hand State](http://arxiv.org/abs/2509.17450v2)
   Ying Feng, Hongjie Fang, Yinong He, Jingjing Chen, Chenxi Wang, Zihao He, Ruonan Liu, Cewu Lu
@@ -76,6 +82,9 @@
   Code: nan
 - [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
   Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
+  Code: nan
+- [SHaRe-RL: Structured, Interactive Reinforcement Learning for Contact-Rich Industrial Assembly Tasks](http://arxiv.org/abs/2509.13949v2)
+  Jannick Stranghöner, Philipp Hartmann, Marco Braun, Sebastian Wrede, Klaus Neumann
   Code: nan
 - [ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations](http://arxiv.org/abs/2509.11125v3)
   Zheng Li, Pei Qu, Yufei Jia, Shihui Zhou, Haizhou Ge, Jiahang Cao, Jinni Zhou, Guyue Zhou, Jun Ma
@@ -109,6 +118,12 @@
   Code: nan
 - [Physics-Conditioned Grasping for Stable Tool Use](http://arxiv.org/abs/2505.01399v3)
   Noah Trupin, Zixing Wang, Ahmed H. Qureshi
+  Code: nan
+
+## April
+
+- [CloSE: A Geometric Shape-Agnostic Cloth State Representation](http://arxiv.org/abs/2504.05033v2)
+  Jay Kamat, Júlia Borràs, Carme Torras
   Code: nan
 
 ## February

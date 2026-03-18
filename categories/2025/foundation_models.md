@@ -1,5 +1,11 @@
 # Embodied Foundation Models Papers (2025)
 
+## December
+
+- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
+  Bowen Wen, Shaurya Dewan, Stan Birchfield
+  Code: nan
+
 ## November
 
 - [Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](http://arxiv.org/abs/2512.00883v2)

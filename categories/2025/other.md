@@ -69,6 +69,12 @@
   Zhuoli Tian, Yanze Bao, Yuyang Zhang, Meng Guo
   Code: nan
 
+## July
+
+- [Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints](http://arxiv.org/abs/2507.02438v2)
+  Shivam Chaubey, Francesco Verdoja, Shankar Deka, Ville Kyrki
+  Code: nan
+
 ## June
 
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)

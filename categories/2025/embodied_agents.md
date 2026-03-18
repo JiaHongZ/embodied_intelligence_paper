@@ -1,5 +1,11 @@
 # Embodied Agents Papers (2025)
 
+## December
+
+- [Analyzing Planner Design Trade-offs for MAPF under ADG-based Realistic Execution](http://arxiv.org/abs/2512.09736v2)
+  Jingtian Yan, Zhifei Li, William Kang, Stephen F. Smith, Jiaoyang Li
+  Code: nan
+
 ## November
 
 - [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v3)
@@ -8,8 +14,17 @@
 
 ## October
 
+- [When a Robot is More Capable than a Human: Learning from Constrained Demonstrators](http://arxiv.org/abs/2510.09096v2)
+  Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
+  Code: nan
 - [Conflict-Based Search as a Protocol: A Multi-Agent Motion Planning Protocol for Heterogeneous Agents, Solvers, and Independent Tasks](http://arxiv.org/abs/2510.00425v2)
   Rishi Veerapaneni, Alvin Tang, Haodong He, Sophia Zhao, Viraj Shah, Yidai Cen, Ziteng Ji, Gabriel Olin, Jon Arrizabalaga, Yorai Shaoul, Jiaoyang Li, Maxim Likhachev
+  Code: nan
+
+## September
+
+- [Ontological foundations for contrastive explanatory narration of robot plans](http://arxiv.org/abs/2509.22493v2)
+  Alberto Olivares-Alarcos, Sergi Foix, Júlia Borràs, Gerard Canal, Guillem Alenyà
   Code: nan
 
 ## August

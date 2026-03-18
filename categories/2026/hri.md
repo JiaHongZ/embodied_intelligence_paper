@@ -2,6 +2,9 @@
 
 ## March
 
+- [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)
+  Bruce W. Wilson, David A. Robb, Mei Yii Lim, Helen Hastie, Matthew Peter Aylett, Theodoros Georgiou
+  Code: nan
 - [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
   Lukáš Hajdúch, Viktor Kocur
   Code: nan

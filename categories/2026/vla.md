@@ -2,6 +2,9 @@
 
 ## March
 
+- [Segmentation-Based Attention Entropy: Detecting and Mitigating Object Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2603.16558v1)
+  Jiale Song, Jiaxin Luo, Xue-song Tang, Kuangrong Hao, Mingbo Zhao
+  Code: nan
 - [Learning from Mistakes: Post-Training for Driving VLA with Takeover Data](http://arxiv.org/abs/2603.14972v1)
   Yinfeng Gao, Deqing Liu, Qichao Zhang, Yupeng Zheng, Haochen Tian, Guang Li, Hangjun Ye, Long Chen, Da-Wei Ding, Dongbin Zhao
   Code: nan
@@ -52,4 +55,10 @@
   Code: nan
 - [$π$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs](http://arxiv.org/abs/2603.02083v2)
   Siting Wang, Xiaofeng Wang, Zheng Zhu, Minnan Pei, Xinyu Cui, Cheng Deng, Jian Zhao, Guan Huang, Haifeng Zhang, Jun Wang
+  Code: nan
+
+## February
+
+- [Metamorphic Testing of Vision-Language Action-Enabled Robots](http://arxiv.org/abs/2602.22579v2)
+  Pablo Valle, Sergio Segura, Shaukat Ali, Aitor Arrieta
   Code: nan

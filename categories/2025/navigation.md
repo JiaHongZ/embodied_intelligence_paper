@@ -8,6 +8,9 @@
 
 ## November
 
+- [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
+  Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
+  Code: nan
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
@@ -20,6 +23,9 @@
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v4)
   Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
   Code: https://github.com/ylwhxht/MSGNav
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v5)
+  Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
+  Code: https://github.com/ylwhxht/MSGNav
 - [Runge-Kutta Approximations for Direct Coning Compensation Applying Lie Theory](http://arxiv.org/abs/2511.00412v2)
   John A. Christian, Michael R. Walker, Wyatt Bridgman, Michael J. Sparapany
   Code: nan
@@ -29,6 +35,9 @@
 - [Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v2)
   Jose Luis Ponton, Eduardo Alvarado, Lin Geng Foo, Nuria Pelechano, Carlos Andujar, Marc Habermann
   Code: nan
+- [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
+  Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
+  Code: https://github.com/PKU-SEC-Lab/EfficientNav
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
@@ -41,12 +50,12 @@
 - [CompassNav: Steering From Path Imitation To Decision Understanding In Navigation](http://arxiv.org/abs/2510.10154v2)
   LinFeng Li, Jian Zhao, Yuan Xie, Xin Tan, Xuelong Li
   Code: nan
-- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
-  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
-  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 - [Beyond Collision Cones: Dynamic Obstacle Avoidance for Nonholonomic Robots via Dynamic Parabolic Control Barrier Functions](http://arxiv.org/abs/2510.01402v2)
   Hun Kuk Park, Taekyung Kim, Dimitra Panagou
   Code: nan
+- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
+  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
+  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 
 ## September
 
