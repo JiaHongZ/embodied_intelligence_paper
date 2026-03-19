@@ -35,6 +35,9 @@
 
 ## September
 
+- [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v5)
+  Junjin Xiao, Yandan Yang, Xinyuan Chang, Ronghan Chen, Feng Xiong, Mu Xu, Wei-Shi Zheng, Qing Zhang
+  Code: https://github.com/amap-cvlab/world-env
 - [Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models](http://arxiv.org/abs/2509.23626v2)
   Beomseok Kang, Niluthpol Chowdhury Mithun, Mikhail Sizintsev, Han-Pang Chiu, Supun Samarasekera
   Code: nan

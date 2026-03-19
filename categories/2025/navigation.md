@@ -5,6 +5,12 @@
 - [Efficient Path Generation with Curvature Guarantees by Mollification](http://arxiv.org/abs/2512.13183v2)
   Alfredo González-Calvin, Juan F. Jiménez, Héctor García de Marina
   Code: nan
+- [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
+  Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
+  Code: https://github.com/IacopomC/aion
+- [Vision to Geometry: 3D Spatial Memory for Sequential Embodied MLLM Reasoning and Exploration](http://arxiv.org/abs/2512.02458v2)
+  Zhongyi Cai, Yi Du, Chen Wang, Yu Kong
+  Code: nan
 
 ## November
 
@@ -41,6 +47,9 @@
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
+  Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
+  Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
   Code: nan
@@ -59,9 +68,15 @@
 
 ## September
 
+- [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
+  Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
+  Code: nan
 - [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
   Julius Pesonen, Arno Solin, Eija Honkavaara
   Code: nan
+- [PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis](http://arxiv.org/abs/2509.21690v3)
+  Muqun Hu, Wenxi Chen, Wenjing Li, Falak Mandali, Zijian He, Renhong Zhang, Praveen Krisna, Katherine Christian, Leo Benaharon, Dizhi Ma, Karthik Ramani, Yan Gu
+  Code: https://github.com/purdue-tracelab/TTRL-ICRA2026
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
   Code: nan
@@ -106,6 +121,12 @@
   Code: nan
 - [LLM-Advisor: An LLM Benchmark for Cost-efficient Path Planning across Multiple Terrains](http://arxiv.org/abs/2503.01236v2)
   Ling Xiao, Toshihiko Yamasaki
+  Code: nan
+
+## February
+
+- [Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](http://arxiv.org/abs/2502.05310v5)
+  Jonathan Laurent, André Platzer
   Code: nan
 
 ## January
