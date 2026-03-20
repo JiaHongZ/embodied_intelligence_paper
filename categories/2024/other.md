@@ -2,6 +2,9 @@
 
 ## December
 
+- [From Vocal Instructions to Household Tasks: The Inria TIAGo++ in the euROBIN Service Robots Coopetition](http://arxiv.org/abs/2412.17861v2)
+  Fabio Amadio, Clemente Donoso, Dionis Totsila, Raphael Lorenzo, Quentin Rouxel, Olivier Rochel, Enrico Mingo Hoffman, Jean-Baptiste Mouret, Serena Ivaldi
+  Code: nan
 - [Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](http://arxiv.org/abs/2412.01297v3)
   Fengze Xie, Sizhe Wei, Yue Song, Yisong Yue, Lu Gan
   Code: https://github.com/lunarlab-gatech/MorphSym-HGNN/

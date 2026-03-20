@@ -2,6 +2,9 @@
 
 ## March
 
+- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
+  Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
+  Code: nan
 - [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)
   Bruce W. Wilson, David A. Robb, Mei Yii Lim, Helen Hastie, Matthew Peter Aylett, Theodoros Georgiou
   Code: nan

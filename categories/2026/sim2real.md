@@ -2,6 +2,12 @@
 
 ## March
 
+- [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
+  Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang
+  Code: nan
+- [Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics](http://arxiv.org/abs/2603.19063v1)
+  Anton R. Wagner, Madhan Balaji Rao, Helge Wrede, Sören Pirk, Xuesu Xiao
+  Code: nan
 - [Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](http://arxiv.org/abs/2603.16233v1)
   Ryosuke Hori, Jyun-Ting Song, Zhengyi Luo, Jinkun Cao, Soyong Shin, Hideo Saito, Kris Kitani
   Code: nan

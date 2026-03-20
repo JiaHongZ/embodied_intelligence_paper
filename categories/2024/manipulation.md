@@ -2,6 +2,9 @@
 
 ## December
 
+- [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](http://arxiv.org/abs/2412.10488v4)
+  Zehao Chen, Rong Pan
+  Code: nan
 - [RoboMD: Uncovering Robot Vulnerabilities through Semantic Potential Fields](http://arxiv.org/abs/2412.02818v3)
   Som Sagar, Jiafei Duan, Sreevishakh Vasudevan, Yifan Zhou, Heni Ben Amor, Dieter Fox, Ransalu Senanayake
   Code: nan
