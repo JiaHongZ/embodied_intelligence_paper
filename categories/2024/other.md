@@ -23,3 +23,9 @@
 - [Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding](http://arxiv.org/abs/2408.13024v3)
   Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao
   Code: nan
+
+## January
+
+- [WiFi-GEN: High-Resolution Indoor Imaging from WiFi Signals Using Generative AI](http://arxiv.org/abs/2401.04317v2)
+  Jianyang Shi, Bowen Zhang, Amartansh Dubey, Ross Murch, Liwen Jing
+  Code: https://github.com/CNFightingSjy/WiFiGEN

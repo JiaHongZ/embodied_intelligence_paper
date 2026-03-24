@@ -11,6 +11,9 @@
 - [BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization](http://arxiv.org/abs/2512.15111v2)
   Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas
   Code: nan
+- [LoGoColor: Local-Global 3D Colorization for 360° Scenes](http://arxiv.org/abs/2512.09278v2)
+  Yeonjin Chang, Juhwan Cho, Seunghyeon Seo, Wonsik Shin, Nojun Kwak
+  Code: nan
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
   Code: nan
@@ -26,6 +29,9 @@
 - [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
   Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
   Code: https://github.com/JMUWRobotics/Dynamic-ICP
+- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
+  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
+  Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
@@ -73,6 +79,9 @@
   Code: nan
 - [Surgical Video Understanding with Label Interpolation](http://arxiv.org/abs/2509.18802v2)
   Garam Kim, Tae Kyeong Jeong, Juyoun Park
+  Code: nan
+- [A Tactile-based Interactive Motion Planner for Robots in Unknown Cluttered Environments](http://arxiv.org/abs/2509.16963v2)
+  Chengjin Wang, Yanmin Zhou, Zheng Yan, Feng Luan, Runjie Shen, Hongrui Sang, Zhipeng Wang, Bin He
   Code: nan
 - [CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](http://arxiv.org/abs/2509.04859v3)
   Hannah Schieber, Dominik Frischmann, Victor Schaack, Simon Boche, Angela Schoellig, Stefan Leutenegger, Daniel Roth

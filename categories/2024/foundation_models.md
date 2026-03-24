@@ -5,6 +5,9 @@
 - [From Pixels to Predicates: Learning Symbolic World Models via Pretrained Vision-Language Models](http://arxiv.org/abs/2501.00296v4)
   Ashay Athalye, Nishanth Kumar, Tom Silver, Yichao Liang, Jiuguang Wang, Tomás Lozano-Pérez, Leslie Pack Kaelbling
   Code: nan
+- [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](http://arxiv.org/abs/2412.01583v3)
+  Ziyang Yan, Yihua Shao, Minwen Liao, Siyu Chen, Nan Wang, Muyuan Lin, Jenq-Neng Hwang, Hao Zhao, Fabio Remondino, Lei Li
+  Code: nan
 
 ## November
 

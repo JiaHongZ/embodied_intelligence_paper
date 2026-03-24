@@ -26,10 +26,10 @@
 - [ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies](http://arxiv.org/abs/2511.17781v2)
   Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu
   Code: nan
-- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v5)
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v4)
   Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
   Code: https://github.com/ylwhxht/MSGNav
-- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v4)
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v5)
   Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
   Code: https://github.com/ylwhxht/MSGNav
 - [Runge-Kutta Approximations for Direct Coning Compensation Applying Lie Theory](http://arxiv.org/abs/2511.00412v2)
@@ -59,12 +59,12 @@
 - [CompassNav: Steering From Path Imitation To Decision Understanding In Navigation](http://arxiv.org/abs/2510.10154v2)
   LinFeng Li, Jian Zhao, Yuan Xie, Xin Tan, Xuelong Li
   Code: nan
-- [Beyond Collision Cones: Dynamic Obstacle Avoidance for Nonholonomic Robots via Dynamic Parabolic Control Barrier Functions](http://arxiv.org/abs/2510.01402v2)
-  Hun Kuk Park, Taekyung Kim, Dimitra Panagou
-  Code: nan
 - [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
   Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
   Code: https://github.com/zoeyliu1999/EgoTraj-Bench
+- [Beyond Collision Cones: Dynamic Obstacle Avoidance for Nonholonomic Robots via Dynamic Parabolic Control Barrier Functions](http://arxiv.org/abs/2510.01402v2)
+  Hun Kuk Park, Taekyung Kim, Dimitra Panagou
+  Code: nan
 
 ## September
 
@@ -92,6 +92,12 @@
 
 ## August
 
+- [PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence](http://arxiv.org/abs/2508.20066v2)
+  Zheng Li, Xueyi Zhang, Yanming Guo, Yuxiang Xie, Ding Zhaoyun, Siqi Cai, Haizhou Li, Mingrui Lao
+  Code: nan
+- [Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control](http://arxiv.org/abs/2508.12335v2)
+  Yunfan Gao, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl
+  Code: nan
 - [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
   Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
   Code: nan

@@ -2,6 +2,9 @@
 
 ## March
 
+- [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
+  Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
+  Code: nan
 - ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
   Code: nan

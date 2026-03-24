@@ -17,6 +17,9 @@
 
 ## October
 
+- [Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges](http://arxiv.org/abs/2512.00021v2)
+  Kemal Oksuz, Alexandru Buburuzan, Anthony Knittel, Yuhan Yao, Puneet K. Dokania
+  Code: https://github.com/fiveai/FMs-for-driving-trajectories
 - [NaviTrace: Evaluating Embodied Navigation of Vision-Language Models](http://arxiv.org/abs/2510.26909v3)
   Tim Windecker, Manthan Patel, Moritz Reuss, Richard Schwarzkopf, Cesar Cadena, Rudolf Lioutikov, Marco Hutter, Jonas Frey
   Code: nan
@@ -83,3 +86,6 @@
 - [3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight](http://arxiv.org/abs/2502.10028v3)
   Yuxin He, Ruihao Zhang, Xianzu Wu, Zhiyuan Zhang, Cheng Ding, Qiang Nie
   Code: https://github.com/Stardust-hyx/3D-Foresight
+- [VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](http://arxiv.org/abs/2502.00931v6)
+  Yi Du, Taimeng Fu, Zhipeng Zhao, Shaoshu Su, Zitong Zhan, Qiwei Du, Zhuoqun Chen, Bowen Li, Chen Wang
+  Code: nan

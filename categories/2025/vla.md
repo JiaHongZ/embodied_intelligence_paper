@@ -8,6 +8,9 @@
 - [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
   Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
   Code: https://github.com/X-Luffy/GTR-Bench
+- [KeySG: Hierarchical Keyframe-Based 3D Scene Graphs](http://arxiv.org/abs/2510.01049v2)
+  Abdelrhman Werby, Dennis Rotondi, Fabio Scaparro, Kai O. Arras
+  Code: nan
 
 ## September
 

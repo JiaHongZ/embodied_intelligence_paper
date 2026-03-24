@@ -2,6 +2,12 @@
 
 ## March
 
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
+  Code: nan
+- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
+  Dong Heon Cho, Boyuan Chen
+  Code: nan
 - [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
   Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang
   Code: nan
