@@ -2,8 +2,14 @@
 
 ## December
 
+- [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](http://arxiv.org/abs/2512.21201v2)
+  Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu, Yu-Gang Jiang
+  Code: nan
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
+  Code: nan
+- [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2512.02982v2)
+  Xiang Xu, Alan Liang, Youquan Liu, Linfeng Li, Lingdong Kong, Ziwei Liu, Qingshan Liu
   Code: nan
 
 ## November

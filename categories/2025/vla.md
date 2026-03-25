@@ -2,6 +2,9 @@
 
 ## October
 
+- [Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](http://arxiv.org/abs/2510.21356v2)
+  Anupam Pani, Yanchao Yang
+  Code: https://github.com/anupampani/Gaze-VLM
 - [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](http://arxiv.org/abs/2510.20333v3)
   Chiyu Chen, Xinhao Song, Yunkai Chai, Yang Yao, Haodong Zhao, Lijun Li, Jie Li, Yan Teng, Gongshen Liu, Yingchun Wang
   Code: nan
@@ -11,9 +14,15 @@
 - [KeySG: Hierarchical Keyframe-Based 3D Scene Graphs](http://arxiv.org/abs/2510.01049v2)
   Abdelrhman Werby, Dennis Rotondi, Fabio Scaparro, Kai O. Arras
   Code: nan
+- [VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding](http://arxiv.org/abs/2510.01483v2)
+  Mohamad Al Mdfaa, Svetlana Lukina, Timur Akhtyamov, Arthur Nigmatzyanov, Dmitrii Nalberskii, Sergey Zagoruyko, Gonzalo Ferrer
+  Code: nan
 
 ## September
 
 - [Seeing Space and Motion: Enhancing Latent Actions with Geometric and Dynamic Awareness for Vision-Language-Action Models](http://arxiv.org/abs/2509.26251v2)
   Zhejia Cai, Yandan Yang, Xinyuan Chang, Shiyi Liang, Ronghan Chen, Feng Xiong, Mu Xu, Ruqi Huang
   Code: nan
+- [GenExam: A Multidisciplinary Text-to-Image Exam](http://arxiv.org/abs/2509.14232v4)
+  Zhaokai Wang, Penghao Yin, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo
+  Code: https://github.com/OpenGVLab/GenExam

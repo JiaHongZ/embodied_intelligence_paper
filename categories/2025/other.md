@@ -11,11 +11,17 @@
 - [BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization](http://arxiv.org/abs/2512.15111v2)
   Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas
   Code: nan
+- [ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](http://arxiv.org/abs/2512.11773v4)
+  Britton Jordan, Jordan Thompson, Jesse F. d'Almeida, Hao Li, Nithesh Kumar, Susheela Sharma Stern, James Ferguson, Ipek Oguz, Robert J. Webster, Daniel Brown, Alan Kuntz
+  Code: nan
 - [LoGoColor: Local-Global 3D Colorization for 360° Scenes](http://arxiv.org/abs/2512.09278v2)
   Yeonjin Chang, Juhwan Cho, Seunghyeon Seo, Wonsik Shin, Nojun Kwak
   Code: nan
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
+  Code: nan
+- [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
+  Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
   Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -95,6 +101,12 @@
 - [MoRoCo: An Online Topology-Adaptive Framework for Multi-Operator Multi-Robot Coordination under Restricted Communication](http://arxiv.org/abs/2508.07657v2)
   Zhuoli Tian, Yanze Bao, Yuyang Zhang, Meng Guo
   Code: nan
+- [From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](http://arxiv.org/abs/2508.07494v2)
+  Mircea Lazar
+  Code: nan
+- [Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](http://arxiv.org/abs/2508.03643v4)
+  Xiangyu Sun, Haoyi Jiang, Liu Liu, Seungtae Nam, Gyeongjin Kang, Xinjie Wang, Wei Sui, Zhizhong Su, Wenyu Liu, Xinggang Wang, Eunbyung Park
+  Code: https://github.com/HorizonRobotics/Uni3R
 
 ## July
 
@@ -118,4 +130,10 @@
 
 - [SuperDec: 3D Scene Decomposition with Superquadric Primitives](http://arxiv.org/abs/2504.00992v2)
   Elisabetta Fedele, Boyang Sun, Leonidas Guibas, Marc Pollefeys, Francis Engelmann
+  Code: nan
+
+## March
+
+- [Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap](http://arxiv.org/abs/2503.05656v3)
+  Jianye Xu, Johannes Betz, Armin Mokhtarian, Archak Mittal, Mengchi Cai, Rahul Mangharam, Omar M. Shehata, Catherine M. Elias, Jan-Nico Zaech, Patrick Scheffe, Felix Jahncke, Sangeet Sankaramangalam Ulhas, Kaj Munhoz Arfvidsson, Bassam Alrifaee
   Code: nan

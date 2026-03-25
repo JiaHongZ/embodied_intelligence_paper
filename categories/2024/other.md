@@ -24,6 +24,12 @@
   Xianqiang Gao, Pingrui Zhang, Delin Qu, Dong Wang, Zhigang Wang, Yan Ding, Bin Zhao
   Code: nan
 
+## July
+
+- [Insect-Scale Tailless Robot with Flapping Wings: A Simple Structure and Drive for Yaw Control](http://arxiv.org/abs/2407.06500v3)
+  Tomohiko Jimbo, Takashi Ozaki, Norikazu Ohta, Kanae Hamaguchi
+  Code: nan
+
 ## January
 
 - [WiFi-GEN: High-Resolution Indoor Imaging from WiFi Signals Using Generative AI](http://arxiv.org/abs/2401.04317v2)

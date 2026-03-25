@@ -5,6 +5,9 @@
 - [Analyzing Planner Design Trade-offs for MAPF under ADG-based Realistic Execution](http://arxiv.org/abs/2512.09736v2)
   Jingtian Yan, Zhifei Li, William Kang, Stephen F. Smith, Jiaoyang Li
   Code: nan
+- [db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF](http://arxiv.org/abs/2512.06796v3)
+  Akmaral Moldagalieva, Keisuke Okumura, Amanda Prorok, Wolfgang Hönig
+  Code: nan
 
 ## November
 
@@ -34,6 +37,9 @@
 
 - [VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft](http://arxiv.org/abs/2508.18722v3)
   Honghao Fu, Junlong Ren, Qi Chai, Deheng Ye, Yujun Cai, Hao Wang
+  Code: nan
+- [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](http://arxiv.org/abs/2508.01415v7)
+  Mingcong Lei, Honghao Cai, Yuyuan Yang, Yimou Wu, Jinke Ren, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Shaohan Jiang, Ge Wang, Junyuan Tan, Zhenglin Wan, Zheng Li, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
   Code: nan
 
 ## June

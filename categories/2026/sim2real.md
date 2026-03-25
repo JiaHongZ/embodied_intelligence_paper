@@ -26,3 +26,6 @@
 - [HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation](http://arxiv.org/abs/2603.15084v1)
   Xingyi Wang, Chenyun Zhang, Weiji Xie, Chao Yu, Wei Song, Chenjia Bai, Shiqiang Zhu
   Code: nan
+- [Physically Accurate Rigid-Body Dynamics in Particle-Based Simulation](http://arxiv.org/abs/2603.14634v2)
+  Ava Abderezaei, Nataliya Nechyporenko, Joseph Miceli, Gilberto Briscoe-Martinez, Alessandro Roncone
+  Code: nan
