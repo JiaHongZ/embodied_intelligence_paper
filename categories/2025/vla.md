@@ -1,5 +1,11 @@
 # Vision-Language-Action Papers (2025)
 
+## November
+
+- [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](http://arxiv.org/abs/2511.01718v2)
+  Jiayi Chen, Wenxuan Song, Pengxiang Ding, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li
+  Code: nan
+
 ## October
 
 - [Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](http://arxiv.org/abs/2510.21356v2)

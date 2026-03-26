@@ -2,6 +2,9 @@
 
 ## December
 
+- [NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization](http://arxiv.org/abs/2512.23374v2)
+  Yifei Li, Haoyuan He, Yu Zheng, Bingyao Yu, Wenzhao Zheng, Lei Chen, Jie Zhou, Jiwen Lu
+  Code: nan
 - [Geometric Scaling of Bayesian Inference in LLMs](http://arxiv.org/abs/2512.23752v4)
   Naman Agarwal, Siddhartha R. Dalal, Vishal Misra
   Code: nan
@@ -65,6 +68,9 @@
 - [SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation](http://arxiv.org/abs/2510.25268v2)
   Wang zhi, Yuyan Liu, Liu Liu, Li Zhang, Ruixuan Lu, Dan Guo
   Code: nan
+- [ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models](http://arxiv.org/abs/2510.22201v2)
+  Minho Park, Kinam Kim, Junha Hyung, Hyojin Jang, Hoiyeong Jin, Jooyeol Yun, Hojoon Lee, Jaegul Choo
+  Code: https://github.com/DAVIAN-Robotics/ACG
 - [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](http://arxiv.org/abs/2510.15994v2)
   Dongsen Zhang, Zekun Li, Xu Luo, Xuannan Liu, Peipei Li, Wenjun Xu
   Code: https://github.com/dongsenzhang/MSB
@@ -80,6 +86,9 @@
 - [MachaGrasp: Morphology-Aware Cross-Embodiment Dexterous Hand Articulation Generation for Grasping](http://arxiv.org/abs/2510.06068v3)
   Heng Zhang, Kevin Yuchen Ma, Mike Zheng Shou, Weisi Lin, Yan Wu
   Code: nan
+- [MiniBEE: A New Form Factor for Compact Bimanual Dexterity](http://arxiv.org/abs/2510.01603v3)
+  Sharfin Islam, Zewen Chen, Zhanpeng He, Swapneel Bhatt, Andres Permuy, Brock Taylor, James Vickery, Zhengbin Lu, Cheng Zhang, Pedro Piacenza, Matei Ciocarlie
+  Code: nan
 - [CroSTAta: Cross-State Transition Attention Transformer for Robotic Manipulation](http://arxiv.org/abs/2510.00726v2)
   Giovanni Minelli, Giulio Turrisi, Victor Barasuol, Claudio Semini
   Code: https://github.com/iit-DLSLab/croSTAta
@@ -89,11 +98,14 @@
 
 ## September
 
-- [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](http://arxiv.org/abs/2509.22407v2)
-  Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang, Zhen Lu, Yue Yang
+- [GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation](http://arxiv.org/abs/2509.22460v3)
+  Shichao Weng, Zhiqiang Wang, Yuhua Zhou, Rui Lu, Ting Liu, Zhiyang Teng, Xiaozhang Liu, Hanmeng Liu
   Code: nan
 - [Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v2)
   E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo
+  Code: nan
+- [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](http://arxiv.org/abs/2509.22407v2)
+  Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang, Zhen Lu, Yue Yang
   Code: nan
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v3)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
@@ -137,6 +149,9 @@
 
 ## July
 
+- [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v3)
+  Zheng Zhang, Peilin Zhao, Deheng Ye, Hao Wang
+  Code: https://github.com/CjangCjengh/Generic_Persona
 - [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v2)
   Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
   Code: https://github.com/ValentinLafargue/Inspection

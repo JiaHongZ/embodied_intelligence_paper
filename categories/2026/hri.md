@@ -20,6 +20,9 @@
 - [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
   Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
   Code: nan
+- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
+  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
+  Code: https://github.com/OctopusWen/HiSync
 - [SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly](http://arxiv.org/abs/2603.10459v1)
   Xiao Liu, Prakash Baskaran, Songpo Li, Simon Manschitz, Wei Ma, Dirk Ruiken, Soshi Iba
   Code: nan

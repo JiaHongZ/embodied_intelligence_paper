@@ -38,6 +38,9 @@
 - [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
   Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
+- [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
+  Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
+  Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan

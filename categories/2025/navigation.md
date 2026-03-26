@@ -44,20 +44,26 @@
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
   Code: https://github.com/PKU-SEC-Lab/EfficientNav
-- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
-- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
+  Code: nan
+- [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
+  Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
   Code: nan
 - [Asset-Centric Metric-Semantic Maps of Indoor Environments](http://arxiv.org/abs/2510.10778v2)
   Christopher D. Hsu, Pratik Chaudhari
   Code: nan
 - [CompassNav: Steering From Path Imitation To Decision Understanding In Navigation](http://arxiv.org/abs/2510.10154v2)
   LinFeng Li, Jian Zhao, Yuan Xie, Xin Tan, Xuelong Li
+  Code: nan
+- [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](http://arxiv.org/abs/2510.04607v2)
+  Yuan Wang, Mingyu Li, Haibo Chen
   Code: nan
 - [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
   Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
@@ -71,12 +77,12 @@
 - [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
   Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
   Code: nan
-- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
-  Julius Pesonen, Arno Solin, Eija Honkavaara
-  Code: nan
 - [PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis](http://arxiv.org/abs/2509.21690v3)
   Muqun Hu, Wenxi Chen, Wenjing Li, Falak Mandali, Zijian He, Renhong Zhang, Praveen Krisna, Katherine Christian, Leo Benaharon, Dizhi Ma, Karthik Ramani, Yan Gu
   Code: https://github.com/purdue-tracelab/TTRL-ICRA2026
+- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
+  Julius Pesonen, Arno Solin, Eija Honkavaara
+  Code: nan
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
   Code: nan
@@ -92,6 +98,9 @@
 - [Quadrotor Navigation using Reinforcement Learning with Privileged Information](http://arxiv.org/abs/2509.08177v2)
   Jonathan Lee, Abhishek Rathod, Kshitij Goel, John Stecklein, Wennie Tabib
   Code: nan
+- [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
+  Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
+  Code: https://github.com/Puzzled-Hui/TopoSculpt
 
 ## August
 
@@ -103,6 +112,9 @@
   Code: nan
 - [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
   Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
+  Code: nan
+- [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
+  Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
   Code: nan
 
 ## June
@@ -125,12 +137,18 @@
 - [Barrier-Riccati Synthesis for Nonlinear Safe Control with Expanded Region of Attraction](http://arxiv.org/abs/2504.15453v3)
   Hassan Almubarak, Maitham F. AL-Sunni, Justin T. Dubbin, Nader Sadegh, John M. Dolan, Evangelos A. Theodorou
   Code: nan
+- [Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection](http://arxiv.org/abs/2504.06585v2)
+  Junhyeok Rui Cha, Woohyun Cha, Jaeyong Shin, Donghyeon Kim, Jaeheung Park
+  Code: nan
 
 ## March
 
 - [A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis](http://arxiv.org/abs/2503.14255v2)
   Aman Singh, Bhavya Giri Goswami, Ketan Nehete, Shishir N. Y. Kolathaya
   Code: https://github.com/singhaman1750/stoch3-design.git
+- [KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](http://arxiv.org/abs/2503.14637v3)
+  Merkourios Simos, Alberto Silvio Chiappa, Alexander Mathis
+  Code: https://github.com/amathislab/Kinesis
 - [PeRoI: A Pedestrian-Robot Interaction Dataset for Learning Avoidance, Neutrality, and Attraction Behaviors in Social Navigation](http://arxiv.org/abs/2503.16481v3)
   Subham Agrawal, Nico Ostermann-Myrau, Nils Dengler, Maren Bennewitz
   Code: nan

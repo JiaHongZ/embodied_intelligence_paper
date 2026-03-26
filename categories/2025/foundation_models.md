@@ -17,6 +17,9 @@
 - [Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](http://arxiv.org/abs/2512.00883v2)
   Jiahua Wang, Leqi Zheng, Jialong Wu, Yaoxin Mao
   Code: nan
+- [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
+  Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
+  Code: nan
 - [GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](http://arxiv.org/abs/2511.03400v3)
   Minquan Gao, Xinyi Li, Qing Yan, Xiaojian Sun, Xiaopan Zhang, Chien-Ming Huang, Jiachen Li
   Code: nan
