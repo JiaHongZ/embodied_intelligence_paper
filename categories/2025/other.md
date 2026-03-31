@@ -113,6 +113,9 @@
 
 ## July
 
+- [AnthroTAP: Learning Point Tracking with Real-World Motion](http://arxiv.org/abs/2507.06233v3)
+  Inès Hyeonsu Kim, Seokju Cho, Jahyeok Koo, Junghyun Park, Jiahui Huang, Honglak Lee, Joon-Young Lee, Seungryong Kim
+  Code: nan
 - [Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints](http://arxiv.org/abs/2507.02438v2)
   Shivam Chaubey, Francesco Verdoja, Shankar Deka, Ville Kyrki
   Code: nan

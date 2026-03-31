@@ -44,10 +44,13 @@
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
   Code: https://github.com/PKU-SEC-Lab/EfficientNav
-- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
-  Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
+- [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](http://arxiv.org/abs/2510.16518v2)
+  Jesús Ortega-Peimbert, Finn Lukas Busch, Timon Homberger, Quantao Yang, Olov Andersson
   Code: nan
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
+  Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
+  Code: nan
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
@@ -101,6 +104,9 @@
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
+- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
+  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
+  Code: nan
 
 ## August
 
@@ -110,15 +116,21 @@
 - [Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control](http://arxiv.org/abs/2508.12335v2)
   Yunfan Gao, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl
   Code: nan
-- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
-  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
-  Code: nan
+- [OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](http://arxiv.org/abs/2508.11479v3)
+  Tatiana Zemskova, Aleksei Staroverov, Dmitry Yudin, Aleksandr Panov
+  Code: https://github.com/CognitiveAISystems/OVSegDT
 - [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
   Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
+  Code: nan
+- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
+  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
   Code: nan
 
 ## June
 
+- [Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances](http://arxiv.org/abs/2506.18410v2)
+  Zhe Zhang, Peijia Xie, Yuhan Pang, Zhirui Sun, Bingyi Xia, Bi-Ke Zhu, Jiankun Wang
+  Code: nan
 - [Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning](http://arxiv.org/abs/2506.16931v2)
   Jiaqi Chen, Mingfeng Fan, Xuefeng Zhang, Jingsong Liang, Yuhong Cao, Guohua Wu, Guillaume Adrien Sartoretti
   Code: nan

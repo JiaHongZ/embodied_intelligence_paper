@@ -2,6 +2,9 @@
 
 ## November
 
+- [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](http://arxiv.org/abs/2511.21428v2)
+  Jiajie Zhang, Sören Schwertfeger, Alexander Kleiner
+  Code: nan
 - [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](http://arxiv.org/abs/2511.01718v2)
   Jiayi Chen, Wenxuan Song, Pengxiang Ding, Ziyang Zhou, Han Zhao, Feilong Tang, Donglin Wang, Haoang Li
   Code: nan

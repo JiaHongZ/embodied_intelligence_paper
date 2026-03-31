@@ -5,6 +5,9 @@
 - [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](http://arxiv.org/abs/2512.21201v2)
   Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu, Yu-Gang Jiang
   Code: nan
+- [OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective](http://arxiv.org/abs/2512.20770v2)
+  Markus Gross, Sai B. Matha, Aya Fahmy, Rui Song, Daniel Cremers, Henri Meess
+  Code: https://github.com/markus-42/occufly
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
@@ -19,6 +22,9 @@
   Code: nan
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
+  Code: nan
+- [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
+  Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
   Code: nan
 - [GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](http://arxiv.org/abs/2511.03400v3)
   Minquan Gao, Xinyi Li, Qing Yan, Xiaojian Sun, Xiaopan Zhang, Chien-Ming Huang, Jiachen Li
@@ -37,6 +43,9 @@
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
+  Yunzhe Xu, Yiyuan Pan, Zhe Liu
   Code: nan
 - [Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning](http://arxiv.org/abs/2510.03885v3)
   Sunghwan Kim, Woojeh Chung, Zhirui Dai, Dwait Bhatt, Arth Shukla, Hao Su, Yulun Tian, Nikolay Atanasov
