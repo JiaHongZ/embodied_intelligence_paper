@@ -11,6 +11,9 @@
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
+- [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](http://arxiv.org/abs/2512.05955v2)
+  Haowen Liu, Shaoxiong Yao, Haonan Chen, Jiawei Gao, Jiayuan Mao, Jia-Bin Huang, Yilun Du
+  Code: nan
 - [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2512.02982v2)
   Xiang Xu, Alan Liang, Youquan Liu, Linfeng Li, Lingdong Kong, Ziwei Liu, Qingshan Liu
   Code: nan
@@ -22,6 +25,9 @@
   Code: nan
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
+  Code: nan
+- [Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos](http://arxiv.org/abs/2511.12882v3)
+  Taiyi Su, Jian Zhu, Yaxuan Li, Chong Ma, Jianjun Zhang, Zitai Huang, Hanli Wang, Yi Xu
   Code: nan
 - [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
   Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
@@ -40,6 +46,9 @@
   Code: nan
 - [From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors](http://arxiv.org/abs/2510.17439v3)
   Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu, Xinghang Li, Pan Zhou
+  Code: nan
+- [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
+  Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter

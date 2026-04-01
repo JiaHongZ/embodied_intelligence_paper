@@ -35,11 +35,11 @@
 - [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
   Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
   Code: https://github.com/JMUWRobotics/Dynamic-ICP
-- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
-  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
-  Code: nan
 - [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
   Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
+  Code: nan
+- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
+  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
@@ -47,6 +47,12 @@
 
 ## October
 
+- [PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding](http://arxiv.org/abs/2510.20155v3)
+  Penghao Wang, Yiyang He, Xin Lv, Yukai Zhou, Lan Xu, Jingyi Yu, Jiayuan Gu
+  Code: nan
+- [Interactive Force-Impedance Control](http://arxiv.org/abs/2510.17341v2)
+  Fan Shao, Satoshi Endo, Sandra Hirche, Fanny Ficuciello
+  Code: nan
 - [Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](http://arxiv.org/abs/2510.16344v2)
   Chenrui Tie, Shengxiang Sun, Yudi Lin, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
   Code: nan
@@ -142,4 +148,10 @@
 
 - [Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap](http://arxiv.org/abs/2503.05656v3)
   Jianye Xu, Johannes Betz, Armin Mokhtarian, Archak Mittal, Mengchi Cai, Rahul Mangharam, Omar M. Shehata, Catherine M. Elias, Jan-Nico Zaech, Patrick Scheffe, Felix Jahncke, Sangeet Sankaramangalam Ulhas, Kaj Munhoz Arfvidsson, Bassam Alrifaee
+  Code: nan
+
+## February
+
+- [Real-Time Operator Takeover for Visuomotor Diffusion Policy Training](http://arxiv.org/abs/2502.02308v3)
+  Marco Moletta, Michael C. Welle, Nils Ingelhag, Jesper Munkeby, Danica Kragic
   Code: nan
