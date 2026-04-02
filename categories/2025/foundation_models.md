@@ -2,6 +2,9 @@
 
 ## December
 
+- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation](http://arxiv.org/abs/2512.24212v3)
+  Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu
+  Code: nan
 - [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](http://arxiv.org/abs/2512.21201v2)
   Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu, Yu-Gang Jiang
   Code: nan

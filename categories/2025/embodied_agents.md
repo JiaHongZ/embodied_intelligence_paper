@@ -11,6 +11,9 @@
 
 ## November
 
+- [Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition](http://arxiv.org/abs/2512.02079v2)
+  Jonathan S. Kent, Eliana Stefani, Brian Plancher
+  Code: nan
 - [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v3)
   Dayong Liu, Chao Xu, Weihong Chen, Suyu Zhang, Juncheng Wang, Jiankang Deng, Baigui Sun, Yang Liu
   Code: nan

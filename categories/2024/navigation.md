@@ -1,5 +1,11 @@
 # Robot Navigation Papers (2024)
 
+## October
+
+- [The Indirect Method for Generating Libraries of Optimal Periodic Trajectories and Its Application to Economical Bipedal Walking](http://arxiv.org/abs/2410.09512v2)
+  Maximilian Raff, Kathrin Flaßkamp, C. David Remy
+  Code: nan
+
 ## April
 
 - [DIDLM: A SLAM Dataset for Difficult Scenarios Featuring Infrared, Depth Cameras, LIDAR, 4D Radar, and Others under Adverse Weather, Low Light Conditions, and Rough Roads](http://arxiv.org/abs/2404.09622v3)
