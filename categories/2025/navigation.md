@@ -68,6 +68,9 @@
 - [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
   Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
   Code: nan
+- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
+  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
+  Code: nan
 - [Asset-Centric Metric-Semantic Maps of Indoor Environments](http://arxiv.org/abs/2510.10778v2)
   Christopher D. Hsu, Pratik Chaudhari
   Code: nan
@@ -141,6 +144,12 @@
   Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
   Code: nan
 
+## July
+
+- [Understanding visual attention beehind bee-inspired UAV navigation](http://arxiv.org/abs/2507.11992v4)
+  Pranav Rajbhandari, Abhi Veda, Matthew Garratt, Mandyam Srinivasan, Sridhar Ravi
+  Code: nan
+
 ## June
 
 - [Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances](http://arxiv.org/abs/2506.18410v2)
@@ -196,4 +205,7 @@
 
 - [Unveiling the Potential of iMarkers: Invisible Fiducial Markers for Advanced Robotics](http://arxiv.org/abs/2501.15505v5)
   Ali Tourani, Deniz Isinsu Avsar, Hriday Bavle, Jose Luis Sanchez-Lopez, Jan Lagerwall, Holger Voos
+  Code: nan
+- [How Leg Stiffness Affects Energy Economy in Hopping](http://arxiv.org/abs/2501.03971v2)
+  Iskandar Khemakhem, Dominik Tschemernjak, Maximilian Raff, C. David Remy
   Code: nan

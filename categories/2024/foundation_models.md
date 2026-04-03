@@ -14,3 +14,9 @@
 - [Open-Vocabulary Octree-Graph for 3D Scene Understanding](http://arxiv.org/abs/2411.16253v2)
   Zhigang Wang, Yifei Su, Chenhui Li, Dong Wang, Yan Huang, Bin Zhao, Xuelong Li
   Code: https://github.com/yifeisu/OV-Octree-Graph}{here}
+
+## September
+
+- [Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference](http://arxiv.org/abs/2409.10095v3)
+  Huy-Dung Nguyen, Anass Bairouk, Mirjana Maras, Wei Xiao, Tsun-Hsuan Wang, Patrick Chareyre, Ramin Hasani, Marc Blanchon, Daniela Rus
+  Code: nan

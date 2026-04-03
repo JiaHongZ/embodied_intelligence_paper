@@ -1,15 +1,24 @@
 # Human-Robot Interaction Papers (2026)
 
+## April
+
+- [IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline](http://arxiv.org/abs/2604.02032v1)
+  Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea
+  Code: nan
+- [Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction](http://arxiv.org/abs/2604.01756v1)
+  Sheng Li, Jingcheng Huang, Min Li
+  Code: https://github.com/yuesheng21/Phoneme-to-Lip-14DOF}
+
 ## March
 
 - [SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI](http://arxiv.org/abs/2603.29708v1)
   Soumyodipta Nath, Pranav Tiwari, Ravi Prakash
   Code: nan
-- [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
-  Ekaterina Torubarova, Jura Miniota, Andre Pereira
-  Code: nan
 - [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
   Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
+  Code: nan
+- [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
+  Ekaterina Torubarova, Jura Miniota, Andre Pereira
   Code: nan
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
@@ -52,4 +61,10 @@
   Code: nan
 - [Rethinking the Role of Collaborative Robots in Rehabilitation](http://arxiv.org/abs/2603.05252v1)
   Vivek Gupte, Shalutha Rajapakshe, Emmanuel Senft
+  Code: nan
+
+## January
+
+- [Physical Human-Robot Interaction: A Critical Review of Safety Constraints](http://arxiv.org/abs/2601.19462v3)
+  Riccardo Zanella, Federico Califano, Stefano Stramigioli
   Code: nan

@@ -53,6 +53,9 @@
 - [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
   Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
   Code: nan
+- [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
+  Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
+  Code: https://github.com/InterDigitalInc/dedelayed
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
