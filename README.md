@@ -42,11 +42,11 @@ Automatically updated daily.
 - [LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models](http://arxiv.org/abs/2603.28301v1)
   Chanyoung Kim, Minwoo Kim, Minseok Kang, Hyunwoo Kim, Dahuin Jung
   Code: https://github.com/cau-hai-lab/LIBERO-Para
-- [ConceptWeaver: Weaving Disentangled Concepts with Flow](http://arxiv.org/abs/2603.28493v1)
-  Jintao Chen, Aiming Hao, Xiaoqing Chen, Chengyu Bai, Chubin Chen, Yanxun Li, Jiahong Wu, Xiangxiang Chu, Shanghang Zhang
-  Code: nan
 - [ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation](http://arxiv.org/abs/2603.28545v1)
   Yu Sun, Meng Cao, Ping Yang, Rongtao Xu, Yunxiao Yan, Runze Xu, Liang Ma, Roy Gan, Andy Zhai, Qingxuan Chen, Zunnan Xu, Hao Wang, Jincheng Yu, Lucy Liang, Qian Wang, Ivan Laptev, Ian D Reid, Xiaodan Liang
+  Code: nan
+- [ConceptWeaver: Weaving Disentangled Concepts with Flow](http://arxiv.org/abs/2603.28493v1)
+  Jintao Chen, Aiming Hao, Xiaoqing Chen, Chengyu Bai, Chubin Chen, Yanxun Li, Jiahong Wu, Xiangxiang Chu, Shanghang Zhang
   Code: nan
 
 ### Robot Manipulation
@@ -165,6 +165,9 @@ Automatically updated daily.
 - [Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based RL](http://arxiv.org/abs/2603.28053v1)
   Udita Ghosh, Dripta S. Raychaudhuri, Jiachen Li, Konstantinos Karydis, Amit Roy-Chowdhury
   Code: nan
+- [Generalizable Detection of AI Generated Images with Large Models and Fuzzy Decision Tree](http://arxiv.org/abs/2603.28508v1)
+  Fei Wu, Guanghao Ding, Zijian Niu, Zhenrui Wang, Lei Yang, Zhuosheng Zhang, Shilin Wang
+  Code: nan
 - [Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation](http://arxiv.org/abs/2603.28422v1)
   Robin Kühn, Moritz Schappler, Thomas Seel, Dennis Bank
   Code: nan
@@ -188,9 +191,6 @@ Automatically updated daily.
   Code: nan
 - [Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](http://arxiv.org/abs/2603.28542v1)
   Feiyu Jia, Xiaojie Niu, Sizhe Yang, Qingwei Ben, Tao Huang, Feng zhao, Jingbo Wang, Jiangmiao Pang
-  Code: nan
-- [Generalizable Detection of AI Generated Images with Large Models and Fuzzy Decision Tree](http://arxiv.org/abs/2603.28508v1)
-  Fei Wu, Guanghao Ding, Zijian Niu, Zhenrui Wang, Lei Yang, Zhuosheng Zhang, Shilin Wang
   Code: nan
 - [With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems](http://arxiv.org/abs/2603.28476v1)
   Giovanni De Toni, Cristian Consonni, Erasmo Purificato, Emilia Gomez, Bruno Lepri
@@ -426,9 +426,6 @@ Automatically updated daily.
 - [Reducing Mental Workload through On-Demand Human Assistance for Physical Action Failures in LLM-based Multi-Robot Coordination](http://arxiv.org/abs/2603.28156v1)
   Shoichi Hasegawa, Akira Taniguchi, Lotfi El Hafi, Gustavo Alfonso Garcia Ricardez, Tadahiro Taniguchi
   Code: nan
-- [Detection of Adversarial Attacks in Robotic Perception](http://arxiv.org/abs/2603.28594v2)
-  Ziad Sharawy, Mohammad Nakshbandi, Sorin Mihai Grigorescu
-  Code: nan
 - [Vision-Based Robotic Disassembly Combined with Real-Time MFA Data Acquisition](http://arxiv.org/abs/2603.28690v1)
   Federico Zocco, Maria Pozzi, Monica Malvezzi
   Code: nan
@@ -441,8 +438,8 @@ Automatically updated daily.
 - [AceleradorSNN: A Neuromorphic Cognitive System Integrating Spiking Neural Networks and DynamicImage Signal Processing on FPGA](http://arxiv.org/abs/2603.28429v1)
   Daniel Gutierrez, Ruben Martinez, Leyre Arnedo, Antonio Cuesta, Soukaina El Hamry
   Code: nan
-- [Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control](http://arxiv.org/abs/2603.27756v2)
-  Zelin Tao, Zeran Su, Peiran Liu, Jingkai Sun, Wenqiang Que, Jiahao Ma, Jialin Yu, Jiahang Cao, Pihai Sun, Hao Liang, Gang Han, Wen Zhao, Zhiyuan Xu, Jian Tang, Qiang Zhang, Yijie Guo
+- [Detection of Adversarial Attacks in Robotic Perception](http://arxiv.org/abs/2603.28594v2)
+  Ziad Sharawy, Mohammad Nakshbandi, Sorin Mihai Grigorescu
   Code: nan
 
 ## Full Archive
