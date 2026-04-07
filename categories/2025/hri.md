@@ -5,3 +5,9 @@
 - [ReactDance: Hierarchical Representation for High-Fidelity and Coherent Long-Form Reactive Dance Generation](http://arxiv.org/abs/2505.05589v3)
   Jingzhong Lin, Xinru Li, Yuanyuan Qi, Bohao Zhang, Wenxiang Liu, Kecheng Tang, Wenxuan Huang, Xiangfeng Xu, Bangyan Li, Changbo Wang, Gaoqi He
   Code: nan
+
+## April
+
+- [Safe Interactions via Monte Carlo Linear-Quadratic Games](http://arxiv.org/abs/2504.06124v3)
+  Benjamin A. Christie, Dylan P. Losey
+  Code: nan
