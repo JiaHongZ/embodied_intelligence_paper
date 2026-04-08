@@ -53,6 +53,9 @@
 
 ## October
 
+- [One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors](http://arxiv.org/abs/2510.25241v2)
+  Hao Huang, Geeta Chandra Raju Bethala, Shuaihang Yuan, Congcong Wen, Mengyu Wang, Anthony Tzes, Yi Fang
+  Code: https://github.com/hhuang-code/One-shot-WBM
 - [PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding](http://arxiv.org/abs/2510.20155v3)
   Penghao Wang, Yiyang He, Xin Lv, Yukai Zhou, Lan Xu, Jingyi Yu, Jiayuan Gu
   Code: nan
@@ -146,6 +149,9 @@
 
 ## April
 
+- [Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v2)
+  Hyunbum Cho, Sungmoon Hur, Joowan Kim, Keewon Kim, Jaeheung Park
+  Code: nan
 - [SuperDec: 3D Scene Decomposition with Superquadric Primitives](http://arxiv.org/abs/2504.00992v2)
   Elisabetta Fedele, Boyang Sun, Leonidas Guibas, Marc Pollefeys, Francis Engelmann
   Code: nan

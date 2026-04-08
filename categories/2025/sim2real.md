@@ -5,6 +5,9 @@
 - [Bridging the Basilisk Astrodynamics Framework with ROS 2 for Modular Spacecraft Simulation and Hardware Integration](http://arxiv.org/abs/2512.09833v2)
   Elias Krantz, Ngai Nam Chan, Gunnar Tibert, Huina Mao, Christer Fuglesang
   Code: nan
+- [RoboBPP: Benchmarking Robotic Online Bin Packing with Physics-based Simulation](http://arxiv.org/abs/2512.04415v4)
+  Zhoufeng Wang, Hang Zhao, Juzhan Xu, Shishun Zhang, Ruizhen Hu, Chenyang Zhu, Zecui Zeng, Weiyan Zhu, Zeyu Xiong, Haibin Yu, Kai Xu
+  Code: nan
 
 ## September
 

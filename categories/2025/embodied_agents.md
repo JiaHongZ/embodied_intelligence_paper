@@ -17,6 +17,9 @@
 - [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v3)
   Dayong Liu, Chao Xu, Weihong Chen, Suyu Zhang, Juncheng Wang, Jiankang Deng, Baigui Sun, Yang Liu
   Code: nan
+- [MARS: Multi-Agent Robotic System with Multimodal Large Language Models for Assistive Intelligence](http://arxiv.org/abs/2511.01594v2)
+  Renjun Gao
+  Code: nan
 
 ## October
 

@@ -8,6 +8,9 @@
 - [Geometric Scaling of Bayesian Inference in LLMs](http://arxiv.org/abs/2512.23752v4)
   Naman Agarwal, Siddhartha R. Dalal, Vishal Misra
   Code: nan
+- [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](http://arxiv.org/abs/2512.16811v2)
+  Jingjing Qian, Boyao Han, Chen Shi, Lei Xiao, Long Yang, Shaoshuai Shi, Li Jiang
+  Code: nan
 - [NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks](http://arxiv.org/abs/2512.13670v2)
   Licheng Luo, Kaier Liang, Yu Xia, Mingyu Cai
   Code: nan
@@ -188,6 +191,9 @@
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal
   Code: nan
+- [STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization](http://arxiv.org/abs/2506.03863v3)
+  Hao Li, Qi Lv, Rui Shao, Xiang Deng, Yinchuan Li, Jianye Hao, Liqiang Nie
+  Code: nan
 - [Geometric Visual Servo Via Optimal Transport](http://arxiv.org/abs/2506.02768v2)
   Ethan Canzini, Simon Pope, Ashutosh Tiwari
   Code: nan
@@ -203,11 +209,11 @@
 - [TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Objects in Contact-Rich Scenes](http://arxiv.org/abs/2505.22882v2)
   Wen Yang, Zhixian Xie, Yiting Wang, Abhijit Tadepalli, Heni Ben Amor, Shan Lin, Wanxin Jin
   Code: nan
-- [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
-  Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
-  Code: nan
 - [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
   Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
+  Code: nan
+- [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
+  Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
   Code: nan
 - [MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation](http://arxiv.org/abs/2505.15054v4)
   Feiyang Cai, Jiahui Bai, Tao Tang, Guijuan He, Joshua Luo, Tianyu Zhu, Srikanth Pilla, Gang Li, Ling Liu, Feng Luo
