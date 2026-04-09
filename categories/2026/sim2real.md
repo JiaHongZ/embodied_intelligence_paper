@@ -1,5 +1,11 @@
 # Simulation and Sim2Real Papers (2026)
 
+## April
+
+- [Robots that learn to evaluate models of collective behavior](http://arxiv.org/abs/2604.07303v1)
+  Mathis Hocke, Andreas Gerken, David Bierbach, Jens Krause, Tim Landgraf
+  Code: nan
+
 ## March
 
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)

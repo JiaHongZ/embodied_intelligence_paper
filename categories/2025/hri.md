@@ -11,3 +11,9 @@
 - [Safe Interactions via Monte Carlo Linear-Quadratic Games](http://arxiv.org/abs/2504.06124v3)
   Benjamin A. Christie, Dylan P. Losey
   Code: nan
+
+## March
+
+- [SemanticScanpath: Combining Gaze and Speech for Situated Human-Robot Interaction Using LLMs](http://arxiv.org/abs/2503.16548v2)
+  Elisabeth Menendez, Michael Gienger, Santiago Martínez, Carlos Balaguer, Anna Belardinelli
+  Code: nan

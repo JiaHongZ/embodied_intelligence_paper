@@ -2,6 +2,9 @@
 
 ## December
 
+- [Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline](http://arxiv.org/abs/2412.19685v2)
+  Jingchun Lian, Lingyu Liu, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
 - [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](http://arxiv.org/abs/2412.10488v4)
   Zehao Chen, Rong Pan
   Code: nan
@@ -16,6 +19,12 @@
   Code: nan
 - [Robot Collapse: Supply Chain Backdoor Attacks Against VLM-based Robotic Manipulation](http://arxiv.org/abs/2411.11683v7)
   Xianlong Wang, Hewen Pan, Hangtao Zhang, Minghui Li, Shengshan Hu, Ziqi Zhou, Lulu Xue, Peijin Guo, Aishan Liu, Leo Yu Zhang, Xiaohua Jia
+  Code: nan
+
+## October
+
+- [Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes](http://arxiv.org/abs/2410.22177v2)
+  Junlong Chen, Jens Grubert, Per Ola Kristensson
   Code: nan
 
 ## September

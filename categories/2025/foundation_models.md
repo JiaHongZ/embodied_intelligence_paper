@@ -5,6 +5,9 @@
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation](http://arxiv.org/abs/2512.24212v3)
   Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu
   Code: nan
+- [AstraNav-World: World Model for Foresight Control and Consistency](http://arxiv.org/abs/2512.21714v2)
+  Jintao Chen, Junjun Hu, Haochen Bai, Minghua Luo, Xinda Xue, Botao Ren, Chengyu Bai, Shichao Xie, Ziyi Chen, Fei Liu, Zedong Chu, Xiaolong Wu, Mu Xu, Shanghang Zhang
+  Code: nan
 - [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](http://arxiv.org/abs/2512.21201v2)
   Yu He, Da Huang, Zhenyang Liu, Zixiao Gu, Qiang Sun, Guangnan Ye, Yanwei Fu, Yu-Gang Jiang
   Code: nan
@@ -52,6 +55,9 @@
   Code: nan
 - [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
   Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
+  Code: nan
+- [Exploring Conditions for Diffusion models in Robotic Control](http://arxiv.org/abs/2510.15510v2)
+  Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim
   Code: nan
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
@@ -101,6 +107,9 @@
 
 ## May
 
+- [Toward Memory-Aided World Models: Benchmarking via Spatial Consistency](http://arxiv.org/abs/2505.22976v2)
+  Kewei Lian, Shaofei Cai, Yilun Du, Yitao Liang
+  Code: nan
 - [ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v2)
   Fotios Lygerakis, Ozan Özdenizci, Elmar Rückert
   Code: nan
