@@ -9,6 +9,12 @@
   Fengze Xie, Sizhe Wei, Yue Song, Yisong Yue, Lu Gan
   Code: https://github.com/lunarlab-gatech/MorphSym-HGNN/
 
+## October
+
+- [LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers](http://arxiv.org/abs/2410.22258v2)
+  Patricia Pauli, Ruigang Wang, Ian Manchester, Frank Allgöwer
+  Code: nan
+
 ## September
 
 - [Why Is Anything Conscious?](http://arxiv.org/abs/2409.14545v6)

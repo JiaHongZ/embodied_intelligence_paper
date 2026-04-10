@@ -5,12 +5,12 @@
 - [Efficient Path Generation with Curvature Guarantees by Mollification](http://arxiv.org/abs/2512.13183v2)
   Alfredo González-Calvin, Juan F. Jiménez, Héctor García de Marina
   Code: nan
-- [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
-  Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
-  Code: https://github.com/IacopomC/aion
 - [VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](http://arxiv.org/abs/2512.09646v2)
   Wanyue Zhang, Lin Geng Foo, Thabo Beeler, Rishabh Dabral, Christian Theobalt
   Code: nan
+- [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
+  Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
+  Code: https://github.com/IacopomC/aion
 - [Context-Triggered Contingency Games for Strategic Multi-Agent Interaction](http://arxiv.org/abs/2512.03639v3)
   Kilian Schweppe, Anne-Kathrin Schmuck
   Code: nan
@@ -55,6 +55,9 @@
   Code: nan
 - [Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v2)
   Jose Luis Ponton, Eduardo Alvarado, Lin Geng Foo, Nuria Pelechano, Carlos Andujar, Marc Habermann
+  Code: nan
+- [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
+  Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
   Code: nan
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu

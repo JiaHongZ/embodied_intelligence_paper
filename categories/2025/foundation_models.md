@@ -17,6 +17,9 @@
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
+- [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](http://arxiv.org/abs/2512.09928v2)
+  Minghui Lin, Pengxiang Ding, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang, Donglin Wang
+  Code: nan
 - [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](http://arxiv.org/abs/2512.05955v2)
   Haowen Liu, Shaoxiong Yao, Haonan Chen, Jiawei Gao, Jiayuan Mao, Jia-Bin Huang, Yilun Du
   Code: nan
@@ -62,6 +65,9 @@
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
   Code: https://github.com/InterDigitalInc/dedelayed
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
+  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
@@ -103,6 +109,9 @@
 
 - [DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](http://arxiv.org/abs/2506.20668v2)
   Sungjae Park, Homanga Bharadhwaj, Shubham Tulsiani
+  Code: nan
+- [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
+  Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
   Code: nan
 
 ## May
