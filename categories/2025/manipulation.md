@@ -47,6 +47,9 @@
 - [Partially Equivariant Reinforcement Learning in Symmetry-Breaking Environments](http://arxiv.org/abs/2512.00915v2)
   Junwoo Chang, Minwoo Park, Joohwan Seo, Roberto Horowitz, Jongmin Lee, Jongeun Choi
   Code: nan
+- [BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands](http://arxiv.org/abs/2511.22364v2)
+  Seongwon Cho, Daechul Ahn, Donghyun Shin, Hyeonbeom Choi, San Kim, Jonghyun Choi
+  Code: nan
 - [When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models](http://arxiv.org/abs/2511.21192v3)
   Hui Lu, Yi Yu, Yiming Yang, Chenyu Yi, Qixin Zhang, Bingquan Shen, Alex C. Kot, Xudong Jiang
   Code: nan
@@ -92,6 +95,9 @@
 - [ACG: Action Coherence Guidance for Flow-based Vision-Language-Action models](http://arxiv.org/abs/2510.22201v2)
   Minho Park, Kinam Kim, Junha Hyung, Hyojin Jang, Hoiyeong Jin, Jooyeol Yun, Hojoon Lee, Jaegul Choo
   Code: https://github.com/DAVIAN-Robotics/ACG
+- [NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models](http://arxiv.org/abs/2510.13793v2)
+  Nir Goren, Oren Katzir, Abhinav Nakarmi, Eyal Ronen, Mahmood Sharif, Or Patashnik
+  Code: nan
 - [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](http://arxiv.org/abs/2510.15994v2)
   Dongsen Zhang, Zekun Li, Xu Luo, Xuannan Liu, Peipei Li, Wenjun Xu
   Code: https://github.com/dongsenzhang/MSB
@@ -155,6 +161,9 @@
 - [History-Aware Visuomotor Policy Learning via Point Tracking](http://arxiv.org/abs/2509.17141v2)
   Jingjing Chen, Hongjie Fang, Chenxi Wang, Shiquan Wang, Cewu Lu
   Code: nan
+- [LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning](http://arxiv.org/abs/2509.16615v2)
+  Jelle Luijkx, Runyu Ma, Zlatan Ajanović, Jens Kober
+  Code: nan
 - [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
   Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
   Code: nan
@@ -181,6 +190,9 @@
   Code: https://github.com/ywxsuperstar/ksaedit
 - [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](http://arxiv.org/abs/2508.05186v5)
   Yongjie Bai, Zhouxia Wang, Yang Liu, Kaijun Luo, Yifan Wen, Mingtong Dai, Weixing Chen, Ziliang Chen, Lingbo Liu, Guanbin Li, Liang Lin
+  Code: nan
+- [Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling](http://arxiv.org/abs/2508.04282v3)
+  Yongyi Wang, Lingfeng Li, Bozhou Chen, Ang Li, Hanyu Liu, Qirui Zheng, Xionghui Yang, Wenxin Li
   Code: nan
 - [Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning](http://arxiv.org/abs/2508.01184v2)
   Xinhang Wan, Dongqiang Gou, Xinwang Liu, En Zhu, Xuming He

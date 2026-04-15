@@ -35,6 +35,9 @@
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
   Code: nan
+- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
+  Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
+  Code: nan
 - [Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos](http://arxiv.org/abs/2511.12882v3)
   Taiyi Su, Jian Zhu, Yaxuan Li, Chong Ma, Jianjun Zhang, Zitai Huang, Hanli Wang, Yi Xu
   Code: nan
@@ -65,11 +68,11 @@
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
   Code: https://github.com/InterDigitalInc/dedelayed
-- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
-  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
-  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
   Yunzhe Xu, Yiyuan Pan, Zhe Liu

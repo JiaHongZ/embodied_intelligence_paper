@@ -2,6 +2,12 @@
 
 ## April
 
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+  Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
+- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
+  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
+  Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
   Code: nan

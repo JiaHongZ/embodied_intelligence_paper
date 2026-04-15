@@ -9,6 +9,12 @@
   Fengze Xie, Sizhe Wei, Yue Song, Yisong Yue, Lu Gan
   Code: https://github.com/lunarlab-gatech/MorphSym-HGNN/
 
+## November
+
+- [Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements (Extended version)](http://arxiv.org/abs/2411.05481v5)
+  Kunrui Ze, Wei Wang, Shuoyu Yue, Guibin Sun, Kexin Liu, Jinhu Lü
+  Code: nan
+
 ## October
 
 - [LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers](http://arxiv.org/abs/2410.22258v2)
