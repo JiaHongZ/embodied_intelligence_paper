@@ -2,6 +2,9 @@
 
 ## December
 
+- [Strategic Response of News Publishers to Generative AI](http://arxiv.org/abs/2512.24968v4)
+  Hangcheng Zhao, Ron Berman
+  Code: nan
 - [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
   Shuhan Zhang, Tin Lun Lam
   Code: nan
@@ -163,6 +166,9 @@
 
 - [Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v2)
   Hyunbum Cho, Sungmoon Hur, Joowan Kim, Keewon Kim, Jaeheung Park
+  Code: nan
+- [Line-Search Filter Differential Dynamic Programming for Optimal Control with Nonlinear Equality Constraints](http://arxiv.org/abs/2504.08278v6)
+  Ming Xu, Stephen Gould, Iman Shames
   Code: nan
 - [SuperDec: 3D Scene Decomposition with Superquadric Primitives](http://arxiv.org/abs/2504.00992v2)
   Elisabetta Fedele, Boyang Sun, Leonidas Guibas, Marc Pollefeys, Francis Engelmann

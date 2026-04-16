@@ -125,6 +125,12 @@
 - [Traj2Action: A Co-Denoising Framework for Trajectory-Guided Human-to-Robot Skill Transfer](http://arxiv.org/abs/2510.00491v2)
   Han Zhou, Jinjin Cao, Liyuan Ma, Xueji Fang, Guo-jun Qi
   Code: nan
+- [HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy](http://arxiv.org/abs/2510.00695v3)
+  Myungkyu Koo, Daewon Choi, Taeyoung Kim, Kyungmin Lee, Changyeon Kim, Younggyo Seo, Jinwoo Shin
+  Code: nan
+- [GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks](http://arxiv.org/abs/2510.00573v2)
+  Yen-Ling Tai, Yi-Ru Yang, Kuan-Ting Yu, Yu-Wei Chao, Yi-Ting Chen
+  Code: nan
 
 ## September
 
@@ -214,6 +220,9 @@
 
 - [DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks](http://arxiv.org/abs/2506.08514v4)
   Jacob Piland, Chris Sweet, Adam Czajka
+  Code: nan
+- [Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes](http://arxiv.org/abs/2506.09163v2)
+  Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, Mengyan Zhang, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman
   Code: nan
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal

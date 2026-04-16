@@ -2,11 +2,14 @@
 
 ## April
 
-- [HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models](http://arxiv.org/abs/2604.12447v1)
-  Zixing Chen, Yifeng Gao, Li Wang, Yunhan Zhao, Yi Liu, Jiayu Li, Xiang Zheng, Zuxuan Wu, Cong Wang, Xingjun Ma, Yu-Gang Jiang
+- [Failure Identification in Imitation Learning Via Statistical and Semantic Filtering](http://arxiv.org/abs/2604.13788v1)
+  Quentin Rolland, Fabrice Mayran de Chamisso, Jean-Baptiste Mouret
   Code: nan
 - [Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models](http://arxiv.org/abs/2604.12371v1)
   Ravikumar Balakrishnan, Sanket Mendapara, Ankit Garg
+  Code: nan
+- [HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models](http://arxiv.org/abs/2604.12447v1)
+  Zixing Chen, Yifeng Gao, Li Wang, Yunhan Zhao, Yi Liu, Jiayu Li, Xiang Zheng, Zuxuan Wu, Cong Wang, Xingjun Ma, Yu-Gang Jiang
   Code: nan
 - [ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation](http://arxiv.org/abs/2604.10992v2)
   Yuan Shui, Yandong Guan, Zhanwei Zhang, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu
@@ -187,6 +190,9 @@
 
 - [Focus on What Really Matters in Low-Altitude Governance: A Management-Centric Multi-Modal Benchmark with Implicitly Coordinated Vision-Language Reasoning Framework](http://arxiv.org/abs/2601.19640v2)
   Hao Chang, Zhihui Wang, Lingxiang Wu, Wei An, Boyang Li, Zaiping Lin, Weidong Sheng, Jinqiao Wang
+  Code: nan
+- [3D Instruction Ambiguity Detection](http://arxiv.org/abs/2601.05991v2)
+  Jiayu Ding, Haoran Tang, Hongbo Jin, Wei Gao, Ge Li
   Code: nan
 - [I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](http://arxiv.org/abs/2601.03741v2)
   Jinghan Yu, Junhao Xiao, Chenyu Zhu, Jiaming Li, Jia Li, HanMing Deng, Xirui Wang, Guoli Jia, Jianjun Li, Xiang Bai, Bowen Zhou, Zhiyuan Ma

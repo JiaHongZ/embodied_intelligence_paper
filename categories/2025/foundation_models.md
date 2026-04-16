@@ -26,6 +26,9 @@
 - [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2512.02982v2)
   Xiang Xu, Alan Liang, Youquan Liu, Linfeng Li, Lingdong Kong, Ziwei Liu, Qingshan Liu
   Code: nan
+- [IGen: Scalable Data Generation for Robot Learning from Open-World Images](http://arxiv.org/abs/2512.01773v2)
+  Chenghao Gu, Haolan Kang, Junchao Lin, Jinghe Wang, Duo Wu, Shuzhao Xie, Fanding Huang, Junchen Ge, Ziyang Gong, Letian Li, Hongying Zheng, Changwei Lv, Zhi Wang
+  Code: nan
 
 ## November
 
@@ -37,6 +40,9 @@
   Code: nan
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
+  Code: nan
+- [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
+  Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
   Code: nan
 - [Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos](http://arxiv.org/abs/2511.12882v3)
   Taiyi Su, Jian Zhu, Yaxuan Li, Chong Ma, Jianjun Zhang, Zitai Huang, Hanli Wang, Yi Xu
@@ -100,6 +106,9 @@
 
 - [LHM-Humanoid: Learning a Unified Policy for Long-Horizon Humanoid Whole-Body Loco-Manipulation in Diverse Messy Environments](http://arxiv.org/abs/2508.16943v2)
   Haozhuo Zhang, Jingkai Sun, Michele Caprio, Jian Tang, Shanghang Zhang, Qiang Zhang, Wei Pan
+  Code: nan
+- [FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction](http://arxiv.org/abs/2508.05153v2)
+  Mohammed Daba, Jing Qiu
   Code: nan
 
 ## July

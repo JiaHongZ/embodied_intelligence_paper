@@ -2,6 +2,9 @@
 
 ## December
 
+- [LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator](http://arxiv.org/abs/2512.10605v2)
+  Lihuang Chen, Xiangyu Luo, Jun Meng
+  Code: https://github.com/LegendLeoChen/LEO-RobotAgent
 - [Analyzing Planner Design Trade-offs for MAPF under ADG-based Realistic Execution](http://arxiv.org/abs/2512.09736v2)
   Jingtian Yan, Zhifei Li, William Kang, Stephen F. Smith, Jiaoyang Li
   Code: nan

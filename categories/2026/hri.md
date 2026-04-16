@@ -2,11 +2,14 @@
 
 ## April
 
-- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
-  Jintao Xue, Xiao Li, Nianmin Zhang
+- [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
+  Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
 - [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
   Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
+  Code: nan
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+  Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
@@ -82,6 +85,12 @@
   Code: nan
 - [Rethinking the Role of Collaborative Robots in Rehabilitation](http://arxiv.org/abs/2603.05252v1)
   Vivek Gupte, Shalutha Rajapakshe, Emmanuel Senft
+  Code: nan
+
+## February
+
+- [Optimized Human-Robot Co-Dispatch Planning for Petro-Site Surveillance under Varying Criticalities](http://arxiv.org/abs/2602.07924v2)
+  Nur Ahmad Khatim, Mansur Arief
   Code: nan
 
 ## January

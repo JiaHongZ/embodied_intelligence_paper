@@ -5,12 +5,18 @@
 - [Efficient Path Generation with Curvature Guarantees by Mollification](http://arxiv.org/abs/2512.13183v2)
   Alfredo González-Calvin, Juan F. Jiménez, Héctor García de Marina
   Code: nan
-- [VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](http://arxiv.org/abs/2512.09646v2)
-  Wanyue Zhang, Lin Geng Foo, Thabo Beeler, Rishabh Dabral, Christian Theobalt
+- [Inertial Magnetic SLAM Systems Using Low-Cost Sensors](http://arxiv.org/abs/2512.10128v3)
+  Chuan Huang, Gustaf Hendeby, Isaac Skog
   Code: nan
 - [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
   Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
   Code: https://github.com/IacopomC/aion
+- [VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](http://arxiv.org/abs/2512.09646v2)
+  Wanyue Zhang, Lin Geng Foo, Thabo Beeler, Rishabh Dabral, Christian Theobalt
+  Code: nan
+- [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](http://arxiv.org/abs/2512.08639v3)
+  Huilin Xu, Zhuoyang Liu, Yixiang Luomei, Feng Xu
+  Code: https://github.com/return-sleep/AeroAct
 - [Context-Triggered Contingency Games for Strategic Multi-Agent Interaction](http://arxiv.org/abs/2512.03639v3)
   Kilian Schweppe, Anne-Kathrin Schmuck
   Code: nan
@@ -56,14 +62,14 @@
 - [Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v2)
   Jose Luis Ponton, Eduardo Alvarado, Lin Geng Foo, Nuria Pelechano, Carlos Andujar, Marc Habermann
   Code: nan
-- [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
-  Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
-  Code: nan
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
+  Code: nan
+- [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
+  Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
   Code: nan
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
@@ -95,15 +101,15 @@
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](http://arxiv.org/abs/2510.04607v2)
   Yuan Wang, Mingyu Li, Haibo Chen
   Code: nan
-- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
-  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
-  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 - [Beyond Collision Cones: Dynamic Obstacle Avoidance for Nonholonomic Robots via Dynamic Parabolic Control Barrier Functions](http://arxiv.org/abs/2510.01402v2)
   Hun Kuk Park, Taekyung Kim, Dimitra Panagou
   Code: nan
 - [Are Large Vision-Language Models Ready to Guide Blind and Low-Vision Individuals?](http://arxiv.org/abs/2510.00766v2)
   Eunki Kim, Na Min An, Wan Ju Kang, Sangryul Kim, James Thorne, Hyunjung Shim
   Code: nan
+- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
+  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
+  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 
 ## September
 
@@ -152,11 +158,11 @@
 - [OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](http://arxiv.org/abs/2508.11479v3)
   Tatiana Zemskova, Aleksei Staroverov, Dmitry Yudin, Aleksandr Panov
   Code: https://github.com/CognitiveAISystems/OVSegDT
-- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
-  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
-  Code: nan
 - [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
   Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
+  Code: nan
+- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
+  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
   Code: nan
 
 ## July
