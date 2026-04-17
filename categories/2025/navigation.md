@@ -35,6 +35,9 @@
 - [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
   Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
   Code: nan
+- [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
+  Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
+  Code: nan
 - [Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation](http://arxiv.org/abs/2511.18525v2)
   Samarth Chopra, Jing Liang, Gershom Seneviratne, Yonghan Lee, Jaehoon Choi, Jianyu An, Stephen Cheng, Dinesh Manocha
   Code: nan
@@ -47,6 +50,9 @@
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v5)
   Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
   Code: https://github.com/ylwhxht/MSGNav
+- [TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](http://arxiv.org/abs/2511.07412v2)
+  Han Zhang, Yiqing Shen, Roger D. Soberanis-Mukul, Ankita Ghosh, Hao Ding, Lalithkumar Seenivasan, Jose L. Porras, Zhekai Mao, Chenjia Li, Wenjie Xiao, Lonny Yarmus, Angela Christine Argento, Masaru Ishii, Mathias Unberath
+  Code: nan
 - [Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](http://arxiv.org/abs/2511.01219v6)
   Muhua Zhang, Lei Ma, Ying Wu, Kai Shen, Deqing Huang, Henry Leung
   Code: nan
@@ -140,6 +146,9 @@
 - [DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](http://arxiv.org/abs/2509.06285v2)
   Xiangcheng Hu, Xieyuanli Chen, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
   Code: https://github.com/JokerJohn/DCReg
+- [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
+  Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
+  Code: nan
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
@@ -221,6 +230,9 @@
 
 ## February
 
+- [Sixth-Sense: Self-Supervised Learning of Spatial Awareness of Humans from a Planar Lidar](http://arxiv.org/abs/2502.21029v2)
+  Simone Arreghini, Nicholas Carlotti, Mirko Nava, Antonio Paolillo, Alessandro Giusti
+  Code: nan
 - [Oracular Programming: A Modular Foundation for Building LLM-Enabled Software](http://arxiv.org/abs/2502.05310v5)
   Jonathan Laurent, André Platzer
   Code: nan

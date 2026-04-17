@@ -38,11 +38,17 @@
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
   Code: nan
+- [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
+  Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
+  Code: https://github.com/NVlabs/PixelDiT
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
   Code: nan
 - [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
   Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
+  Code: nan
+- [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
+  Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
   Code: nan
 - [Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos](http://arxiv.org/abs/2511.12882v3)
   Taiyi Su, Jian Zhu, Yaxuan Li, Chong Ma, Jianjun Zhang, Zitai Huang, Hanli Wang, Yi Xu
@@ -65,11 +71,11 @@
 - [From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors](http://arxiv.org/abs/2510.17439v3)
   Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu, Xinghang Li, Pan Zhou
   Code: nan
-- [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
-  Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
-  Code: nan
 - [Exploring Conditions for Diffusion models in Robotic Control](http://arxiv.org/abs/2510.15510v2)
   Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim
+  Code: nan
+- [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
+  Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
   Code: nan
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
@@ -100,6 +106,9 @@
   Code: nan
 - [Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale](http://arxiv.org/abs/2509.14932v2)
   Tobias Jülg, Pierre Krack, Seongjin Bien, Yannik Blei, Khaled Gamal, Ken Nakahara, Johannes Hechtl, Roberto Calandra, Wolfram Burgard, Florian Walter
+  Code: nan
+- [Constrained Decoding for Safe Robot Navigation Foundation Models](http://arxiv.org/abs/2509.01728v4)
+  Parv Kapoor, Akila Ganlath, Michael Clifford, Changliu Liu, Sebastian Scherer, Eunsuk Kang
   Code: nan
 
 ## August

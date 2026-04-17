@@ -42,6 +42,12 @@
   Tomohiko Jimbo, Takashi Ozaki, Norikazu Ohta, Kanae Hamaguchi
   Code: nan
 
+## March
+
+- [An Active Perception Game for Robust Exploration](http://arxiv.org/abs/2404.00769v5)
+  Siming He, Yuezhan Tao, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari
+  Code: nan
+
 ## January
 
 - [WiFi-GEN: High-Resolution Indoor Imaging from WiFi Signals Using Generative AI](http://arxiv.org/abs/2401.04317v2)

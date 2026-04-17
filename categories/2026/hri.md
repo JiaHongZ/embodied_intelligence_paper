@@ -2,13 +2,19 @@
 
 ## April
 
+- [Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees](http://arxiv.org/abs/2604.15221v1)
+  Jakob Thumm, Marian Frei, Tianle Ni, Matthias Althoff, Marco Pavone
+  Code: nan
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
+  Code: nan
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+  Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
   Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
-- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
@@ -20,11 +26,11 @@
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs
   Code: nan
-- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
-  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
-  Code: nan
 - [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
   Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+  Code: nan
+- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
+  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
 - [IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline](http://arxiv.org/abs/2604.02032v1)
   Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea
@@ -97,4 +103,7 @@
 
 - [Physical Human-Robot Interaction: A Critical Review of Safety Constraints](http://arxiv.org/abs/2601.19462v3)
   Riccardo Zanella, Federico Califano, Stefano Stramigioli
+  Code: nan
+- [A Multimodal Data Collection Framework for Dialogue-Driven Assistive Robotics to Clarify Ambiguities: A Wizard-of-Oz Pilot Study](http://arxiv.org/abs/2601.16870v2)
+  Guangping Liu, Nicholas Hawkins, Billy Madden, Tipu Sultan, Flavio Esposito, Madi Babaiasl
   Code: nan
