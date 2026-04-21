@@ -11,6 +11,9 @@
 
 ## October
 
+- [DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models](http://arxiv.org/abs/2511.15669v2)
+  Cheng Yin, Yankai Lin, Wang Xu, Sikyuen Tam, Xiangrui Zeng, Zhiyuan Liu, Zhouping Yin
+  Code: https://github.com/OpenBMB/DeepThinkVLA
 - [Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](http://arxiv.org/abs/2510.21356v2)
   Anupam Pani, Yanchao Yang
   Code: https://github.com/anupampani/Gaze-VLM
@@ -38,3 +41,9 @@
 - [GenExam: A Multidisciplinary Text-to-Image Exam](http://arxiv.org/abs/2509.14232v4)
   Zhaokai Wang, Penghao Yin, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo
   Code: https://github.com/OpenGVLab/GenExam
+
+## May
+
+- [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](http://arxiv.org/abs/2505.20279v4)
+  Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Shijie Zhou, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan
+  Code: nan

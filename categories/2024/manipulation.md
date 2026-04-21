@@ -5,6 +5,9 @@
 - [Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline](http://arxiv.org/abs/2412.19685v2)
   Jingchun Lian, Lingyu Liu, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
   Code: nan
+- [Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline](http://arxiv.org/abs/2412.19685v3)
+  Jingchun Lian, Lingyu Liu, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
 - [SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers](http://arxiv.org/abs/2412.10488v4)
   Zehao Chen, Rong Pan
   Code: nan

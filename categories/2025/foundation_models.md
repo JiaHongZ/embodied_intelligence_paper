@@ -41,11 +41,11 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
-  Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
-  Code: nan
 - [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
   Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
+  Code: nan
+- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
+  Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
   Code: nan
 - [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
   Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
@@ -71,11 +71,14 @@
 - [From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors](http://arxiv.org/abs/2510.17439v3)
   Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu, Xinghang Li, Pan Zhou
   Code: nan
-- [Exploring Conditions for Diffusion models in Robotic Control](http://arxiv.org/abs/2510.15510v2)
-  Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim
-  Code: nan
+- [End-to-end Listen, Look, Speak and Act](http://arxiv.org/abs/2510.16756v2)
+  Siyin Wang, Wenyi Yu, Xianzhao Chen, Xiaohai Tian, Jun Zhang, Lu Lu, Chao Zhang
+  Code: https://github.com/bytedance/SALMONN/tree/ELLSA
 - [Zero-Shot Coordination in Ad Hoc Teams with Generalized Policy Improvement and Difference Rewards](http://arxiv.org/abs/2510.16187v2)
   Rupal Nigam, Niket Parikh, Hamid Osooli, Mikihisa Yuasa, Jacob Heglund, Huy T. Tran
+  Code: nan
+- [Exploring Conditions for Diffusion models in Robotic Control](http://arxiv.org/abs/2510.15510v2)
+  Heeseong Shin, Byeongho Heo, Dongyoon Han, Seungryong Kim, Taekyung Kim
   Code: nan
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
@@ -116,12 +119,18 @@
 - [LHM-Humanoid: Learning a Unified Policy for Long-Horizon Humanoid Whole-Body Loco-Manipulation in Diverse Messy Environments](http://arxiv.org/abs/2508.16943v2)
   Haozhuo Zhang, Jingkai Sun, Michele Caprio, Jian Tang, Shanghang Zhang, Qiang Zhang, Wei Pan
   Code: nan
+- [Projected Coupled Diffusion for Test-Time Constrained Joint Generation](http://arxiv.org/abs/2508.10531v3)
+  Hao Luan, Yi Xian Goh, See-Kiong Ng, Chun Kai Ling
+  Code: nan
 - [FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction](http://arxiv.org/abs/2508.05153v2)
   Mohammed Daba, Jing Qiu
   Code: nan
 
 ## July
 
+- [UniDomain: Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning](http://arxiv.org/abs/2507.21545v3)
+  Haoming Ye, Yunxiao Xiao, Cewu Lu, Panpan Cai
+  Code: nan
 - [Latent Policy Steering with Embodiment-Agnostic Pretrained World Models](http://arxiv.org/abs/2507.13340v3)
   Yiqi Wang, Mrinal Verghese, Jeff Schneider
   Code: nan

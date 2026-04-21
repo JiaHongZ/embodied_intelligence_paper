@@ -140,6 +140,9 @@
 - [Responsibility and Engagement -- Evaluating Interactions in Social Robot Navigation](http://arxiv.org/abs/2509.12890v2)
   Malte Probst, Raphael Wenzel, Monica Dasi
   Code: nan
+- [InternScenes: A Large-scale Simulatable Indoor Scene Dataset with Realistic Layouts](http://arxiv.org/abs/2509.10813v3)
+  Weipeng Zhong, Peizhou Cao, Yichen Jin, Li Luo, Wenzhe Cai, Jingli Lin, Hanqing Wang, Zhaoyang Lyu, Tai Wang, Bo Dai, Xudong Xu, Jiangmiao Pang
+  Code: nan
 - [Quadrotor Navigation using Reinforcement Learning with Privileged Information](http://arxiv.org/abs/2509.08177v2)
   Jonathan Lee, Abhishek Rathod, Kshitij Goel, John Stecklein, Wennie Tabib
   Code: nan

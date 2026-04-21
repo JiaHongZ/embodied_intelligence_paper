@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2025)
 
+## September
+
+- [STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle](http://arxiv.org/abs/2509.10692v3)
+  Giuseppe Silano, Amr Afifi, Martin Saska, Antonio Franchi
+  Code: nan
+
 ## May
 
 - [ReactDance: Hierarchical Representation for High-Fidelity and Coherent Long-Form Reactive Dance Generation](http://arxiv.org/abs/2505.05589v3)

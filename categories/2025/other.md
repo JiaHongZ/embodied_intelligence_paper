@@ -5,6 +5,9 @@
 - [Strategic Response of News Publishers to Generative AI](http://arxiv.org/abs/2512.24968v4)
   Hangcheng Zhao, Ron Berman
   Code: nan
+- [Bridging the Ex-Vivo to In-Vivo Gap: Synthetic Priors for Monocular Depth Estimation in Specular Surgical Environments](http://arxiv.org/abs/2512.23786v2)
+  Ankan Aich, Emma D. Ryan, Kris Moe, Isaac Schmale, Li-Xing Man, Yangming Lee
+  Code: nan
 - [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
   Shuhan Zhang, Tin Lun Lam
   Code: nan

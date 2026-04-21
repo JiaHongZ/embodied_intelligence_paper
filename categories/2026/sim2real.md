@@ -2,6 +2,9 @@
 
 ## April
 
+- [Does "Do Differentiable Simulators Give Better Policy Gradients?'' Give Better Policy Gradients?](http://arxiv.org/abs/2604.18161v1)
+  Ku Onoda, Paavo Parmas, Manato Yaguchi, Yutaka Matsuo
+  Code: nan
 - [Abstract Sim2Real through Approximate Information States](http://arxiv.org/abs/2604.15289v1)
   Yunfu Deng, Yuhao Li, Josiah P. Hanna
   Code: nan
