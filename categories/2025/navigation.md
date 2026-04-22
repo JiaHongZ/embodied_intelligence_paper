@@ -5,14 +5,14 @@
 - [Efficient Path Generation with Curvature Guarantees by Mollification](http://arxiv.org/abs/2512.13183v2)
   Alfredo González-Calvin, Juan F. Jiménez, Héctor García de Marina
   Code: nan
-- [Inertial Magnetic SLAM Systems Using Low-Cost Sensors](http://arxiv.org/abs/2512.10128v3)
-  Chuan Huang, Gustaf Hendeby, Isaac Skog
-  Code: nan
 - [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
   Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
   Code: https://github.com/IacopomC/aion
 - [VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](http://arxiv.org/abs/2512.09646v2)
   Wanyue Zhang, Lin Geng Foo, Thabo Beeler, Rishabh Dabral, Christian Theobalt
+  Code: nan
+- [Inertial Magnetic SLAM Systems Using Low-Cost Sensors](http://arxiv.org/abs/2512.10128v3)
+  Chuan Huang, Gustaf Hendeby, Isaac Skog
   Code: nan
 - [Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](http://arxiv.org/abs/2512.08639v3)
   Huilin Xu, Zhuoyang Liu, Yixiang Luomei, Feng Xu
@@ -29,12 +29,12 @@
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
   Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
   Code: nan
-- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
-  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
-  Code: https://github.com/worv-ai/CostNav
 - [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
   Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
   Code: nan
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
+  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
+  Code: https://github.com/worv-ai/CostNav
 - [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
   Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
@@ -52,6 +52,9 @@
   Code: https://github.com/ylwhxht/MSGNav
 - [TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](http://arxiv.org/abs/2511.07412v2)
   Han Zhang, Yiqing Shen, Roger D. Soberanis-Mukul, Ankita Ghosh, Hao Ding, Lalithkumar Seenivasan, Jose L. Porras, Zhekai Mao, Chenjia Li, Wenjie Xiao, Lonny Yarmus, Angela Christine Argento, Masaru Ishii, Mathias Unberath
+  Code: nan
+- [MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](http://arxiv.org/abs/2511.04320v2)
+  Kuankuan Sima, Longbin Tang, Zhenyu Yang, Haozhe Ma, Lin Zhao
   Code: nan
 - [Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](http://arxiv.org/abs/2511.01219v6)
   Muhua Zhang, Lei Ma, Ying Wu, Kai Shen, Deqing Huang, Henry Leung
@@ -89,14 +92,14 @@
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
+- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
+  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
+  Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
   Code: nan
 - [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
   Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
-  Code: nan
-- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
-  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
   Code: nan
 - [Asset-Centric Metric-Semantic Maps of Indoor Environments](http://arxiv.org/abs/2510.10778v2)
   Christopher D. Hsu, Pratik Chaudhari
@@ -107,15 +110,15 @@
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](http://arxiv.org/abs/2510.04607v2)
   Yuan Wang, Mingyu Li, Haibo Chen
   Code: nan
+- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
+  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
+  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 - [Beyond Collision Cones: Dynamic Obstacle Avoidance for Nonholonomic Robots via Dynamic Parabolic Control Barrier Functions](http://arxiv.org/abs/2510.01402v2)
   Hun Kuk Park, Taekyung Kim, Dimitra Panagou
   Code: nan
 - [Are Large Vision-Language Models Ready to Guide Blind and Low-Vision Individuals?](http://arxiv.org/abs/2510.00766v2)
   Eunki Kim, Na Min An, Wan Ju Kang, Sangryul Kim, James Thorne, Hyunjung Shim
   Code: nan
-- [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
-  Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang
-  Code: https://github.com/zoeyliu1999/EgoTraj-Bench
 
 ## September
 
@@ -146,12 +149,12 @@
 - [Quadrotor Navigation using Reinforcement Learning with Privileged Information](http://arxiv.org/abs/2509.08177v2)
   Jonathan Lee, Abhishek Rathod, Kshitij Goel, John Stecklein, Wennie Tabib
   Code: nan
-- [DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](http://arxiv.org/abs/2509.06285v2)
-  Xiangcheng Hu, Xieyuanli Chen, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
-  Code: https://github.com/JokerJohn/DCReg
 - [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
   Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
   Code: nan
+- [DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](http://arxiv.org/abs/2509.06285v2)
+  Xiangcheng Hu, Xieyuanli Chen, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
+  Code: https://github.com/JokerJohn/DCReg
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
@@ -170,11 +173,11 @@
 - [OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](http://arxiv.org/abs/2508.11479v3)
   Tatiana Zemskova, Aleksei Staroverov, Dmitry Yudin, Aleksandr Panov
   Code: https://github.com/CognitiveAISystems/OVSegDT
-- [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
-  Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
-  Code: nan
 - [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
   Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
+  Code: nan
+- [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
+  Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
   Code: nan
 
 ## July
@@ -185,6 +188,9 @@
 
 ## June
 
+- [ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research](http://arxiv.org/abs/2506.22174v2)
+  Bavo Lesy, Siemen Herremans, Robin Kerstens, Jan Steckel, Walter Daems, Siegfried Mercelis, Ali Anwar
+  Code: https://github.com/BavoLesy/ASVSim
 - [Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances](http://arxiv.org/abs/2506.18410v2)
   Zhe Zhang, Peijia Xie, Yuhan Pang, Zhirui Sun, Bingyi Xia, Bi-Ke Zhu, Jiankun Wang
   Code: nan
@@ -194,6 +200,9 @@
 
 ## May
 
+- [Joint Magnetometer-IMU Calibration via Maximum A Posteriori Estimation](http://arxiv.org/abs/2505.16662v4)
+  Chuan Huang, Gustaf Hendeby, Isaac Skog
+  Code: nan
 - [TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian](http://arxiv.org/abs/2505.08811v2)
   Shijie Lian, Ziyi Zhang, Hua Li, Laurence Tianruo Yang, Mengyu Ren, Debin Liu, Wenhui Wu
   Code: nan

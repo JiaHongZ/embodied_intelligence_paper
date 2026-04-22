@@ -107,6 +107,9 @@
 - [Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models](http://arxiv.org/abs/2509.23626v2)
   Beomseok Kang, Niluthpol Chowdhury Mithun, Mikhail Sizintsev, Han-Pang Chiu, Supun Samarasekera
   Code: nan
+- [Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters](http://arxiv.org/abs/2509.18831v2)
+  Pin-Yen Chiu, I-Sheng Fang, Jun-Cheng Chen
+  Code: nan
 - [Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale](http://arxiv.org/abs/2509.14932v2)
   Tobias Jülg, Pierre Krack, Seongjin Bien, Yannik Blei, Khaled Gamal, Ken Nakahara, Johannes Hechtl, Roberto Calandra, Wolfram Burgard, Florian Walter
   Code: nan

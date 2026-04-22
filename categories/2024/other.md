@@ -38,6 +38,9 @@
 
 ## July
 
+- [Latent Linear Quadratic Regulator for Robotic Control Tasks](http://arxiv.org/abs/2407.11107v3)
+  Yuan Zhang, Shaohui Yang, Toshiyuki Ohtsuka, Colin Jones, Joschka Boedecker
+  Code: nan
 - [Insect-Scale Tailless Robot with Flapping Wings: A Simple Structure and Drive for Yaw Control](http://arxiv.org/abs/2407.06500v3)
   Tomohiko Jimbo, Takashi Ozaki, Norikazu Ohta, Kanae Hamaguchi
   Code: nan

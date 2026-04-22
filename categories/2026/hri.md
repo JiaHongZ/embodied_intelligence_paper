@@ -2,6 +2,12 @@
 
 ## April
 
+- [Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](http://arxiv.org/abs/2604.19670v1)
+  Alex Cuellar, Michael Hagenow, Julie Shah
+  Code: nan
+- [Achieving Interaction Fluidity in a Wizard-of-Oz Robotic System: A Prototype for Fluid Error-Correction](http://arxiv.org/abs/2604.19374v1)
+  Carlos Baptista De Lima, Julian Hough, Frank Förster, Patrick Holthaus, Yongjun Zheng
+  Code: nan
 - [Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees](http://arxiv.org/abs/2604.15221v1)
   Jakob Thumm, Marian Frei, Tianle Ni, Matthias Althoff, Marco Pavone
   Code: nan
@@ -26,11 +32,11 @@
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs
   Code: nan
-- [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
-  Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
-  Code: nan
 - [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
   Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
+  Code: nan
+- [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
+  Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
   Code: nan
 - [IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline](http://arxiv.org/abs/2604.02032v1)
   Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea
@@ -53,10 +59,10 @@
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
   Code: nan
-- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v3)
+- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
   Code: nan
-- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
+- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v3)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
   Code: nan
 - [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)
