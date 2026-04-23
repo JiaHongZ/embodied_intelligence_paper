@@ -29,6 +29,9 @@
 
 ## October
 
+- [High-Level Multi-Robot Trajectory Planning And Spurious Behavior Detection](http://arxiv.org/abs/2510.17261v2)
+  Fernando Salanova, Jesús Roche, Cristian Mahulea, Eduardo Montijano
+  Code: nan
 - [When a Robot is More Capable than a Human: Learning from Constrained Demonstrators](http://arxiv.org/abs/2510.09096v2)
   Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
   Code: nan
@@ -58,4 +61,10 @@
 
 - [Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning](http://arxiv.org/abs/2506.15828v3)
   Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi, Domenico D. Bloisi
+  Code: nan
+
+## May
+
+- [CubeDAgger: Interactive Imitation Learning for Dynamic Systems with Efficient yet Low-risk Interaction](http://arxiv.org/abs/2505.04897v2)
+  Taisuke Kobayashi
   Code: nan

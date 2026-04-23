@@ -281,3 +281,9 @@
 - [A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](http://arxiv.org/abs/2502.18615v4)
   Georgios Kamaras, Subramanian Ramamoorthy
   Code: nan
+
+## January
+
+- [Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](http://arxiv.org/abs/2501.07399v2)
+  Saurabh Gupta, Tiziano Guadagnino, Benedikt Mersch, Niklas Trekel, Meher V. R. Malladi, Cyrill Stachniss
+  Code: https://github.com/PRBonn/MapClosures

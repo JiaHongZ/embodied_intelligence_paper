@@ -2,6 +2,9 @@
 
 ## April
 
+- [Where are they looking in the operating room?](http://arxiv.org/abs/2604.20574v1)
+  Keqi Chen, Séraphin Baributsa, Lilien Schewski, Vinkle Srivastav, Didier Mutter, Guido Beldi, Sandra Keller, Nicolas Padoy
+  Code: nan
 - [Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](http://arxiv.org/abs/2604.19670v1)
   Alex Cuellar, Michael Hagenow, Julie Shah
   Code: nan
@@ -50,11 +53,11 @@
 - [SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI](http://arxiv.org/abs/2603.29708v1)
   Soumyodipta Nath, Pranav Tiwari, Ravi Prakash
   Code: nan
-- [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
-  Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
-  Code: nan
 - [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
   Ekaterina Torubarova, Jura Miniota, Andre Pereira
+  Code: nan
+- [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
+  Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
   Code: nan
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
