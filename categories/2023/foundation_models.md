@@ -1,5 +1,11 @@
 # Embodied Foundation Models Papers (2023)
 
+## October
+
+- [Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own](http://arxiv.org/abs/2310.02635v5)
+  Weirui Ye, Yunsheng Zhang, Haoyang Weng, Xianfan Gu, Shengjie Wang, Tong Zhang, Mengchen Wang, Pieter Abbeel, Yang Gao
+  Code: nan
+
 ## March
 
 - [A Survey of Large Language Models](http://arxiv.org/abs/2303.18223v19)
