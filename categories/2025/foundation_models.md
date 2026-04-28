@@ -41,11 +41,14 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
-  Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
+- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
+  Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
   Code: nan
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
+  Code: nan
+- [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
+  Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
   Code: nan
 - [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
   Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
@@ -102,6 +105,9 @@
 ## September
 
 - [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v5)
+  Junjin Xiao, Yandan Yang, Xinyuan Chang, Ronghan Chen, Feng Xiong, Mu Xu, Wei-Shi Zheng, Qing Zhang
+  Code: https://github.com/amap-cvlab/world-env
+- [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v6)
   Junjin Xiao, Yandan Yang, Xinyuan Chang, Ronghan Chen, Feng Xiong, Mu Xu, Wei-Shi Zheng, Qing Zhang
   Code: https://github.com/amap-cvlab/world-env
 - [Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models](http://arxiv.org/abs/2509.23626v2)

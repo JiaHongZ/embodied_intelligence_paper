@@ -14,6 +14,9 @@
 
 ## March
 
+- [TwinLiteNet+: An Enhanced Multi-Task Segmentation Model for Autonomous Driving](http://arxiv.org/abs/2403.16958v6)
+  Quang-Huy Che, Duc-Tri Le, Minh-Quan Pham, Vinh-Tiep Nguyen, Duc-Khai Lam
+  Code: https://github.com/chequanghuy/TwinLiteNetPlus
 - [Seeing Through Uncertainty: A Free-Energy Approach for Real-Time Perceptual Adaptation in Robust Visual Navigation](http://arxiv.org/abs/2403.01977v3)
   Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
   Code: nan

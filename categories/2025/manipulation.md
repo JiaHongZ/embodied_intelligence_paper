@@ -20,6 +20,9 @@
 - [RoboNeuron: A Middle-Layer Infrastructure for Agent-Driven Orchestration in Embodied AI](http://arxiv.org/abs/2512.10394v2)
   Weifan Guan, Qinghao Hu, Huasen Xi, Chenxiao Zhang, Aosheng Li, Jian Cheng
   Code: https://github.com/guanweifan/RoboNeuron
+- [One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation](http://arxiv.org/abs/2512.09297v3)
+  Huayi Zhou, Kui Jia
+  Code: nan
 - [Parametric Design of a Cable-Driven Coaxial Spherical Parallel Mechanism for Ultrasound Scans](http://arxiv.org/abs/2512.06995v2)
   Maryam Seraj, Mohammad Hossein Kamrava, Carlo Tiseo
   Code: nan
@@ -137,17 +140,17 @@
 - [MSG: Multi-Stream Generative Policies for Sample-Efficient Robotic Manipulation](http://arxiv.org/abs/2509.24956v2)
   Jan Ole von Hartz, Lukas Schweizer, Joschka Boedecker, Abhinav Valada
   Code: nan
-- [GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation](http://arxiv.org/abs/2509.22460v3)
-  Shichao Weng, Zhiqiang Wang, Yuhua Zhou, Rui Lu, Ting Liu, Zhiyang Teng, Xiaozhang Liu, Hanmeng Liu
-  Code: nan
 - [EgoDemoGen: Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation](http://arxiv.org/abs/2509.22578v2)
   Yuan Xu, Jiabing Yang, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
   Code: nan
-- [Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v2)
-  E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo
+- [GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation](http://arxiv.org/abs/2509.22460v3)
+  Shichao Weng, Zhiqiang Wang, Yuhua Zhou, Rui Lu, Ting Liu, Zhiyang Teng, Xiaozhang Liu, Hanmeng Liu
   Code: nan
 - [EMMA: Generalizing Real-World Robot Manipulation via Generative Visual Transfer](http://arxiv.org/abs/2509.22407v2)
   Zhehao Dong, Xiaofeng Wang, Zheng Zhu, Yirui Wang, Yang Wang, Yukun Zhou, Boyuan Wang, Chaojun Ni, Runqi Ouyang, Wenkang Qin, Xinze Chen, Yun Ye, Guan Huang, Zhen Lu, Yue Yang
+  Code: nan
+- [Pixel Motion Diffusion is What We Need for Robot Control](http://arxiv.org/abs/2509.22652v2)
+  E-Ro Nguyen, Yichi Zhang, Kanchana Ranasinghe, Xiang Li, Michael S. Ryoo
   Code: nan
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v3)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
@@ -173,6 +176,9 @@
 - [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
   Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
   Code: nan
+- [V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models](http://arxiv.org/abs/2509.14837v2)
+  Qidong Wang, Junjie Hu, Ming Jiang
+  Code: https://github.com/petergit1/V-SEAM
 - [SHaRe-RL: Structured, Interactive Reinforcement Learning for Contact-Rich Industrial Assembly Tasks](http://arxiv.org/abs/2509.13949v2)
   Jannick Stranghöner, Philipp Hartmann, Marco Braun, Sebastian Wrede, Klaus Neumann
   Code: nan
@@ -245,15 +251,21 @@
 - [TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Objects in Contact-Rich Scenes](http://arxiv.org/abs/2505.22882v2)
   Wen Yang, Zhixian Xie, Yiting Wang, Abhijit Tadepalli, Heni Ben Amor, Shan Lin, Wanxin Jin
   Code: nan
+- [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
+  Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
 - [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
   Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
   Code: nan
-- [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
-  Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+- [CUB: Benchmarking Context Utilisation Techniques for Language Models](http://arxiv.org/abs/2505.16518v3)
+  Lovisa Hagström, Youna Kim, Haeun Yu, Sang-goo Lee, Richard Johansson, Hyunsoo Cho, Isabelle Augenstein
   Code: nan
 - [MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation](http://arxiv.org/abs/2505.15054v4)
   Feiyang Cai, Jiahui Bai, Tao Tang, Guijuan He, Joshua Luo, Tianyu Zhu, Srikanth Pilla, Gang Li, Ling Liu, Feng Luo
   Code: https://github.com/TheLuoFengLab/MolLangBench
+- [LatentStealth: Unnoticeable and Efficient Adversarial Attacks on Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2505.12009v2)
+  Zhiying Li, Guanggang Geng, Yeying Jin, Shuyuan Lin, Fengyuan Ma, Zhaoxin Fan, Lili Wang
+  Code: nan
 - [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v5)
   Yuxing Chen, Bowen Xiao, He Wang
   Code: nan

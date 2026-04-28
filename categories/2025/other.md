@@ -44,17 +44,17 @@
 - [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
   Alex Diep
   Code: nan
-- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
-  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
-  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](http://arxiv.org/abs/2511.20886v2)
   Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
   Code: nan
-- [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
-  Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
-  Code: nan
+- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
+  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
+  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
   Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
+  Code: nan
+- [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
+  Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
@@ -205,6 +205,9 @@
 
 - [Reflection of Episodes: Learning to Play Game from Expert and Self Experiences](http://arxiv.org/abs/2502.13388v2)
   Xiaojie Xu, Zongyuan Li, Chang Lu, Runnan Qi, Yanan Ni, Lumin Jiang, Xiangbei Liu, Xuebo Zhang, Yongchun Fang, Kuihua Huang, Xian Guo, Zhanghua Wu, Zhenya Li
+  Code: nan
+- [EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models](http://arxiv.org/abs/2502.04424v4)
+  He Hu, Lianzhong You, Hongbo Xu, Qianning Wang, Fei Richard Yu, Fei Ma, Zebang Cheng, Zheng Lian, Yucheng Zhou, Laizhong Cui
   Code: nan
 - [Real-Time Operator Takeover for Visuomotor Diffusion Policy Training](http://arxiv.org/abs/2502.02308v3)
   Marco Moletta, Michael C. Welle, Nils Ingelhag, Jesper Munkeby, Danica Kragic
