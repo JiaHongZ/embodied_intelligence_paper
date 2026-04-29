@@ -11,10 +11,10 @@
 - [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
   Shuhan Zhang, Tin Lun Lam
   Code: nan
-- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
+- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
-- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
+- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
 - [Olaf: Bringing an Animated Character to Life in the Physical World](http://arxiv.org/abs/2512.16705v2)
@@ -47,14 +47,17 @@
 - [V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](http://arxiv.org/abs/2511.20886v2)
   Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
   Code: nan
+- [Metric, inertially aligned monocular state estimation via kinetodynamic priors](http://arxiv.org/abs/2511.20496v3)
+  Jiaxin Liu, Min Li, Wanting Xu, Liang Li, Jiaqi Yang, Laurent Kneip
+  Code: nan
 - [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
   Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
   Code: https://github.com/JMUWRobotics/Dynamic-ICP
-- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
-  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
-  Code: nan
 - [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
   Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
+  Code: nan
+- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
+  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman

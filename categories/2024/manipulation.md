@@ -29,6 +29,9 @@
 - [Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes](http://arxiv.org/abs/2410.22177v2)
   Junlong Chen, Jens Grubert, Per Ola Kristensson
   Code: nan
+- [PortraVec: Image-Based Portrait Vectorization with Text-Guided Manipulation](http://arxiv.org/abs/2410.04182v2)
+  Yiqi Liang, Ying Liu, Dandan Long, Ruihui Li
+  Code: nan
 
 ## September
 
