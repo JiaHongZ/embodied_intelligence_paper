@@ -89,11 +89,11 @@
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
   Code: https://github.com/InterDigitalInc/dedelayed
-- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
-  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
-  Code: nan
 - [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
   Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
+  Code: nan
+- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
+  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
 - [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
   Yunzhe Xu, Yiyuan Pan, Zhe Liu
@@ -167,12 +167,21 @@
 - [ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v2)
   Fotios Lygerakis, Ozan Özdenizci, Elmar Rückert
   Code: nan
+- [ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v3)
+  Fotios Lygerakis, Ozan Özdenizci, Elmar Rückert
+  Code: nan
 - [EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v3)
   Ryan Hoque, Peide Huang, David J. Yoon, Mouli Sivapurapu, Jian Zhang
   Code: https://github.com/apple/ml-egodex
 - [Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](http://arxiv.org/abs/2505.11237v2)
   Wenhao Qian, Zhenzhen Hu, Zijie Song, Jia Li
   Code: https://github.com/Qianvenh/CDGLT}{https://github.com/Qianvenh/CDGLT}
+
+## April
+
+- [M2R2: MultiModal Robotic Representation for Temporal Action Segmentation](http://arxiv.org/abs/2504.18662v3)
+  Daniel Sliwowski, Dongheui Lee
+  Code: nan
 
 ## February
 
@@ -182,6 +191,9 @@
 - [3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight](http://arxiv.org/abs/2502.10028v3)
   Yuxin He, Ruihao Zhang, Xianzu Wu, Zhiyuan Zhang, Cheng Ding, Qiang Nie
   Code: https://github.com/Stardust-hyx/3D-Foresight
+- [EvolvingAgent: Curriculum Self-evolving Agent with Continual World Model for Long-Horizon Tasks](http://arxiv.org/abs/2502.05907v3)
+  Tongtong Feng, Xin Wang, Zekai Zhou, Ren Wang, Yuwei Zhan, Guangyao Li, Qing Li, Wenwu Zhu
+  Code: nan
 - [VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](http://arxiv.org/abs/2502.00931v6)
   Yi Du, Taimeng Fu, Zhipeng Zhao, Shaoshu Su, Zitong Zhan, Qiwei Du, Zhuoqun Chen, Bowen Li, Chen Wang
   Code: nan

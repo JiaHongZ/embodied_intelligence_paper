@@ -1,5 +1,11 @@
 # Vision-Language-Action Papers (2025)
 
+## December
+
+- [Value-Guided Iterative Refinement and the DIQ-H Benchmark for Evaluating VLM Robustness](http://arxiv.org/abs/2512.03992v2)
+  Hanwen Wan, Zexin Lin, Yixuan Deng, Xiaoqiang Ji
+  Code: nan
+
 ## November
 
 - [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](http://arxiv.org/abs/2511.21428v2)

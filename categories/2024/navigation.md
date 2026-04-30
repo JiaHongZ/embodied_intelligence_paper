@@ -11,6 +11,9 @@
 - [DIDLM: A SLAM Dataset for Difficult Scenarios Featuring Infrared, Depth Cameras, LIDAR, 4D Radar, and Others under Adverse Weather, Low Light Conditions, and Rough Roads](http://arxiv.org/abs/2404.09622v3)
   Weisheng Gong, Chen He, Kaijie Su, Qingyong Li, Tong Wu, Z. Jane Wang
   Code: https://github.com/GongWeiSheng/DIDLM
+- [Neural-Geometric Tunnel Traversal: Localization-free UAV Flight with Tilted LiDARs](http://arxiv.org/abs/2404.09688v2)
+  Lorenzo Cano, Alejandro R. Mosteo, Danilo Tardioli
+  Code: nan
 
 ## March
 
