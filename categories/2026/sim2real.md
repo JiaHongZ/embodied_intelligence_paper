@@ -2,6 +2,9 @@
 
 ## April
 
+- [FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems](http://arxiv.org/abs/2604.28156v1)
+  Binghao Huang, Yunzhu Li
+  Code: nan
 - [Does "Do Differentiable Simulators Give Better Policy Gradients?'' Give Better Policy Gradients?](http://arxiv.org/abs/2604.18161v1)
   Ku Onoda, Paavo Parmas, Manato Yaguchi, Yutaka Matsuo
   Code: nan

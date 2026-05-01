@@ -2,23 +2,32 @@
 
 ## April
 
+- [RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects](http://arxiv.org/abs/2604.28161v1)
+  Tim Missal, Lucas Domingues, Berk Guler, Simon Manschitz, Jan Peters, Paula Dornhofer Paro Costa
+  Code: nan
+- [Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering](http://arxiv.org/abs/2604.27590v1)
+  Davide Di Nucci, Riccardo Catalini, Guido Borghi, Roberto Vezzani
+  Code: nan
+- [SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation](http://arxiv.org/abs/2604.27555v1)
+  Song Tang, Kaiyong Zhao, Yuliang Li, Qingsong Yan, Penglei Sun, Junyi Zou, Qiang Wang, Xiaowen Chu
+  Code: nan
+- [Function-based Parametric Co-Design Optimization of Dexterous Hands](http://arxiv.org/abs/2604.27557v1)
+  Mohammad Amin Mirzaee, Harsh Gupta, Wenzhen Yuan
+  Code: nan
+- [RHyVE: Competence-Aware Verification and Phase-Aware Deployment for LLM-Generated Reward Hypotheses](http://arxiv.org/abs/2604.28056v1)
+  Feiyu Wu, Xu Zheng, Zhuocheng Wang, Yi ming Dai, Hui Li
+  Code: nan
+- [ClimateVID -- Social Media Videos Analysis and Challenges Involved](http://arxiv.org/abs/2604.27968v1)
+  Shiqi Xu, Moritz Burmester, Katharina Prasse, Isaac Bravo, Stefanie Walter, Margret Keuper
+  Code: https://github.com/KathPra/ClimateVID.git
+- [Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge](http://arxiv.org/abs/2604.28022v1)
+  Sharayu Nilesh Deshmukh, Kailash A. Hambarde, Joana C. Costa, Hugo Proença, Tiago Roxo
+  Code: https://github.com/
 - [Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping](http://arxiv.org/abs/2604.26897v1)
   Alec Boron, Bokun Zheng, Ziyang Zhou, Noel Naughton, Suyi Li
   Code: nan
-- [Persona-Based Process Design for Assistive Human-Robot Workplaces for Persons with Disabilities](http://arxiv.org/abs/2604.26527v1)
-  Nils Mandischer, Daria Eckert and, Lars Mikelsons
-  Code: nan
-- [Reactive Motion Generation via Phase-varying Neural Potential Functions](http://arxiv.org/abs/2604.26450v1)
-  Ahmet Tekden, Dimitrios Kanoulas, Aude Billard, Yasemin Bekiroglu
-  Code: nan
-- [GIFGuard: Proactive Forensics against Deepfakes in Facial GIFs via Spatiotemporal Watermarking](http://arxiv.org/abs/2604.26519v1)
-  Shupeng Che, Zhiqing Guo, Changtao Miao, Dan Ma, Gaobo Yang
-  Code: nan
 - [Atomic-Probe Governance for Skill Updates in Compositional Robot Policies](http://arxiv.org/abs/2604.26689v1)
   Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li
-  Code: nan
-- [LLM-Flax : Generalizable Robotic Task Planning via Neuro-Symbolic Approaches with Large Language Models](http://arxiv.org/abs/2604.26569v1)
-  Seongmin Kim, Daegyu Lee
   Code: nan
 - [ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation](http://arxiv.org/abs/2604.26637v1)
   Sergej Stanovcic, Daniel Sliwowski, Dongheui Lee
@@ -26,8 +35,20 @@
 - [Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control](http://arxiv.org/abs/2604.26577v1)
   Mahiro Nakao, Kazuhiro Takemoto
   Code: nan
-- [Large language models eroding science understanding: an experimental study](http://arxiv.org/abs/2604.25639v1)
-  Harry Collins, Hartmut Grote, Paul Newbury, Patrick Sutton, Simon Thorne
+- [LLM-Flax : Generalizable Robotic Task Planning via Neuro-Symbolic Approaches with Large Language Models](http://arxiv.org/abs/2604.26569v1)
+  Seongmin Kim, Daegyu Lee
+  Code: nan
+- [Persona-Based Process Design for Assistive Human-Robot Workplaces for Persons with Disabilities](http://arxiv.org/abs/2604.26527v1)
+  Nils Mandischer, Daria Eckert and, Lars Mikelsons
+  Code: nan
+- [GIFGuard: Proactive Forensics against Deepfakes in Facial GIFs via Spatiotemporal Watermarking](http://arxiv.org/abs/2604.26519v1)
+  Shupeng Che, Zhiqing Guo, Changtao Miao, Dan Ma, Gaobo Yang
+  Code: nan
+- [Reactive Motion Generation via Phase-varying Neural Potential Functions](http://arxiv.org/abs/2604.26450v1)
+  Ahmet Tekden, Dimitrios Kanoulas, Aude Billard, Yasemin Bekiroglu
+  Code: nan
+- [PHISHREV: A Hybrid Machine Learning and Post-Hoc Non-monotonic Reasoning Framework for Context-Aware Phishing Website Classification](http://arxiv.org/abs/2604.25512v1)
+  Mainak Sen, Kumar Sankar Ray, Amlan Chakrabarti
   Code: nan
 - [Personalized Cross-Modal Emotional Correlation Learning for Speech-Preserving Facial Expression Manipulation](http://arxiv.org/abs/2604.25255v1)
   Tianshui Chen, Yujie Zhu, Jianman Lin, Zhijing Yang, Chunmei Qing, Feng Gao, Liang Lin
@@ -35,14 +56,17 @@
 - [ANCHOR: A Physically Grounded Closed-Loop Framework for Robust Home-Service Mobile Manipulation](http://arxiv.org/abs/2604.25323v1)
   Jinhao Jiang, Shengyu Fang, Sibo Zuo, Yujie Tang, Yirui Li
   Code: nan
+- [COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization](http://arxiv.org/abs/2604.25388v1)
+  Muhammad Shaheer, Miguel Fernandez-Cortizas, Asier Bikandi-Noya, Holger Voos, Jose Luis Sanchez-Lopez
+  Code: nan
 - [GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](http://arxiv.org/abs/2604.25459v1)
   Yufei Jia, Heng Zhang, Ziheng Zhang, Junzhe Wu, Mingrui Yu, Zifan Wang, Dixuan Jiang, Zheng Li, Chenyu Cao, Zhuoyuan Yu, Xun Yang, Haizhou Ge, Yuchi Zhang, Jiayuan Zhang, Zhenbiao Huang, Tianle Liu, Shenyu Chen, Jiacheng Wang, Bin Xie, Xuran Yao, Xiwa Deng, Guangyu Wang, Jinzhi Zhang, Lei Hao, Zhixing Chen, Yuxiang Chen, Anqi Wang, Hongyun Tian, Yiyi Yan, Zhanxiang Cao, Yizhou Jiang, Hanyang Shao, Yue Li, Lu Shi, Bokui Chen, Wei Sui, Hanqing Cui, Yusen Qin, Ruqi Huang, Lei Han, Tiancai Wang, Guyue Zhou
   Code: nan
-- [PHISHREV: A Hybrid Machine Learning and Post-Hoc Non-monotonic Reasoning Framework for Context-Aware Phishing Website Classification](http://arxiv.org/abs/2604.25512v1)
-  Mainak Sen, Kumar Sankar Ray, Amlan Chakrabarti
+- [Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty](http://arxiv.org/abs/2604.25897v1)
+  Clinton Enwerem, Shreya Kalyanaraman, John S. Baras, Calin Belta
   Code: nan
-- [COMPASS: COmpact Multi-channel Prior-map And Scene Signature for Floor-Plan-Based Visual Localization](http://arxiv.org/abs/2604.25388v1)
-  Muhammad Shaheer, Miguel Fernandez-Cortizas, Asier Bikandi-Noya, Holger Voos, Jose Luis Sanchez-Lopez
+- [Large language models eroding science understanding: an experimental study](http://arxiv.org/abs/2604.25639v1)
+  Harry Collins, Hartmut Grote, Paul Newbury, Patrick Sutton, Simon Thorne
   Code: nan
 - [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](http://arxiv.org/abs/2604.25788v1)
   Yixuan Huang, Bowen Li, Vaibhav Saxena, Yichao Liang, Utkarsh Aashu Mishra, Liang Ji, Lihan Zha, Jimmy Wu, Nishanth Kumar, Sebastian Scherer, Danfei Xu, Tom Silver
@@ -50,53 +74,53 @@
 - [Privileged Foresight Distillation: Zero-Cost Future Correction for World Action Models](http://arxiv.org/abs/2604.25859v1)
   Pengcheng Fang, Hongli Chen, Xiaohao Cai
   Code: nan
-- [Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty](http://arxiv.org/abs/2604.25897v1)
-  Clinton Enwerem, Shreya Kalyanaraman, John S. Baras, Calin Belta
-  Code: nan
 - [TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning](http://arxiv.org/abs/2604.25898v1)
   Dominik Żurek, Kamil Faber, Marcin Pietron, Paweł Gajewski, Roberto Corizzo
   Code: https://github.com/anonymized-for-submission123/tsn-affinity
 - [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](http://arxiv.org/abs/2604.25914v1)
   Jinxiang Meng, Shaoping Huang, Fangyu Lei, Jingyu Guo, Haoxiang Liu, Jiahao Su, Sihan Wang, Yao Wang, Enrui Wang, Ye Yang, Hongze Chai, Jinming Lv, Anbang Yu, Huangjing Zhang, Yitong Zhang, Yiming Huang, Zeyao Ma, Shizhu He, Jun Zhao, Kang Liu
   Code: https://github.com/DA-Open/DV-World}{this
+- [Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics](http://arxiv.org/abs/2604.24642v1)
+  Hai Wang, Xiaochen Yang, Mingzhi Dong, Jing-Hao Xue
+  Code: https://github.com/littlewhitesea/360Semantics
+- [DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation](http://arxiv.org/abs/2604.24426v1)
+  Md Shohel Rana, Andrew H. Sung
+  Code: nan
+- [Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks](http://arxiv.org/abs/2604.24590v1)
+  Lidia Losavio, Luca Persia, Madan Sathe, Dimosthenis Pasadakis
+  Code: nan
+- [Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation](http://arxiv.org/abs/2604.24665v1)
+  Sercan Karakaş, Yusuf Şimşek
+  Code: nan
 - [SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning](http://arxiv.org/abs/2604.24729v1)
   Zijian Guo, İlker Işık, H. M. Sabbir Ahmad, Wenchao Li
   Code: https://github.com/BU-DEPEND-Lab/SpecRLBench
 - [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](http://arxiv.org/abs/2604.24681v1)
   Yifan Xie, YuAn Wang, Guangyu Chen, Jinkun Liu, Yu Sun, Wenbo Ding
   Code: nan
-- [Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation](http://arxiv.org/abs/2604.24665v1)
-  Sercan Karakaş, Yusuf Şimşek
-  Code: nan
-- [Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics](http://arxiv.org/abs/2604.24642v1)
-  Hai Wang, Xiaochen Yang, Mingzhi Dong, Jing-Hao Xue
-  Code: https://github.com/littlewhitesea/360Semantics
-- [Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks](http://arxiv.org/abs/2604.24590v1)
-  Lidia Losavio, Luca Persia, Madan Sathe, Dimosthenis Pasadakis
-  Code: nan
-- [DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation](http://arxiv.org/abs/2604.24426v1)
-  Md Shohel Rana, Andrew H. Sung
-  Code: nan
-- [Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts](http://arxiv.org/abs/2604.21478v1)
-  Yuhan Luo, Tao Chen, Decheng Liu
-  Code: nan
-- [FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception](http://arxiv.org/abs/2604.21331v1)
-  Zhen Zhang, Weinan Wang, Hejia Sun, Qingpeng Ding, Xiangyu Chu, Guoxin Fang, K. W. Samuel Au
-  Code: nan
-- [Brief chatbot interactions produce lasting changes in human moral values](http://arxiv.org/abs/2604.21430v1)
-  Yue Teng, Qianer Zhong, Kim Mai Tich Nguyen Thordsen, Christian Montag, Benjamin Becker
-  Code: nan
-- [X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation](http://arxiv.org/abs/2604.21541v1)
-  Yan Ning, Xingzhou Chen, Delong Li, Hao Zhang, Hanfu Gai, Tongyuan Li, Cheng Zhang, Zhihui Peng, Ling Shi
+- [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](http://arxiv.org/abs/2604.21924v1)
+  Isabella Liu, An-Chieh Cheng, Rui Yan, Geng Chen, Ri-Zhao Qiu, Xueyan Zou, Sha Yi, Hongxu Yin, Xiaolong Wang, Sifei Liu
   Code: nan
 - [VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](http://arxiv.org/abs/2604.21914v1)
   Songen Gu, Yuhang Zheng, Weize Li, Yupeng Zheng, Yating Feng, Xiang Li, Yilun Chen, Pengfei Li, Wenchao Ding
   Code: nan
-- [Long-Horizon Manipulation via Trace-Conditioned VLA Planning](http://arxiv.org/abs/2604.21924v1)
-  Isabella Liu, An-Chieh Cheng, Rui Yan, Geng Chen, Ri-Zhao Qiu, Xueyan Zou, Sha Yi, Hongxu Yin, Xiaolong Wang, Sifei Liu
+- [X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation](http://arxiv.org/abs/2604.21541v1)
+  Yan Ning, Xingzhou Chen, Delong Li, Hao Zhang, Hanfu Gai, Tongyuan Li, Cheng Zhang, Zhihui Peng, Ling Shi
   Code: nan
-- [VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation](http://arxiv.org/abs/2604.20444v1)
-  Qianxi Hua, Xinyue Li, Zheng Yan, Yang Li, Chi Zhang, Yongyao Li, Yufei Liu
+- [Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts](http://arxiv.org/abs/2604.21478v1)
+  Yuhan Luo, Tao Chen, Decheng Liu
+  Code: nan
+- [Brief chatbot interactions produce lasting changes in human moral values](http://arxiv.org/abs/2604.21430v1)
+  Yue Teng, Qianer Zhong, Kim Mai Tich Nguyen Thordsen, Christian Montag, Benjamin Becker
+  Code: nan
+- [FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception](http://arxiv.org/abs/2604.21331v1)
+  Zhen Zhang, Weinan Wang, Hejia Sun, Qingpeng Ding, Xiangyu Chu, Guoxin Fang, K. W. Samuel Au
+  Code: nan
+- [A Kinematic Framework for Evaluating Pinch Configurations in Robotic Hand Design without Object or Contact Models](http://arxiv.org/abs/2604.20692v1)
+  HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park
+  Code: nan
+- [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](http://arxiv.org/abs/2604.20348v1)
+  Alessio Palma, Indro Spinelli, Vignesh Prasad, Luca Scofano, Yufeng Jin, Georgia Chalvatzaki, Fabio Galasso
   Code: nan
 - [Learning Spatial-Temporal Coherent Correlations for Speech-Preserving Facial Expression Manipulation](http://arxiv.org/abs/2604.20226v1)
   Tianshui Chen, Jianman Lin, Zhijing Yang, Chunmei Qing, Guangrun Wang, Liang Lin
@@ -107,11 +131,11 @@
 - [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](http://arxiv.org/abs/2604.20336v1)
   Jiahao Xu, Xiaohan Yuan, Xingchen Wu, Chongyang Xu, Kun Li, Buzhen Huang
   Code: https://github.com/boycehbz/StaCOM
-- [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](http://arxiv.org/abs/2604.20348v1)
-  Alessio Palma, Indro Spinelli, Vignesh Prasad, Luca Scofano, Yufeng Jin, Georgia Chalvatzaki, Fabio Galasso
+- [Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly](http://arxiv.org/abs/2604.20712v1)
+  Yongqiang Zhao, Xuyang Zhang, Zhuo Chen, Matteo Leonetti, Emmanouil Spyrakos-Papastavridis, Shan Luo
   Code: nan
-- [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2604.20689v2)
-  Zhixuan Xu, Yichen Li, Xuanye Wu, Tianyu Qiu, Lin Shao
+- [VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation](http://arxiv.org/abs/2604.20444v1)
+  Qianxi Hua, Xinyue Li, Zheng Yan, Yang Li, Chi Zhang, Yongyao Li, Yufei Liu
   Code: nan
 - [Kinematic Optimization of Phalanx Length Ratios in Robotic Hands Using Potential Dexterity](http://arxiv.org/abs/2604.20686v1)
   HyoJae Kang, Joonho Lee, Jeongdo Ahn, Dong Il Park
@@ -119,23 +143,20 @@
 - [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2604.20689v1)
   Zhixuan Xu, Yichen Li, Xuanye Wu, Tianyu Qiu, Lin Shao
   Code: nan
-- [A Kinematic Framework for Evaluating Pinch Configurations in Robotic Hand Design without Object or Contact Models](http://arxiv.org/abs/2604.20692v1)
-  HyoJae Kang, Joonho Lee, Hyunmok Jung, Dong Il Park
-  Code: nan
-- [Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly](http://arxiv.org/abs/2604.20712v1)
-  Yongqiang Zhao, Xuyang Zhang, Zhuo Chen, Matteo Leonetti, Emmanouil Spyrakos-Papastavridis, Shan Luo
-  Code: nan
 - [DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation](http://arxiv.org/abs/2604.20841v1)
   Hyeonwoo Kim, Jeonghwan Kim, Kyungwon Cho, Hanbyul Joo
   Code: nan
-- [Large Language Models Exhibit Normative Conformity](http://arxiv.org/abs/2604.19301v1)
-  Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata
+- [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2604.20689v2)
+  Zhixuan Xu, Yichen Li, Xuanye Wu, Tianyu Qiu, Lin Shao
+  Code: nan
+- [Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies](http://arxiv.org/abs/2604.19509v1)
+  Jess Jones, Raul Santos-Rodriguez, Sabine Hauert
   Code: nan
 - [Wrench-Aware Admittance Control for Unknown-Payload Manipulation](http://arxiv.org/abs/2604.19469v1)
   Hossein Gholampour, Logan E. Beaver
   Code: nan
-- [Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies](http://arxiv.org/abs/2604.19509v1)
-  Jess Jones, Raul Santos-Rodriguez, Sabine Hauert
+- [Large Language Models Exhibit Normative Conformity](http://arxiv.org/abs/2604.19301v1)
+  Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata
   Code: nan
 - [GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](http://arxiv.org/abs/2604.19522v1)
   Marcelino Julio Fernando, Miguel Altamirano Cabrera, Jeffrin Sam, Yara Mahmoud, Konstantin Gubernatorov, Dzmitry Tsetserukou
@@ -146,8 +167,8 @@
 - [Learning Hybrid-Control Policies for High-Precision In-Contact Manipulation Under Uncertainty](http://arxiv.org/abs/2604.19677v1)
   Hunter L. Brown, Geoffrey Hollinger, Stefan Lee
   Code: nan
-- [SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces](http://arxiv.org/abs/2604.17888v1)
-  Wensheng Wang, Chuanjun Guo, Wei Wei, Tong Wu, Ning Tan
+- [StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement](http://arxiv.org/abs/2604.17887v1)
+  Kerui Li, Zhe Jing, Xiaofeng Wang, Zheng Zhu, Yukun Zhou, Guan Huang, Dongze Li, Qingkai Yang, Huaibo Huang
   Code: nan
 - [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](http://arxiv.org/abs/2604.17838v1)
   Kijung Jeon, Michael Muehlebach, Molei Tao
@@ -155,38 +176,35 @@
 - [Periodic Steady-State Control of a Handkerchief-Spinning Task Using a Parallel Anti-Parallelogram Tendon-driven Wrist](http://arxiv.org/abs/2604.17863v1)
   Lei Liu, Haonan Zhang, Huahang Xu, Zefan Zhang, Lulu Chang, Lei Lv, Andrew Ross McIntosh, Kai Sun, Zhenshan Bing, Jiahong Dong, Fuchun Sun
   Code: nan
+- [GraSP: Graph-Structured Skill Compositions for LLM Agents](http://arxiv.org/abs/2604.17870v1)
+  Tianle Xia, Lingxiang Hu, Yiding Sun, Ming Xu, Lan Xu, Siying Wang, Wei Xu, Jie Jiang
+  Code: nan
 - [OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation](http://arxiv.org/abs/2604.17876v1)
   Kuanning Wang, Ke Fan, Chenhao Qiu, Zeyu Shangguan, Yuqian Fu, Yanwei Fu, Daniel Seita, Xiangyang Xue
   Code: nan
 - [ST-$π$: Structured SpatioTemporal VLA for Robotic Manipulation](http://arxiv.org/abs/2604.17880v1)
   Chuanhao Ma, Hanyu Zhou, Shihan Peng, Yan Li, Tao Gu, Luxin Yan
   Code: https://github.com/chuanhaoma/ST-pi
-- [StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement](http://arxiv.org/abs/2604.17887v1)
-  Kerui Li, Zhe Jing, Xiaofeng Wang, Zheng Zhu, Yukun Zhou, Guan Huang, Dongze Li, Qingkai Yang, Huaibo Huang
+- [DAG-STL: A Hierarchical Framework for Zero-Shot Trajectory Planning under Signal Temporal Logic Specifications](http://arxiv.org/abs/2604.18343v1)
+  Ruijia Liu, Ancheng Hou, Xiao Yu, Xiang Yin
   Code: nan
-- [GraSP: Graph-Structured Skill Compositions for LLM Agents](http://arxiv.org/abs/2604.17870v1)
-  Tianle Xia, Lingxiang Hu, Yiding Sun, Ming Xu, Lan Xu, Siying Wang, Wei Xu, Jie Jiang
+- [SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces](http://arxiv.org/abs/2604.17888v1)
+  Wensheng Wang, Chuanjun Guo, Wei Wei, Tong Wu, Ning Tan
   Code: nan
 - [Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study](http://arxiv.org/abs/2604.17896v1)
   Yubai Wei, Chen Wu, Hashem Haghbayan
   Code: nan
+- [Muscle-inspired magnetic actuators that push, pull, crawl, and grasp](http://arxiv.org/abs/2604.18090v1)
+  Muhammad Bilal Khan, Florian Hofmann, Kilian Schäfer, Matthias Lutzi, Oliver Gutfleisch
+  Code: nan
 - [A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting](http://arxiv.org/abs/2604.18205v1)
   Mikolaj Zielinski, Eryk Vykysaly, Bartlomiej Biesiada, Jan Baturo, Mateusz Capala, Dominik Belter
-  Code: nan
-- [Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation](http://arxiv.org/abs/2604.18468v1)
-  Tianshi Cao, Jiawei Ren, Yuxuan Zhang, Jaewoo Seo, Jiahui Huang, Shikhar Solanki, Haotian Zhang, Mingfei Guo, Haithem Turki, Muxingzi Li, Yue Zhu, Sipeng Zhang, Zan Gojcic, Sanja Fidler, Kangxue Yin
   Code: nan
 - [COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation](http://arxiv.org/abs/2604.18236v1)
   Alex Mitrevski, Ayush Salunke
   Code: nan
-- [DAG-STL: A Hierarchical Framework for Zero-Shot Trajectory Planning under Signal Temporal Logic Specifications](http://arxiv.org/abs/2604.18343v1)
-  Ruijia Liu, Ancheng Hou, Xiao Yu, Xiang Yin
-  Code: nan
-- [Muscle-inspired magnetic actuators that push, pull, crawl, and grasp](http://arxiv.org/abs/2604.18090v1)
-  Muhammad Bilal Khan, Florian Hofmann, Kilian Schäfer, Matthias Lutzi, Oliver Gutfleisch
-  Code: nan
-- [HRDexDB: A Large-Scale Dataset of Dexterous Human and Robotic Hand Grasps](http://arxiv.org/abs/2604.14944v1)
-  Jongbin Lim, Taeyun Ha, Mingi Choi, Jisoo Kim, Byungjun Kim, Subin Jeon, Hanbyul Joo
+- [Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation](http://arxiv.org/abs/2604.18468v1)
+  Tianshi Cao, Jiawei Ren, Yuxuan Zhang, Jaewoo Seo, Jiahui Huang, Shikhar Solanki, Haotian Zhang, Mingfei Guo, Haithem Turki, Muxingzi Li, Yue Zhu, Sipeng Zhang, Zan Gojcic, Sanja Fidler, Kangxue Yin
   Code: nan
 - [Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models](http://arxiv.org/abs/2604.14640v1)
   Cuong Hoang, Le-Minh Nguyen
@@ -199,6 +217,9 @@
   Code: nan
 - [Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes](http://arxiv.org/abs/2604.14914v1)
   Victoria Yue Chen, Emery Pierson, Léopold Maillard, Maks Ovsjanikov
+  Code: nan
+- [HRDexDB: A Large-Scale Dataset of Dexterous Human and Robotic Hand Grasps](http://arxiv.org/abs/2604.14944v1)
+  Jongbin Lim, Taeyun Ha, Mingi Choi, Jisoo Kim, Byungjun Kim, Subin Jeon, Hanbyul Joo
   Code: nan
 - [DEX-Mouse: A Low-cost Portable and Universal Interface with Force Feedback for Data Collection of Dexterous Robotic Hands](http://arxiv.org/abs/2604.15013v1)
   Joonho Koh, Haechan Jung, Nayoung Kim, Wook Ko, Changjoo Nam
@@ -218,11 +239,11 @@
 - [R3D: Revisiting 3D Policy Learning](http://arxiv.org/abs/2604.15281v1)
   Zhengdong Hong, Shenrui Wu, Haozhe Cui, Boyi Zhao, Ran Ji, Yiyang He, Hangxing Zhang, Zundong Ke, Jun Wang, Guofeng Zhang, Jiayuan Gu
   Code: nan
-- [ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation](http://arxiv.org/abs/2604.13633v1)
-  Jingjing Qian, Zeyuan He, Chen Shi, Lei Xiao, Li Jiang
-  Code: nan
 - [Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization](http://arxiv.org/abs/2604.13533v2)
   Jianzong Wang, Botao Zhao, Yayun He, Junqing Peng, Xulong Zhang
+  Code: nan
+- [RobotPan: A 360$^\circ$ Surround-View Robotic Vision System for Embodied Perception](http://arxiv.org/abs/2604.13476v1)
+  Jiahao Ma, Qiang Zhang, Peiran Liu, Zeran Su, Pihai Sun, Gang Han, Wen Zhao, Wei Cui, Zhang Zhang, Zhiyuan Xu, Renjing Xu, Jian Tang, Miaomiao Liu, Yijie Guo
   Code: nan
 - [Chain of Uncertain Rewards with Large Language Models for Reinforcement Learning](http://arxiv.org/abs/2604.13504v1)
   Shentong Mo
@@ -236,20 +257,11 @@
 - [Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges](http://arxiv.org/abs/2604.13602v1)
   Xiaohua Wang, Muzhao Tian, Yuqi Zeng, Zisu Huang, Jiakang Yuan, Bowen Chen, Jingwen Xu, Mingbo Zhou, Wenhao Liu, Muling Wu, Zhengkang Guo, Qi Qian, Yifei Wang, Feiran Zhang, Ruicheng Yin, Shihan Dou, Changze Lv, Tao Chen, Kaitao Song, Xu Tan, Tao Gui, Xiaoqing Zheng, Xuanjing Huang
   Code: nan
-- [RobotPan: A 360$^\circ$ Surround-View Robotic Vision System for Embodied Perception](http://arxiv.org/abs/2604.13476v1)
-  Jiahao Ma, Qiang Zhang, Peiran Liu, Zeran Su, Pihai Sun, Gang Han, Wen Zhao, Wei Cui, Zhang Zhang, Zhiyuan Xu, Renjing Xu, Jian Tang, Miaomiao Liu, Yijie Guo
+- [ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation](http://arxiv.org/abs/2604.13633v1)
+  Jingjing Qian, Zeyuan He, Chen Shi, Lei Xiao, Li Jiang
   Code: nan
 - [A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies](http://arxiv.org/abs/2604.13645v1)
   Yu Lei, Minghuan Liu, Abhiram Maddukuri, Zhenyu Jiang, Yuke Zhu
-  Code: nan
-- [Mosaic: An Extensible Framework for Composing Rule-Based and Learned Motion Planners](http://arxiv.org/abs/2604.13853v1)
-  Nick Le Large, Marlon Steiner, Lingguang Wang, Willi Poh, Jan-Hendrik Pauls, Ömer Şahin Taş, Christoph Stiller
-  Code: nan
-- [Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](http://arxiv.org/abs/2604.13942v1)
-  Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, Zhipeng Tang, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu
-  Code: nan
-- [UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception](http://arxiv.org/abs/2604.14089v1)
-  Ziming Wang
   Code: nan
 - [HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](http://arxiv.org/abs/2604.14125v1)
   Tianshuo Yang, Guanyu Chen, Yutian Chen, Zhixuan Liang, Yitian Liu, Zanxin Chen, Chunpu Xu, Haotian Liang, Jiangmiao Pang, Yao Mu, Ping Luo
@@ -257,9 +269,21 @@
 - [Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation](http://arxiv.org/abs/2604.13803v1)
   Arya Shah, Vaibhav Tripathi, Mayank Singh, Chaklam Silpasuwanchai
   Code: https://github.com/aryashah2k/Gaslight-Gatekeep-Sycophantic-Manipulation}{GitHub}
+- [UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception](http://arxiv.org/abs/2604.14089v1)
+  Ziming Wang
+  Code: nan
+- [Mosaic: An Extensible Framework for Composing Rule-Based and Learned Motion Planners](http://arxiv.org/abs/2604.13853v1)
+  Nick Le Large, Marlon Steiner, Lingguang Wang, Willi Poh, Jan-Hendrik Pauls, Ömer Şahin Taş, Christoph Stiller
+  Code: nan
+- [Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](http://arxiv.org/abs/2604.13942v1)
+  Zhen Liu, Xinyu Ning, Zhe Hu, Xinxin Xie, Weize Li, Zhipeng Tang, Chongyu Wang, Zejun Yang, Hanlin Wang, Yitong Liu, Zhongzhu Pu
+  Code: nan
 - [From Attenuation to Attention: Variational Information Flow Manipulation for Fine-Grained Visual Perception](http://arxiv.org/abs/2604.12508v1)
   Jilong Zhu, Yang Feng
   Code: nan
+- [Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](http://arxiv.org/abs/2604.12503v1)
+  Shuai Wang, Xixi Wang, Yinan Yu
+  Code: https://github.com/Wangshuaiia/GraSP
 - [EgoEsportsQA: An Egocentric Video Benchmark for Perception and Reasoning in Esports](http://arxiv.org/abs/2604.12320v2)
   Jianzhe Ma, Zhonghao Cao, Shangkui Chen, Yichen Xu, Wenxuan Wang, Qin Jin
   Code: nan
@@ -272,20 +296,17 @@
 - [Detecting Precise Hand Touch Moments in Egocentric Video](http://arxiv.org/abs/2604.12343v1)
   Huy Anh Nguyen, Feras Dayoub, Minh Hoai
   Code: nan
-- [Decoding by Perturbation: Mitigating MLLM Hallucinations via Dynamic Textual Perturbation](http://arxiv.org/abs/2604.12424v1)
-  Sihang Jia, Shuliang Liu, Songbo Yang, Yibo Yan, Xin Zou, Xuming Hu
-  Code: nan
-- [Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](http://arxiv.org/abs/2604.12503v1)
-  Shuai Wang, Xixi Wang, Yinan Yu
-  Code: https://github.com/Wangshuaiia/GraSP
 - [Security and Resilience in Autonomous Vehicles: A Proactive Design Approach](http://arxiv.org/abs/2604.12408v1)
   Chieh Tsai, Murad Mehrab Abrar, Salim Hariri
   Code: nan
-- [Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers](http://arxiv.org/abs/2604.12509v1)
-  Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki
+- [Decoding by Perturbation: Mitigating MLLM Hallucinations via Dynamic Textual Perturbation](http://arxiv.org/abs/2604.12424v1)
+  Sihang Jia, Shuliang Liu, Songbo Yang, Yibo Yan, Xin Zou, Xuming Hu
   Code: nan
 - [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](http://arxiv.org/abs/2604.12565v1)
   Yida Niu, Xinhai Chang, Xin Liu, Ziyuan Jiao, Yixin Zhu
+  Code: nan
+- [Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers](http://arxiv.org/abs/2604.12509v1)
+  Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki
   Code: nan
 - [StructDiff: A Structure-Preserving and Spatially Controllable Diffusion Model for Single-Image Generation](http://arxiv.org/abs/2604.12575v1)
   Yinxi He, Kang Liao, Chunyu Lin, Tianyi Wei, Yao Zhao
@@ -302,11 +323,11 @@
 - [Learning Versatile Humanoid Manipulation with Touch Dreaming](http://arxiv.org/abs/2604.13015v1)
   Yaru Niu, Zhenlong Fang, Binghong Chen, Shuai Zhou, Revanth Senthilkumaran, Hao Zhang, Bingqing Chen, Chen Qiu, H. Eric Tseng, Jonathan Francis, Ding Zhao
   Code: nan
-- [Complementarity by Construction: A Lie-Group Approach to Solving Quadratic Programs with Linear Complementarity Constraints](http://arxiv.org/abs/2604.11991v2)
-  Arun L. Bishop, Micah I. Reich, Zachary Manchester
-  Code: nan
 - [Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech](http://arxiv.org/abs/2604.11417v2)
   Edwin C. Montiel-Vazquez, Christian Arzate Cruz, Stefanos Gkikas, Thomas Kassiotis, Giorgos Giannakakis, Randy Gomez
+  Code: nan
+- [Complementarity by Construction: A Lie-Group Approach to Solving Quadratic Programs with Linear Complementarity Constraints](http://arxiv.org/abs/2604.11991v2)
+  Arun L. Bishop, Micah I. Reich, Zachary Manchester
   Code: nan
 - [LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation](http://arxiv.org/abs/2604.11789v2)
   Yuqian Yuan, Wenqiao Zhang, Juekai Lin, Yu Zhong, Mingjian Gao, Binhe Yu, Yunqi Cao, Wentong Li, Yueting Zhuang, Beng Chin Ooi
@@ -317,44 +338,44 @@
 - [OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction](http://arxiv.org/abs/2604.10647v2)
   Shaqi Luo, Yuanyuan Li, Youhao Hu, Chenhao Yu, Chaoran Xu, Jiachen Zhang, Guocai Yao, Tiejun Huang, Ran He, Zhongyuan Wang
   Code: nan
+- [EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots](http://arxiv.org/abs/2604.08292v1)
+  Yifei Wang, Hao Zhang, Jidong Huang, Shuohang Fang, Haoyao Chen
+  Code: nan
 - [LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](http://arxiv.org/abs/2604.08475v2)
   Jingjing Wang, Zhengdong Hong, Chong Bao, Yuke Zhu, Junhan Sun, Guofeng Zhang
   Code: nan
 - [BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields](http://arxiv.org/abs/2604.08410v2)
   Fan Yang, Wenrui Chen, Guorun Yan, Ruize Liao, Wanjun Jia, Dongsheng Luo, Jiacheng Lin, Kailun Yang, Zhiyong Li, Yaonan Wang
   Code: https://github.com/PopeyePxx/BLaDA
-- [Karma Mechanisms for Decentralised, Cooperative Multi Agent Path Finding](http://arxiv.org/abs/2604.07970v1)
-  Kevin Riehl, Julius Schlapbach, Anastasios Kouvelas, Michail A. Makridis
-  Code: https://github.com/DerKevinRiehl/karma_dmapf
 - [HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation](http://arxiv.org/abs/2604.07993v1)
   Shuanghao Bai, Meng Li, Xinyuan Lv, Jiawei Wang, Xinhua Wang, Fei Liao, Chengkai Hou, Langzhe Gu, Wanqi Zhou, Kun Wu, Ziluo Ding, Zhiyuan Xu, Lei Sun, Shanghang Zhang, Zhengping Che, Jian Tang, Badong Chen
-  Code: nan
-- [AT-ADD: All-Type Audio Deepfake Detection Challenge Evaluation Plan](http://arxiv.org/abs/2604.08184v1)
-  Yuankun Xie, Haonan Cheng, Jiayi Zhou, Xiaoxuan Guo, Tao Wang, Jian Liu, Weiqiang Wang, Ruibo Fu, Xiaopeng Wang, Hengyan Huang, Xiaoying Huang, Long Ye, Guangtao Zhai
   Code: nan
 - [Governed Capability Evolution for Embodied Agents: Safe Upgrade, Compatibility Checking, and Runtime Rollback for Embodied Capability Modules](http://arxiv.org/abs/2604.08059v1)
   Xue Qin, Simin Luan, John See, Cong Yang, Zhijun Li
   Code: nan
-- [BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields](http://arxiv.org/abs/2604.08410v1)
-  Fan Yang, Wenrui Chen, Guorun Yan, Ruize Liao, Wanjun Jia, Dongsheng Luo, Kailun Yang, Zhiyong Li, Yaonan Wang
-  Code: https://github.com/PopeyePxx/BLaDA
-- [EMMa: End-Effector Stability-Oriented Mobile Manipulation for Tracked Rescue Robots](http://arxiv.org/abs/2604.08292v1)
-  Yifei Wang, Hao Zhang, Jidong Huang, Shuohang Fang, Haoyao Chen
+- [AT-ADD: All-Type Audio Deepfake Detection Challenge Evaluation Plan](http://arxiv.org/abs/2604.08184v1)
+  Yuankun Xie, Haonan Cheng, Jiayi Zhou, Xiaoxuan Guo, Tao Wang, Jian Liu, Weiqiang Wang, Ruibo Fu, Xiaopeng Wang, Hengyan Huang, Xiaoying Huang, Long Ye, Guangtao Zhai
   Code: nan
-- [ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration](http://arxiv.org/abs/2604.08534v1)
-  Yanwen Zou, Chenyang Shi, Wenye Yu, Han Xue, Jun Lv, Ye Pan, Chuan Wen, Cewu Lu
-  Code: nan
+- [Karma Mechanisms for Decentralised, Cooperative Multi Agent Path Finding](http://arxiv.org/abs/2604.07970v1)
+  Kevin Riehl, Julius Schlapbach, Anastasios Kouvelas, Michail A. Makridis
+  Code: https://github.com/DerKevinRiehl/karma_dmapf
 - [Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions](http://arxiv.org/abs/2604.08304v1)
   Yuming Xu, Mingtao Zhang, Zhuohan Ge, Haoyang Li, Nicole Hu, Jason Chen Zhang, Qing Li, Lei Chen
   Code: nan
-- [SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds](http://arxiv.org/abs/2604.08544v1)
-  Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen, Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu, Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng, Jiangmiao Pang
+- [BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields](http://arxiv.org/abs/2604.08410v1)
+  Fan Yang, Wenrui Chen, Guorun Yan, Ruize Liao, Wanjun Jia, Dongsheng Luo, Kailun Yang, Zhiyong Li, Yaonan Wang
+  Code: https://github.com/PopeyePxx/BLaDA
+- [LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](http://arxiv.org/abs/2604.08475v1)
+  Jingjing Wang, Zhengdong Hong, Chong Bao, Yuke Zhu, Junhan Sun, Guofeng Zhang
   Code: nan
 - [A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation](http://arxiv.org/abs/2604.08528v1)
   Uksang Yoo, Yuemin Mao, Jean Oh, Jeffrey Ichnowski
   Code: nan
-- [LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](http://arxiv.org/abs/2604.08475v1)
-  Jingjing Wang, Zhengdong Hong, Chong Bao, Yuke Zhu, Junhan Sun, Guofeng Zhang
+- [ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration](http://arxiv.org/abs/2604.08534v1)
+  Yanwen Zou, Chenyang Shi, Wenye Yu, Han Xue, Jun Lv, Ye Pan, Chuan Wen, Cewu Lu
+  Code: nan
+- [SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds](http://arxiv.org/abs/2604.08544v1)
+  Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen, Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu, Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng, Jiangmiao Pang
   Code: nan
 - [Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama](http://arxiv.org/abs/2604.07105v1)
   Zhijun Li, Yongxin Su, Di Yang, Jichao Wang, Zheyuan Xing, Qian Wang, Maoqing Yao
@@ -371,8 +392,8 @@
 - [Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama](http://arxiv.org/abs/2604.07105v2)
   Zhijun Li, Yongxin Su, Di Yang, Jichao Wang, Zheyuan Xing, Qian Wang, Maoqing Yao
   Code: https://github.com/AgibotTech/genie_sim/tree/main/source/geniesim_world
-- [Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](http://arxiv.org/abs/2604.05595v1)
-  Baoshun Tong, Haoran He, Ling Pan, Yang Liu, Liang Lin
+- [Referring-Aware Visuomotor Policy Learning for Closed-Loop Manipulation](http://arxiv.org/abs/2604.05544v1)
+  Jiahua Ma, Yiran Qin, Xin Wen, Yixiong Li, Yuyu Sun, Yulan Guo, Liang Lin, Ruimao Zhang
   Code: nan
 - [Synergizing Efficiency and Reliability for Continuous Mobile Manipulation](http://arxiv.org/abs/2604.05430v1)
   Chengkai Wu, Ruilin Wang, Yixin Zeng, Jiayuan Wang, Mingjie Zhang, Guiyong Zheng, Qun Niu, Juepeng Zheng, Jun Ma, Boyu Zhou
@@ -386,11 +407,8 @@
 - [Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality](http://arxiv.org/abs/2604.05510v1)
   Yanming Xiu, Zhengayuan Jiang, Neil Zhenqiang Gong, Maria Gorlatova
   Code: nan
-- [Referring-Aware Visuomotor Policy Learning for Closed-Loop Manipulation](http://arxiv.org/abs/2604.05544v1)
-  Jiahua Ma, Yiran Qin, Xin Wen, Yixiong Li, Yuyu Sun, Yulan Guo, Liang Lin, Ruimao Zhang
-  Code: nan
-- [GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps](http://arxiv.org/abs/2604.05697v1)
-  Elizaveta Semenyakina, Ivan Snegirev, Mariya Lezina, Miguel Altamirano Cabrera, Safina Gulyamova, Dzmitry Tsetserukou
+- [Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming](http://arxiv.org/abs/2604.05595v1)
+  Baoshun Tong, Haoran He, Ling Pan, Yang Liu, Liang Lin
   Code: nan
 - [BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination](http://arxiv.org/abs/2604.05831v1)
   Xingyu Peng, Chen Gao, Liankai Jin, Annan Li, Si Liu
@@ -403,6 +421,9 @@
   Code: nan
 - [HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning](http://arxiv.org/abs/2604.06067v1)
   Jiyao Zhang, Zimu Han, Junhan Wang, Xionghao Wu, Shihong Lin, Jinzhou Li, Hongwei Fan, Ruihai Wu, Dongjiang Li, Hao Dong
+  Code: nan
+- [GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps](http://arxiv.org/abs/2604.05697v1)
+  Elizaveta Semenyakina, Ivan Snegirev, Mariya Lezina, Miguel Altamirano Cabrera, Safina Gulyamova, Dzmitry Tsetserukou
   Code: nan
 - [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](http://arxiv.org/abs/2604.04911v1)
   Yicheng Xiao, Wenhu Zhang, Lin Song, Yukang Chen, Wenbo Li, Nan Jiang, Tianhe Ren, Haokun Lin, Wei Huang, Haoyang Huang, Xiu Li, Nan Duan, Xiaojuan Qi
@@ -428,11 +449,14 @@
 - [ARM: Advantage Reward Modeling for Long-Horizon Manipulation](http://arxiv.org/abs/2604.03037v2)
   Yiming Mao, Zixi Yu, Weixin Mao, Yinhao Li, Qirui Hu, Zihan Lan, Minzhao Zhu, Hua Chen
   Code: nan
+- [THOM: Generating Physically Plausible Hand-Object Meshes From Text](http://arxiv.org/abs/2604.02736v2)
+  Uyoung Jeong, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
+  Code: nan
 - [Evaluating the Formal Reasoning Capabilities of Large Language Models through Chomsky Hierarchy](http://arxiv.org/abs/2604.02709v2)
   Yihong Dong, Jianha Xiao, Xue Jiang, Xuyuan Guo, Zhiyuan Fan, Jiaru Qian, Kechi Zhang, Jia Li, Zhi Jin, Ge Li
   Code: nan
-- [THOM: Generating Physically Plausible Hand-Object Meshes From Text](http://arxiv.org/abs/2604.02736v2)
-  Uyoung Jeong, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
+- [Cross-Modal Visuo-Tactile Object Perception](http://arxiv.org/abs/2604.02108v1)
+  Anirvan Dutta, Simone Tasciotti, Claudia Cusseddu, Ang Li, Panayiota Poirazi, Julijana Gjorgjieva, Etienne Burdet, Patrick van der Smagt, Mohsen Kaboli
   Code: nan
 - [CompassAD: Intent-Driven 3D Affordance Grounding in Functionally Competing Objects](http://arxiv.org/abs/2604.02060v1)
   Jingliang Li, Jindou Jia, Tuo An, Chuhao Zhou, Xiangyu Chen, Shilin Shan, Boyu Ma, Bofan Lyu, Gen Li, Jianfei Yang
@@ -446,11 +470,17 @@
 - [Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models](http://arxiv.org/abs/2604.01618v1)
   Jiawei Chen, Simin Huang, Jiawei Du, Shuaihang Chen, Yu Tian, Mingjie Wei, Chao Yu, Zhaoxia Yin
   Code: nan
-- [Cross-Modal Visuo-Tactile Object Perception](http://arxiv.org/abs/2604.02108v1)
-  Anirvan Dutta, Simone Tasciotti, Claudia Cusseddu, Ang Li, Panayiota Poirazi, Julijana Gjorgjieva, Etienne Burdet, Patrick van der Smagt, Mohsen Kaboli
+- [SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel](http://arxiv.org/abs/2604.00738v1)
+  Dhillon B. Merritt, Christopher J. Ford, Haoran Li, Malia Smith, Zhixing Chen, Efi Psomopoulou, Nathan F. Lepora
   Code: nan
-- [EgoSim: Egocentric World Simulator for Embodied Interaction Generation](http://arxiv.org/abs/2604.01001v1)
-  Jinkun Hao, Mingda Jia, Ruiyan Wang, Xihui Liu, Ran Yi, Lizhuang Ma, Jiangmiao Pang, Xudong Xu
+- [How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands](http://arxiv.org/abs/2604.00744v1)
+  Christopher J. Ford, Kaichen Shi, Laura Butcher, Nathan F. Lepora, Efi Psomopoulou
+  Code: nan
+- [A Dual-Action Fabric-Based Soft Robotic Glove for Ergonomic Hand Rehabilitation](http://arxiv.org/abs/2604.00768v1)
+  Rui Chen, Firman Isma Serdana, Domenico Chiaradia, Xianlong Mai, Elena Losanno, Gabriele Righi, Claudia De Santis, Federica Serra, Vincent Mendez, Cristian Camardella, Daniele Leonardis, Giulio Del Popolo, Silvestro Micera, Antonio Frisoli
+  Code: nan
+- [Multi-Camera View Scaling for Data-Efficient Robot Imitation Learning](http://arxiv.org/abs/2604.00557v1)
+  Yichen Xie, Yixiao Wang, Shuqi Zhao, Cheng-En Wu, Masayoshi Tomizuka, Jianwen Xie, Hao-Shu Fang
   Code: nan
 - [A wearable haptic device for edge and surface simulation](http://arxiv.org/abs/2604.00752v1)
   Rui Chen, Xianlong Mai, Alireza Sanaei, Domenico Chiaradia, Antonio Frisoli, Daniele Leonardis
@@ -458,92 +488,83 @@
 - [GRASP: Gradient Realignment via Active Shared Perception for Multi-Agent Collaborative Optimization](http://arxiv.org/abs/2604.00717v1)
   Sihan Zhou, Tiantian He, Yifan Lu, Yaqing Hou, Yew-Soon Ong
   Code: nan
-- [SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel](http://arxiv.org/abs/2604.00738v1)
-  Dhillon B. Merritt, Christopher J. Ford, Haoran Li, Malia Smith, Zhixing Chen, Efi Psomopoulou, Nathan F. Lepora
-  Code: nan
-- [How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands](http://arxiv.org/abs/2604.00744v1)
-  Christopher J. Ford, Kaichen Shi, Laura Butcher, Nathan F. Lepora, Efi Psomopoulou
-  Code: nan
-- [BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control](http://arxiv.org/abs/2604.01064v1)
-  Donghoon Baek, Sang-Hun Kim, Sehoon Ha
-  Code: nan
-- [A Dual-Action Fabric-Based Soft Robotic Glove for Ergonomic Hand Rehabilitation](http://arxiv.org/abs/2604.00768v1)
-  Rui Chen, Firman Isma Serdana, Domenico Chiaradia, Xianlong Mai, Elena Losanno, Gabriele Righi, Claudia De Santis, Federica Serra, Vincent Mendez, Cristian Camardella, Daniele Leonardis, Giulio Del Popolo, Silvestro Micera, Antonio Frisoli
-  Code: nan
 - [Beyond Symbolic Solving: Multi Chain-of-Thought Voting for Geometric Reasoning in Large Language Models](http://arxiv.org/abs/2604.00890v1)
   Md. Abu Bakor Siddique, Shahrin Hossain, Sadman Ahmed Siam, Syed Rifat Raiyan, Hasan Mahmud, Md Kamrul Hasan
-  Code: nan
-- [Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking](http://arxiv.org/abs/2604.01142v1)
-  Shaifalee Saxena, Rafael Fierro, Alexander Scheinker
   Code: nan
 - [Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies](http://arxiv.org/abs/2604.01224v1)
   Uksang Yoo, Mengjia Zhu, Evan Pezent, Jom Preechayasomboon, Jean Oh, Jeffrey Ichnowski, Amir Memar, Ben Abbatematteo, Homanga Bharadhwaj, Ashish Deshpande, Harsha Prahlad
   Code: nan
-- [Multi-Camera View Scaling for Data-Efficient Robot Imitation Learning](http://arxiv.org/abs/2604.00557v1)
-  Yichen Xie, Yixiao Wang, Shuqi Zhao, Cheng-En Wu, Masayoshi Tomizuka, Jianwen Xie, Hao-Shu Fang
+- [Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking](http://arxiv.org/abs/2604.01142v1)
+  Shaifalee Saxena, Rafael Fierro, Alexander Scheinker
+  Code: nan
+- [EgoSim: Egocentric World Simulator for Embodied Interaction Generation](http://arxiv.org/abs/2604.01001v1)
+  Jinkun Hao, Mingda Jia, Ruiyan Wang, Xihui Liu, Ran Yi, Lizhuang Ma, Jiangmiao Pang, Xudong Xu
+  Code: nan
+- [BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control](http://arxiv.org/abs/2604.01064v1)
+  Donghoon Baek, Sang-Hun Kim, Sehoon Ha
   Code: nan
 
 ## March
 
-- [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](http://arxiv.org/abs/2603.29409v1)
-  Andrew Jeong, Jaemin Kim, Sebin Lee, Sung-Eui Yoon
-  Code: nan
-- [Security in LLM-as-a-Judge: A Comprehensive SoK](http://arxiv.org/abs/2603.29403v1)
-  Aiman Almasoud, Antony Anju, Marco Arazzi, Mert Cihangiroglu, Vignesh Kumar Kembu, Serena Nicolazzo, Antonino Nocera, Vinod P., Saraga Sakthidharan
-  Code: nan
-- [Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation](http://arxiv.org/abs/2603.29651v1)
-  Brian Felipe Keith-Norambuena, Fausto German, Eric Krokos, Sarah Joseph, Chris North
-  Code: nan
-- [Industrial-Grade Robust Robot Vision for Screw Detection and Removal under Uneven Conditions](http://arxiv.org/abs/2603.29363v1)
-  Tomoki Ishikura, Genichiro Matsuda, Takuya Kiyokawa, Kensuke Harada
-  Code: nan
-- [Security in LLM-as-a-Judge: A Comprehensive SoK](http://arxiv.org/abs/2603.29403v2)
-  Aiman Al Masoud, Antony Anju, Marco Arazzi, Mert Cihangiroglu, Vignesh Kumar Kembu, Serena Nicolazzo, Antonino Nocera, Vinod P., Saraga Sakthidharan
+- [Seeing the Evidence, Missing the Answer: Tool-Guided Vision-Language Models on Visual Illusions](http://arxiv.org/abs/2603.29428v1)
+  Xuesong Wang, Harry Wang
   Code: nan
 - [SuperGrasp: Single-View Object Grasping via Superquadric Similarity Matching, Evaluation, and Refinement](http://arxiv.org/abs/2603.29254v2)
   Lijingze Xiao, Jinhong Du, Supeng Diao, Yu Ren, Yang Cong
   Code: nan
-- [A2BFR: Attribute-Aware Blind Face Restoration](http://arxiv.org/abs/2603.29423v1)
-  Chenxin Zhu, Yushun Fang, Lu Liu, Shibo Yin, Xiaohong Liu, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
+- [Security in LLM-as-a-Judge: A Comprehensive SoK](http://arxiv.org/abs/2603.29403v2)
+  Aiman Al Masoud, Antony Anju, Marco Arazzi, Mert Cihangiroglu, Vignesh Kumar Kembu, Serena Nicolazzo, Antonino Nocera, Vinod P., Saraga Sakthidharan
   Code: nan
-- [RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment](http://arxiv.org/abs/2603.29419v1)
-  Qiyuan Zhuang, He-Yang Xu, Yijun Wang, Xin-Yang Zhao, Yang-Yang Li, Xiu-Shen Wei
-  Code: https://github.com/SEU-VIPGroup/RAAP
-- [Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection](http://arxiv.org/abs/2603.29733v1)
-  Rosario Leonardi, Antonino Furnari, Francesco Ragusa, Giovanni Maria Farinella
-  Code: nan
-- [Seeing the Evidence, Missing the Answer: Tool-Guided Vision-Language Models on Visual Illusions](http://arxiv.org/abs/2603.29428v1)
-  Xuesong Wang, Harry Wang
-  Code: nan
-- [GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2603.29533v1)
-  Ancheng Hou, Ruijia Liu, Xiang Yin
-  Code: nan
-- [FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing](http://arxiv.org/abs/2603.29697v1)
-  Fengjian Xue, Xuecheng Wu, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Jinheng Xie, Dingkang Yang, Hao Wang, Junxiao Xue, Liang He
-  Code: nan
-- [Reconfiguration of supernumerary robotic limbs for human augmentation](http://arxiv.org/abs/2603.29808v1)
-  Mustafa Mete, Anastasia Bolotnikova, Alexander Schuessler, Jamie Paik
-  Code: nan
-- [Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models](http://arxiv.org/abs/2603.30022v1)
-  Md Saad, Sajjad Hussain, Mohd Suhaib
+- [Industrial-Grade Robust Robot Vision for Screw Detection and Removal under Uneven Conditions](http://arxiv.org/abs/2603.29363v1)
+  Tomoki Ishikura, Genichiro Matsuda, Takuya Kiyokawa, Kensuke Harada
   Code: nan
 - [HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation](http://arxiv.org/abs/2603.30042v1)
   Xiangshan Tan, Jingtian Ji, Tianchong Jiang, Pedro Lopes, Matthew R. Walter
   Code: nan
+- [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](http://arxiv.org/abs/2603.29409v1)
+  Andrew Jeong, Jaemin Kim, Sebin Lee, Sung-Eui Yoon
+  Code: nan
+- [A2BFR: Attribute-Aware Blind Face Restoration](http://arxiv.org/abs/2603.29423v1)
+  Chenxin Zhu, Yushun Fang, Lu Liu, Shibo Yin, Xiaohong Liu, Xiaoyun Zhang, Qiang Hu, Guangtao Zhai
+  Code: nan
+- [Security in LLM-as-a-Judge: A Comprehensive SoK](http://arxiv.org/abs/2603.29403v1)
+  Aiman Almasoud, Antony Anju, Marco Arazzi, Mert Cihangiroglu, Vignesh Kumar Kembu, Serena Nicolazzo, Antonino Nocera, Vinod P., Saraga Sakthidharan
+  Code: nan
 - [CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion](http://arxiv.org/abs/2603.29452v1)
   Yuan Hao, Ruiqi Yu, Shixin Luo, Guoteng Zhang, Jun Wu, Qiuguo Zhu
   Code: nan
-- [Tele-Catch: Adaptive Teleoperation for Dexterous Dynamic 3D Object Catching](http://arxiv.org/abs/2603.28427v1)
-  Weiguang Zhao, Junting Dong, Rui Zhang, Kailin Li, Qin Zhao, Kaizhu Huang
+- [Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection](http://arxiv.org/abs/2603.29733v1)
+  Rosario Leonardi, Antonino Furnari, Francesco Ragusa, Giovanni Maria Farinella
   Code: nan
-- [Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based RL](http://arxiv.org/abs/2603.28053v1)
-  Udita Ghosh, Dripta S. Raychaudhuri, Jiachen Li, Konstantinos Karydis, Amit Roy-Chowdhury
+- [GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2603.29533v1)
+  Ancheng Hou, Ruijia Liu, Xiang Yin
+  Code: nan
+- [Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models](http://arxiv.org/abs/2603.30022v1)
+  Md Saad, Sajjad Hussain, Mohd Suhaib
+  Code: nan
+- [Reconfiguration of supernumerary robotic limbs for human augmentation](http://arxiv.org/abs/2603.29808v1)
+  Mustafa Mete, Anastasia Bolotnikova, Alexander Schuessler, Jamie Paik
+  Code: nan
+- [RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment](http://arxiv.org/abs/2603.29419v1)
+  Qiyuan Zhuang, He-Yang Xu, Yijun Wang, Xin-Yang Zhao, Yang-Yang Li, Xiu-Shen Wei
+  Code: https://github.com/SEU-VIPGroup/RAAP
+- [FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing](http://arxiv.org/abs/2603.29697v1)
+  Fengjian Xue, Xuecheng Wu, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Jinheng Xie, Dingkang Yang, Hao Wang, Junxiao Xue, Liang He
+  Code: nan
+- [Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation](http://arxiv.org/abs/2603.29651v1)
+  Brian Felipe Keith-Norambuena, Fausto German, Eric Krokos, Sarah Joseph, Chris North
+  Code: nan
+- [Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation](http://arxiv.org/abs/2603.28422v1)
+  Robin Kühn, Moritz Schappler, Thomas Seel, Dennis Bank
   Code: nan
 - [InkDrop: Invisible Backdoor Attacks Against Dataset Condensation](http://arxiv.org/abs/2603.28092v1)
   He Yang, Dongyi Lv, Song Ma, Wei Xi, Zhi Wang, Hanlin Gu, Yajie Wang
   Code: https://github.com/lvdongyi/InkDrop
 - [ObjectMorpher: 3D-Aware Image Editing via Deformable 3DGS Models](http://arxiv.org/abs/2603.28152v1)
   Yuhuan Xie, Aoxuan Pan, Yi-Hua Huang, Chirui Chang, Peng Dai, Xin Yu, Xiaojuan Qi
+  Code: nan
+- [Off-Axis Compliant RCM Joint with Near-Isotropic Stiffness and Minimal Parasitic Error](http://arxiv.org/abs/2603.28240v1)
+  Federico Mariano, Elena De Momi, Giovanni Berselli, Jovana Jovanova, Just L. Herder, Leonardo S. Mattos
   Code: nan
 - [osmAG-Nav: A Hierarchical Semantic Topometric Navigation Stack for Robust Lifelong Indoor Autonomy](http://arxiv.org/abs/2603.28271v1)
   Yongqi Zhang, Jiajie Zhang, Chengqian Li, Fujing Xie, Sören Schwertfeger
@@ -557,14 +578,14 @@
 - [Rethinking Structure Preservation in Text-Guided Image Editing with Visual Autoregressive Models](http://arxiv.org/abs/2603.28367v1)
   Tao Xia, Jiawei Liu, Yukun Zhang, Ting Liu, Wei Wang, Lei Zhang
   Code: nan
-- [Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation](http://arxiv.org/abs/2603.28422v1)
-  Robin Kühn, Moritz Schappler, Thomas Seel, Dennis Bank
-  Code: nan
-- [Off-Axis Compliant RCM Joint with Near-Isotropic Stiffness and Minimal Parasitic Error](http://arxiv.org/abs/2603.28240v1)
-  Federico Mariano, Elena De Momi, Giovanni Berselli, Jovana Jovanova, Just L. Herder, Leonardo S. Mattos
+- [Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based RL](http://arxiv.org/abs/2603.28053v1)
+  Udita Ghosh, Dripta S. Raychaudhuri, Jiachen Li, Konstantinos Karydis, Amit Roy-Chowdhury
   Code: nan
 - [Tac2Real: Reliable and GPU Visuotactile Simulation for Online Reinforcement Learning and Zero-Shot Real-World Deployment](http://arxiv.org/abs/2603.28475v1)
   Ningyu Yan, Shuai Wang, Xing Shen, Hui Wang, Hanqing Wang, Yang Xiang, Jiangmiao Pang
+  Code: nan
+- [Tele-Catch: Adaptive Teleoperation for Dexterous Dynamic 3D Object Catching](http://arxiv.org/abs/2603.28427v1)
+  Weiguang Zhao, Junting Dong, Rui Zhang, Kailin Li, Qin Zhao, Kaizhu Huang
   Code: nan
 - [Generalizable Detection of AI Generated Images with Large Models and Fuzzy Decision Tree](http://arxiv.org/abs/2603.28508v1)
   Fei Wu, Guanghao Ding, Zijian Niu, Zhenrui Wang, Lei Yang, Zhuosheng Zhang, Shilin Wang
@@ -635,6 +656,9 @@
 - [Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2603.23202v2)
   Anupam Pani, Yanchao Yang
   Code: nan
+- [VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models](http://arxiv.org/abs/2603.22991v1)
+  Jintao Cheng, Haozhe Wang, Weibin Li, Gang Wang, Yipu Zhang, Xiaoyu Tang, Jin Wu, Xieyuanli Chen, Yunhui Liu, Wei Zhang
+  Code: nan
 - [Chain-of-Authorization: Internalizing Authorization into Large Language Models via Reasoning Trajectories](http://arxiv.org/abs/2603.22869v1)
   Yang Li, Yule Liu, Xinlei He, Youjian Zhao, Qi Li, Ke Xu
   Code: nan
@@ -644,26 +668,23 @@
 - [Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring](http://arxiv.org/abs/2603.22899v1)
   Teng Yan, Zhengyang Pei, Chengyu Shi, Yue Yu, Yikun Chen, Zilong Zhu, Zelin Fang, Kaile Guo, Zihang Wang, Peigen Tian, Bingzhuo Zhong
   Code: nan
-- [VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models](http://arxiv.org/abs/2603.22991v1)
-  Jintao Cheng, Haozhe Wang, Weibin Li, Gang Wang, Yipu Zhang, Xiaoyu Tang, Jin Wu, Xieyuanli Chen, Yunhui Liu, Wei Zhang
-  Code: nan
-- [SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense](http://arxiv.org/abs/2603.23178v1)
-  Bibek Das, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, Soumya Dutta
+- [PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals](http://arxiv.org/abs/2603.23365v1)
+  Jesse F. d'Almeida, Tanner Watts, Susheela Sharma Stern, James Ferguson, Alan Kuntz, Robert J. Webster
   Code: nan
 - [PHANTOM Hand](http://arxiv.org/abs/2603.23152v1)
   Teng Yan, Jiongxu Chen, Qixiang Hua, Yue Yu, Zihang Wang, Yaohua Liu, Bingzhuo Zhong
   Code: nan
+- [Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2603.23202v1)
+  Anupam Pani, Yanchao Yang
+  Code: nan
 - [Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](http://arxiv.org/abs/2603.23227v1)
   Qinglun Zhang, Shen Cheng, Tian Dan, Haoqiang Fan, Guanghui Liu, Shuaicheng Liu
   Code: https://github.com/zql-kk/E3Flow
-- [PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals](http://arxiv.org/abs/2603.23365v1)
-  Jesse F. d'Almeida, Tanner Watts, Susheela Sharma Stern, James Ferguson, Alan Kuntz, Robert J. Webster
-  Code: nan
 - [Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions](http://arxiv.org/abs/2603.23472v1)
   Rustem Islamov, Grigory Malinovsky, Alexander Gaponov, Aurelien Lucchi, Peter Richtárik, Eduard Gorbunov
   Code: nan
-- [Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation](http://arxiv.org/abs/2603.23202v1)
-  Anupam Pani, Yanchao Yang
+- [SAiW: Source-Attributable Invisible Watermarking for Proactive Deepfake Defense](http://arxiv.org/abs/2603.23178v1)
+  Bibek Das, Chandranath Adak, Soumi Chattopadhyay, Zahid Akhtar, Soumya Dutta
   Code: nan
 - [BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration](http://arxiv.org/abs/2603.21679v1)
   Yan Shen, Feng Jiang, Zichen He, Xiaoqi Li, Yuchen Liu, Zhiyu Li, Ruihai Wu, Hao Dong
@@ -1133,6 +1154,9 @@
 - [Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](http://arxiv.org/abs/2603.05185v1)
   Pengfei Yi, Yingjie Ma, Wenjiang Xu, Yanan Hao, Shuai Gan, Wanting Li, Shanlin Zhong
   Code: nan
+- [cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots](http://arxiv.org/abs/2603.05493v1)
+  Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield
+  Code: nan
 - [cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots](http://arxiv.org/abs/2603.05493v2)
   Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield
   Code: https://github.com/NVlabs/curobo
@@ -1187,9 +1211,6 @@
 - [Observing and Controlling Features in Vision-Language-Action Models](http://arxiv.org/abs/2603.05487v1)
   Hugo Buurmeijer, Carmen Amo Alonso, Aiden Swann, Marco Pavone
   Code: nan
-- [cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots](http://arxiv.org/abs/2603.05493v1)
-  Balakumar Sundaralingam, Adithyavairavan Murali, Stan Birchfield
-  Code: nan
 - [Force-Aware Residual DAgger via Trajectory Editing for Precision Insertion with Impedance Control](http://arxiv.org/abs/2603.04038v2)
   Yiou Huang, Ning Ma, Weichu Zhao, Zinuo Liu, Jun Sun, Qiufeng Wang, Yaran Chen
   Code: nan
@@ -1202,11 +1223,11 @@
 - [InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation](http://arxiv.org/abs/2602.23024v2)
   Jiahao Liu, Cui Wenbo, Haoran Li, Dongbin Zhao
   Code: nan
-- [InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation](http://arxiv.org/abs/2602.23024v4)
-  Jiahao Liu, Cui Wenbo, Zhongpu Xia, Haoran Li, Dongbin Zhao
-  Code: nan
 - [InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation](http://arxiv.org/abs/2602.23024v3)
   Jiahao Liu, Cui Wenbo, Haoran Li, Dongbin Zhao
+  Code: nan
+- [InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation](http://arxiv.org/abs/2602.23024v4)
+  Jiahao Liu, Cui Wenbo, Zhongpu Xia, Haoran Li, Dongbin Zhao
   Code: nan
 - [Demystifying Action Space Design for Robotic Manipulation Policies](http://arxiv.org/abs/2602.23408v2)
   Yuchun Feng, Jinliang Zheng, Zhihao Wang, Dongxiu Liu, Jianxiong Li, Jiangmiao Pang, Tai Wang, Xianyuan Zhan
@@ -1232,6 +1253,9 @@
 - [MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation](http://arxiv.org/abs/2602.16898v4)
   Mehrshad Taji, Arad Mahdinezhad Kashani, Iman Ahmadi, AmirHossein Jadidi, Saina Kashani, Babak Khalaj
   Code: https://github.com/iman1234ahmadi/MALLVI
+- [Agentic AI for Cybersecurity: A Meta-Cognitive Architecture for Governable Autonomy](http://arxiv.org/abs/2602.11897v3)
+  Andrei Kojukhov, Arkady Bovshover
+  Code: nan
 - [$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](http://arxiv.org/abs/2602.09021v3)
   Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, Jin Chen, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan
   Code: nan

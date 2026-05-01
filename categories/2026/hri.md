@@ -2,6 +2,12 @@
 
 ## April
 
+- [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
+  Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
+  Code: nan
+- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
+  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
+  Code: nan
 - [Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar](http://arxiv.org/abs/2604.26473v1)
   Do Won Park, Samuele Bordini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi
   Code: nan
@@ -26,14 +32,14 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
-- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
-  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
-  Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
+- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
+  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
@@ -62,11 +68,11 @@
 - [SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI](http://arxiv.org/abs/2603.29708v1)
   Soumyodipta Nath, Pranav Tiwari, Ravi Prakash
   Code: nan
-- [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
-  Ekaterina Torubarova, Jura Miniota, Andre Pereira
-  Code: nan
 - [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
   Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
+  Code: nan
+- [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
+  Ekaterina Torubarova, Jura Miniota, Andre Pereira
   Code: nan
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
@@ -83,15 +89,15 @@
 - [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
   Lukáš Hajdúch, Viktor Kocur
   Code: nan
-- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
-  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
-  Code: nan
 - [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
   Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
   Code: nan
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
   Code: https://github.com/OctopusWen/HiSync
+- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
+  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
+  Code: nan
 - [SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly](http://arxiv.org/abs/2603.10459v1)
   Xiao Liu, Prakash Baskaran, Songpo Li, Simon Manschitz, Wei Ma, Dirk Ruiken, Soshi Iba
   Code: nan

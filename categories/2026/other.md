@@ -2,11 +2,14 @@
 
 ## April
 
-- [STAR-Filter: Efficient Convex Free-Space Approximation via Starshaped Set Filtering in Noisy Environments](http://arxiv.org/abs/2604.26626v1)
-  Yuwei Wu, Yichen Zhao, Dexter Ong, Vijay Kumar
+- [ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control](http://arxiv.org/abs/2604.27711v1)
+  Yanghao Zhou, Jingyu Ma, Yibo Peng, Zhenguo Sun, Yu Bai, Börje F. Karlsson
   Code: nan
 - [Recipes for Calibration Checks in Safety-Critical Applications](http://arxiv.org/abs/2604.26479v1)
   Romeo Valentin
+  Code: nan
+- [STAR-Filter: Efficient Convex Free-Space Approximation via Starshaped Set Filtering in Noisy Environments](http://arxiv.org/abs/2604.26626v1)
+  Yuwei Wu, Yichen Zhao, Dexter Ong, Vijay Kumar
   Code: nan
 - [Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics](http://arxiv.org/abs/2604.25700v1)
   Pernilla Hall, Anton Ununger, Riccardo Rubei, Alessio Bucaioni
@@ -41,14 +44,14 @@
 - [Generalizable Friction Coefficient Estimation via Material Embedding and Proxy Interaction Modeling](http://arxiv.org/abs/2604.24188v1)
   Zhendong Wang, Huamin Wang
   Code: nan
-- [Pushing Radar Odometry Beyond the Pavement: Current Capabilities and Challenges](http://arxiv.org/abs/2604.24674v1)
-  Shaunak Kolhe, Peng Jiang, Maggie Wigness, Philip Osteen, Timothy Overbye, Chrisitan Ellis, Srikanth Saripalli
+- [Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems](http://arxiv.org/abs/2604.24706v1)
+  Tobias A. Farger, Adam W. Hall, Angela P. Schoellig
   Code: nan
 - [SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors](http://arxiv.org/abs/2604.24449v1)
   Wadhah Zai El Amri, Nicolás Navarro-Guerrero
   Code: nan
-- [Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems](http://arxiv.org/abs/2604.24706v1)
-  Tobias A. Farger, Adam W. Hall, Angela P. Schoellig
+- [Pushing Radar Odometry Beyond the Pavement: Current Capabilities and Challenges](http://arxiv.org/abs/2604.24674v1)
+  Shaunak Kolhe, Peng Jiang, Maggie Wigness, Philip Osteen, Timothy Overbye, Chrisitan Ellis, Srikanth Saripalli
   Code: nan
 - [A Case Study in Recovery of Drones using Discrete-Event Systems](http://arxiv.org/abs/2604.21740v1)
   Liam P. Burns, Dayse M. Cavalcanti, Felipe G. Cabral, Max H. de Queiroz, Melissa Greeff, Publio M. M. Lima, Karen Rudie
@@ -161,26 +164,26 @@
 - [ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video](http://arxiv.org/abs/2604.07882v1)
   Boyuan Wang, Xiaofeng Wang, Yongkang Li, Zheng Zhu, Yifan Chang, Angen Ye, Guosheng Zhao, Chaojun Ni, Guan Huang, Yijie Ren, Yueqi Duan, Xingang Wang
   Code: nan
-- [The Sustainability Gap in Robotics: A Large-Scale Survey of Sustainability Awareness in 50,000 Research Articles](http://arxiv.org/abs/2604.07921v1)
-  Antun Skuric, Leandro Von Werra, Thomas Wolf
+- [PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation](http://arxiv.org/abs/2604.07901v1)
+  Dingwen Xiao, Weiming Zhang, Shiqi Wen, Lin Wang
   Code: nan
 - [DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction](http://arxiv.org/abs/2604.07986v1)
   Tingxi Chen, Zhengxue Cheng, Houqiang Zhong, Su Wang, Rong Xie, Li Song
   Code: nan
-- [PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation](http://arxiv.org/abs/2604.07901v1)
-  Dingwen Xiao, Weiming Zhang, Shiqi Wen, Lin Wang
+- [The Sustainability Gap in Robotics: A Large-Scale Survey of Sustainability Awareness in 50,000 Research Articles](http://arxiv.org/abs/2604.07921v1)
+  Antun Skuric, Leandro Von Werra, Thomas Wolf
   Code: nan
 - [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](http://arxiv.org/abs/2604.08125v1)
   Zhi-Yi Lin, Thomas Markhorst, Jouh Yeong Chew, Xucong Zhang
   Code: nan
-- [Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction](http://arxiv.org/abs/2604.08418v1)
-  Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea, Alessandra Sciutti
+- [State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials](http://arxiv.org/abs/2604.08185v1)
+  Edgar Granados, Patrick Meng, Charles Tang, Shrimed Sangani, William R. Johnson, Rebecca Kramer-Bottiglio, Kostas Bekris
   Code: nan
 - [EvoGymCM: Harnessing Continuous Material Stiffness for Soft Robot Co-Design](http://arxiv.org/abs/2604.08258v1)
   Le Shen, Kangyao Huang, Wentao Zhao, Huaping Liu
   Code: nan
-- [State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials](http://arxiv.org/abs/2604.08185v1)
-  Edgar Granados, Patrick Meng, Charles Tang, Shrimed Sangani, William R. Johnson, Rebecca Kramer-Bottiglio, Kostas Bekris
+- [Exploring Temporal Representation in Neural Processes for Multimodal Action Prediction](http://arxiv.org/abs/2604.08418v1)
+  Marco Gabriele Fedozzi, Yukie Nagai, Francesco Rea, Alessandra Sciutti
   Code: nan
 - [Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training](http://arxiv.org/abs/2604.07279v1)
   Changkun Liu, Jiezhi Yang, Zeman Li, Yuan Deng, Jiancong Guo, Luca Ballan
@@ -344,17 +347,17 @@
 - [EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction](http://arxiv.org/abs/2603.24577v1)
   Falong Fan, Yi Xie, Arnis Lektauers, Bo Liu, Jerzy Rozenblit
   Code: nan
+- [PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal](http://arxiv.org/abs/2603.22844v3)
+  Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, Xiaowei Hu
+  Code: nan
 - [DecompGrind: A Decomposition Framework for Robotic Grinding via Cutting-Surface Planning and Contact-Force Adaptation](http://arxiv.org/abs/2603.22859v1)
   Shunsuke Araki, Takumi Hachimine, Yuki Saito, Kouhei Ohnishi, Jun Morimoto, Takamitsu Masubara
-  Code: nan
-- [PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal](http://arxiv.org/abs/2603.22844v2)
-  Zining Fang, Chunhui Liu, Bin Xu, Ming Chen, Xiaowei Hu, Cheng Xue
   Code: nan
 - [PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal](http://arxiv.org/abs/2603.22844v1)
   Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, Xiaowei Hu
   Code: nan
-- [PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal](http://arxiv.org/abs/2603.22844v3)
-  Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, Xiaowei Hu
+- [PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal](http://arxiv.org/abs/2603.22844v2)
+  Zining Fang, Chunhui Liu, Bin Xu, Ming Chen, Xiaowei Hu, Cheng Xue
   Code: nan
 - [Learning Actuator-Aware Spectral Submanifolds for Precise Control of Continuum Robots](http://arxiv.org/abs/2603.23044v1)
   Paul Leonard Wolff, Hugo Buurmeijer, Luis Pabon, John Irvin Alora, Mark Leone, Roshan S. Kaundinya, Amirhossein Kazemipour, Robert K. Katzschmann, Marco Pavone
