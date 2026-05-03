@@ -45,15 +45,6 @@ Automatically updated daily.
 - [Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](http://arxiv.org/abs/2604.24447v1)
   Kaijun Zhou, Qiwei Chen, Da Peng, Zhiyang Li, Xijun Li, Jinyu Gu
   Code: nan
-- [A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies](http://arxiv.org/abs/2604.22227v2)
-  Somyajit Chakraborty
-  Code: nan
-- [A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies](http://arxiv.org/abs/2604.22227v3)
-  Somyajit Chakraborty
-  Code: nan
-- [GazeVLA: Learning Human Intention for Robotic Manipulation](http://arxiv.org/abs/2604.22615v2)
-  Chengyang Li, Kaiyi Xiong, Yuan Xu, Lei Qian, Yizhou Wang, Wentao Zhu
-  Code: nan
 
 ### Robot Manipulation
 
@@ -138,21 +129,21 @@ Automatically updated daily.
 - [DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation](http://arxiv.org/abs/2604.24426v1)
   Md Shohel Rana, Andrew H. Sung
   Code: nan
-- [SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning](http://arxiv.org/abs/2604.24729v1)
-  Zijian Guo, İlker Işık, H. M. Sabbir Ahmad, Wenchao Li
-  Code: https://github.com/BU-DEPEND-Lab/SpecRLBench
-- [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](http://arxiv.org/abs/2604.24681v1)
-  Yifan Xie, YuAn Wang, Guangyu Chen, Jinkun Liu, Yu Sun, Wenbo Ding
-  Code: nan
-- [Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation](http://arxiv.org/abs/2604.24665v1)
-  Sercan Karakaş, Yusuf Şimşek
+- [Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks](http://arxiv.org/abs/2604.24590v1)
+  Lidia Losavio, Luca Persia, Madan Sathe, Dimosthenis Pasadakis
   Code: nan
 - [Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics](http://arxiv.org/abs/2604.24642v1)
   Hai Wang, Xiaochen Yang, Mingzhi Dong, Jing-Hao Xue
   Code: https://github.com/littlewhitesea/360Semantics
-- [Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks](http://arxiv.org/abs/2604.24590v1)
-  Lidia Losavio, Luca Persia, Madan Sathe, Dimosthenis Pasadakis
+- [Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation](http://arxiv.org/abs/2604.24665v1)
+  Sercan Karakaş, Yusuf Şimşek
   Code: nan
+- [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](http://arxiv.org/abs/2604.24681v1)
+  Yifan Xie, YuAn Wang, Guangyu Chen, Jinkun Liu, Yu Sun, Wenbo Ding
+  Code: nan
+- [SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning](http://arxiv.org/abs/2604.24729v1)
+  Zijian Guo, İlker Işık, H. M. Sabbir Ahmad, Wenchao Li
+  Code: https://github.com/BU-DEPEND-Lab/SpecRLBench
 
 ### Robot Navigation
 
@@ -210,9 +201,6 @@ Automatically updated daily.
 - [SlicerRoboTMS: An Open-Source 3D Slicer Extension for Robot-Assisted Transcranial Magnetic Stimulation](http://arxiv.org/abs/2604.25661v1)
   Wenzhi Bai, Yituo Guo, Bhaskar Basu, Andrew Weightman, Zhenhong Li
   Code: https://github.com/OpenRoboTMS/SlicerRoboTMS
-- [Multivariate Gaussian NeRF for Wide Field-of-View Ultrasound Reconstruction](http://arxiv.org/abs/2604.24187v1)
-  Patris Valera, Magdalena Wysocki, Felix Duelmer, Mohammad Farid Azampour, Sebastian Herz, Stefan Wörz, Nassir Navab
-  Code: nan
 - [SeaEvo: Advancing Algorithm Discovery with Strategy Space Evolution](http://arxiv.org/abs/2604.24372v1)
   Sichun Luo, Yi Huang, Haochen Luo, Fengyuan Liu, Guanzhi Deng, Lei Li, Qinghua Yao, Zefa Hu, Junlan Feng, Qi Liu
   Code: nan
@@ -225,6 +213,9 @@ Automatically updated daily.
 - [Computer Vision-Based Early Detection of Container Loss at Sea](http://arxiv.org/abs/2604.24193v1)
   Vishakha Lall, Capt. Stanley S Pinto, Capt. Chu Xing Peng, Wu Kaiwen
   Code: nan
+- [Multivariate Gaussian NeRF for Wide Field-of-View Ultrasound Reconstruction](http://arxiv.org/abs/2604.24187v1)
+  Patris Valera, Magdalena Wysocki, Felix Duelmer, Mohammad Farid Azampour, Sebastian Herz, Stefan Wörz, Nassir Navab
+  Code: nan
 - [Leveraging Human Feedback for Semantically-Relevant Skill Discovery](http://arxiv.org/abs/2604.24127v1)
   Maxence Hussonnois, Thommen George Karimpanal, Santu Rana
   Code: nan
@@ -234,29 +225,29 @@ Automatically updated daily.
 - [FreqCache: Accelerating Embodied VLN Models with Adaptive Frequency-Guided Token Caching](http://arxiv.org/abs/2604.24391v1)
   Zihao Zheng, Xingyue Zhou, Zhihao Mao, Songyu Sun, Lingyue Zhang, Yulong Ao, Yupu Feng, Qiongqiong Zhang, Yonghua Lin, Xiang Chen
   Code: nan
-- [Passage-Aware Structural Mapping for RGB-D Visual SLAM](http://arxiv.org/abs/2604.24707v1)
-  Ali Tourani, Miguel Fernandez-Cortizas, Saad Ejaz, David Pérez Saura, Asier Bikandi-Noya, Jose Luis Sanchez-Lopez, Holger Voos
-  Code: https://github.com/snt-arg/visual_sgraphs/tree/doorway_integration
 - [Towards Lawful Autonomous Driving: Deriving Scenario-Aware Driving Requirements from Traffic Laws and Regulations](http://arxiv.org/abs/2604.24562v1)
   Bowen Jian, Rongjie Yu, Hong Wang, Liqiang Wang, Zihang Zou
-  Code: nan
-- [Sliding Mode Control for Safe Trajectory Tracking with Moving Obstacles Avoidance: Experimental Validation on Planar Robots](http://arxiv.org/abs/2604.24518v1)
-  Shubham Sawarkar, P Sangeerth, S Saharsh, Pushpak Jagtap
   Code: nan
 - [Guiding Vector Field Generation via Score-based Diffusion Model](http://arxiv.org/abs/2604.24487v1)
   Zirui Chen, Shiliang Guo, Shiyu Zhao
   Code: https://github.com/czr-gif/Guiding-Vector-Field-Generation-via-Score-based-Diffusion-Model
+- [Sliding Mode Control for Safe Trajectory Tracking with Moving Obstacles Avoidance: Experimental Validation on Planar Robots](http://arxiv.org/abs/2604.24518v1)
+  Shubham Sawarkar, P Sangeerth, S Saharsh, Pushpak Jagtap
+  Code: nan
+- [Passage-Aware Structural Mapping for RGB-D Visual SLAM](http://arxiv.org/abs/2604.24707v1)
+  Ali Tourani, Miguel Fernandez-Cortizas, Saad Ejaz, David Pérez Saura, Asier Bikandi-Noya, Jose Luis Sanchez-Lopez, Holger Voos
+  Code: https://github.com/snt-arg/visual_sgraphs/tree/doorway_integration
 
 ### Vision-Language-Action
 
 - [EdgeFM: Efficient Edge Inference for Vision-Language Models](http://arxiv.org/abs/2604.27476v1)
   Mengling Deng, Yuanpeng Chen, Sheng Yang, Wei Tao, Wenhai Zhang, Hui Song, Linyuanhao Qin, Kai Zhao, Xiaojun Ye, Shanhui Mo, Jingli Fan, Shuang Zhang, Bei Liu, Tiankun Zhao, Xiangjing An
   Code: nan
-- [CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](http://arxiv.org/abs/2604.24622v2)
-  Fan Du, Feng Yan, Jianxiong Wu, Xinrun Xu, Weiye Zhang, Weinong Wang, Yu Guo, Bin Qian, Zhihai He, Fei Wang, Heng Yang
-  Code: https://github.com/EmbodiedAI-RoboTron/CF-VLA
 - [CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](http://arxiv.org/abs/2604.24622v1)
   Fan Du, Feng Yan, Jianxiong Wu, Xinrun Xu, Weiye Zhang, Weinong Wang, Yu Guo, Bin Qian, Zhihai He
+  Code: https://github.com/EmbodiedAI-RoboTron/CF-VLA
+- [CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](http://arxiv.org/abs/2604.24622v2)
+  Fan Du, Feng Yan, Jianxiong Wu, Xinrun Xu, Weiye Zhang, Weinong Wang, Yu Guo, Bin Qian, Zhihai He, Fei Wang, Heng Yang
   Code: https://github.com/EmbodiedAI-RoboTron/CF-VLA
 
 ### Embodied Agents
@@ -318,14 +309,14 @@ Automatically updated daily.
 - [Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance](http://arxiv.org/abs/2604.25554v1)
   Carson Kohlbrenner, Niraj Pudasaini, William Xie, Naren Sivagnanadasan, Nikolaus Correll, Alessandro Roncone
   Code: nan
-- [Reference-Augmented Learning for Precise Tracking Policy of Tendon-Driven Continuum Robots](http://arxiv.org/abs/2604.25698v1)
-  Ziqing Zou, Ke Qiu, Haojian Lu, Rong Xiong, Yue Wang
-  Code: nan
 - [Improving Sensing Coverage and Compliance of 3D-Printed Artificial Skins Through Multi-Modal Sensing and Soft Materials](http://arxiv.org/abs/2604.25563v1)
   Carson Kohlbrenner, Caleb Escobedo, Sayak Ray, Alexander Dickhans, Anna Soukhovei, Nickolaus Jackoski, Lyle Antieau, Alessandro Roncone
   Code: nan
 - [Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics](http://arxiv.org/abs/2604.25700v1)
   Pernilla Hall, Anton Ununger, Riccardo Rubei, Alessio Bucaioni
+  Code: nan
+- [Reference-Augmented Learning for Precise Tracking Policy of Tendon-Driven Continuum Robots](http://arxiv.org/abs/2604.25698v1)
+  Ziqing Zou, Ke Qiu, Haojian Lu, Rong Xiong, Yue Wang
   Code: nan
 - [Learning-Based Dynamics Modeling and Robust Control for Tendon-Driven Continuum Robots](http://arxiv.org/abs/2604.25691v1)
   Ziqing Zou, Ke Qiu, Fei Wang, Haojian Lu, Rong Xiong, Yue Wang
@@ -336,20 +327,20 @@ Automatically updated daily.
 - [SAMe: A Semantic Anatomy Mapping Engine for Robotic Ultrasound](http://arxiv.org/abs/2604.25646v1)
   Jing Zhang, Duojie Chen, Wentao Jiang, Zihan Lou, Jianxin Liu, Xinwu Cui, Qinghong Zhao, Bo Du, Christoph F. Dietrich, Dacheng Tao
   Code: nan
-- [Pedestrians play chicken with an autonomous vehicle](http://arxiv.org/abs/2604.24384v1)
-  Rakshit Soni, Charles Fox
-  Code: nan
 - [Generalizable Friction Coefficient Estimation via Material Embedding and Proxy Interaction Modeling](http://arxiv.org/abs/2604.24188v1)
   Zhendong Wang, Huamin Wang
   Code: nan
-- [Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems](http://arxiv.org/abs/2604.24706v1)
-  Tobias A. Farger, Adam W. Hall, Angela P. Schoellig
+- [Pedestrians play chicken with an autonomous vehicle](http://arxiv.org/abs/2604.24384v1)
+  Rakshit Soni, Charles Fox
+  Code: nan
+- [SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors](http://arxiv.org/abs/2604.24449v1)
+  Wadhah Zai El Amri, Nicolás Navarro-Guerrero
   Code: nan
 - [Pushing Radar Odometry Beyond the Pavement: Current Capabilities and Challenges](http://arxiv.org/abs/2604.24674v1)
   Shaunak Kolhe, Peng Jiang, Maggie Wigness, Philip Osteen, Timothy Overbye, Chrisitan Ellis, Srikanth Saripalli
   Code: nan
-- [SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors](http://arxiv.org/abs/2604.24449v1)
-  Wadhah Zai El Amri, Nicolás Navarro-Guerrero
+- [Exploiting Differential Flatness for Efficient Learning-based Model Predictive Control of Constrained Multi-Input Control Affine Systems](http://arxiv.org/abs/2604.24706v1)
+  Tobias A. Farger, Adam W. Hall, Angela P. Schoellig
   Code: nan
 
 ## Full Archive
