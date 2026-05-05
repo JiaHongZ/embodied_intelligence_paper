@@ -170,6 +170,9 @@
 - [ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v3)
   Fotios Lygerakis, Ozan Özdenizci, Elmar Rückert
   Code: nan
+- [Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics](http://arxiv.org/abs/2505.13150v2)
+  Maksim Bobrin, Ilya Zisman, Alexander Nikulin, Vladislav Kurenkov, Dmitry Dylov
+  Code: nan
 - [EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v3)
   Ryan Hoque, Peide Huang, David J. Yoon, Mouli Sivapurapu, Jian Zhang
   Code: https://github.com/apple/ml-egodex

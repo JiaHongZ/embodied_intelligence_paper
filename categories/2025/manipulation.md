@@ -119,6 +119,9 @@
 - [Personalized Motion Guidance Framework for Athlete-Centric Coaching](http://arxiv.org/abs/2510.10496v2)
   Ryota Takamido, Chiharu Suzuki, Hiroki Nakamoto
   Code: nan
+- [Unsupervised full-field Bayesian inference of orthotropic hyperelasticity from a single biaxial test: a myocardial case study](http://arxiv.org/abs/2510.09498v3)
+  Rogier P. Krijnen, Akshay Joshi, Siddhant Kumar, Mathias Peirlinck
+  Code: nan
 - [R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation](http://arxiv.org/abs/2510.08547v2)
   Xiuwei Xu, Angyuan Ma, Hankun Li, Bingyao Yu, Zheng Zhu, Jie Zhou, Jiwen Lu
   Code: nan
@@ -311,6 +314,9 @@
 
 ## January
 
+- [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](http://arxiv.org/abs/2501.13400v4)
+  Priyanto Hidayatullah, Nurjannah Syakrani, Muhammad Rizqi Sholahuddin, Trisna Gelar, Refdinal Tubagus
+  Code: nan
 - [Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](http://arxiv.org/abs/2501.07399v2)
   Saurabh Gupta, Tiziano Guadagnino, Benedikt Mersch, Niklas Trekel, Meher V. R. Malladi, Cyrill Stachniss
   Code: https://github.com/PRBonn/MapClosures

@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2025)
 
+## December
+
+- [ROBOPOL: Social Robotics Meets Vehicular Communications for Cooperative Automated Driving](http://arxiv.org/abs/2512.24129v2)
+  John Pravin Arockiasamy, Andy Comeca, Victoria Yang, Manuel Bied, Maximilian Schrapel, Alexey Rolich, Barbara Bruno, Maike Schwammberger, Dieter Fiems, Alexey Vinel
+  Code: nan
+
 ## September
 
 - [STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle](http://arxiv.org/abs/2509.10692v3)

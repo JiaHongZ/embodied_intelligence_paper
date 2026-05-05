@@ -44,15 +44,15 @@
 - [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
   Alex Diep
   Code: nan
+- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
+  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
+  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](http://arxiv.org/abs/2511.20886v2)
   Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
   Code: nan
 - [Metric, inertially aligned monocular state estimation via kinetodynamic priors](http://arxiv.org/abs/2511.20496v3)
   Jiaxin Liu, Min Li, Wanting Xu, Liang Li, Jiaqi Yang, Laurent Kneip
   Code: nan
-- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
-  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
-  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [A Virtual Mechanical Interaction Layer Enables Resilient Human-to-Robot Object Handovers](http://arxiv.org/abs/2511.19543v2)
   Omar Faris, Sławomir Tadeja, Fulvio Forni
   Code: nan
@@ -74,6 +74,9 @@
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda
   Code: nan
+- [OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback](http://arxiv.org/abs/2511.00510v2)
+  Kai Luo, Hao Shi, Kunyu Peng, Fei Teng, Sheng Wu, Kaiwei Wang, Kailun Yang
+  Code: https://github.com/xifen523/OmniTrack
 
 ## October
 
@@ -194,6 +197,9 @@
 
 ## April
 
+- [StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v2)
+  Xu Wang, Jialang Xu, Shuai Zhang, Baoru Huang, Danail Stoyanov, Evangelos B. Mazomenos
+  Code: nan
 - [Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v2)
   Hyunbum Cho, Sungmoon Hur, Joowan Kim, Keewon Kim, Jaeheung Park
   Code: nan
