@@ -2,6 +2,9 @@
 
 ## May
 
+- [Uncertainty Estimation in Instance Segmentation of Affordances via Bayesian Visual Transformers](http://arxiv.org/abs/2605.03614v1)
+  Lorenzo Mur-Labadia, Ruben Martinez-Cantina, Jose J. Guerrero
+  Code: nan
 - [Shared Autonomy Assisted by Impedance-Driven Anisotropic Guidance Field](http://arxiv.org/abs/2605.02410v1)
   Sihan Chen, Hang Xu, Yupu Lu, Chen Wang, Benfang Duan, Ruixing Jia, Jia Pan
   Code: nan
@@ -38,17 +41,20 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
-- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
-  Jintao Xue, Xiao Li, Nianmin Zhang
-  Code: nan
 - [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
   Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+  Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v2)
   Tongfei Bian, Mathieu Chollet, Tanaya Guha
+  Code: nan
+- [Learning to Forget -- Hierarchical Episodic Memory for Lifelong Robot Deployment](http://arxiv.org/abs/2604.11306v2)
+  Leonard Bärmann, Joana Plewnia, Alex Waibel, Tamim Asfour
   Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
@@ -77,11 +83,11 @@
 - [SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI](http://arxiv.org/abs/2603.29708v1)
   Soumyodipta Nath, Pranav Tiwari, Ravi Prakash
   Code: nan
-- [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
-  Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
-  Code: nan
 - [Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions](http://arxiv.org/abs/2603.28338v1)
   Ekaterina Torubarova, Jura Miniota, Andre Pereira
+  Code: nan
+- [EBuddy: a workflow orchestrator for industrial human-machine collaboration](http://arxiv.org/abs/2603.28579v1)
+  Michele Banfi, Rocco Felici, Stefano Baraldo, Oliver Avram, Anna Valente
   Code: nan
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
@@ -98,12 +104,12 @@
 - [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
   Lukáš Hajdúch, Viktor Kocur
   Code: nan
-- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
-  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
-  Code: https://github.com/OctopusWen/HiSync
 - [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
   Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
   Code: nan
+- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
+  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
+  Code: https://github.com/OctopusWen/HiSync
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
   Code: nan

@@ -236,6 +236,9 @@
 - [K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics](http://arxiv.org/abs/2504.14602v2)
   Jiwei Li, Bi Zhang, Xiaowei Tan, Wanxin Chen, Zhaoyuan Liu, Juanjuan Zhang, Weiguang Huo, Jian Huang, Lianqing Liu, Xingang Zhao
   Code: nan
+- [K2MUSE: A human lower-limb multimodal walking dataset spanning task and acquisition variability for rehabilitation robotics](http://arxiv.org/abs/2504.14602v3)
+  Jiwei Li, Bi Zhang, Xiaowei Tan, Wanxin Chen, Zhaoyuan Liu, Juanjuan Zhang, Weiguang Huo, Jian Huang, Lianqing Liu, Xingang Zhao
+  Code: nan
 - [Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering](http://arxiv.org/abs/2504.14135v3)
   Jonathan Embley-Riches, Jianwei Liu, Simon Julier, Dimitrios Kanoulas
   Code: nan

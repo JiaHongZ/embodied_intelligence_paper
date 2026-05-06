@@ -303,6 +303,12 @@
   Jay Kamat, Júlia Borràs, Carme Torras
   Code: nan
 
+## March
+
+- [AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](http://arxiv.org/abs/2503.10070v2)
+  Haiqin Cui, Yifu Yuan, Yan Zheng, Jianye Hao
+  Code: nan
+
 ## February
 
 - [A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](http://arxiv.org/abs/2502.18615v4)

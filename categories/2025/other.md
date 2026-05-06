@@ -56,11 +56,11 @@
 - [A Virtual Mechanical Interaction Layer Enables Resilient Human-to-Robot Object Handovers](http://arxiv.org/abs/2511.19543v2)
   Omar Faris, Sławomir Tadeja, Fulvio Forni
   Code: nan
-- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
-  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
-  Code: nan
 - [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
   Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
+  Code: nan
+- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
+  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
@@ -106,6 +106,9 @@
   Code: https://github.com/ylylyl-sjtu/ODI-Bench
 - [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v3)
   Simon Idoko, Prajyot Jadhav, Arun Kumar Singh
+  Code: nan
+- [Toggling stiffness via multistability](http://arxiv.org/abs/2510.09511v2)
+  Hugo de Souza Oliveira, Michele Curatolo, Renate Sachse, Edoardo Milana
   Code: nan
 - [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
   Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
@@ -184,6 +187,9 @@
   Code: https://github.com/AiDuanshiying/RoboPARA
 - [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
   Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
+  Code: nan
+- [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
+  Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
   Code: nan
 
 ## May
