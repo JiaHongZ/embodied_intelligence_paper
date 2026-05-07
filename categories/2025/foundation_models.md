@@ -5,6 +5,9 @@
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation](http://arxiv.org/abs/2512.24212v3)
   Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu
   Code: nan
+- [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](http://arxiv.org/abs/2512.23864v3)
+  Guo Ye, Zexi Zhang, Xu Zhao, Shang Wu, Haoran Lu, Shihan Lu, Han Liu
+  Code: nan
 - [AstraNav-World: World Model for Foresight Control and Consistency](http://arxiv.org/abs/2512.21714v2)
   Jintao Chen, Junjun Hu, Haochen Bai, Minghua Luo, Xinda Xue, Botao Ren, Chengyu Bai, Shichao Xie, Ziyi Chen, Fei Liu, Zedong Chu, Xiaolong Wu, Mu Xu, Shanghang Zhang
   Code: nan
@@ -53,6 +56,9 @@
 - [MiMo-Embodied: X-Embodied Foundation Model Technical Report](http://arxiv.org/abs/2511.16518v2)
   Xiaoshuai Hao, Lei Zhou, Zhijian Huang, Zhiwen Hou, Yingbo Tang, Lingfeng Zhang, Guang Li, Zheng Lu, Shuhuai Ren, Xianhui Meng, Yuchen Zhang, Jing Wu, Jinghui Lu, Chenxu Dang, Jiayi Guan, Jianhua Wu, Zhiyi Hou, Hanbing Li, Shumeng Xia, Mingliang Zhou, Yinan Zheng, Zihao Yue, Shuhao Gu, Hao Tian, Yuannan Shen, Jianwei Cui, Wen Zhang, Shaoqing Xu, Bing Wang, Haiyang Sun, Zeyu Zhu, Yuncheng Jiang, Zibin Guo, Chuhong Gong, Chaofan Zhang, Wenbo Ding, Kun Ma, Guang Chen, Rui Cai, Diyun Xiang, Heng Qu, Fuli Luo, Hangjun Ye, Long Chen
   Code: https://github.com/XiaomiMiMo/MiMo-Embodied
+- [POMA-3D: The Point Map Way to 3D Scene Understanding](http://arxiv.org/abs/2511.16567v3)
+  Ye Mao, Weixun Luo, Ranran Huang, Junpeng Jing, Krystian Mikolajczyk
+  Code: nan
 - [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
   Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
   Code: nan
@@ -185,6 +191,9 @@
 - [M2R2: MultiModal Robotic Representation for Temporal Action Segmentation](http://arxiv.org/abs/2504.18662v3)
   Daniel Sliwowski, Dongheui Lee
   Code: nan
+- [Privacy-Preserving Empathy Detection in Video Interactions](http://arxiv.org/abs/2504.10808v3)
+  Md Rakibul Hasan, Md Zakir Hossain, Aneesh Krishna, Shafin Rahman, Tom Gedeon
+  Code: https://github.com/hasan-rakibul/TFMPathy
 
 ## February
 

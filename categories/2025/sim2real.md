@@ -9,6 +9,12 @@
   Zhoufeng Wang, Hang Zhao, Juzhan Xu, Shishun Zhang, Ruizhen Hu, Chenyang Zhu, Zecui Zeng, Weiyan Zhu, Zeyu Xiong, Haibin Yu, Kai Xu
   Code: nan
 
+## October
+
+- [Efficient Model-Based Reinforcement Learning for Robot Control via Online Optimization](http://arxiv.org/abs/2510.18518v2)
+  Fang Nan, Hao Ma, Qinghua Guan, Josie Hughes, Michael Muehlebach, Marco Hutter
+  Code: nan
+
 ## September
 
 - [RAPTOR: A Foundation Policy for Quadrotor Control](http://arxiv.org/abs/2509.11481v2)

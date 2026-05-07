@@ -29,11 +29,11 @@
 - [LoGoColor: Local-Global 3D Colorization for 360° Scenes](http://arxiv.org/abs/2512.09278v2)
   Yeonjin Chang, Juhwan Cho, Seunghyeon Seo, Wonsik Shin, Nojun Kwak
   Code: nan
-- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
-  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
-  Code: nan
 - [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
   Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
+  Code: nan
+- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
+  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
   Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -104,14 +104,14 @@
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
   Code: https://github.com/ylylyl-sjtu/ODI-Bench
+- [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
+  Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
+  Code: nan
 - [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v3)
   Simon Idoko, Prajyot Jadhav, Arun Kumar Singh
   Code: nan
 - [Toggling stiffness via multistability](http://arxiv.org/abs/2510.09511v2)
   Hugo de Souza Oliveira, Michele Curatolo, Renate Sachse, Edoardo Milana
-  Code: nan
-- [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
-  Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
   Code: nan
 - [A Multimodal Depth-Aware Method For Embodied Reference Understanding](http://arxiv.org/abs/2510.08278v3)
   Fevziye Irem Eyiokur, Dogucan Yaman, Hazım Kemal Ekenel, Alexander Waibel
@@ -194,6 +194,9 @@
 
 ## May
 
+- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
+  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+  Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
   Code: nan
@@ -235,4 +238,10 @@
   Code: nan
 - [Real-Time Operator Takeover for Visuomotor Diffusion Policy Training](http://arxiv.org/abs/2502.02308v3)
   Marco Moletta, Michael C. Welle, Nils Ingelhag, Jesper Munkeby, Danica Kragic
+  Code: nan
+
+## January
+
+- [MAD-BA: 3D LiDAR Bundle Adjustment -- from Uncertainty Modelling to Structure Optimization](http://arxiv.org/abs/2501.03972v2)
+  Krzysztof Ćwian, Luca Di Giammarino, Simone Ferrari, Thomas Ciarfuglia, Giorgio Grisetti, Piotr Skrzypczyński
   Code: nan

@@ -74,6 +74,9 @@
 - [OmniAlpha: Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning](http://arxiv.org/abs/2511.20211v2)
   Hao Yu, Jinglin Wang, Jiabo Zhan, Rui Chen, Zile Wang, Huaisong Zhang, Hongyu Li, Xinrui Chen, Yongxian Wei, Chun Yuan
   Code: nan
+- [Human-computer interactions predict mental health](http://arxiv.org/abs/2511.20179v5)
+  Veith Weilnhammer, Jefferson Ortega, David Whitney
+  Code: nan
 - [SkyReels-Text: Fine-Grained Font-Controllable Text Editing for Poster Design](http://arxiv.org/abs/2511.13285v2)
   Yunjie Yu, Jingchen Wu, Junchen Zhu, Chunze Lin, Guibin Chen
   Code: https://github.com/SkyworkAI/SkyReels-Text
@@ -85,6 +88,9 @@
   Code: nan
 - [Benchmarking Educational LLMs with Analytics: A Case Study on Gender Bias in Feedback](http://arxiv.org/abs/2511.08225v2)
   Yishan Du, Conrad Borchers, Mutlu Cukurova
+  Code: nan
+- [SlotVLA: Towards Modeling of Object-Relation Representations in Robotic Manipulation](http://arxiv.org/abs/2511.06754v3)
+  Taisei Hanyu, Nhat Chung, Huy Le, Toan Nguyen, Yuki Ikebe, Anthony Gunderman, Duy Nguyen Ho Minh, Khoa Vo, Tung Kieu, Kashu Yamazaki, Chase Rainwater, Anh Nguyen, Ngan Le
   Code: nan
 - [From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies](http://arxiv.org/abs/2511.06385v2)
   Ralf Römer, Julian Balletshofer, Jakob Thumm, Marco Pavone, Angela P. Schoellig, Matthias Althoff
@@ -122,11 +128,11 @@
 - [Unsupervised full-field Bayesian inference of orthotropic hyperelasticity from a single biaxial test: a myocardial case study](http://arxiv.org/abs/2510.09498v3)
   Rogier P. Krijnen, Akshay Joshi, Siddhant Kumar, Mathias Peirlinck
   Code: nan
-- [R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation](http://arxiv.org/abs/2510.08547v2)
-  Xiuwei Xu, Angyuan Ma, Hankun Li, Bingyao Yu, Zheng Zhu, Jie Zhou, Jiwen Lu
-  Code: nan
 - [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](http://arxiv.org/abs/2510.09695v3)
   Yanran Chen, Lynn Greschner, Roman Klinger, Michael Klenk, Steffen Eger
+  Code: nan
+- [R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation](http://arxiv.org/abs/2510.08547v2)
+  Xiuwei Xu, Angyuan Ma, Hankun Li, Bingyao Yu, Zheng Zhu, Jie Zhou, Jiwen Lu
   Code: nan
 - [MachaGrasp: Morphology-Aware Cross-Embodiment Dexterous Hand Articulation Generation for Grasping](http://arxiv.org/abs/2510.06068v3)
   Heng Zhang, Kevin Yuchen Ma, Mike Zheng Shou, Weisi Lin, Yan Wu
@@ -203,10 +209,10 @@
 - [ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations](http://arxiv.org/abs/2509.11125v3)
   Zheng Li, Pei Qu, Yufei Jia, Shihui Zhou, Haizhou Ge, Jiahang Cao, Jinni Zhou, Guyue Zhou, Jun Ma
   Code: nan
-- [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](http://arxiv.org/abs/2509.02437v4)
+- [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](http://arxiv.org/abs/2509.02437v5)
   Yanwen Zou, Zhaoye Zhou, Chenyang Shi, Zewei Ye, Junda Huang, Yan Ding, Bo Zhao
   Code: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm
-- [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](http://arxiv.org/abs/2509.02437v5)
+- [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](http://arxiv.org/abs/2509.02437v4)
   Yanwen Zou, Zhaoye Zhou, Chenyang Shi, Zewei Ye, Junda Huang, Yan Ding, Bo Zhao
   Code: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm
 
@@ -236,6 +242,9 @@
 - [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v3)
   Zheng Zhang, Peilin Zhao, Deheng Ye, Hao Wang
   Code: https://github.com/CjangCjengh/Generic_Persona
+- [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](http://arxiv.org/abs/2507.12768v2)
+  Hengkai Tan, Yao Feng, Xinyi Mao, Shuhe Huang, Guodong Liu, Zhongkai Hao, Hang Su, Jun Zhu
+  Code: nan
 
 ## June
 
@@ -281,10 +290,10 @@
 - [LatentStealth: Unnoticeable and Efficient Adversarial Attacks on Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2505.12009v2)
   Zhiying Li, Guanggang Geng, Yeying Jin, Shuyuan Lin, Fengyuan Ma, Zhaoxin Fan, Lili Wang
   Code: nan
-- [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v5)
+- [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v6)
   Yuxing Chen, Bowen Xiao, He Wang
   Code: nan
-- [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v6)
+- [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](http://arxiv.org/abs/2505.09109v5)
   Yuxing Chen, Bowen Xiao, He Wang
   Code: nan
 - [Must Read: A Comprehensive Survey of Computational Persuasion](http://arxiv.org/abs/2505.07775v2)
