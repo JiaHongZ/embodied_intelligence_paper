@@ -44,11 +44,11 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
-  Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
-  Code: nan
 - [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
   Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
+  Code: nan
+- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
+  Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
   Code: nan
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
@@ -95,11 +95,11 @@
 - [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](http://arxiv.org/abs/2510.13714v3)
   Dan Jacobellis, Mateen Ulhaq, Fabien Racapé, Hyomin Choi, Neeraja J. Yadwadkar
   Code: https://github.com/InterDigitalInc/dedelayed
-- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
-  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
-  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
   Yunzhe Xu, Yiyuan Pan, Zhe Liu
@@ -176,6 +176,9 @@
 - [ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers](http://arxiv.org/abs/2505.20032v3)
   Fotios Lygerakis, Ozan Özdenizci, Elmar Rückert
   Code: nan
+- [DreamPolicy: A Unified World-model Policy for Scalable Humanoid Locomotion](http://arxiv.org/abs/2505.18780v3)
+  Yahao Fan, Tianxiang Gui, Kaiyang Ji, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang, Ye Shi
+  Code: nan
 - [Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics](http://arxiv.org/abs/2505.13150v2)
   Maksim Bobrin, Ilya Zisman, Alexander Nikulin, Vladislav Kurenkov, Dmitry Dylov
   Code: nan
@@ -194,6 +197,9 @@
 - [Privacy-Preserving Empathy Detection in Video Interactions](http://arxiv.org/abs/2504.10808v3)
   Md Rakibul Hasan, Md Zakir Hossain, Aneesh Krishna, Shafin Rahman, Tom Gedeon
   Code: https://github.com/hasan-rakibul/TFMPathy
+- [Social Human Robot Embodied Conversation (SHREC) Dataset: Benchmarking Foundational Models' Social Reasoning](http://arxiv.org/abs/2504.13898v3)
+  Dong Won Lee, Yubin Kim, Denison Guvenoz, Sooyeon Jeong, Parker Malachowsky, Louis-Philippe Morency, Cynthia Breazeal, Hae Won Park
+  Code: nan
 
 ## February
 

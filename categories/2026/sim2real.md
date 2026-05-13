@@ -1,5 +1,11 @@
 # Simulation and Sim2Real Papers (2026)
 
+## May
+
+- [Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation](http://arxiv.org/abs/2605.12347v1)
+  Hamza Ahmed Durrani, Suleman Khan
+  Code: nan
+
 ## April
 
 - [FlexiTac: A Low-Cost, Open-Source, Scalable Tactile Sensing Solution for Robotic Systems](http://arxiv.org/abs/2604.28156v1)
@@ -20,17 +26,17 @@
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)
   Yingke Wang, Hao Li, Yifeng Zhu, Hong-Xing Yu, Ken Goldberg, Li Fei-Fei, Jiajun Wu, Yunzhu Li, Ruohan Zhang
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
-  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
-  Code: nan
-- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
-  Dong Heon Cho, Boyuan Chen
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
-  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
+- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
+  Dong Heon Cho, Boyuan Chen
+  Code: nan
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
   Code: nan
 - [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
   Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang

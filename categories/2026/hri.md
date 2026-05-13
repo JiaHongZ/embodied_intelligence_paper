@@ -2,6 +2,9 @@
 
 ## May
 
+- [Mapping Embodied Affective Touch Strategies on a Humanoid Robot](http://arxiv.org/abs/2605.11825v1)
+  Qiaoqiao Ren, Omar Eldardeer, Francesca Cocchella, Rea Francesco, Alessandra Sciutti, Tony Belpaeme
+  Code: nan
 - [Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction](http://arxiv.org/abs/2605.04770v1)
   Berk Sezer, Ali Görkem Küçük, Erol Şahin, Sinan Kalkan
   Code: nan

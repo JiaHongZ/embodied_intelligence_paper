@@ -2,6 +2,9 @@
 
 ## December
 
+- [DarkQA: Benchmarking Vision-Language Models on Visual-Primitive Question Answering in Low-Light Indoor Scenes](http://arxiv.org/abs/2512.24985v4)
+  Yohan Park, Hyunwoo Ha, Wonjun Jo, Tae-Hyun Oh
+  Code: nan
 - [Value-Guided Iterative Refinement and the DIQ-H Benchmark for Evaluating VLM Robustness](http://arxiv.org/abs/2512.03992v2)
   Hanwen Wan, Zexin Lin, Yixuan Deng, Xiaoqiang Ji
   Code: nan
