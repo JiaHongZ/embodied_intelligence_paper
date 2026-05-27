@@ -2,6 +2,9 @@
 
 ## May
 
+- [Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot](http://arxiv.org/abs/2605.26991v1)
+  Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti, Giulio Romualdi, Stefano Dafarra, Nicola A. Piga, Ines Sorrentino, Paolo Maria Vicecone, Silvio Traversaro, Ugo Pattacini, Luca Fiorio, Francesco Draicchio, Giovanna Tranfo, Lorenzo Natale, Marco Maggiali, Daniele Pucci
+  Code: nan
 - [Mapping Embodied Affective Touch Strategies on a Humanoid Robot](http://arxiv.org/abs/2605.11825v1)
   Qiaoqiao Ren, Omar Eldardeer, Francesca Cocchella, Rea Francesco, Alessandra Sciutti, Tony Belpaeme
   Code: nan
@@ -68,11 +71,11 @@
 - [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
-  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
-  Code: nan
 - [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
   Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+  Code: nan
+- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
+  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs

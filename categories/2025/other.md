@@ -29,11 +29,11 @@
 - [LoGoColor: Local-Global 3D Colorization for 360° Scenes](http://arxiv.org/abs/2512.09278v2)
   Yeonjin Chang, Juhwan Cho, Seunghyeon Seo, Wonsik Shin, Nojun Kwak
   Code: nan
-- [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
-  Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
-  Code: nan
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
+  Code: nan
+- [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
+  Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
   Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -112,6 +112,9 @@
   Code: nan
 - [Toggling stiffness via multistability](http://arxiv.org/abs/2510.09511v2)
   Hugo de Souza Oliveira, Michele Curatolo, Renate Sachse, Edoardo Milana
+  Code: nan
+- [SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](http://arxiv.org/abs/2510.09606v2)
+  Peiwen Sun, Shiqiang Lang, Dongming Wu, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
   Code: nan
 - [A Multimodal Depth-Aware Method For Embodied Reference Understanding](http://arxiv.org/abs/2510.08278v3)
   Fevziye Irem Eyiokur, Dogucan Yaman, Hazım Kemal Ekenel, Alexander Waibel
@@ -214,6 +217,9 @@
   Code: nan
 - [Line-Search Filter Differential Dynamic Programming for Optimal Control with Nonlinear Equality Constraints](http://arxiv.org/abs/2504.08278v6)
   Ming Xu, Stephen Gould, Iman Shames
+  Code: nan
+- [MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond](http://arxiv.org/abs/2504.05046v2)
+  Shenghao Ren, Yi Lu, Jiayi Huang, Jiayi Zhao, He Zhang, Tao Yu, Qiu Shen, Xun Cao
   Code: nan
 - [SuperDec: 3D Scene Decomposition with Superquadric Primitives](http://arxiv.org/abs/2504.00992v2)
   Elisabetta Fedele, Boyang Sun, Leonidas Guibas, Marc Pollefeys, Francis Engelmann

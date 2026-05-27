@@ -80,6 +80,9 @@
 - [Human-computer interactions predict mental health](http://arxiv.org/abs/2511.20179v5)
   Veith Weilnhammer, Jefferson Ortega, David Whitney
   Code: nan
+- [Bridging the Semantic-Action Gap in Visual Token Pruning for Efficient VLA Inference](http://arxiv.org/abs/2511.16449v5)
+  Ziyan Liu, Yeqiu Chen, Hongyi Cai, Tao Lin, Shuo Yang, Zheng Liu, Bo Zhao
+  Code: nan
 - [SkyReels-Text: Fine-Grained Font-Controllable Text Editing for Poster Design](http://arxiv.org/abs/2511.13285v2)
   Yunjie Yu, Jingchen Wu, Junchen Zhu, Chunze Lin, Guibin Chen
   Code: https://github.com/SkyworkAI/SkyReels-Text
@@ -212,6 +215,9 @@
 - [ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations](http://arxiv.org/abs/2509.11125v3)
   Zheng Li, Pei Qu, Yufei Jia, Shihui Zhou, Haizhou Ge, Jiahang Cao, Jinni Zhou, Guyue Zhou, Jun Ma
   Code: nan
+- [EvoEmo: Towards Evolved Emotional Policies for Adversarial LLM Agents in Multi-Turn Price Negotiation](http://arxiv.org/abs/2509.04310v4)
+  Yunbo Long, Liming Xu, Lukas Beckenbauer, Yuhan Liu, Alexandra Brintrup
+  Code: https://github.com/Yunbo-max/EvoEmo}{\textcolor{red}{https://github.com/Yunbo-max/EvoEmo}}
 - [U-ARM : Ultra low-cost general teleoperation interface for robot manipulation](http://arxiv.org/abs/2509.02437v4)
   Yanwen Zou, Zhaoye Zhou, Chenyang Shi, Zewei Ye, Junda Huang, Yan Ding, Bo Zhao
   Code: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm
@@ -308,6 +314,9 @@
 - [3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks](http://arxiv.org/abs/2505.05800v2)
   Vineet Bhat, Yu-Hsiang Lan, Prashanth Krishnamurthy, Ramesh Karri, Farshad Khorrami
   Code: nan
+- [PLAID: A Unified Data Model for Machine Learning on Heterogeneous Physics Simulations](http://arxiv.org/abs/2505.02974v3)
+  Fabien Casenave, Xavier Roynard, Brian Staber, Alexandre Devaux-Rivière, William Piat, Michele Alessandro Bucci, Nissrine Akkari, Abbas Kabalan, Xuan Minh Vuong Nguyen, Luca Saverio, Raphaël Carpintero Perez, Anthony Kalaydjian, Samy Fouché, Thierry Gonon, Ghassan Najjar, Thomas Daniel, Emmanuel Menier, Matthieu Nastorg, Giovanni Catalani, Christian Rey
+  Code: https://github.com/PLAID-lib/plaid}{github.com/PLAID-lib/plaid}
 - [Physics-Conditioned Grasping for Stable Tool Use](http://arxiv.org/abs/2505.01399v3)
   Noah Trupin, Zixing Wang, Ahmed H. Qureshi
   Code: nan

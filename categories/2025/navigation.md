@@ -173,12 +173,12 @@
 - [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
   Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
   Code: nan
-- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
-  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
-  Code: nan
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
+- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
+  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
+  Code: nan
 
 ## August
 
@@ -256,6 +256,9 @@
   Code: nan
 - [Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering](http://arxiv.org/abs/2504.14135v3)
   Jonathan Embley-Riches, Jianwei Liu, Simon Julier, Dimitrios Kanoulas
+  Code: nan
+- [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](http://arxiv.org/abs/2504.08540v2)
+  Jörg Gamerdinger, Sven Teufel, Oliver Bringmann
   Code: nan
 - [Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection](http://arxiv.org/abs/2504.06585v2)
   Junhyeok Rui Cha, Woohyun Cha, Jaeyong Shin, Donghyeon Kim, Jaeheung Park
