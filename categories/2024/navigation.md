@@ -6,6 +6,12 @@
   Maximilian Raff, Kathrin Flaßkamp, C. David Remy
   Code: nan
 
+## June
+
+- [SPIRONet: Spatial-Frequency Learning and Graph-based Channel Interaction Network for Vessel Segmentation](http://arxiv.org/abs/2406.19749v2)
+  De-Xing Huang, Xiao-Hu Zhou, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Zhen-Qiu Feng, Mei-Jiang Gui, Hao Li, Tian-Yu Xiang, Bo-Xian Yao, Zeng-Guang Hou
+  Code: https://github.com/Dxhuang-CASIA/SPIRONet
+
 ## April
 
 - [DIDLM: A SLAM Dataset for Difficult Scenarios Featuring Infrared, Depth Cameras, LIDAR, 4D Radar, and Others under Adverse Weather, Low Light Conditions, and Rough Roads](http://arxiv.org/abs/2404.09622v3)

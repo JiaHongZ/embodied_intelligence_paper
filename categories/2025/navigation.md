@@ -143,20 +143,23 @@
 - [PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis](http://arxiv.org/abs/2509.21690v3)
   Muqun Hu, Wenxi Chen, Wenjing Li, Falak Mandali, Zijian He, Renhong Zhang, Praveen Krisna, Katherine Christian, Leo Benaharon, Dizhi Ma, Karthik Ramani, Yan Gu
   Code: https://github.com/purdue-tracelab/TTRL-ICRA2026
+- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v3)
+  Julius Pesonen, Arno Solin, Eija Honkavaara
+  Code: nan
 - [Scalable Multi Agent Diffusion Policies for Coverage Control](http://arxiv.org/abs/2509.17244v2)
   Frederic Vatnsdal, Romina Garcia Camargo, Saurav Agarwal, Alejandro Ribeiro
-  Code: nan
-- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v3)
-  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
-  Code: nan
-- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
-  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
   Code: nan
 - [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
   Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
+  Code: nan
+- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v3)
+  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
+  Code: nan
+- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
+  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
 - [Responsibility and Engagement -- Evaluating Interactions in Social Robot Navigation](http://arxiv.org/abs/2509.12890v2)
   Malte Probst, Raphael Wenzel, Monica Dasi
@@ -269,12 +272,12 @@
 
 ## March
 
-- [KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](http://arxiv.org/abs/2503.14637v3)
-  Merkourios Simos, Alberto Silvio Chiappa, Alexander Mathis
-  Code: https://github.com/amathislab/Kinesis
 - [A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis](http://arxiv.org/abs/2503.14255v2)
   Aman Singh, Bhavya Giri Goswami, Ketan Nehete, Shishir N. Y. Kolathaya
   Code: https://github.com/singhaman1750/stoch3-design.git
+- [KINESIS: Motion Imitation for Human Musculoskeletal Locomotion](http://arxiv.org/abs/2503.14637v3)
+  Merkourios Simos, Alberto Silvio Chiappa, Alexander Mathis
+  Code: https://github.com/amathislab/Kinesis
 - [GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance](http://arxiv.org/abs/2503.12844v2)
   Junhyeok Kim, Jaewoo Park, Junhee Park, Sangeyl Lee, Jiwan Chung, Jisung Kim, Ji Hoon Joung, Youngjae Yu
   Code: nan

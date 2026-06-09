@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2026)
 
+## June
+
+- [Toward Signing Activity Projection in Sign Language Interaction](http://arxiv.org/abs/2606.09424v1)
+  Takao Obi, Wang Yusong, Koji Inoue, Kotaro Funakoshi
+  Code: nan
+
 ## May
 
 - [Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot](http://arxiv.org/abs/2605.26991v1)

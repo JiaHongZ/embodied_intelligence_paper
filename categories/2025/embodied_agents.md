@@ -8,6 +8,9 @@
 - [Analyzing Planner Design Trade-offs for MAPF under ADG-based Realistic Execution](http://arxiv.org/abs/2512.09736v2)
   Jingtian Yan, Zhifei Li, William Kang, Stephen F. Smith, Jiaoyang Li
   Code: nan
+- [DIJIT: A Robotic Head for an Active Observer](http://arxiv.org/abs/2512.07998v2)
+  Mostafa Kamali Tabrizi, Mingshi Chi, Bir Bikram Dey, Kelly Yuan, Markus D. Solbach, Yiqian Liu, Michael Jenkin, John K. Tsotsos
+  Code: nan
 - [db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF](http://arxiv.org/abs/2512.06796v3)
   Akmaral Moldagalieva, Keisuke Okumura, Amanda Prorok, Wolfgang Hönig
   Code: nan
@@ -65,6 +68,9 @@
 
 ## May
 
+- [ACTIVE-o3: Empowering MLLMs with Active Perception via Pure Reinforcement Learning](http://arxiv.org/abs/2505.21457v2)
+  Muzhi Zhu, Hao Zhong, Canyu Zhao, Zongze Du, Mingyu Liu, Zheng Huang, Anzhou Li, Hao Chen, Cheng Zou, Jingdong Chen, Ming Yang, Chunhua Shen
+  Code: nan
 - [CubeDAgger: Interactive Imitation Learning for Dynamic Systems with Efficient yet Low-risk Interaction](http://arxiv.org/abs/2505.04897v2)
   Taisuke Kobayashi
   Code: nan
