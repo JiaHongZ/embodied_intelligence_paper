@@ -47,3 +47,6 @@
 - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](http://arxiv.org/abs/2407.11298v2)
   Yaoyao Qian, Xupeng Zhu, Ondrej Biza, Shuo Jiang, Linfeng Zhao, Haojie Huang, Yu Qi, Robert Platt
   Code: nan
+- [Rod models in continuum and soft robot control: a review](http://arxiv.org/abs/2407.05886v3)
+  Carlo Alessi, Camilla Agabiti, Daniele Caradonna, Cecilia Laschi, Federico Renda, Egidio Falotico
+  Code: nan

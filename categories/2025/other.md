@@ -11,10 +11,10 @@
 - [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
   Shuhan Zhang, Tin Lun Lam
   Code: nan
-- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
+- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
-- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
+- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
 - [Olaf: Bringing an Animated Character to Life in the Physical World](http://arxiv.org/abs/2512.16705v2)
@@ -28,6 +28,9 @@
   Code: nan
 - [LoGoColor: Local-Global 3D Colorization for 360° Scenes](http://arxiv.org/abs/2512.09278v2)
   Yeonjin Chang, Juhwan Cho, Seunghyeon Seo, Wonsik Shin, Nojun Kwak
+  Code: nan
+- [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](http://arxiv.org/abs/2512.08280v3)
+  Haldun Balim, Na Li, Yilun Du
   Code: nan
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
@@ -47,23 +50,23 @@
 - [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
   Alex Diep
   Code: nan
-- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
-  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
-  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](http://arxiv.org/abs/2511.20886v2)
   Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
   Code: nan
 - [Metric, inertially aligned monocular state estimation via kinetodynamic priors](http://arxiv.org/abs/2511.20496v3)
   Jiaxin Liu, Min Li, Wanting Xu, Liang Li, Jiaqi Yang, Laurent Kneip
   Code: nan
+- [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
+  Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
+  Code: https://github.com/JMUWRobotics/Dynamic-ICP
 - [A Virtual Mechanical Interaction Layer Enables Resilient Human-to-Robot Object Handovers](http://arxiv.org/abs/2511.19543v2)
   Omar Faris, Sławomir Tadeja, Fulvio Forni
   Code: nan
-- [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
-  Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
-  Code: nan
 - [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
   Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
+  Code: nan
+- [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
+  Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
@@ -215,6 +218,9 @@
 - [StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v2)
   Xu Wang, Jialang Xu, Shuai Zhang, Baoru Huang, Danail Stoyanov, Evangelos B. Mazomenos
   Code: nan
+- [Geometric Formulation of Unified Force-Impedance Control on SE(3) for Robotic Manipulators](http://arxiv.org/abs/2504.17080v3)
+  Joohwan Seo, Nikhil Potu Surya Prakash, Soomi Lee, Arvind Kruthiventy, Megan Teng, Jongeun Choi, Roberto Horowitz
+  Code: https://github.com/Joohwan-Seo/GUFIC_mujoco
 - [Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v2)
   Hyunbum Cho, Sungmoon Hur, Joowan Kim, Keewon Kim, Jaeheung Park
   Code: nan

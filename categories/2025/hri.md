@@ -8,6 +8,9 @@
 
 ## September
 
+- [CapStARE: Capsule-based Sequential Architecture for Robust and Efficient Gaze Estimation](http://arxiv.org/abs/2509.19936v2)
+  Miren Samaniego, Igor Rodriguez, Elena Lazkano
+  Code: https://github.com/toukapy/capsStare
 - [STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle](http://arxiv.org/abs/2509.10692v3)
   Giuseppe Silano, Amr Afifi, Martin Saska, Antonio Franchi
   Code: nan
