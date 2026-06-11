@@ -47,11 +47,11 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
-  Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
-  Code: nan
 - [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
   Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
+  Code: nan
+- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
+  Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
   Code: nan
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
@@ -65,11 +65,20 @@
 - [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
   Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
   Code: nan
+- [Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning](http://arxiv.org/abs/2511.14427v4)
+  Rickmer Krohn, Vignesh Prasad, Gabriele Tiboni, Georgia Chalvatzaki
+  Code: nan
 - [Towards High-Consistency Embodied World Model with Multi-View Trajectory Videos](http://arxiv.org/abs/2511.12882v3)
   Taiyi Su, Jian Zhu, Yaxuan Li, Chong Ma, Jianjun Zhang, Zitai Huang, Hanli Wang, Yi Xu
   Code: nan
+- [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](http://arxiv.org/abs/2511.13207v2)
+  Cheng Peng, Zhenzhe Zhang, Xiaobao Wei, Yanhao Zhang, Heng Wang, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Shanghang Zhang, Jing Liu
+  Code: nan
 - [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
   Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
+  Code: nan
+- [SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation](http://arxiv.org/abs/2511.05203v3)
+  Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert
   Code: nan
 - [GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](http://arxiv.org/abs/2511.03400v3)
   Minquan Gao, Xinyi Li, Qing Yan, Xiaojian Sun, Xiaopan Zhang, Chien-Ming Huang, Jiachen Li
@@ -116,6 +125,9 @@
 
 ## September
 
+- [Noise-Guided Transport for Imitation Learning](http://arxiv.org/abs/2509.26294v2)
+  Lionel Blondé, Joao A. Candido Ramos, Alexandros Kalousis
+  Code: nan
 - [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v5)
   Junjin Xiao, Yandan Yang, Xinyuan Chang, Ronghan Chen, Feng Xiong, Mu Xu, Wei-Shi Zheng, Qing Zhang
   Code: https://github.com/amap-cvlab/world-env
@@ -202,6 +214,12 @@
   Code: https://github.com/hasan-rakibul/TFMPathy
 - [Social Human Robot Embodied Conversation (SHREC) Dataset: Benchmarking Foundational Models' Social Reasoning](http://arxiv.org/abs/2504.13898v3)
   Dong Won Lee, Yubin Kim, Denison Guvenoz, Sooyeon Jeong, Parker Malachowsky, Louis-Philippe Morency, Cynthia Breazeal, Hae Won Park
+  Code: nan
+
+## March
+
+- [iPack: Intuitive Bin Packing with Large Language Models](http://arxiv.org/abs/2503.08445v2)
+  Yannik Blei, Michael Krawez, Adrian Göß, Devadas Vijayan Sheela, Tobias Jülg, Pierre Krack, Florian Walter, Wolfram Burgard
   Code: nan
 
 ## February
