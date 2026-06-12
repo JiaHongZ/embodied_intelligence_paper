@@ -2,6 +2,9 @@
 
 ## June
 
+- [Real-Time Execution with Autoregressive Policies](http://arxiv.org/abs/2606.13355v1)
+  Sangkyu Lee, Seohyeon Park, Tackgeun You, Avi Caciularu, Idan Szpektor, Hwasup Lim, Youngjae Yu
+  Code: nan
 - [Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks](http://arxiv.org/abs/2606.10819v1)
   Miaoxin Cai, Guanqun Wang, Wei Zhang, Guangyao Zhou, Yin Zhuang, Tong Zhang, Hao Wang, He Chen, Jun Li
   Code: nan
@@ -50,10 +53,10 @@
 
 ## April
 
-- [EdgeFM: Efficient Edge Inference for Vision-Language Models](http://arxiv.org/abs/2604.27476v2)
+- [EdgeFM: Efficient Edge Inference for Vision-Language Models](http://arxiv.org/abs/2604.27476v1)
   Mengling Deng, Yuanpeng Chen, Sheng Yang, Wei Tao, Wenhai Zhang, Hui Song, Linyuanhao Qin, Kai Zhao, Xiaojun Ye, Shanhui Mo, Jingli Fan, Shuang Zhang, Bei Liu, Tiankun Zhao, Xiangjing An
   Code: nan
-- [EdgeFM: Efficient Edge Inference for Vision-Language Models](http://arxiv.org/abs/2604.27476v1)
+- [EdgeFM: Efficient Edge Inference for Vision-Language Models](http://arxiv.org/abs/2604.27476v2)
   Mengling Deng, Yuanpeng Chen, Sheng Yang, Wei Tao, Wenhai Zhang, Hui Song, Linyuanhao Qin, Kai Zhao, Xiaojun Ye, Shanhui Mo, Jingli Fan, Shuang Zhang, Bei Liu, Tiankun Zhao, Xiangjing An
   Code: nan
 - [CF-VLA: Efficient Coarse-to-Fine Action Generation for Vision-Language-Action Policies](http://arxiv.org/abs/2604.24622v1)
@@ -86,11 +89,11 @@
 - [EgoMotion: Hierarchical Reasoning and Diffusion for Egocentric Vision-Language Motion Generation](http://arxiv.org/abs/2604.19105v1)
   Ruibing Hou, Mingyue Zhou, Yuwei Gui, Mingshuang Luo, Bingpeng Ma, Hong Chang, Shiguang Shan, Xilin Chen
   Code: nan
-- [A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots](http://arxiv.org/abs/2604.19643v1)
-  Alex Lin, Lei Gao, Narsimlu Kemsaram, Sriram Subramanian
-  Code: nan
 - [SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model](http://arxiv.org/abs/2604.19710v1)
   Zewei Zhou, Ruining Yang, Xuewei, Qi, Yiluan Guo, Sherry X. Chen, Tao Feng, Kateryna Pistunova, Yishan Shen, Lili Su, Jiaqi Ma
+  Code: nan
+- [A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots](http://arxiv.org/abs/2604.19643v1)
+  Alex Lin, Lei Gao, Narsimlu Kemsaram, Sriram Subramanian
   Code: nan
 - [EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents](http://arxiv.org/abs/2604.18271v1)
   Paolo Riva, Leonardo Gargani, Matteo Frosi, Matteo Matteucci
@@ -167,21 +170,21 @@
 - [ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making](http://arxiv.org/abs/2603.25044v2)
   Young-Chae Son, Dae-Kwan Ko, Yoon-Ji Choi, Soo-Chul Lim
   Code: nan
-- [Design, Modelling and Characterisation of a Miniature Fibre-Reinforced Soft Bending Actuator for Endoluminal Interventions](http://arxiv.org/abs/2603.24461v1)
-  Xiangyi Tan, Aoife McDonald-Bowyer, Danail Stoyanov, Agostino Stilli
-  Code: nan
-- [Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning](http://arxiv.org/abs/2603.24257v1)
-  Tommaso Galliena, Stefano Rosa, Tommaso Apicella, Pietro Morerio, Alessio Del Bue, Lorenzo Natale
-  Code: https://github.com/hsp-iit/epos-vlm
-- [ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents](http://arxiv.org/abs/2603.24018v1)
-  Bingqing Wei, Zhongyu Xia, Dingai Liu, Xiaoyu Zhou, Zhiwei Lin, Yongtao Wang
-  Code: nan
 - [Variable-Length Audio Fingerprinting](http://arxiv.org/abs/2603.23947v1)
   Hongjie Chen, Hanyu Meng, Huimin Zeng, Ryan A. Rossi, Lie Lu, Josh Kimball
   Code: nan
 - [Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning](http://arxiv.org/abs/2603.24257v2)
   Tommaso Galliena, Stefano Rosa, Tommaso Apicella, Pietro Morerio, Alessio Del Bue, Lorenzo Natale
   Code: nan
+- [Design, Modelling and Characterisation of a Miniature Fibre-Reinforced Soft Bending Actuator for Endoluminal Interventions](http://arxiv.org/abs/2603.24461v1)
+  Xiangyi Tan, Aoife McDonald-Bowyer, Danail Stoyanov, Agostino Stilli
+  Code: nan
+- [ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents](http://arxiv.org/abs/2603.24018v1)
+  Bingqing Wei, Zhongyu Xia, Dingai Liu, Xiaoyu Zhou, Zhiwei Lin, Yongtao Wang
+  Code: nan
+- [Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning](http://arxiv.org/abs/2603.24257v1)
+  Tommaso Galliena, Stefano Rosa, Tommaso Apicella, Pietro Morerio, Alessio Del Bue, Lorenzo Natale
+  Code: https://github.com/hsp-iit/epos-vlm
 - [AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation](http://arxiv.org/abs/2603.23489v1)
   Woojeong Jin, Jaeho Lee, Heeseong Shin, Seungho Jang, Junhwan Heo, Seungryong Kim
   Code: nan
@@ -203,23 +206,23 @@
 - [RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models](http://arxiv.org/abs/2603.20711v2)
   Zihao Zheng, Hangyu Cao, Jiayu Chen, Sicheng Tian, Chenyue Li, Maoliang Li, Xinhao Sun, Guojie Luo, Xiang Chen
   Code: nan
-- [From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models](http://arxiv.org/abs/2603.19131v1)
-  Zhuofan Li, Hongkun Yang, Zhenyang Chen, Yangxuan Chen, Yingyan, Lin, Chaojian Li
-  Code: nan
-- [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](http://arxiv.org/abs/2603.19092v1)
-  Carlos Hinojosa, Clemens Grange, Bernard Ghanem
-  Code: nan
-- [MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction](http://arxiv.org/abs/2603.18988v1)
-  Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler, Daniel Tanneberg, Anna Belardinelli, Reza Ghoddoosian, Chao Wang, Felix Ocker, Fan Zhang, Behzad Dariush, Michael Gienger
-  Code: nan
 - [Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture](http://arxiv.org/abs/2603.18771v1)
   Fuze Sun, Lingyu Li, Lekan Dai, Xinyu Fan
+  Code: nan
+- [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](http://arxiv.org/abs/2603.18510v1)
+  Hongjia Zhai, Qi Zhang, Xiaokun Pan, Xiyu Zhang, Yitong Dong, Huaqi Zhang, Dan Xu, Guofeng Zhang
   Code: nan
 - [Beyond TVLA: Anderson-Darling Leakage Assessment for Neural Network Side-Channel Leakage Detection](http://arxiv.org/abs/2603.18647v1)
   Ján Mikulec, Jakub Breier, Xiaolu Hou
   Code: nan
-- [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](http://arxiv.org/abs/2603.18510v1)
-  Hongjia Zhai, Qi Zhang, Xiaokun Pan, Xiyu Zhang, Yitong Dong, Huaqi Zhang, Dan Xu, Guofeng Zhang
+- [MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction](http://arxiv.org/abs/2603.18988v1)
+  Joerg Deigmoeller, Nakul Agarwal, Stephan Hasler, Daniel Tanneberg, Anna Belardinelli, Reza Ghoddoosian, Chao Wang, Felix Ocker, Fan Zhang, Behzad Dariush, Michael Gienger
+  Code: nan
+- [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](http://arxiv.org/abs/2603.19092v1)
+  Carlos Hinojosa, Clemens Grange, Bernard Ghanem
+  Code: nan
+- [From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models](http://arxiv.org/abs/2603.19131v1)
+  Zhuofan Li, Hongkun Yang, Zhenyang Chen, Yangxuan Chen, Yingyan, Lin, Chaojian Li
   Code: nan
 - [Murmurations, Mestre--Nagao sums, and Convolutional Neural Networks for elliptic curves](http://arxiv.org/abs/2603.17681v1)
   Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, Tamara Veenstra
@@ -239,17 +242,14 @@
 - [HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](http://arxiv.org/abs/2603.11975v1)
   Jiayue Pu, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
   Code: nan
+- [COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](http://arxiv.org/abs/2603.10436v1)
+  Mohammad Saeid Anwar, Anuradha Ravi, Indrajeet Ghosh, Gaurav Shinde, Carl Busart, Nirmalya Roy
+  Code: nan
 - [DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving](http://arxiv.org/abs/2603.11041v1)
   Shuyao Shang, Bing Zhan, Yunfei Yan, Yuqi Wang, Yingyan Li, Yasong An, Xiaoman Wang, Jierui Liu, Lu Hou, Lue Fan, Zhaoxiang Zhang, Tieniu Tan
   Code: nan
 - [Beam-Plasma Collective Oscillations in Intense Charged-Particle Beams: Dielectric Response Theory, Langmuir Wave Dispersion, and Unsupervised Detection via Prometheus](http://arxiv.org/abs/2603.10457v1)
   Brandon Yee, Wilson Collins, Michael Iofin, Jiayi Fu
-  Code: nan
-- [COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints](http://arxiv.org/abs/2603.10436v1)
-  Mohammad Saeid Anwar, Anuradha Ravi, Indrajeet Ghosh, Gaurav Shinde, Carl Busart, Nirmalya Roy
-  Code: nan
-- [Generative Drifting is Secretly Score Matching: a Spectral and Variational Perspective](http://arxiv.org/abs/2603.09936v1)
-  Erkan Turan, Maks Ovsjanikov
   Code: nan
 - [TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions](http://arxiv.org/abs/2603.09782v1)
   Nerea Gallego, Fernando Salanova, Claudio Mannarano, Cristian Mahulea, Eduardo Montijano
@@ -263,6 +263,9 @@
 - [EvoDriveVLA: Evolving Autonomous Driving Vision-Language-Action Model via Collaborative Perception-Planning Distillation](http://arxiv.org/abs/2603.09465v1)
   Jiajun Cao, Xiaoan Zhang, Xiaobao Wei, Liyuqiu Huang, Wang Zijian, Hanzhen Zhang, Zhengyu Jia, Wei Mao, Hao Wang, Xianming Liu, Shuchang Zhou Liu, Yang Wang, Shanghang Zhang
   Code: https://github.com/hey-cjj/EvoDriveVLA
+- [Generative Drifting is Secretly Score Matching: a Spectral and Variational Perspective](http://arxiv.org/abs/2603.09936v1)
+  Erkan Turan, Maks Ovsjanikov
+  Code: nan
 - [SaiVLA-0: Cerebrum--Pons--Cerebellum Tripartite Architecture for Compute-Aware Vision-Language-Action](http://arxiv.org/abs/2603.08124v1)
   Xiang Shi, Wenlong Huang, Menglin Zou, Xinhai Sun
   Code: nan
@@ -272,11 +275,11 @@
 - [RAPID: Redundancy-Aware and Compatibility-Optimal Edge-Cloud Partitioned Inference for Diverse VLA models](http://arxiv.org/abs/2603.07949v1)
   Zihao Zheng, Sicheng Tian, Hangyu Cao, Chenyue Li, Jiayu Chen, Maoliang Li, Xinhao Sun, Hailong Zou, Guojie Luo, Xiang Chen
   Code: nan
-- [RACAS: Controlling Diverse Robots With a Single Agentic System](http://arxiv.org/abs/2603.05621v2)
-  Dylan R. Ashley, Jan Przepióra, Yimeng Chen, Ali Abualsaud, Nurzhan Yesmagambet, Shinkyu Park, Eric Feron, Jürgen Schmidhuber
-  Code: nan
 - [Act, Think or Abstain: Complexity-Aware Adaptive Inference for Vision-Language-Action Models](http://arxiv.org/abs/2603.05147v1)
   Riccardo Andrea Izzo, Gianluca Bardaro, Matteo Matteucci
+  Code: nan
+- [RACAS: Controlling Diverse Robots With a Single Agentic System](http://arxiv.org/abs/2603.05621v2)
+  Dylan R. Ashley, Jan Przepióra, Yimeng Chen, Ali Abualsaud, Nurzhan Yesmagambet, Shinkyu Park, Eric Feron, Jürgen Schmidhuber
   Code: nan
 - [PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking](http://arxiv.org/abs/2603.05410v1)
   Weikai Qin, Sichen Wu, Ci Chen, Mengfan Liu, Linxi Feng, Xinru Cui, Haoqi Han, Hesheng Wang
@@ -298,6 +301,9 @@
   Code: https://github.com/Li-Hao-yuan/GeoThinker
 - [RL-VLA$^3$: A Flexible and Asynchronous Reinforcement Learning Framework for VLA Training](http://arxiv.org/abs/2602.05765v2)
   Haoran Sun, Yongjian Guo, Zhong Guan, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Hongke Zhao, Likang Wu, Xiaotie Deng, Xu Chu, Xi Xiao, Sheng Wen, Yicheng Gong, Junwu Xiong
+  Code: nan
+- [SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models](http://arxiv.org/abs/2602.04208v2)
+  Hyeonbeom Choi, Daechul Ahn, Youhan Lee, Taewook Kang, Seongwon Cho, Jonghyun Choi
   Code: nan
 - [Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](http://arxiv.org/abs/2602.01834v2)
   Siqi Wen, Shu Yang, Shaopeng Fu, Jingfeng Zhang, Lijie Hu, Di Wang

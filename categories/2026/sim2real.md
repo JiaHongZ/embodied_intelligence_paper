@@ -2,14 +2,17 @@
 
 ## June
 
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
+  Taisuke Kobayashi, Naoto Yamanaka
+  Code: nan
 - [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](http://arxiv.org/abs/2606.12365v1)
   Adam Wei, Nicholas Pfaff, Thomas Cohn, Arif Kerem Dayı, Constantinos Daskalakis, Giannis Daras, Russ Tedrake
   Code: nan
-- [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
-  Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
-  Code: nan
 - [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
   Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
+  Code: nan
+- [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
+  Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
   Code: nan
 
 ## May

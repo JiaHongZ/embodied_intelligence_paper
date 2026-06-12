@@ -98,10 +98,10 @@
 - [Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](http://arxiv.org/abs/2510.16344v2)
   Chenrui Tie, Shengxiang Sun, Yudi Lin, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
   Code: nan
-- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v2)
+- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
-- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
+- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v2)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
@@ -164,6 +164,9 @@
 - [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
   Hakjin Lee, Junghoon Seo, Jaehoon Sim
   Code: nan
+- [Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory](http://arxiv.org/abs/2508.12681v3)
+  Johann Licher, Max Bartholdt, Henrik Krauss, Tim-Lukas Habich, Thomas Seel, Moritz Schappler
+  Code: nan
 - [MoRoCo: An Online Topology-Adaptive Framework for Multi-Operator Multi-Robot Coordination under Restricted Communication](http://arxiv.org/abs/2508.07657v2)
   Zhuoli Tian, Yanze Bao, Yuyang Zhang, Meng Guo
   Code: nan
@@ -194,11 +197,11 @@
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)
   Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Zhaoxin Fan, Yifan Sun, Wenjun Wu
   Code: https://github.com/AiDuanshiying/RoboPARA
-- [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
-  Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
-  Code: nan
 - [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
   Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
+  Code: nan
+- [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
+  Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
   Code: nan
 
 ## May
@@ -241,6 +244,9 @@
 
 - [Stratified Topological Autonomy for Long-Range Coordination (STALC)](http://arxiv.org/abs/2503.10475v4)
   Cora A. Duggan, Adam Goertz, Adam Polevoy, Mark Gonzales, Kevin C. Wolfe, Bradley Woosley, John G. Rogers, Joseph Moore
+  Code: nan
+- [Data-Driven Soft Robot Control via Adiabatic Spectral Submanifolds](http://arxiv.org/abs/2503.10919v3)
+  Roshan S. Kaundinya, John Irvin Alora, Jonas G. Matt, Luis A. Pabon, Marco Pavone, George Haller
   Code: nan
 - [Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap](http://arxiv.org/abs/2503.05656v3)
   Jianye Xu, Johannes Betz, Armin Mokhtarian, Archak Mittal, Mengchi Cai, Rahul Mangharam, Omar M. Shehata, Catherine M. Elias, Jan-Nico Zaech, Patrick Scheffe, Felix Jahncke, Sangeet Sankaramangalam Ulhas, Kaj Munhoz Arfvidsson, Bassam Alrifaee

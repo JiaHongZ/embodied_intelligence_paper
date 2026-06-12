@@ -2,6 +2,12 @@
 
 ## June
 
+- [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
+  Anna-Maria Velentza, Anne-Gwenn Bosser
+  Code: nan
+- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
+  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
+  Code: nan
 - [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
   Sadman Sakib Enan, Junaed Sattar
   Code: nan
