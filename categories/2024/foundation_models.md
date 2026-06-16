@@ -20,3 +20,9 @@
 - [Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference](http://arxiv.org/abs/2409.10095v3)
   Huy-Dung Nguyen, Anass Bairouk, Mirjana Maras, Wei Xiao, Tsun-Hsuan Wang, Patrick Chareyre, Ramin Hasani, Marc Blanchon, Daniela Rus
   Code: nan
+
+## August
+
+- [ReMoBot: Retrieval-Based Few-Shot Imitation Learning for Mobile Manipulation with Vision Foundation Models](http://arxiv.org/abs/2408.15919v4)
+  Yuying Zhang, Wenyan Yang, Francesco Verdoja, Ville Kyrki, Joni Pajarinen
+  Code: nan

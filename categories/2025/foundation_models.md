@@ -224,6 +224,9 @@
 
 ## February
 
+- [Efficient Reinforcement Learning by Guiding World Models with Non-Curated Data](http://arxiv.org/abs/2502.19544v3)
+  Yi Zhao, Aidan Scannell, Wenshuai Zhao, Yuxin Hou, Tianyu Cui, Le Chen, Dieter Büchler, Arno Solin, Juho Kannala, Joni Pajarinen
+  Code: nan
 - [Generative Models in Decision Making: A Survey](http://arxiv.org/abs/2502.17100v4)
   Xinyu Shao, Jianping Zhang, Haozhi Wang, Leo Maxime Brunswic, Kaiwen Zhou, Jiqian Dong, Kaiyang Guo, Zhitang Chen, Jun Wang, Jianye Hao, Xiu Li, Yinchuan Li
   Code: nan

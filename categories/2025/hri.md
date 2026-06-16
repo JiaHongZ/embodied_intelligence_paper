@@ -6,6 +6,12 @@
   John Pravin Arockiasamy, Andy Comeca, Victoria Yang, Manuel Bied, Maximilian Schrapel, Alexey Rolich, Barbara Bruno, Maike Schwammberger, Dieter Fiems, Alexey Vinel
   Code: nan
 
+## October
+
+- [Artists' Views on Robotics Involvement in Painting Productions](http://arxiv.org/abs/2510.07063v3)
+  Francesca Cocchella, Nilay Roy Choudhury, Eric Chen, Patrícia Alves-Oliveira
+  Code: nan
+
 ## September
 
 - [CapStARE: Capsule-based Sequential Architecture for Robust and Efficient Gaze Estimation](http://arxiv.org/abs/2509.19936v2)

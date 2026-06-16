@@ -41,12 +41,12 @@
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
-- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
-  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
-  Code: nan
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
+- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
+  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
+  Code: nan
 - [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
   Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
@@ -107,11 +107,11 @@
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
-- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
-  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
-  Code: nan
 - [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
   Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
+  Code: nan
+- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
+  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
   Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
@@ -143,13 +143,13 @@
 - [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
   Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
   Code: nan
+- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
+  Julius Pesonen, Arno Solin, Eija Honkavaara
+  Code: nan
 - [PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis](http://arxiv.org/abs/2509.21690v3)
   Muqun Hu, Wenxi Chen, Wenjing Li, Falak Mandali, Zijian He, Renhong Zhang, Praveen Krisna, Katherine Christian, Leo Benaharon, Dizhi Ma, Karthik Ramani, Yan Gu
   Code: https://github.com/purdue-tracelab/TTRL-ICRA2026
 - [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v3)
-  Julius Pesonen, Arno Solin, Eija Honkavaara
-  Code: nan
-- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
   Julius Pesonen, Arno Solin, Eija Honkavaara
   Code: nan
 - [Scalable Multi Agent Diffusion Policies for Coverage Control](http://arxiv.org/abs/2509.17244v2)
@@ -182,12 +182,12 @@
 - [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
   Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
   Code: nan
-- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
-  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
-  Code: nan
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
+- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
+  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
+  Code: nan
 
 ## August
 
@@ -244,6 +244,9 @@
   Code: nan
 - [A Survey of 3D Reconstruction with Event Cameras](http://arxiv.org/abs/2505.08438v4)
   Chuanzhi Xu, Haoxian Zhou, Langyi Chen, Haodong Chen, Zeke Zexi Hu, Zhicheng Lu, Ying Zhou, Vera Chung, Qiang Qu, Weidong Cai
+  Code: nan
+- [Generative Molecular Design with Steerable and Granular Synthesizability Control](http://arxiv.org/abs/2505.08774v2)
+  Jeff Guo, Víctor Sabanza-Gil, Olha Semenenko, Oleksii Hrabovskyi, Mykola Protopopov, Anna Kapeliukha, Oleksandr Mosia, Sofiia Hatych, Diana Alieksieieva, Tom Nelis, Patrick Molliet, Helena Solé-Àvila, Valentas Olikauskas, Nina Aregger, Irina Morozova, Joseph Schmidt, Zlatko Jončev, Olga Tarkhanova, Petro Borysko, Jerome Waser, Bruno Correia, Jeremy Luterbacher, Philippe Schwaller
   Code: nan
 - [TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian](http://arxiv.org/abs/2505.08811v2)
   Shijie Lian, Ziyi Zhang, Hua Li, Laurence Tianruo Yang, Mengyu Ren, Debin Liu, Wenhui Wu
