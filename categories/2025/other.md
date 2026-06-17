@@ -23,6 +23,9 @@
 - [BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization](http://arxiv.org/abs/2512.15111v2)
   Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas
   Code: nan
+- [K-VARK: Kernelized Variance-Aware Residual Kalman Filter for Sensorless Force Estimation in Collaborative Robots](http://arxiv.org/abs/2512.13009v2)
+  Oğuzhan Akbıyık, Naseem Alhousani, Fares J. Abu-Dakka
+  Code: nan
 - [ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics](http://arxiv.org/abs/2512.11773v4)
   Britton Jordan, Jordan Thompson, Jesse F. d'Almeida, Hao Li, Nithesh Kumar, Susheela Sharma Stern, James Ferguson, Ipek Oguz, Robert J. Webster, Daniel Brown, Alan Kuntz
   Code: nan
@@ -161,6 +164,9 @@
 
 ## August
 
+- [OpenTie: Open-vocabulary Sequential Rebar Tying System](http://arxiv.org/abs/2509.00064v2)
+  Sai Fan, Mingze Liu, Haozhen Li, Haobo Liang, Yixing Yuan, Yanke Wang
+  Code: nan
 - [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
   Hakjin Lee, Junghoon Seo, Jaehoon Sim
   Code: nan
@@ -217,6 +223,9 @@
   Code: nan
 - [Apple: Toward General Active Perception via Reinforcement Learning](http://arxiv.org/abs/2505.06182v5)
   Tim Schneider, Cristiana de Farias, Roberto Calandra, Liming Chen, Jan Peters
+  Code: nan
+- [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](http://arxiv.org/abs/2505.00986v3)
+  Xiao Ma, Young D. Kwon, Dong Ma
   Code: nan
 
 ## April
