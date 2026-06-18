@@ -275,6 +275,9 @@
 
 ## January
 
+- [Why Automate This? Exploring Correlations Between Desire for Robotic Automation, Invested Time and Well-Being](http://arxiv.org/abs/2501.06348v4)
+  Ruchira Ray, Leona Pang, Sanjana Srivastava, Li Fei-Fei, Samantha Shorey, Roberto Martín-Martín
+  Code: nan
 - [MAD-BA: 3D LiDAR Bundle Adjustment -- from Uncertainty Modelling to Structure Optimization](http://arxiv.org/abs/2501.03972v2)
   Krzysztof Ćwian, Luca Di Giammarino, Simone Ferrari, Thomas Ciarfuglia, Giorgio Grisetti, Piotr Skrzypczyński
   Code: nan

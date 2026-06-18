@@ -8,11 +8,17 @@
 - [Geometric Scaling of Bayesian Inference in LLMs](http://arxiv.org/abs/2512.23752v4)
   Naman Agarwal, Siddhartha R. Dalal, Vishal Misra
   Code: nan
+- [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v2)
+  Chen Liang, Daniel Rakita
+  Code: nan
 - [Learning-Based Automated Adversarial Red-Teaming for Robustness Evaluation of Large Language Models](http://arxiv.org/abs/2512.20677v4)
   Zhang Wei, Hanxuan Chen, Peilu Hu, Zhenyuan Wei, Chenwei Liang, Jing Luo, Ziyi Ni, Hao Yan, Li Mei, Shengning Lang, Kuan Lu, Xi Xiao, Zhimo Han, Yijin Wang, Yichao Zhang, Chen Yang, Junfeng Hao, Jiayi Gu, Riyang Bao, Mu-Jiang-Shan Wang
   Code: nan
 - [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](http://arxiv.org/abs/2512.16811v2)
   Jingjing Qian, Boyao Han, Chen Shi, Lei Xiao, Long Yang, Shaoshuai Shi, Li Jiang
+  Code: nan
+- [Odyssey: An Automotive Lidar-Inertial Odometry Dataset with GNSS-denied situations](http://arxiv.org/abs/2512.14428v2)
+  Aaron Kurda, Simon Steuernagel, Lukas Jung, Marcus Baum
   Code: nan
 - [NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks](http://arxiv.org/abs/2512.13670v2)
   Licheng Luo, Kaier Liang, Yu Xia, Mingyu Cai
@@ -386,6 +392,9 @@
 - [Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](http://arxiv.org/abs/2501.07399v2)
   Saurabh Gupta, Tiziano Guadagnino, Benedikt Mersch, Niklas Trekel, Meher V. R. Malladi, Cyrill Stachniss
   Code: https://github.com/PRBonn/MapClosures
+- [Steering Flexible Linear Objects in Planar Environments by Two Robot Hands Using Euler's Elastica Solutions](http://arxiv.org/abs/2501.02874v5)
+  Aharon Levin, Elon Rimon, Amir Shapiro
+  Code: nan
 - [Dynamics of Adversarial Attacks on Large Language Model-Based Search Engines](http://arxiv.org/abs/2501.00745v3)
   Xiyang Hu
   Code: nan
