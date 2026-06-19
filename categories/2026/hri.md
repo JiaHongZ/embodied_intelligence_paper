@@ -2,6 +2,12 @@
 
 ## June
 
+- [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
+  James Fant-Male, Roel Pieters
+  Code: nan
+- [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
+  Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
+  Code: nan
 - [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
   Thomas M. Kwok, Nicholas Koenig, Yue Hu
   Code: nan
@@ -56,11 +62,11 @@
 
 ## April
 
-- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
-  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
-  Code: nan
 - [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
   Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
+  Code: nan
+- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
+  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
   Code: nan
 - [Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar](http://arxiv.org/abs/2604.26473v1)
   Do Won Park, Samuele Bordini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi
@@ -86,13 +92,13 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
-- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
-  Jintao Xue, Xiao Li, Nianmin Zhang
-  Code: nan
 - [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
   Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
+  Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Learning to Forget -- Hierarchical Episodic Memory for Lifelong Robot Deployment](http://arxiv.org/abs/2604.11306v2)
@@ -140,10 +146,10 @@
 - [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](http://arxiv.org/abs/2603.22201v1)
   Qingrui Zhao, Kaiyue Yang, Xiyu Wang, Shiqi Zhao, Yi Lu, Xinfang Zhang, Wei Yin, Qiu Shen, Xiao-Xiao Long, Xun Cao
   Code: nan
-- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
+- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v3)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
   Code: nan
-- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v3)
+- ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v1)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
   Code: nan
 - [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)

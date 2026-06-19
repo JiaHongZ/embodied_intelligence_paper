@@ -2,6 +2,12 @@
 
 ## June
 
+- [CRAX: Fast Safe Reinforcement Learning Benchmarking](http://arxiv.org/abs/2606.20376v1)
+  Tristan Tomilin, Mourad Boustani, Mickey Beurskens, Thiago D. Simão
+  Code: nan
+- [Deep-Unfolded Coordination](http://arxiv.org/abs/2606.19920v1)
+  Hunter Kuperman, Minchan Jung, Rahul V. Ghosh, Alex Oshin, Evangelos A. Theodorou
+  Code: nan
 - [WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](http://arxiv.org/abs/2606.18847v1)
   Yehang Zhang, Jianchong Su, Haojian Huang, Yifan Chang, Tianhao Zhou, Xinli Xu, Yingjie Xu, Yinchuan Li, Zexi Li, Ying-Cong Chen
   Code: nan
@@ -95,14 +101,14 @@
 - [3D Generation for Embodied AI and Robotic Simulation: A Survey](http://arxiv.org/abs/2604.26509v1)
   Tianwei Ye, Yifan Mao, Minwen Liao, Jian Liu, Chunchao Guo, Dazhao Du, Quanxin Shou, Fangqi Zhu, Song Guo
   Code: nan
-- [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v1)
-  Benjamin Minhao Chen, Xinyu Xie
+- [Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence](http://arxiv.org/abs/2604.24527v1)
+  Diego Candia-Rivera
   Code: nan
 - [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v2)
   Benjamin Minhao Chen, Xinyu Xie
   Code: nan
-- [Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence](http://arxiv.org/abs/2604.24527v1)
-  Diego Candia-Rivera
+- [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v1)
+  Benjamin Minhao Chen, Xinyu Xie
   Code: nan
 - [Task-Driven Co-Design of Heterogeneous Multi-Robot Systems](http://arxiv.org/abs/2604.21894v1)
   Maximilian Stralz, Meshal Alharbi, Yujun Huang, Gioele Zardini
@@ -122,14 +128,14 @@
 - [Warmth and Competence in the Swarm: Designing Effective Human-Robot Teams](http://arxiv.org/abs/2604.19270v1)
   Genki Miyauchi, Roderich Groß, Chaona Chen
   Code: nan
-- [Continuous Focus Groups: A Longitudinal Method for Clinical HRI in Autism Care](http://arxiv.org/abs/2604.18197v1)
-  Ghiglino Davide, Foglino Caterina, Wykowska Agnieszka
-  Code: nan
 - [StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning](http://arxiv.org/abs/2604.18401v1)
   Daoyu Wang, Qingchuan Li, Mingyue Cheng, Jie Ouyang, Shuo Yu, Qi Liu, Enhong Chen
   Code: nan
 - [Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot](http://arxiv.org/abs/2604.18331v1)
   Maximilian Du, Jennifer Grannen, Shuran Song, Dorsa Sadigh
+  Code: nan
+- [Continuous Focus Groups: A Longitudinal Method for Clinical HRI in Autism Care](http://arxiv.org/abs/2604.18197v1)
+  Ghiglino Davide, Foglino Caterina, Wykowska Agnieszka
   Code: nan
 - [Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval](http://arxiv.org/abs/2604.15951v2)
   Hamed Jelodar, Samita Bai, Mohammad Meymani, Parisa Hamedi, Roozbeh Razavi-Far, Ali Ghorbani
@@ -176,8 +182,8 @@
 - [Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](http://arxiv.org/abs/2604.07165v2)
   Yu Li, Sizhe Tang, Tian Lan
   Code: nan
-- [AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules](http://arxiv.org/abs/2604.07039v1)
-  Xue Qin, Simin Luan, Cong Yang, Zhijun Li
+- [Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](http://arxiv.org/abs/2604.07165v1)
+  Yu Li, Sizhe Tang, Tian Lan
   Code: nan
 - [EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration](http://arxiv.org/abs/2604.07003v1)
   Yunbo Long, Yunhan Liu, Liming Xu
@@ -185,8 +191,8 @@
 - [ReDAct: Uncertainty-Aware Deferral for LLM Agents](http://arxiv.org/abs/2604.07036v1)
   Dzianis Piatrashyn, Nikita Kotelevskii, Kirill Grishchenkov, Nikita Glazkov, Ivan Nasonov, Ilya Makarov, Timothy Baldwin, Preslav Nakov, Roman Vashurin, Maxim Panov
   Code: nan
-- [Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](http://arxiv.org/abs/2604.07165v1)
-  Yu Li, Sizhe Tang, Tian Lan
+- [AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules](http://arxiv.org/abs/2604.07039v1)
+  Xue Qin, Simin Luan, Cong Yang, Zhijun Li
   Code: nan
 - [Leaderless Collective Motion in Affine Formation Control over the Complex Plane](http://arxiv.org/abs/2604.05648v1)
   Jesus Bautista, Enric Morella, Lili Wang, Hector Garcia de Marina

@@ -11,6 +11,9 @@
 - [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v2)
   Chen Liang, Daniel Rakita
   Code: nan
+- [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](http://arxiv.org/abs/2512.20014v3)
+  Sangoh Lee, Sangwoo Mo, Wook-Shin Han
+  Code: nan
 - [Learning-Based Automated Adversarial Red-Teaming for Robustness Evaluation of Large Language Models](http://arxiv.org/abs/2512.20677v4)
   Zhang Wei, Hanxuan Chen, Peilu Hu, Zhenyuan Wei, Chenwei Liang, Jing Luo, Ziyi Ni, Hao Yan, Li Mei, Shengning Lang, Kuan Lu, Xi Xiao, Zhimo Han, Yijin Wang, Yichao Zhang, Chen Yang, Junfeng Hao, Jiayi Gu, Riyang Bao, Mu-Jiang-Shan Wang
   Code: nan
@@ -41,20 +44,20 @@
 - [TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](http://arxiv.org/abs/2512.04772v2)
   Mauro Martini, Marco Ambrosio, Judith Vilella-Cantos, Alessandro Navone, Marcello Chiaberge
   Code: nan
-- [Cross-embodied Co-design for Dexterous Hands](http://arxiv.org/abs/2512.03743v3)
-  Kehlani Fay, Darin Anthony Djapri, Anya Zorin, James Clinton, Ali El Lahib, Hao Su, Michael T. Tolley, Sha Yi, Xiaolong Wang
+- [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](http://arxiv.org/abs/2512.04069v2)
+  Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay
   Code: nan
 - [OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation](http://arxiv.org/abs/2512.03532v2)
   Zhishan Zhou, Siyuan Wei, Zengran Wang, Chunjie Wang, Xiaosheng Yan, Xiao Liu
   Code: nan
-- [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](http://arxiv.org/abs/2512.04069v2)
-  Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay
-  Code: nan
-- [Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](http://arxiv.org/abs/2512.03044v2)
-  Yueru Jia, Jiaming Liu, Shengbang Liu, Rui Zhou, Wanhe Yu, Yuyang Yan, Xiaowei Chi, Yandong Guo, Boxin Shi, Shanghang Zhang
+- [Cross-embodied Co-design for Dexterous Hands](http://arxiv.org/abs/2512.03743v3)
+  Kehlani Fay, Darin Anthony Djapri, Anya Zorin, James Clinton, Ali El Lahib, Hao Su, Michael T. Tolley, Sha Yi, Xiaolong Wang
   Code: nan
 - [From Veracity to Diffusion: Adressing Operational Challenges in Moving From Fake-News Detection to Information Disorders](http://arxiv.org/abs/2512.02552v2)
   Francesco Paolo Savatteri, Chahan Vidal-Gorène, Florian Cafiero
+  Code: nan
+- [Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](http://arxiv.org/abs/2512.03044v2)
+  Yueru Jia, Jiaming Liu, Shengbang Liu, Rui Zhou, Wanhe Yu, Yuyang Yan, Xiaowei Chi, Yandong Guo, Boxin Shi, Shanghang Zhang
   Code: nan
 - [Reversible Inversion for Training-Free Exemplar-guided Image Editing](http://arxiv.org/abs/2512.01382v3)
   Yuke Li, Lianli Gao, Ji Zhang, Pengpeng Zeng, Lichuan Xiang, Hongkai Wen, Heng Tao Shen, Jingkuan Song
@@ -203,6 +206,9 @@
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v3)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
   Code: nan
+- [RoboSSM: Scalable In-context Imitation Learning via State-Space Models](http://arxiv.org/abs/2509.19658v2)
+  Youngju Yoo, Jiaheng Hu, Yifeng Zhu, Bo Liu, Qiang Liu, Roberto Martín-Martín, Peter Stone
+  Code: https://github.com/youngjuY/RoboSSM
 - [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
   Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee
   Code: nan
@@ -236,6 +242,9 @@
 - [ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations](http://arxiv.org/abs/2509.11125v3)
   Zheng Li, Pei Qu, Yufei Jia, Shihui Zhou, Haizhou Ge, Jiahang Cao, Jinni Zhou, Guyue Zhou, Jun Ma
   Code: nan
+- [TASC: Task-Aware Shared Control for Relational Telemanipulation](http://arxiv.org/abs/2509.10416v2)
+  Ze Fu, Pinhao Song, Yutong Hu, Renaud Detry
+  Code: https://github.com/fitz0401/tasc
 - [EvoEmo: Towards Evolved Emotional Policies for Adversarial LLM Agents in Multi-Turn Price Negotiation](http://arxiv.org/abs/2509.04310v4)
   Yunbo Long, Liming Xu, Lukas Beckenbauer, Yuhan Liu, Alexandra Brintrup
   Code: https://github.com/Yunbo-max/EvoEmo}{\textcolor{red}{https://github.com/Yunbo-max/EvoEmo}}
@@ -365,6 +374,9 @@
 
 ## April
 
+- [VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation](http://arxiv.org/abs/2504.15535v2)
+  Kaidi Zhang, Do-Gon Kim, Eric T. Chang, Hua-Hsuan Liang, Zhanpeng He, Kathryn Lampo, Philippe Wu, Ioannis Kymissis, Matei Ciocarlie
+  Code: nan
 - [CloSE: A Geometric Shape-Agnostic Cloth State Representation](http://arxiv.org/abs/2504.05033v2)
   Jay Kamat, Júlia Borràs, Carme Torras
   Code: nan

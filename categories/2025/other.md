@@ -35,11 +35,11 @@
 - [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](http://arxiv.org/abs/2512.08280v3)
   Haldun Balim, Na Li, Yilun Du
   Code: nan
-- [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
-  Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
-  Code: nan
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
+  Code: nan
+- [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
+  Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
   Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -71,11 +71,11 @@
 - [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
   Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
-- [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
-  Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
-  Code: nan
 - [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
   Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
+  Code: nan
+- [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
+  Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
 - [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
   Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
@@ -164,6 +164,9 @@
 
 ## August
 
+- [Robust Convex Model Predictive Control with collision avoidance guarantees for robot manipulators](http://arxiv.org/abs/2508.21677v3)
+  Bernhard Wullt, Johannes Köhler, Per Mattsson, Mikeal Norrlöf, Thomas B. Schön
+  Code: nan
 - [OpenTie: Open-vocabulary Sequential Rebar Tying System](http://arxiv.org/abs/2509.00064v2)
   Sai Fan, Mingze Liu, Haozhen Li, Haobo Liang, Yixing Yuan, Yanke Wang
   Code: nan
@@ -217,6 +220,9 @@
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
+  Code: nan
+- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
+  Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
   Code: nan
 - [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](http://arxiv.org/abs/2505.10018v4)
   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, Xieyuanli Chen, Fei Gao

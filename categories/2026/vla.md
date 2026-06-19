@@ -2,6 +2,12 @@
 
 ## June
 
+- [Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving](http://arxiv.org/abs/2606.20274v1)
+  Shihao Ji, HongXi Li, Zihui Song, Mingyu Li
+  Code: nan
+- [Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory](http://arxiv.org/abs/2606.19998v1)
+  Jinghan Yang, Yunchao Zhang, Wang Yuan, Haolun Wan, Jiaming Zhang, Zhengyang Hu, Yanchao Yang
+  Code: nan
 - [Real-Time Execution with Autoregressive Policies](http://arxiv.org/abs/2606.13355v1)
   Sangkyu Lee, Seohyeon Park, Tackgeun You, Avi Caciularu, Idan Szpektor, Hwasup Lim, Youngjae Yu
   Code: nan
@@ -29,13 +35,16 @@
 - [Continuous Reasoning for Vision-Language-Action](http://arxiv.org/abs/2606.00229v2)
   Yueh-Hua Wu, Tatsuya Matsushima, Kei Ota
   Code: nan
-- [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](http://arxiv.org/abs/2605.12369v1)
-  Xiaosong Jia, Bowen Yang, Zuhao Ge, Xian Nie, Yuchen Zhou, Cunxin Fan, Yufeng Li, Yilin Chai, Chao Jing, Zijian Liang, Qingwen Bu, Haidong Cao, Chao Wu, Qifeng Li, Zhenjie Yang, Chenhe Zhang, Hongyang Li, Zuxuan Wu, Junchi Yan, Yu-Gang Jiang
+- [Do Vision-Language Models Understand 3D Scenes or Just Catalogue Objects?](http://arxiv.org/abs/2605.20448v2)
+  Animesh Maheshwari, Divyansh Sahu, Nishit Verma
   Code: nan
 - [Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete](http://arxiv.org/abs/2605.12160v1)
   Joonha Park, Jiseung Jeong, Taesik Gong
   Code: nan
 - [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](http://arxiv.org/abs/2605.12369v2)
+  Xiaosong Jia, Bowen Yang, Zuhao Ge, Xian Nie, Yuchen Zhou, Cunxin Fan, Yufeng Li, Yilin Chai, Chao Jing, Zijian Liang, Qingwen Bu, Haidong Cao, Chao Wu, Qifeng Li, Zhenjie Yang, Chenhe Zhang, Hongyang Li, Zuxuan Wu, Junchi Yan, Yu-Gang Jiang
+  Code: nan
+- [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](http://arxiv.org/abs/2605.12369v1)
   Xiaosong Jia, Bowen Yang, Zuhao Ge, Xian Nie, Yuchen Zhou, Cunxin Fan, Yufeng Li, Yilin Chai, Chao Jing, Zijian Liang, Qingwen Bu, Haidong Cao, Chao Wu, Qifeng Li, Zhenjie Yang, Chenhe Zhang, Hongyang Li, Zuxuan Wu, Junchi Yan, Yu-Gang Jiang
   Code: nan
 - [Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations](http://arxiv.org/abs/2605.05081v1)
