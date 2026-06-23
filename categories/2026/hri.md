@@ -2,11 +2,14 @@
 
 ## June
 
-- [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
-  James Fant-Male, Roel Pieters
+- [When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure](http://arxiv.org/abs/2606.23339v1)
+  Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David, Jamison Heard
   Code: nan
 - [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
   Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
+  Code: nan
+- [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
+  James Fant-Male, Roel Pieters
   Code: nan
 - [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
   Thomas M. Kwok, Nicholas Koenig, Yue Hu
