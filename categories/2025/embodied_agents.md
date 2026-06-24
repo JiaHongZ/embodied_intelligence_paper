@@ -47,6 +47,9 @@
 - [Ontological foundations for contrastive explanatory narration of robot plans](http://arxiv.org/abs/2509.22493v2)
   Alberto Olivares-Alarcos, Sergi Foix, Júlia Borràs, Gerard Canal, Guillem Alenyà
   Code: nan
+- [Policy Gradient with Self-Attention for Model-Free Distributed Nonlinear Multi-Agent Games](http://arxiv.org/abs/2509.18371v2)
+  Eduardo Sebastián, Maitrayee Keskar, Eeman Iqbal, Eduardo Montijano, Carlos Sagüés, Nikolay Atanasov
+  Code: nan
 - [UDON: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints](http://arxiv.org/abs/2509.12702v2)
   Hongrui Zhao, Xunlan Zhou, Boris Ivanovic, Negar Mehr
   Code: nan
