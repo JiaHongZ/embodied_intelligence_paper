@@ -35,6 +35,9 @@
 - [SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning](http://arxiv.org/abs/2512.00775v2)
   Ruijia Liu, Ancheng Hou, Xiang Yin
   Code: nan
+- [Beyond Topology: A Morphological Symmetry Graph Representation for Locomotion Policy Learning](http://arxiv.org/abs/2512.00727v2)
+  Sizhe Wei, Xulin Chen, Fengze Xie, Garrett Ethan Katz, Zhenyu Gan, Lu Gan
+  Code: nan
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
   Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
   Code: nan
@@ -68,6 +71,9 @@
 - [Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning](http://arxiv.org/abs/2511.06371v3)
   Yingnan Zhao, Xinmiao Wang, Dewei Wang, Xinzhe Liu, Dan Lu, Qilong Han, Peng Liu, Chenjia Bai
   Code: nan
+- [Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs](http://arxiv.org/abs/2511.05933v2)
+  Renfei Zhang, Manasa Kaniselvan, Rylan Schaeffer abd Niloofar Mireshghallah
+  Code: nan
 - [MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](http://arxiv.org/abs/2511.04320v2)
   Kuankuan Sima, Longbin Tang, Zhenyu Yang, Haozhe Ma, Lin Zhao
   Code: nan
@@ -86,14 +92,14 @@
 - [Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v2)
   Jose Luis Ponton, Eduardo Alvarado, Lin Geng Foo, Nuria Pelechano, Carlos Andujar, Marc Habermann
   Code: nan
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
+  Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
+  Code: nan
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
   Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
-  Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
-  Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
@@ -110,14 +116,14 @@
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v6)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
-- [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
-  Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
-  Code: nan
 - [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
   Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
   Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
+  Code: nan
+- [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
+  Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
   Code: nan
 - [Asset-Centric Metric-Semantic Maps of Indoor Environments](http://arxiv.org/abs/2510.10778v2)
   Christopher D. Hsu, Pratik Chaudhari
@@ -146,13 +152,13 @@
 - [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
   Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
   Code: nan
-- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
-  Julius Pesonen, Arno Solin, Eija Honkavaara
-  Code: nan
 - [PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis](http://arxiv.org/abs/2509.21690v3)
   Muqun Hu, Wenxi Chen, Wenjing Li, Falak Mandali, Zijian He, Renhong Zhang, Praveen Krisna, Katherine Christian, Leo Benaharon, Dizhi Ma, Karthik Ramani, Yan Gu
   Code: https://github.com/purdue-tracelab/TTRL-ICRA2026
 - [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v3)
+  Julius Pesonen, Arno Solin, Eija Honkavaara
+  Code: nan
+- [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
   Julius Pesonen, Arno Solin, Eija Honkavaara
   Code: nan
 - [Scalable Multi Agent Diffusion Policies for Coverage Control](http://arxiv.org/abs/2509.17244v2)
@@ -185,12 +191,12 @@
 - [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
   Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
   Code: nan
-- [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
-  Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
-  Code: https://github.com/Puzzled-Hui/TopoSculpt
 - [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
   Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
   Code: nan
+- [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
+  Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
+  Code: https://github.com/Puzzled-Hui/TopoSculpt
 
 ## August
 

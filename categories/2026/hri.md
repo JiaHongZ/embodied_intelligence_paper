@@ -2,6 +2,12 @@
 
 ## June
 
+- [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
+  Carlos Gomez Cubero, Elizabeth Jochum
+  Code: nan
+- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
+  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
+  Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
   Code: https://github.com/lingli1724/VistaRef
@@ -104,11 +110,11 @@
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
-- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
-  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
-  Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
+- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
+  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Learning to Forget -- Hierarchical Episodic Memory for Lifelong Robot Deployment](http://arxiv.org/abs/2604.11306v2)
   Leonard Bärmann, Joana Plewnia, Alex Waibel, Tamim Asfour

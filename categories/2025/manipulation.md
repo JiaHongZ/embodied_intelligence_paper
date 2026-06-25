@@ -71,6 +71,9 @@
 - [Partially Equivariant Reinforcement Learning in Symmetry-Breaking Environments](http://arxiv.org/abs/2512.00915v2)
   Junwoo Chang, Minwoo Park, Joohwan Seo, Roberto Horowitz, Jongmin Lee, Jongeun Choi
   Code: nan
+- [Epistemic Bias Injection: Manipulating LLM Opinion via Selective Context Retrieval](http://arxiv.org/abs/2512.00804v3)
+  Hao Wu, Prateek Saxena
+  Code: nan
 - [MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2512.00324v3)
   Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
   Code: nan
@@ -281,11 +284,11 @@
 - [Expert Preference-based Evaluation of Automated Related Work Generation](http://arxiv.org/abs/2508.07955v3)
   Furkan Şahinuç, Subhabrata Dutta, Iryna Gurevych
   Code: nan
-- [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](http://arxiv.org/abs/2508.05186v5)
-  Yongjie Bai, Zhouxia Wang, Yang Liu, Kaijun Luo, Yifan Wen, Mingtong Dai, Weixing Chen, Ziliang Chen, Lingbo Liu, Guanbin Li, Liang Lin
-  Code: nan
 - [Let's Measure Information Step-by-Step: AI-Based Evaluation Beyond Vibes](http://arxiv.org/abs/2508.05469v4)
   Zachary Robertson, Sanmi Koyejo
+  Code: nan
+- [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](http://arxiv.org/abs/2508.05186v5)
+  Yongjie Bai, Zhouxia Wang, Yang Liu, Kaijun Luo, Yifan Wen, Mingtong Dai, Weixing Chen, Ziliang Chen, Lingbo Liu, Guanbin Li, Liang Lin
   Code: nan
 - [Synthetic POMDPs to Challenge Memory-Augmented RL: Memory Demand Structure Modeling](http://arxiv.org/abs/2508.04282v3)
   Yongyi Wang, Lingfeng Li, Bozhou Chen, Ang Li, Hanyu Liu, Qirui Zheng, Xionghui Yang, Wenxin Li
@@ -314,11 +317,11 @@
 
 ## June
 
-- [DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks](http://arxiv.org/abs/2506.08514v4)
-  Jacob Piland, Chris Sweet, Adam Czajka
-  Code: nan
 - [Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes](http://arxiv.org/abs/2506.09163v2)
   Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, Mengyan Zhang, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman
+  Code: nan
+- [DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks](http://arxiv.org/abs/2506.08514v4)
+  Jacob Piland, Chris Sweet, Adam Czajka
   Code: nan
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal
@@ -416,6 +419,9 @@
 
 ## January
 
+- [Safe Learning Control with Optimality and Stability Guarantees](http://arxiv.org/abs/2501.15373v2)
+  Xinyang Wang, Hongwei Zhang, Shimin Wang, Wei Xiao, Martin Guay
+  Code: nan
 - [YOLOv8 to YOLO11: A Comprehensive Architecture In-depth Comparative Review](http://arxiv.org/abs/2501.13400v4)
   Priyanto Hidayatullah, Nurjannah Syakrani, Muhammad Rizqi Sholahuddin, Trisna Gelar, Refdinal Tubagus
   Code: nan
