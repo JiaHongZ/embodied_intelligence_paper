@@ -68,6 +68,9 @@
 - [TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](http://arxiv.org/abs/2511.07412v2)
   Han Zhang, Yiqing Shen, Roger D. Soberanis-Mukul, Ankita Ghosh, Hao Ding, Lalithkumar Seenivasan, Jose L. Porras, Zhekai Mao, Chenjia Li, Wenjie Xiao, Lonny Yarmus, Angela Christine Argento, Masaru Ishii, Mathias Unberath
   Code: nan
+- [The Journal of Prompt-Engineered (Moral) Philosophy Or: Why AI-Assisted Ethics Research Requires Process Transparency](http://arxiv.org/abs/2511.08639v5)
+  Michele Loi
+  Code: nan
 - [Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning](http://arxiv.org/abs/2511.06371v3)
   Yingnan Zhao, Xinmiao Wang, Dewei Wang, Xinzhe Liu, Dan Lu, Qilong Han, Peng Liu, Chenjia Bai
   Code: nan
@@ -326,6 +329,9 @@
 
 ## January
 
+- [GO: The Great Outdoors Multimodal Dataset](http://arxiv.org/abs/2501.19274v3)
+  Peng Jiang, Kasi Viswanath, Akhil Nagariya, George Chustz, Maggie Wigness, Philip Osteen, Timothy Overbye, Christian Ellis, Long Quang, Jia Huang, Srikanth Saripalli
+  Code: nan
 - [Unveiling the Potential of iMarkers: Invisible Fiducial Markers for Advanced Robotics](http://arxiv.org/abs/2501.15505v5)
   Ali Tourani, Deniz Isinsu Avsar, Hriday Bavle, Jose Luis Sanchez-Lopez, Jan Lagerwall, Holger Voos
   Code: nan

@@ -32,6 +32,9 @@
 - [Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models](http://arxiv.org/abs/2510.19268v2)
   Mingen Li, Houjian Yu, Yixuan Huang, Youngjin Hong, Hantao Ye, Changhyun Choi
   Code: nan
+- [Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models](http://arxiv.org/abs/2510.09976v2)
+  Mingyang Lyu, Yinqian Sun, Erliang Lin, Huangrui Li, Ruolin Chen, Feifei Zhao, Yi Zeng
+  Code: nan
 - [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
   Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
   Code: https://github.com/X-Luffy/GTR-Bench

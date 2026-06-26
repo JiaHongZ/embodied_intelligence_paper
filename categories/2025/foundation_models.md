@@ -155,6 +155,9 @@
 
 ## August
 
+- [EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images](http://arxiv.org/abs/2508.17916v2)
+  Xinning Yao, Bo Liu, Bojian Li, Jingjing Wang, Jinghua Yue, Fugen Zhou
+  Code: https://github.com/RealMindyY/EndoUFM
 - [LHM-Humanoid: Learning a Unified Policy for Long-Horizon Humanoid Whole-Body Loco-Manipulation in Diverse Messy Environments](http://arxiv.org/abs/2508.16943v2)
   Haozhuo Zhang, Jingkai Sun, Michele Caprio, Jian Tang, Shanghang Zhang, Qiang Zhang, Wei Pan
   Code: nan
