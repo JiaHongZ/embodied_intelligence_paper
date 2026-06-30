@@ -2,6 +2,21 @@
 
 ## June
 
+- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](http://arxiv.org/abs/2606.30608v1)
+  Mohamed el amine boudjoghra, Ivan Laptev, Angela Dai
+  Code: nan
+- [Staged Hybridisation for Visual Quantum Reinforcement Learning via Knowledge Distillation](http://arxiv.org/abs/2606.30520v1)
+  Javier Lazaro, Juan-Ignacio Vazquez, Pablo Garcia-Bringas
+  Code: nan
+- [ACPO: Agent-Chained Policy Optimization for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2606.30072v1)
+  Daiki E. Matsunaga, Junho Na, Tri Wahyu Guntara, Scott Sanner, Pascal Poupart, Jongmin Lee, Kee-Eung Kim
+  Code: nan
+- [RoAd-RL: A Unified Library and Benchmark for Robust Adversarial Reinforcement Learning](http://arxiv.org/abs/2606.29867v1)
+  Adithya Mohan, Daniel Kriegl, Torsten Schön
+  Code: nan
+- [Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction](http://arxiv.org/abs/2606.29850v1)
+  Zijian Hong, Qi Lv, Yuxiang Xie, Jianming Xing, Xiang Deng, Weili Guan, Liqiang Nie
+  Code: nan
 - [Confidence-Aware Tool Orchestration for Robust Video Understanding](http://arxiv.org/abs/2606.26904v1)
   Yangfan He, Yujin Choi, Jaehong Yoon
   Code: nan
@@ -29,23 +44,23 @@
 - [R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2606.18786v1)
   Haobin Qin, Baofeng Zhang, Hidehisa Akiyama, Keisuke Fujii
   Code: nan
-- [From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets](http://arxiv.org/abs/2606.17839v1)
-  Dzmitry Katsiuba, Samuel Brander, Mateusz Dolata, Gerhard Schwabe
+- [ED3R: Energy-Aware Distributed Disaster Detection Enabled by Cooperative Robotic Agents](http://arxiv.org/abs/2606.17739v1)
+  Lina Magoula, Nikolaos Koursioumpas, Nancy Alonistioti, Ramin Khalili
   Code: nan
 - [Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](http://arxiv.org/abs/2606.17767v1)
   Nikola Kovacevic, Bastien Husler, Di Zhuang, Rafael Wampfler, Barbara Solenthaler
   Code: nan
-- [ED3R: Energy-Aware Distributed Disaster Detection Enabled by Cooperative Robotic Agents](http://arxiv.org/abs/2606.17739v1)
-  Lina Magoula, Nikolaos Koursioumpas, Nancy Alonistioti, Ramin Khalili
+- [From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets](http://arxiv.org/abs/2606.17839v1)
+  Dzmitry Katsiuba, Samuel Brander, Mateusz Dolata, Gerhard Schwabe
+  Code: nan
+- [Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning](http://arxiv.org/abs/2606.16478v1)
+  Mudit Rastogi
   Code: nan
 - [ACCORD: Action-Conditioned Contextual Grounding for Language Agents](http://arxiv.org/abs/2606.16432v1)
   Lai Jiang, Cheng Qian, Zhenhailong Wang, Pan Lu, Heng Ji, Hao Peng
   Code: nan
 - [LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching](http://arxiv.org/abs/2606.16428v1)
   Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Börje F. Karlsson
-  Code: nan
-- [Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning](http://arxiv.org/abs/2606.16478v1)
-  Mudit Rastogi
   Code: nan
 - [Proprioceptive-visual correspondence enables self-other distinction in humanoid robots](http://arxiv.org/abs/2606.13222v1)
   Yurun Chen, Tianyuan Gao, Yizhong Ge, Shikun Ban, Yizhou Wang, Hongkai Xiong, Wenjun Zeng, Wentao Zhu
@@ -66,6 +81,9 @@
   Andrew Bo Liu, Samira Nedungadi, Bryce Cai, Alex Kleinman, Harmon Bhasin, Seth Donoughe
   Code: nan
 - [Motion planning for hundreds of floating robots](http://arxiv.org/abs/2606.09620v1)
+  Jan Kamm, Antonio Terpin, Raffaello D'Andrea, Aswin Ramachandran
+  Code: nan
+- [Motion planning for hundreds of floating robots](http://arxiv.org/abs/2606.09620v2)
   Jan Kamm, Antonio Terpin, Raffaello D'Andrea, Aswin Ramachandran
   Code: nan
 - [Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals](http://arxiv.org/abs/2606.06460v2)
@@ -128,23 +146,23 @@
 - [3D Generation for Embodied AI and Robotic Simulation: A Survey](http://arxiv.org/abs/2604.26509v2)
   Tianwei Ye, Yifan Mao, Minwen Liao, Jian Liu, Chunchao Guo, Dazhao Du, Quanxin Shou, Fangqi Zhu, Song Guo
   Code: nan
-- [Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence](http://arxiv.org/abs/2604.24527v1)
-  Diego Candia-Rivera
+- [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v2)
+  Benjamin Minhao Chen, Xinyu Xie
   Code: nan
 - [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v1)
   Benjamin Minhao Chen, Xinyu Xie
   Code: nan
-- [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](http://arxiv.org/abs/2604.24155v2)
-  Benjamin Minhao Chen, Xinyu Xie
+- [Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence](http://arxiv.org/abs/2604.24527v1)
+  Diego Candia-Rivera
   Code: nan
 - [Task-Driven Co-Design of Heterogeneous Multi-Robot Systems](http://arxiv.org/abs/2604.21894v1)
   Maximilian Stralz, Meshal Alharbi, Yujun Huang, Gioele Zardini
   Code: nan
-- [LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](http://arxiv.org/abs/2604.20193v1)
-  Xu Huang, Ruofan Zhang, Lu Cheng, Yuefeng Song, Xu Huang, Huayu Zhang, Sheng Yin, Anyang Liang, Chen Qian, Yin Zhou, Xiaoyun Yuan, Yuan Cheng
-  Code: nan
 - [Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems](http://arxiv.org/abs/2604.20795v1)
   Pavel Salovskii, Iuliia Gorshkova
+  Code: nan
+- [LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](http://arxiv.org/abs/2604.20193v1)
+  Xu Huang, Ruofan Zhang, Lu Cheng, Yuefeng Song, Xu Huang, Huayu Zhang, Sheng Yin, Anyang Liang, Chen Qian, Yin Zhou, Xiaoyun Yuan, Yuan Cheng
   Code: nan
 - [SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models](http://arxiv.org/abs/2604.19638v1)
   Josue Torres-Fonseca, Naihao Deng, Yinpei Dai, Shane Storks, Yichi Zhang, Rada Mihalcea, Casey Kennington, Joyce Chai
@@ -191,6 +209,9 @@
 - [StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding](http://arxiv.org/abs/2604.09000v2)
   Junxi Wang, Te Sun, Jiayi Zhu, Junxian Li, Haowen Xu, Zichen Wen, Xuming Hu, Zhiyu Li, Linfeng Zhang
   Code: https://github.com/Celina-love-sweet/StreamMeCo
+- [Visually-grounded Humanoid Agents](http://arxiv.org/abs/2604.08509v1)
+  Hang Ye, Xiaoxuan Ma, Fan Lu, Wayne Wu, Kwan-Yee Lin, Yizhou Wang
+  Code: nan
 - [A Soft Robotic Interface for Chick-Robot Affective Interactions](http://arxiv.org/abs/2604.08443v1)
   Jue Chen, Alexander Mielke, Kaspar Althoefer, Elisabetta Versace
   Code: nan
@@ -199,9 +220,6 @@
   Code: nan
 - [AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation](http://arxiv.org/abs/2604.08746v2)
   Yi-Hua Huang, Zi-Xin Zou, Yuting He, Chirui Chang, Cheng-Feng Pu, Ziyi Yang, Yuan-Chen Guo, Yan-Pei Cao, Xiaojuan Qi
-  Code: nan
-- [Visually-grounded Humanoid Agents](http://arxiv.org/abs/2604.08509v1)
-  Hang Ye, Xiaoxuan Ma, Fan Lu, Wayne Wu, Kwan-Yee Lin, Yizhou Wang
   Code: nan
 - [Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](http://arxiv.org/abs/2604.07165v1)
   Yu Li, Sizhe Tang, Tian Lan
@@ -227,14 +245,14 @@
 - [Leaderless Collective Motion in Affine Formation Control over the Complex Plane](http://arxiv.org/abs/2604.05648v1)
   Jesus Bautista, Enric Morella, Lili Wang, Hector Garcia de Marina
   Code: nan
-- [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](http://arxiv.org/abs/2604.01708v1)
-  Hanbing Li, Xuewei Cao, Zhiwen Zeng, Yuhan Wu, Yanyong Zhang, Yan Xia
-  Code: nan
 - [GPA: Learning GUI Process Automation from Demonstrations](http://arxiv.org/abs/2604.01676v1)
   Zirui Zhao, Jun Hao Liew, Yan Yang, Wenzhuo Yang, Ziyang Luo, Doyen Sahoo, Silvio Savarese, Junnan Li
   Code: nan
 - [ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning](http://arxiv.org/abs/2604.02006v1)
   Jingyue Gao, Yanjiang Guo, Xiaoshuai Chen, Jianyu Chen
+  Code: nan
+- [OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching](http://arxiv.org/abs/2604.01708v1)
+  Hanbing Li, Xuewei Cao, Zhiwen Zeng, Yuhan Wu, Yanyong Zhang, Yan Xia
   Code: nan
 - [VRUD: A Drone Dataset for Complex Vehicle-VRU Interactions within Mixed Traffic](http://arxiv.org/abs/2604.01134v1)
   Ziyu Wang, Hongrui Kou, Cheng Wang, Ruochen Li, Hubert P. H. Shum, Amir Atapour-Abarghouei, Yuxin Zhang
@@ -281,11 +299,11 @@
 - [Proactive Rejection and Grounded Execution: A Dual-Stage Intent Analysis Paradigm for Safe and Efficient AIoT Smart Homes](http://arxiv.org/abs/2603.16207v1)
   Xinxin Jin, Zhengwei Ni, Zhengguo Sheng, Victor C. M. Leung
   Code: nan
-- [Controlling Fish Schools via Reinforcement Learning of Virtual Fish Movement](http://arxiv.org/abs/2603.16384v1)
-  Yusuke Nishii, Hiroaki Kawashima
-  Code: nan
 - [When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making](http://arxiv.org/abs/2603.16673v1)
   Jun Liu, Pu Zhao, Zhenglun Kong, Xuan Shen, Peiyan Dong, Fan Yang, Lin Cui, Hao Tang, Geng Yuan, Wei Niu, Wenbin Zhang, Xue Lin, Gaowen Liu, Yanzhi Wang, Dong Huang
+  Code: nan
+- [Controlling Fish Schools via Reinforcement Learning of Virtual Fish Movement](http://arxiv.org/abs/2603.16384v1)
+  Yusuke Nishii, Hiroaki Kawashima
   Code: nan
 - [Mechanistic Foundations of Goal-Directed Control](http://arxiv.org/abs/2603.15248v1)
   Alma Lago

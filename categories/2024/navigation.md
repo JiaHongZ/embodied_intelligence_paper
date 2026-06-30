@@ -6,11 +6,23 @@
   Maximilian Raff, Kathrin Flaßkamp, C. David Remy
   Code: nan
 
+## September
+
+- [Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](http://arxiv.org/abs/2409.11972v4)
+  Jose Andres Millan-Romera, Muhammad Shaheer, Miguel Fernandez-Cortizas, Martin R. Oswald, Holger Voos, Jose Luis Sanchez-Lopez
+  Code: nan
+
 ## June
 
 - [SPIRONet: Spatial-Frequency Learning and Graph-based Channel Interaction Network for Vessel Segmentation](http://arxiv.org/abs/2406.19749v2)
   De-Xing Huang, Xiao-Hu Zhou, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Zhen-Qiu Feng, Mei-Jiang Gui, Hao Li, Tian-Yu Xiang, Bo-Xian Yao, Zeng-Guang Hou
   Code: https://github.com/Dxhuang-CASIA/SPIRONet
+
+## May
+
+- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v4)
+  Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
+  Code: nan
 
 ## April
 

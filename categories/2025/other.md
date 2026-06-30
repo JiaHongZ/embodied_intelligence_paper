@@ -71,11 +71,11 @@
 - [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
   Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
-- [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
-  Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
-  Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
+  Code: nan
+- [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
+  Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
   Code: nan
 - [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
   Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
@@ -109,6 +109,9 @@
   Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
   Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
+  Code: nan
+- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
+  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
   Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
@@ -203,6 +206,9 @@
 - [Accelerating Policy Synthesis in Large-Scale MDPs via Hierarchical Adaptive Refinement](http://arxiv.org/abs/2506.17792v2)
   Alexandros Evangelidis, Gricel Vázquez, Simos Gerasimou
   Code: nan
+- [Differentiable Physics-Informed Adaptive Koopman Control for Stable Flight under Unknown Disturbances](http://arxiv.org/abs/2506.08319v2)
+  Ao Jin, Qiujin Liang, Tao Zhang, Panfeng Huang, Fan Zhang
+  Code: nan
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)
   Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Zhaoxin Fan, Yifan Sun, Wenjun Wu
   Code: https://github.com/AiDuanshiying/RoboPARA
@@ -217,6 +223,9 @@
 
 - [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
   Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+  Code: nan
+- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
+  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao

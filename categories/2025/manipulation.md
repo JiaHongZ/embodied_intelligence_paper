@@ -44,20 +44,20 @@
 - [TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](http://arxiv.org/abs/2512.04772v2)
   Mauro Martini, Marco Ambrosio, Judith Vilella-Cantos, Alessandro Navone, Marcello Chiaberge
   Code: nan
-- [Cross-embodied Co-design for Dexterous Hands](http://arxiv.org/abs/2512.03743v3)
-  Kehlani Fay, Darin Anthony Djapri, Anya Zorin, James Clinton, Ali El Lahib, Hao Su, Michael T. Tolley, Sha Yi, Xiaolong Wang
-  Code: nan
 - [OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation](http://arxiv.org/abs/2512.03532v2)
   Zhishan Zhou, Siyuan Wei, Zengran Wang, Chunjie Wang, Xiaosheng Yan, Xiao Liu
   Code: nan
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](http://arxiv.org/abs/2512.04069v2)
   Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay
   Code: nan
-- [Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](http://arxiv.org/abs/2512.03044v2)
-  Yueru Jia, Jiaming Liu, Shengbang Liu, Rui Zhou, Wanhe Yu, Yuyang Yan, Xiaowei Chi, Yandong Guo, Boxin Shi, Shanghang Zhang
+- [Cross-embodied Co-design for Dexterous Hands](http://arxiv.org/abs/2512.03743v3)
+  Kehlani Fay, Darin Anthony Djapri, Anya Zorin, James Clinton, Ali El Lahib, Hao Su, Michael T. Tolley, Sha Yi, Xiaolong Wang
   Code: nan
 - [From Veracity to Diffusion: Adressing Operational Challenges in Moving From Fake-News Detection to Information Disorders](http://arxiv.org/abs/2512.02552v2)
   Francesco Paolo Savatteri, Chahan Vidal-Gorène, Florian Cafiero
+  Code: nan
+- [Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](http://arxiv.org/abs/2512.03044v2)
+  Yueru Jia, Jiaming Liu, Shengbang Liu, Rui Zhou, Wanhe Yu, Yuyang Yan, Xiaowei Chi, Yandong Guo, Boxin Shi, Shanghang Zhang
   Code: nan
 - [Reversible Inversion for Training-Free Exemplar-guided Image Editing](http://arxiv.org/abs/2512.01382v3)
   Yuke Li, Lianli Gao, Ji Zhang, Pengpeng Zeng, Lichuan Xiang, Hongkai Wen, Heng Tao Shen, Jingkuan Song
@@ -74,10 +74,10 @@
 - [Epistemic Bias Injection: Manipulating LLM Opinion via Selective Context Retrieval](http://arxiv.org/abs/2512.00804v3)
   Hao Wu, Prateek Saxena
   Code: nan
-- [MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2512.00324v3)
+- [MILE: A Mechanically Isomorphic Hand Exoskeleton and Visuotactile Robotic Hand for Data Collection in Dexterous Manipulation](http://arxiv.org/abs/2512.00324v4)
   Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
   Code: nan
-- [MILE: A Mechanically Isomorphic Hand Exoskeleton and Visuotactile Robotic Hand for Data Collection in Dexterous Manipulation](http://arxiv.org/abs/2512.00324v4)
+- [MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation](http://arxiv.org/abs/2512.00324v3)
   Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
   Code: nan
 - [BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands](http://arxiv.org/abs/2511.22364v2)
@@ -218,11 +218,11 @@
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v3)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
   Code: nan
-- [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
-  Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee
-  Code: nan
 - [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](http://arxiv.org/abs/2509.18671v2)
   Kaixin Chai, Hyunjun Lee, Joseph J. Lim
+  Code: nan
+- [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
+  Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee
   Code: nan
 - [Learning Dexterous Manipulation with Quantized Hand State](http://arxiv.org/abs/2509.17450v2)
   Ying Feng, Hongjie Fang, Yinong He, Jingjing Chen, Chenxi Wang, Zihao He, Ruonan Liu, Cewu Lu
@@ -326,6 +326,9 @@
 - [Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes](http://arxiv.org/abs/2506.09163v2)
   Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, Mengyan Zhang, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman
   Code: nan
+- [Where Do Humans Look When Demonstrating to Robots? Human Gaze Behavior in Pick-and-Place Tasks Across Demonstration Devices](http://arxiv.org/abs/2506.05808v2)
+  Yutaro Ishida, Takamitsu Matsubara, Takayuki Kanai, Kazuhiro Shintani, Hiroshi Bito
+  Code: nan
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal
   Code: nan
@@ -347,6 +350,9 @@
 
 ## May
 
+- [XYZ-IBD: Benchmarking Robust 6D Object Pose Estimation under Real-World Industrial Complexity](http://arxiv.org/abs/2506.00599v3)
+  Junwen Huang, Jiaqi Hu, Peter KT Yu, Slobodan Ilic, Martin Sundermeyer, Benjamin Busam
+  Code: nan
 - [TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Objects in Contact-Rich Scenes](http://arxiv.org/abs/2505.22882v2)
   Wen Yang, Zhixian Xie, Yiting Wang, Abhijit Tadepalli, Heni Ben Amor, Shan Lin, Wanxin Jin
   Code: nan

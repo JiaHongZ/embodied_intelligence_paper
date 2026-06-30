@@ -11,6 +11,9 @@
 - [Efficient Path Generation with Curvature Guarantees by Mollification](http://arxiv.org/abs/2512.13183v2)
   Alfredo González-Calvin, Juan F. Jiménez, Héctor García de Marina
   Code: nan
+- [Efficient-VLN: A Simple yet Strong Baseline for Efficient Vision-Language Navigation](http://arxiv.org/abs/2512.10310v2)
+  Duo Zheng, Shijia Huang, Yanyang Li, Liwei Wang
+  Code: nan
 - [Aion: Towards Hierarchical 4D Scene Graphs with Temporal Flow Dynamics](http://arxiv.org/abs/2512.11903v2)
   Iacopo Catalano, Eduardo Montijano, Javier Civera, Julio A. Placed, Jorge Pena-Queralta
   Code: https://github.com/IacopomC/aion
@@ -44,12 +47,12 @@
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
-- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
-  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
-  Code: nan
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
+- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
+  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
+  Code: nan
 - [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
   Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
@@ -194,12 +197,12 @@
 - [A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling](http://arxiv.org/abs/2509.06593v2)
   Meher V. R. Malladi, Tiziano Guadagnino, Luca Lobefaro, Cyrill Stachniss
   Code: nan
-- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
-  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
-  Code: nan
 - [TopoSculpt: Betti-Steered Topological Sculpting of 3D Fine-grained Tubular Shapes](http://arxiv.org/abs/2509.03938v2)
   Minghui Zhang, Yaoyu Liu, Junyang Wu, Xin You, Hanxiao Zhang, Junjun He, Yun Gu
   Code: https://github.com/Puzzled-Hui/TopoSculpt
+- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
+  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
+  Code: nan
 
 ## August
 
@@ -267,6 +270,9 @@
   Jeff Guo, Víctor Sabanza-Gil, Olha Semenenko, Oleksii Hrabovskyi, Mykola Protopopov, Anna Kapeliukha, Oleksandr Mosia, Sofiia Hatych, Diana Alieksieieva, Tom Nelis, Patrick Molliet, Helena Solé-Àvila, Valentas Olikauskas, Nina Aregger, Irina Morozova, Joseph Schmidt, Zlatko Jončev, Olga Tarkhanova, Petro Borysko, Jerome Waser, Bruno Correia, Jeremy Luterbacher, Philippe Schwaller
   Code: nan
 - [TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian](http://arxiv.org/abs/2505.08811v2)
+  Shijie Lian, Ziyi Zhang, Hua Li, Laurence Tianruo Yang, Mengyu Ren, Debin Liu, Wenhui Wu
+  Code: nan
+- [TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian](http://arxiv.org/abs/2505.08811v3)
   Shijie Lian, Ziyi Zhang, Hua Li, Laurence Tianruo Yang, Mengyu Ren, Debin Liu, Wenhui Wu
   Code: nan
 - [Scalable Aerial GNSS Localization for Marine Robots](http://arxiv.org/abs/2505.04095v2)

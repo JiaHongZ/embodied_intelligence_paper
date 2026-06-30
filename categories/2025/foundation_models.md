@@ -188,6 +188,9 @@
 - [Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding](http://arxiv.org/abs/2506.19579v3)
   Federico Tavella, Amber Drinkwater, Angelo Cangelosi
   Code: nan
+- [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
+  Martin JJ. Bucher, Iro Armeni
+  Code: nan
 - [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
   Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
   Code: nan

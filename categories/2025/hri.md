@@ -21,6 +21,15 @@
   Giuseppe Silano, Amr Afifi, Martin Saska, Antonio Franchi
   Code: nan
 
+## August
+
+- [Tactile Gesture Recognition with Built-in Joint Sensors for Industrial Robots](http://arxiv.org/abs/2508.12435v2)
+  Deqing Song, Weimin Yang, Maryam Rezayati, Hans Wernher van de Venn
+  Code: nan
+- [Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing](http://arxiv.org/abs/2508.02425v2)
+  Justin Hehli, Marco Heiniger, Maryam Rezayati, Hans Wernher van de Venn
+  Code: nan
+
 ## May
 
 - [ReactDance: Hierarchical Representation for High-Fidelity and Coherent Long-Form Reactive Dance Generation](http://arxiv.org/abs/2505.05589v3)
