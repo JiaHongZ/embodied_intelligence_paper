@@ -2,6 +2,9 @@
 
 ## June
 
+- [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](http://arxiv.org/abs/2606.31889v1)
+  Marina Murillo, Guido Sanchez, Nestor Deniz, Lucas Genzelis, Leonardo Giovanini
+  Code: nan
 - [OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](http://arxiv.org/abs/2606.30378v1)
   Haocong He, Chenfei Liao, Zichen Wen, Zihao Dongfang, Xu Zheng, Bin Ren, Chang Su, Zixin Zhang, Harold Haodong Chen, Hongfei Zhang, Weijia Li, Kailun Yang, Conghui He, Xuming Hu, Nicu Sebe, Linfeng Zhang
   Code: nan
