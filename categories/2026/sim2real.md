@@ -1,5 +1,11 @@
 # Simulation and Sim2Real Papers (2026)
 
+## July
+
+- [Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning](http://arxiv.org/abs/2607.02205v1)
+  Satoshi Yamamori, Koji Ishihara, Kentaro Minamikawa, Kiyoharu Ohomori, Taiyo Yazaki, Norikazu Sugimoto, Jun Morimoto
+  Code: nan
+
 ## June
 
 - [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](http://arxiv.org/abs/2606.31889v1)

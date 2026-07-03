@@ -26,3 +26,9 @@
 - [Differentiable Simulation of Hard Contacts with Soft Gradients for Learning and Control](http://arxiv.org/abs/2506.14186v2)
   Anselm Paulus, A. René Geist, Pierre Schumacher, Vít Musil, Simon Rappenecker, Georg Martius
   Code: nan
+
+## March
+
+- [Learning 3D-Gaussian Simulators from RGB Videos](http://arxiv.org/abs/2503.24009v3)
+  Mikel Zhobro, Andreas René Geist, Georg Martius
+  Code: nan

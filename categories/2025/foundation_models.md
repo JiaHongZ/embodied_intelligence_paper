@@ -8,6 +8,9 @@
 - [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](http://arxiv.org/abs/2512.23864v3)
   Guo Ye, Zexi Zhang, Xu Zhao, Shang Wu, Haoran Lu, Shihan Lu, Han Liu
   Code: nan
+- [VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models](http://arxiv.org/abs/2512.22539v3)
+  Borong Zhang, Jiahao Li, Jiachen Shen, Yuhao Zhang, Yishuai Cai, Hailu Ji, Yuanpei Chen, Juntao Dai, Jiaming Ji, Yaodong Yang
+  Code: nan
 - [AstraNav-World: World Model for Foresight Control and Consistency](http://arxiv.org/abs/2512.21714v2)
   Jintao Chen, Junjun Hu, Haochen Bai, Minghua Luo, Xinda Xue, Botao Ren, Chengyu Bai, Shichao Xie, Ziyi Chen, Fei Liu, Zedong Chu, Xiaolong Wu, Mu Xu, Shanghang Zhang
   Code: nan
@@ -50,21 +53,21 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
-  Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
-  Code: nan
 - [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
   Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
   Code: nan
 - [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
   Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
   Code: nan
-- [POMA-3D: The Point Map Way to 3D Scene Understanding](http://arxiv.org/abs/2511.16567v3)
-  Ye Mao, Weixun Luo, Ranran Huang, Junpeng Jing, Krystian Mikolajczyk
+- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
+  Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
   Code: nan
 - [MiMo-Embodied: X-Embodied Foundation Model Technical Report](http://arxiv.org/abs/2511.16518v2)
   Xiaoshuai Hao, Lei Zhou, Zhijian Huang, Zhiwen Hou, Yingbo Tang, Lingfeng Zhang, Guang Li, Zheng Lu, Shuhuai Ren, Xianhui Meng, Yuchen Zhang, Jing Wu, Jinghui Lu, Chenxu Dang, Jiayi Guan, Jianhua Wu, Zhiyi Hou, Hanbing Li, Shumeng Xia, Mingliang Zhou, Yinan Zheng, Zihao Yue, Shuhao Gu, Hao Tian, Yuannan Shen, Jianwei Cui, Wen Zhang, Shaoqing Xu, Bing Wang, Haiyang Sun, Zeyu Zhu, Yuncheng Jiang, Zibin Guo, Chuhong Gong, Chaofan Zhang, Wenbo Ding, Kun Ma, Guang Chen, Rui Cai, Diyun Xiang, Heng Qu, Fuli Luo, Hangjun Ye, Long Chen
   Code: https://github.com/XiaomiMiMo/MiMo-Embodied
+- [POMA-3D: The Point Map Way to 3D Scene Understanding](http://arxiv.org/abs/2511.16567v3)
+  Ye Mao, Weixun Luo, Ranran Huang, Junpeng Jing, Krystian Mikolajczyk
+  Code: nan
 - [Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion](http://arxiv.org/abs/2511.14178v2)
   Zhuo Li, Junjia Liu, Zhipeng Dong, Tao Teng, Quentin Rouxel, Darwin Caldwell, Fei Chen
   Code: nan
@@ -188,11 +191,11 @@
 - [Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding](http://arxiv.org/abs/2506.19579v3)
   Federico Tavella, Amber Drinkwater, Angelo Cangelosi
   Code: nan
-- [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
-  Martin JJ. Bucher, Iro Armeni
-  Code: nan
 - [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
   Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
+  Code: nan
+- [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
+  Martin JJ. Bucher, Iro Armeni
   Code: nan
 
 ## May

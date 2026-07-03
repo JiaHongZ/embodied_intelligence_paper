@@ -38,6 +38,9 @@
 - [When a Robot is More Capable than a Human: Learning from Constrained Demonstrators](http://arxiv.org/abs/2510.09096v2)
   Xinhu Li, Ayush Jain, Zhaojing Yang, Yigit Korkmaz, Erdem Bıyık
   Code: nan
+- [BuilderBench: The Building Blocks of Intelligent Agents](http://arxiv.org/abs/2510.06288v4)
+  Raj Ghugare, Roger Creus Castanyer, Catherine Ji, Kathryn Wantlin, Jin Schofield, Karthik Narasimhan, Benjamin Eysenbach
+  Code: nan
 - [Conflict-Based Search as a Protocol: A Multi-Agent Motion Planning Protocol for Heterogeneous Agents, Solvers, and Independent Tasks](http://arxiv.org/abs/2510.00425v2)
   Rishi Veerapaneni, Alvin Tang, Haodong He, Sophia Zhao, Viraj Shah, Yidai Cen, Ziteng Ji, Gabriel Olin, Jon Arrizabalaga, Yorai Shaoul, Jiaoyang Li, Maxim Likhachev
   Code: nan
