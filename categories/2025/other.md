@@ -200,6 +200,9 @@
 - [Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](http://arxiv.org/abs/2508.03643v4)
   Xiangyu Sun, Haoyi Jiang, Liu Liu, Seungtae Nam, Gyeongjin Kang, Xinjie Wang, Wei Sui, Zhizhong Su, Wenyu Liu, Xinggang Wang, Eunbyung Park
   Code: https://github.com/HorizonRobotics/Uni3R
+- [Diffusion Models are Open-World Affordance Learners: Leveraging Generative Priors for 3D Affordance Learning](http://arxiv.org/abs/2508.01651v2)
+  Hanqing Wang, Zhenhao Zhang, Kaiyang Ji, Mingyu Liu, Wenti Yin, yuchao chen, Zhirui Liu, Xiangyu Zeng, Tianxiang Gui, Hangxing Zhang, Jiahao Yuan, Zhiqing Cui, Jiaxin Liu, Zhiyuan Ma, Hui Xiong
+  Code: https://github.com/hq-King/DAG}}
 
 ## July
 

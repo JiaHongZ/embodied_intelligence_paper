@@ -251,12 +251,12 @@
 - [LLM-Guided Task- and Affordance-Level Exploration in Reinforcement Learning](http://arxiv.org/abs/2509.16615v2)
   Jelle Luijkx, Runyu Ma, Zlatan Ajanović, Jens Kober
   Code: nan
-- [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
-  Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
-  Code: nan
 - [V-SEAM: Visual Semantic Editing and Attention Modulating for Causal Interpretability of Vision-Language Models](http://arxiv.org/abs/2509.14837v2)
   Qidong Wang, Junjie Hu, Ming Jiang
   Code: https://github.com/petergit1/V-SEAM
+- [M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v2)
+  Ju Dong, Lei Zhang, Liding Zhang, Yao Ling, Yu Fu, Kaixin Bai, Zoltán-Csaba Márton, Zhenshan Bing, Zhaopeng Chen, Alois Christian Knoll, Jianwei Zhang
+  Code: nan
 - [SHaRe-RL: Structured, Interactive Reinforcement Learning for Contact-Rich Industrial Assembly Tasks](http://arxiv.org/abs/2509.13949v2)
   Jannick Stranghöner, Philipp Hartmann, Marco Braun, Sebastian Wrede, Klaus Neumann
   Code: nan
@@ -314,15 +314,15 @@
 - [PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](http://arxiv.org/abs/2507.21540v3)
   Quanchen Zou, Zonghao Ying, Moyang Chen, Wenzhuo Xu, Yisong Xiao, Yakai Li, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
   Code: nan
+- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v3)
+  Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
+  Code: https://github.com/ValentinLafargue/Inspection
 - [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v2)
   Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
   Code: https://github.com/ValentinLafargue/Inspection
 - [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v3)
   Zheng Zhang, Peilin Zhao, Deheng Ye, Hao Wang
   Code: https://github.com/CjangCjengh/Generic_Persona
-- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v3)
-  Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
-  Code: https://github.com/ValentinLafargue/Inspection
 - [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](http://arxiv.org/abs/2507.12768v2)
   Hengkai Tan, Yao Feng, Xinyi Mao, Shuhe Huang, Guodong Liu, Zhongkai Hao, Hang Su, Jun Zhu
   Code: nan
@@ -338,11 +338,11 @@
 - [Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes](http://arxiv.org/abs/2506.09163v2)
   Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, Mengyan Zhang, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman
   Code: nan
-- [Where Do Humans Look When Demonstrating to Robots? Human Gaze Behavior in Pick-and-Place Tasks Across Demonstration Devices](http://arxiv.org/abs/2506.05808v2)
-  Yutaro Ishida, Takamitsu Matsubara, Takayuki Kanai, Kazuhiro Shintani, Hiroshi Bito
-  Code: nan
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal
+  Code: nan
+- [Where Do Humans Look When Demonstrating to Robots? Human Gaze Behavior in Pick-and-Place Tasks Across Demonstration Devices](http://arxiv.org/abs/2506.05808v2)
+  Yutaro Ishida, Takamitsu Matsubara, Takayuki Kanai, Kazuhiro Shintani, Hiroshi Bito
   Code: nan
 - [STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization](http://arxiv.org/abs/2506.03863v3)
   Hao Li, Qi Lv, Rui Shao, Xiang Deng, Yinchuan Li, Jianye Hao, Liqiang Nie
@@ -368,11 +368,11 @@
 - [TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Objects in Contact-Rich Scenes](http://arxiv.org/abs/2505.22882v2)
   Wen Yang, Zhixian Xie, Yiting Wang, Abhijit Tadepalli, Heni Ben Amor, Shan Lin, Wanxin Jin
   Code: nan
-- [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
-  Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
-  Code: nan
 - [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
   Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
+- [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
+  Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
   Code: nan
 - [CUB: Benchmarking Context Utilisation Techniques for Language Models](http://arxiv.org/abs/2505.16518v3)
   Lovisa Hagström, Youna Kim, Haeun Yu, Sang-goo Lee, Richard Johansson, Hyunsoo Cho, Isabelle Augenstein
@@ -413,6 +413,9 @@
 
 ## April
 
+- [MOSAIC: Skill-Centric Manipulation Planning with Physics Simulation](http://arxiv.org/abs/2504.16738v3)
+  Itamar Mishani, Yorai Shaoul, Maxim Likhachev
+  Code: nan
 - [VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation](http://arxiv.org/abs/2504.15535v2)
   Kaidi Zhang, Do-Gon Kim, Eric T. Chang, Hua-Hsuan Liang, Zhanpeng He, Kathryn Lampo, Philippe Wu, Ioannis Kymissis, Matei Ciocarlie
   Code: nan

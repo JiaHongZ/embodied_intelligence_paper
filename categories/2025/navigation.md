@@ -47,6 +47,9 @@
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v7)
+  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
+  Code: https://github.com/worv-ai/CostNav
 - [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
   Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
   Code: nan
@@ -293,6 +296,9 @@
 - [Whleaper: A 10-DOF Flexible Bipedal Wheeled Robot](http://arxiv.org/abs/2504.21767v2)
   Yinglei Zhu, Sixiao He, Yan Ning, Zhenghao Qi, Zhuoyuan Yong, Yihua Qin, Jianyu Chen
   Code: nan
+- [Exploring Context-aware and LLM-driven Locomotion for Immersive Virtual Reality](http://arxiv.org/abs/2504.17331v3)
+  Suleyman Ozdel, Kadir Burak Buldu, Enkelejda Kasneci, Efe Bozkir
+  Code: nan
 - [Barrier-Riccati Synthesis for Nonlinear Safe Control with Expanded Region of Attraction](http://arxiv.org/abs/2504.15453v3)
   Hassan Almubarak, Maitham F. AL-Sunni, Justin T. Dubbin, Nader Sadegh, John M. Dolan, Evangelos A. Theodorou
   Code: nan
@@ -304,6 +310,9 @@
   Code: nan
 - [Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering](http://arxiv.org/abs/2504.14135v3)
   Jonathan Embley-Riches, Jianwei Liu, Simon Julier, Dimitrios Kanoulas
+  Code: nan
+- [A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](http://arxiv.org/abs/2504.11907v3)
+  Gabriele Calzolari, Vidya Sumathy, Christoforos Kanellakis, George Nikolakopoulos
   Code: nan
 - [Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review](http://arxiv.org/abs/2504.08540v2)
   Jörg Gamerdinger, Sven Teufel, Oliver Bringmann

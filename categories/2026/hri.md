@@ -1,5 +1,14 @@
 # Human-Robot Interaction Papers (2026)
 
+## July
+
+- [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
+  Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
+  Code: nan
+- [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
+  Madeleine Rischer, Benedikt Bußmann
+  Code: nan
+
 ## June
 
 - [REPAIR-Bench: A Benchmark for Robot Error Perception And Interaction Recovery](http://arxiv.org/abs/2606.29937v1)
@@ -23,11 +32,11 @@
 - [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
   Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
   Code: nan
-- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
-  Thomas M. Kwok, Nicholas Koenig, Yue Hu
-  Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
+  Code: nan
+- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
+  Thomas M. Kwok, Nicholas Koenig, Yue Hu
   Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
@@ -80,11 +89,11 @@
 
 ## April
 
-- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
-  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
-  Code: nan
 - [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
   Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
+  Code: nan
+- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
+  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
   Code: nan
 - [Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar](http://arxiv.org/abs/2604.26473v1)
   Do Won Park, Samuele Bordini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi
@@ -128,10 +137,10 @@
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
   Code: nan
-- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
+- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
+- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)

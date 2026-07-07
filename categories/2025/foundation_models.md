@@ -23,6 +23,9 @@
 - [CustomX: Unified Character, Action, and Scene Customization in Video World Models](http://arxiv.org/abs/2512.17796v2)
   Yitong Wang, Fangyun Wei, Hongyang Zhang, Bo Dai, Yan Lu
   Code: nan
+- [AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](http://arxiv.org/abs/2512.11797v2)
+  Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad, Yue Wang, Vitor Guizilini
+  Code: nan
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
