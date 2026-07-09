@@ -71,6 +71,9 @@
 - [Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning](http://arxiv.org/abs/2506.15828v3)
   Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi, Domenico D. Bloisi
   Code: nan
+- [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](http://arxiv.org/abs/2506.08630v3)
+  Laurens Engwegen, Max Weltevrede, Caroline Horsch, Daan Brinks, Wendelin Böhmer
+  Code: nan
 
 ## May
 
