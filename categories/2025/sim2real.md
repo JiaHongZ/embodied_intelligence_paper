@@ -27,6 +27,12 @@
   Anselm Paulus, A. René Geist, Pierre Schumacher, Vít Musil, Simon Rappenecker, Georg Martius
   Code: nan
 
+## April
+
+- [BiasBench: A reproducible benchmark for tuning the biases of event cameras](http://arxiv.org/abs/2504.18235v2)
+  Andreas Ziegler, David Joseph, Thomas Gossard, Emil Moldovan, Andreas Zell
+  Code: nan
+
 ## March
 
 - [Learning 3D-Gaussian Simulators from RGB Videos](http://arxiv.org/abs/2503.24009v3)

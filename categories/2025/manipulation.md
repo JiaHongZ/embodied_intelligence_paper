@@ -176,11 +176,11 @@
 - [Unsupervised full-field Bayesian inference of orthotropic hyperelasticity from a single biaxial test: a myocardial case study](http://arxiv.org/abs/2510.09498v3)
   Rogier P. Krijnen, Akshay Joshi, Siddhant Kumar, Mathias Peirlinck
   Code: nan
-- [R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation](http://arxiv.org/abs/2510.08547v2)
-  Xiuwei Xu, Angyuan Ma, Hankun Li, Bingyao Yu, Zheng Zhu, Jie Zhou, Jiwen Lu
-  Code: nan
 - [Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy Detection](http://arxiv.org/abs/2510.09695v3)
   Yanran Chen, Lynn Greschner, Roman Klinger, Michael Klenk, Steffen Eger
+  Code: nan
+- [R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized Manipulation](http://arxiv.org/abs/2510.08547v2)
+  Xiuwei Xu, Angyuan Ma, Hankun Li, Bingyao Yu, Zheng Zhu, Jie Zhou, Jiwen Lu
   Code: nan
 - [MachaGrasp: Morphology-Aware Cross-Embodiment Dexterous Hand Articulation Generation for Grasping](http://arxiv.org/abs/2510.06068v3)
   Heng Zhang, Kevin Yuchen Ma, Mike Zheng Shou, Weisi Lin, Yan Wu
@@ -194,11 +194,11 @@
 - [Symskill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon Manipulation](http://arxiv.org/abs/2510.01661v3)
   Yifei Simon Shao, Yuchen Zheng, Sunan Sun, Pratik Chaudhari, Vijay Kumar, Nadia Figueroa
   Code: nan
-- [HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy](http://arxiv.org/abs/2510.00695v3)
-  Myungkyu Koo, Daewon Choi, Taeyoung Kim, Kyungmin Lee, Changyeon Kim, Younggyo Seo, Jinwoo Shin
-  Code: nan
 - [GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks](http://arxiv.org/abs/2510.00573v2)
   Yen-Ling Tai, Yi-Ru Yang, Kuan-Ting Yu, Yu-Wei Chao, Yi-Ting Chen
+  Code: nan
+- [HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy](http://arxiv.org/abs/2510.00695v3)
+  Myungkyu Koo, Daewon Choi, Taeyoung Kim, Kyungmin Lee, Changyeon Kim, Younggyo Seo, Jinwoo Shin
   Code: nan
 - [Traj2Action: A Co-Denoising Framework for Trajectory-Guided Human-to-Robot Skill Transfer](http://arxiv.org/abs/2510.00491v2)
   Han Zhou, Jinjin Cao, Liyuan Ma, Xueji Fang, Guo-jun Qi
@@ -223,6 +223,9 @@
   Code: nan
 - [EgoDemoGen: Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation](http://arxiv.org/abs/2509.22578v2)
   Yuan Xu, Jiabing Yang, Xiaofeng Wang, Yixiang Chen, Zheng Zhu, Bowen Fang, Guan Huang, Xinze Chen, Yun Ye, Qiang Zhang, Peiyan Li, Xiangnan Wu, Kai Wang, Bing Zhan, Shuo Lu, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+  Code: nan
+- [BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives](http://arxiv.org/abs/2509.21256v3)
+  Huayi Zhou, Kui Jia
   Code: nan
 - [RoboSSM: Scalable In-context Imitation Learning via State-Space Models](http://arxiv.org/abs/2509.19658v2)
   Youngju Yoo, Jiaheng Hu, Yifeng Zhu, Bo Liu, Qiang Liu, Roberto Martín-Martín, Peter Stone
@@ -449,6 +452,9 @@
 
 ## February
 
+- [FunHOI: Annotation-Free 3D Hand-Object Interaction Generation via Functional Text Guidance](http://arxiv.org/abs/2502.20805v3)
+  Yongqi Tian, Xueyu Sun, Haoyuan He, jianlei Wang, Caigui Jiang
+  Code: nan
 - [A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](http://arxiv.org/abs/2502.18615v4)
   Georgios Kamaras, Subramanian Ramamoorthy
   Code: nan

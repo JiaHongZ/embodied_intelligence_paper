@@ -290,6 +290,9 @@
 - [Data-Driven Soft Robot Control via Adiabatic Spectral Submanifolds](http://arxiv.org/abs/2503.10919v3)
   Roshan S. Kaundinya, John Irvin Alora, Jonas G. Matt, Luis A. Pabon, Marco Pavone, George Haller
   Code: nan
+- [($θ_l, θ_u$)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces](http://arxiv.org/abs/2503.08394v5)
+  Tingyang Wei, Jiao Liu, Abhishek Gupta, Puay Siew Tan, Yew-Soon Ong
+  Code: nan
 - [Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap](http://arxiv.org/abs/2503.05656v3)
   Jianye Xu, Johannes Betz, Armin Mokhtarian, Archak Mittal, Mengchi Cai, Rahul Mangharam, Omar M. Shehata, Catherine M. Elias, Jan-Nico Zaech, Patrick Scheffe, Felix Jahncke, Sangeet Sankaramangalam Ulhas, Kaj Munhoz Arfvidsson, Bassam Alrifaee
   Code: nan
