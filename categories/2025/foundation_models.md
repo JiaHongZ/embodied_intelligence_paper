@@ -266,3 +266,6 @@
 - [VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](http://arxiv.org/abs/2502.00931v6)
   Yi Du, Taimeng Fu, Zhipeng Zhao, Shaoshu Su, Zitong Zhan, Qiwei Du, Zhuoqun Chen, Bowen Li, Chen Wang
   Code: nan
+- [VL-Nav: Neuro-Symbolic Reasoning-based Vision-Language Navigation](http://arxiv.org/abs/2502.00931v7)
+  Yi Du, Taimeng Fu, Zhipeng Zhao, Shaoshu Su, Zitong Zhan, Qiwei Du, Zhuoqun Chen, Bowen Li, Chen Wang
+  Code: nan

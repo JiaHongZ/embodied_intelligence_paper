@@ -44,3 +44,6 @@
 - [Seeing Through Uncertainty: A Free-Energy Approach for Real-Time Perceptual Adaptation in Robust Visual Navigation](http://arxiv.org/abs/2403.01977v3)
   Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
   Code: nan
+- [Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation](http://arxiv.org/abs/2403.01977v4)
+  Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
+  Code: nan
