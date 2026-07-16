@@ -38,6 +38,9 @@
 - [Hypnopaedia-Aware Machine Unlearning via Psychometrics of Artificial Mental Imagery](http://arxiv.org/abs/2410.05284v2)
   Ching-Chun Chang, Kai Gao, Shuying Xu, Anastasia Kordoni, Christopher Leckie, Isao Echizen
   Code: nan
+- [Koopman-driven grip force prediction through EMG sensing](http://arxiv.org/abs/2409.17340v2)
+  Tomislav Bazina, Ervin Kamenar, Maria Fonoberova, Igor Mezić
+  Code: nan
 - [ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation](http://arxiv.org/abs/2409.08926v3)
   Kaixin Bai, Huajian Zeng, Lei Zhang, Yiwen Liu, Hongli Xu, Zhaopeng Chen, Jianwei Zhang
   Code: nan

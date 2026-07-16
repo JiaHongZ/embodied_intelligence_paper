@@ -23,6 +23,9 @@
 - [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v3)
   Dayong Liu, Chao Xu, Weihong Chen, Suyu Zhang, Juncheng Wang, Jiankang Deng, Baigui Sun, Yang Liu
   Code: nan
+- [Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](http://arxiv.org/abs/2511.18685v4)
+  Dayong Liu, Chao Xu, Weihong Chen, Suyu Zhang, Juncheng Wang, Jiankang Deng, Baigui Sun, Yang Liu
+  Code: nan
 - [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](http://arxiv.org/abs/2511.12676v2)
   Subin Varghese, Joshua Gao, Asad Ur Rahman, Vedhus Hoskere
   Code: nan
@@ -64,6 +67,12 @@
   Code: nan
 - [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](http://arxiv.org/abs/2508.01415v7)
   Mingcong Lei, Honghao Cai, Yuyuan Yang, Yimou Wu, Jinke Ren, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Shaohan Jiang, Ge Wang, Junyuan Tan, Zhenglin Wan, Zheng Li, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
+  Code: nan
+
+## July
+
+- [A Survey on Hypergame Theory: Modelling Misaligned Perceptions and Nested Beliefs for Multi-Agent Systems](http://arxiv.org/abs/2507.19593v3)
+  Vince Trencsenyi, Agnieszka Mensfelt, Kostas Stathis
   Code: nan
 
 ## June

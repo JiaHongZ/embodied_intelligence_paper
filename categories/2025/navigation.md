@@ -128,6 +128,9 @@
 - [Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](http://arxiv.org/abs/2510.14819v3)
   Ji Cao, Yu Wang, Tongya Zheng, Jie Song, Qinghong Guo, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song
   Code: https://github.com/caoji2001/CORE
+- [STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](http://arxiv.org/abs/2510.14893v4)
+  Helene J. Levy, Brett T. Lopez
+  Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
   Code: nan
@@ -233,15 +236,18 @@
 - [Registering the 4D Millimeter Wave Radar Point Clouds Via Generalized Method of Moments](http://arxiv.org/abs/2508.02187v3)
   Xingyi Li, Han Zhang, Ziliang Wang, Yukai Yang, Weidong Chen
   Code: nan
-- [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
-  Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
-  Code: nan
 - [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
   Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
+  Code: nan
+- [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
+  Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
   Code: nan
 
 ## July
 
+- [Simulation-based planning of Motion Sequences for Automated Procedure Optimization in Multi-Robot Assembly Cells](http://arxiv.org/abs/2507.23270v3)
+  Loris Schneider, Marc Ungen, Elias Huber, Jan-Felix Klein
+  Code: nan
 - [Diffusion Denoiser-Aided Gyrocompassing](http://arxiv.org/abs/2507.21245v2)
   Gershy Ben-Arie, Daniel Engelsman, Rotem Dror, Itzik Klein
   Code: nan
