@@ -2,17 +2,23 @@
 
 ## July
 
+- [Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults](http://arxiv.org/abs/2607.15156v1)
+  Aniol Civit, Antonio Andriella, Alba Martínez, Joan Ars, Aida Ribera, Cristian Barrué, Guillem Alenyà
+  Code: nan
+- [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
+  Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
+  Code: nan
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
-  Code: nan
-- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
-  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
 - [Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems](http://arxiv.org/abs/2607.11792v1)
   Sheng Li, Jing Li, Felix Schijve, Jun Hu, Emilia Barakova
   Code: nan
 - [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](http://arxiv.org/abs/2607.11633v1)
   Yuga Yano, Yuki Okafuji, Ryo Miyoshi, Sanae Yamashita, Yoshiki Ohira
+  Code: nan
+- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
+  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
   Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
@@ -32,11 +38,11 @@
 - [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](http://arxiv.org/abs/2606.28469v2)
   Thomas Vitry, Vanessa Maeder, Kieran von Valeburg, Asihati Hazaiti, Doga Deniz Ates, Connor Gäde, Jan-Gerrit Habekost, Dennis Becker, Stefan Wermter
   Code: nan
-- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
-  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
-  Code: nan
 - [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
   Carlos Gomez Cubero, Elizabeth Jochum
+  Code: nan
+- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
+  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
   Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
@@ -59,15 +65,15 @@
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
   Code: nan
-- [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
-  Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
-  Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
 - [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
   Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
   Code: nan
 - [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
   Haotian Qi, Gabriel Skantze
   Code: nan
+- [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
+  Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
+  Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
   Code: nan
@@ -125,11 +131,11 @@
 - [Where are they looking in the operating room?](http://arxiv.org/abs/2604.20574v1)
   Keqi Chen, Séraphin Baributsa, Lilien Schewski, Vinkle Srivastav, Didier Mutter, Guido Beldi, Sandra Keller, Nicolas Padoy
   Code: nan
-- [Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](http://arxiv.org/abs/2604.19670v1)
-  Alex Cuellar, Michael Hagenow, Julie Shah
-  Code: nan
 - [Achieving Interaction Fluidity in a Wizard-of-Oz Robotic System: A Prototype for Fluid Error-Correction](http://arxiv.org/abs/2604.19374v1)
   Carlos Baptista De Lima, Julian Hough, Frank Förster, Patrick Holthaus, Yongjun Zheng
+  Code: nan
+- [Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](http://arxiv.org/abs/2604.19670v1)
+  Alex Cuellar, Michael Hagenow, Julie Shah
   Code: nan
 - [Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees](http://arxiv.org/abs/2604.15221v1)
   Jakob Thumm, Marian Frei, Tianle Ni, Matthias Althoff, Marco Pavone

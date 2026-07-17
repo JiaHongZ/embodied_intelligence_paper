@@ -99,6 +99,12 @@
   Ava Abderezaei, Nataliya Nechyporenko, Joseph Miceli, Gilberto Briscoe-Martinez, Alessandro Roncone
   Code: nan
 
+## February
+
+- [Marinarium: A Modular Experimental Facility for Reproducible Maritime and Space-Analog Field Robotics](http://arxiv.org/abs/2602.23053v2)
+  Ignacio Torroba, David Dorner, Victor Nan Fernandez-Ayala, Mart Kartasev, Joris Verhagen, Elias Krantz, Gregorio Marchesini, Carl Ljung, Pedro Roque, Chelsea Sidrane, Linda Van der Spaa, Nicola De Carli, Petter Ogren, Christer Fuglesang, Jana Tumova, Dimos V. Dimarogonas, Ivan Stenius
+  Code: nan
+
 ## January
 
 - [ObjSplat: Geometry-Aware Gaussian Surfels for Active Object Reconstruction](http://arxiv.org/abs/2601.06997v2)

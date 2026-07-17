@@ -12,6 +12,12 @@
   Jose Andres Millan-Romera, Muhammad Shaheer, Miguel Fernandez-Cortizas, Martin R. Oswald, Holger Voos, Jose Luis Sanchez-Lopez
   Code: nan
 
+## August
+
+- [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](http://arxiv.org/abs/2408.12548v3)
+  Yousef Emami, Mohammadhossein Homaei, Miguel Gutiérrez Gaitán, Luis Almeida, Kai Li, Hui Huang, Zhu Han
+  Code: nan
+
 ## June
 
 - [SPIRONet: Spatial-Frequency Learning and Graph-based Channel Interaction Network for Vessel Segmentation](http://arxiv.org/abs/2406.19749v2)
@@ -21,6 +27,9 @@
 ## May
 
 - [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v4)
+  Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
+  Code: nan
+- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v5)
   Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
   Code: nan
 
@@ -45,5 +54,8 @@
   Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
   Code: nan
 - [Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation](http://arxiv.org/abs/2403.01977v4)
+  Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
+  Code: nan
+- [Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation](http://arxiv.org/abs/2403.01977v5)
   Maytus Piriyajitakonkij, Rishabh Dev Yadav, Mingfei Sun, Mengmi Zhang, Wei Pan
   Code: nan
