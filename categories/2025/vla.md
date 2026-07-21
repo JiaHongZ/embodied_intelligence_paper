@@ -50,6 +50,9 @@
 - [VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding](http://arxiv.org/abs/2510.01483v2)
   Mohamad Al Mdfaa, Svetlana Lukina, Timur Akhtyamov, Arthur Nigmatzyanov, Dmitrii Nalberskii, Sergey Zagoruyko, Gonzalo Ferrer
   Code: nan
+- [Spatiotemporal Knowledge Graphs as Persistent Scene Memory for Embodied Question Answering](http://arxiv.org/abs/2510.01483v3)
+  Mohamad Al Mdfaa, Svetlana Lukina, Timur Akhtyamov, Arthur Nigmatzyanov, Dmitrii Nalberskii, Sergey Zagoruyko, Gonzalo Ferrer
+  Code: nan
 
 ## September
 

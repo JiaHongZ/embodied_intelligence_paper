@@ -41,6 +41,9 @@
 - [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
   Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
   Code: nan
+- [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
+  Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
+  Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
@@ -77,11 +80,11 @@
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
-- [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
-  Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
-  Code: nan
 - [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
   Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
+  Code: nan
+- [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
+  Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
   Code: nan
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda

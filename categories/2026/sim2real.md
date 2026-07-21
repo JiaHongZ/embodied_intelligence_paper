@@ -2,6 +2,9 @@
 
 ## July
 
+- [World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation](http://arxiv.org/abs/2607.18154v1)
+  Xinchen Yao, Leixin Chang, Hua Chen
+  Code: nan
 - [OrchardBench: A Physically-Grounded, GPU-Parallel Apple-Orchard Simulation Benchmark for Agricultural Robotics](http://arxiv.org/abs/2607.06337v1)
   Humphrey Munn
   Code: nan

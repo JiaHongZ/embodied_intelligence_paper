@@ -44,10 +44,10 @@
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
   Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
   Code: nan
-- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v7)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
-- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v7)
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
 - [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
@@ -170,6 +170,9 @@
 - [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
   Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
   Code: nan
+- [Physically-Feasible Reactive Synthesis for Terrain-Adaptive Locomotion](http://arxiv.org/abs/2509.23185v2)
+  Ziyi Zhou, Qian Meng, Hadas Kress-Gazit, Ye Zhao
+  Code: nan
 - [Distant Object Localisation from Noisy Image Segmentation Sequences](http://arxiv.org/abs/2509.20906v2)
   Julius Pesonen, Arno Solin, Eija Honkavaara
   Code: nan
@@ -275,6 +278,9 @@
 - [Real-Time Initialization of Unknown Anchors for UWB-aided Navigation](http://arxiv.org/abs/2506.15518v2)
   Giulio Delama, Igor Borowski, Roland Jung, Stephan Weiss
   Code: nan
+- [OV-MAP: Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots](http://arxiv.org/abs/2506.11585v2)
+  Juno Kim, Yesol Park, Hye-Jung Yoon, Byoung-Tak Zhang
+  Code: nan
 
 ## May
 
@@ -284,11 +290,11 @@
 - [Joint Magnetometer-IMU Calibration via Maximum A Posteriori Estimation](http://arxiv.org/abs/2505.16662v4)
   Chuan Huang, Gustaf Hendeby, Isaac Skog
   Code: nan
-- [SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics](http://arxiv.org/abs/2505.11494v3)
-  Lizhi Yang, Blake Werner, Ryan K. Cosner, David Fridovich-Keil, Preston Culbertson, Aaron D. Ames
-  Code: nan
 - [Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models](http://arxiv.org/abs/2505.11495v2)
   Lizhi Yang, Blake Werner, Adrian B. Ghansah, Aaron D. Ames
+  Code: nan
+- [SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics](http://arxiv.org/abs/2505.11494v3)
+  Lizhi Yang, Blake Werner, Ryan K. Cosner, David Fridovich-Keil, Preston Culbertson, Aaron D. Ames
   Code: nan
 - [A Survey of 3D Reconstruction with Event Cameras](http://arxiv.org/abs/2505.08438v4)
   Chuanzhi Xu, Haoxian Zhou, Langyi Chen, Haodong Chen, Zeke Zexi Hu, Zhicheng Lu, Ying Zhou, Vera Chung, Qiang Qu, Weidong Cai

@@ -2,12 +2,15 @@
 
 ## July
 
-- [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1)
-  Weimeng Wang, Ziqiang Wang, Zihang Zhan, Chuanpu Fu, Qi Li, Ke Xu
-  Code: nan
+- [UniETP: Unifying Environments for Generalizable Embodied Task Planning](http://arxiv.org/abs/2607.18062v1)
+  Peiran Xu, Jiaqi Zheng, Ziyou Wang, Yadong Mu
+  Code: https://github.com/woyut/UniETP
 - [Knowing You at First Glance: Inferring Apparent Personality from Faces](http://arxiv.org/abs/2607.14631v1)
   Shuhuan Chen, Xiangyu Zhu, Weisong Zhao, Haichao Shi, Xiao-Yu Zhang, Zhen Lei
   Code: https://github.com/MrHuan3/GlanceFace
+- [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1)
+  Weimeng Wang, Ziqiang Wang, Zihang Zhan, Chuanpu Fu, Qi Li, Ke Xu
+  Code: nan
 - [Directional Constraints for Efficient Exploration in Safe Reinforcement Learning](http://arxiv.org/abs/2607.12784v1)
   Paolo Magliano, Puze Liu, Jan Peters, Davide Tateo, Raffaello Camoriano
   Code: nan
@@ -38,30 +41,30 @@
 - [LLM-as-a-Verifier: A General-Purpose Verification Framework](http://arxiv.org/abs/2607.05391v2)
   Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu, Yixing Jiang, Chelsea Finn, Marco Pavone, Ion Stoica, Azalia Mirhoseini
   Code: nan
-- [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](http://arxiv.org/abs/2607.01766v1)
-  Chunjiang Liu, Xiaoyuan Wang, Haoyu Chen, Yizhou Zhao, Ming-Hsuan Yang, László A. Jeni
-  Code: nan
 - [QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition](http://arxiv.org/abs/2607.02426v1)
   Quoc Bao Phan, Tuy Tan Nguyen
   Code: nan
 - [Episodic-to-Semantic Consolidation Without Identity Drift](http://arxiv.org/abs/2607.01988v1)
   Xue Qin, Simin Luan, Cong Yang, Zhijun Li
   Code: nan
+- [SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation](http://arxiv.org/abs/2607.01766v1)
+  Chunjiang Liu, Xiaoyuan Wang, Haoyu Chen, Yizhou Zhao, Ming-Hsuan Yang, László A. Jeni
+  Code: nan
 
 ## June
 
-- [MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](http://arxiv.org/abs/2606.31966v1)
-  Qingyun Liu, Jiwen Zhang, Jingyi Hu, Siyuan Wang, Zhongyu Wei
-  Code: https://github.com/q-i-n-g/MECoBench
-- [Stabilization Learning: A Paradigm Transition Bridging Control Theory and Machine Learning](http://arxiv.org/abs/2606.31562v1)
-  Quan Quan
-  Code: nan
 - [Verification-Gated Agentic Mission-State Governance for Intelligent Industrial Multi-Robot Systems](http://arxiv.org/abs/2606.31339v1)
   Guoqin Tang, Qingxuan Jia, Yichen Tan, Zeyuan Huang, Ning Ji, Gang Chen
   Code: nan
 - [Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning](http://arxiv.org/abs/2606.31260v1)
   Xiangli Shi, Xiaomeng Zhu, Ye Tian, Yuchun Guo, Ziyang Sun, Lujie Yin, Yuxuan Zhou, Yufei Huang
   Code: nan
+- [Stabilization Learning: A Paradigm Transition Bridging Control Theory and Machine Learning](http://arxiv.org/abs/2606.31562v1)
+  Quan Quan
+  Code: nan
+- [MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](http://arxiv.org/abs/2606.31966v1)
+  Qingyun Liu, Jiwen Zhang, Jingyi Hu, Siyuan Wang, Zhongyu Wei
+  Code: https://github.com/q-i-n-g/MECoBench
 - [RoAd-RL: A Unified Library and Benchmark for Robust Adversarial Reinforcement Learning](http://arxiv.org/abs/2606.29867v1)
   Adithya Mohan, Daniel Kriegl, Torsten Schön
   Code: nan
@@ -71,14 +74,14 @@
 - [Efficient Visual Pointing for Embodied AI:Agent-Driven Data Synthesis, Cross-Block Attention, and Iterative Correction](http://arxiv.org/abs/2606.29850v1)
   Zijian Hong, Qi Lv, Yuxiang Xie, Jianming Xing, Xiang Deng, Weili Guan, Liqiang Nie
   Code: nan
-- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](http://arxiv.org/abs/2606.30608v1)
-  Mohamed el amine boudjoghra, Ivan Laptev, Angela Dai
+- [Staged Hybridisation for Visual Quantum Reinforcement Learning via Knowledge Distillation](http://arxiv.org/abs/2606.30520v1)
+  Javier Lazaro, Juan-Ignacio Vazquez, Pablo Garcia-Bringas
   Code: nan
 - [ACPO: Agent-Chained Policy Optimization for Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2606.30072v1)
   Daiki E. Matsunaga, Junho Na, Tri Wahyu Guntara, Scott Sanner, Pascal Poupart, Jongmin Lee, Kee-Eung Kim
   Code: nan
-- [Staged Hybridisation for Visual Quantum Reinforcement Learning via Knowledge Distillation](http://arxiv.org/abs/2606.30520v1)
-  Javier Lazaro, Juan-Ignacio Vazquez, Pablo Garcia-Bringas
+- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](http://arxiv.org/abs/2606.30608v1)
+  Mohamed el amine boudjoghra, Ivan Laptev, Angela Dai
   Code: nan
 - [NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning](http://arxiv.org/abs/2606.27826v2)
   Shiyun Zhao, Xinwei Song, Tianyu Guo, Xiaomeng Gao, Mingyuan Liu, Xu Han, Yuanyuan Zhang, Zhenliang Zhang, Xue Feng, Bo Dai
@@ -119,20 +122,20 @@
 - [ED3R: Energy-Aware Distributed Disaster Detection Enabled by Cooperative Robotic Agents](http://arxiv.org/abs/2606.17739v1)
   Lina Magoula, Nikolaos Koursioumpas, Nancy Alonistioti, Ramin Khalili
   Code: nan
-- [Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](http://arxiv.org/abs/2606.17767v1)
-  Nikola Kovacevic, Bastien Husler, Di Zhuang, Rafael Wampfler, Barbara Solenthaler
-  Code: nan
 - [From Ad Hoc Pilots to Repeatable Patterns: Structuring Drone Collaboration in Emergency Services with DroneLets](http://arxiv.org/abs/2606.17839v1)
   Dzmitry Katsiuba, Samuel Brander, Mateusz Dolata, Gerhard Schwabe
   Code: nan
-- [Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning](http://arxiv.org/abs/2606.16478v1)
-  Mudit Rastogi
+- [Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](http://arxiv.org/abs/2606.17767v1)
+  Nikola Kovacevic, Bastien Husler, Di Zhuang, Rafael Wampfler, Barbara Solenthaler
   Code: nan
 - [ACCORD: Action-Conditioned Contextual Grounding for Language Agents](http://arxiv.org/abs/2606.16432v1)
   Lai Jiang, Cheng Qian, Zhenhailong Wang, Pan Lu, Heng Ji, Hao Peng
   Code: nan
 - [LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching](http://arxiv.org/abs/2606.16428v1)
   Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Börje F. Karlsson
+  Code: nan
+- [Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning](http://arxiv.org/abs/2606.16478v1)
+  Mudit Rastogi
   Code: nan
 - [Proprioceptive-visual correspondence enables self-other distinction in humanoid robots](http://arxiv.org/abs/2606.13222v1)
   Yurun Chen, Tianyuan Gao, Yizhong Ge, Shikun Ban, Yizhou Wang, Hongkai Xiong, Wenjun Zeng, Wentao Zhu
@@ -236,11 +239,11 @@
 - [LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture](http://arxiv.org/abs/2604.20193v1)
   Xu Huang, Ruofan Zhang, Lu Cheng, Yuefeng Song, Xu Huang, Huayu Zhang, Sheng Yin, Anyang Liang, Chen Qian, Yin Zhou, Xiaoyun Yuan, Yuan Cheng
   Code: nan
-- [M$^{2}$GRPO: Mamba-based Multi-Agent Group Relative Policy Optimization for Biomimetic Underwater Robots Pursuit](http://arxiv.org/abs/2604.19404v1)
-  Yukai Feng, Zhiheng Wu, Zhengxing Wu, Junwen Gu, Junzhi Yu
-  Code: nan
 - [Warmth and Competence in the Swarm: Designing Effective Human-Robot Teams](http://arxiv.org/abs/2604.19270v1)
   Genki Miyauchi, Roderich Groß, Chaona Chen
+  Code: nan
+- [M$^{2}$GRPO: Mamba-based Multi-Agent Group Relative Policy Optimization for Biomimetic Underwater Robots Pursuit](http://arxiv.org/abs/2604.19404v1)
+  Yukai Feng, Zhiheng Wu, Zhengxing Wu, Junwen Gu, Junzhi Yu
   Code: nan
 - [SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models](http://arxiv.org/abs/2604.19638v1)
   Josue Torres-Fonseca, Naihao Deng, Yinpei Dai, Shane Storks, Yichi Zhang, Rada Mihalcea, Casey Kennington, Joyce Chai
