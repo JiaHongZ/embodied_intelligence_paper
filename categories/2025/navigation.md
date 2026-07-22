@@ -239,11 +239,11 @@
 - [Registering the 4D Millimeter Wave Radar Point Clouds Via Generalized Method of Moments](http://arxiv.org/abs/2508.02187v3)
   Xingyi Li, Han Zhang, Ziliang Wang, Yukai Yang, Weidong Chen
   Code: nan
-- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
-  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
-  Code: nan
 - [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](http://arxiv.org/abs/2508.02046v3)
   Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
+  Code: nan
+- [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
+  Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
   Code: nan
 
 ## July
@@ -271,6 +271,9 @@
   Code: https://github.com/BavoLesy/ASVSim
 - [Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances](http://arxiv.org/abs/2506.18410v2)
   Zhe Zhang, Peijia Xie, Yuhan Pang, Zhirui Sun, Bingyi Xia, Bi-Ke Zhu, Jiankun Wang
+  Code: nan
+- [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](http://arxiv.org/abs/2506.17913v2)
+  Jinjie Wei, Jiyao Liu, Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng Li, Weijie Yin, Junjun He, Xiao Liang, Chao Feng, Dingkang Yang
   Code: nan
 - [Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning](http://arxiv.org/abs/2506.16931v2)
   Jiaqi Chen, Mingfeng Fan, Xuefeng Zhang, Jingsong Liang, Yuhong Cao, Guohua Wu, Guillaume Adrien Sartoretti

@@ -59,6 +59,9 @@
 - [UDON: Uncertainty-weighted Distributed Optimization for Multi-Robot Neural Implicit Mapping under Extreme Communication Constraints](http://arxiv.org/abs/2509.12702v2)
   Hongrui Zhao, Xunlan Zhou, Boris Ivanovic, Negar Mehr
   Code: nan
+- [Finite-Agent Stochastic Differential Games on Large Graphs: II. Graph-Based Architectures](http://arxiv.org/abs/2509.12484v2)
+  Ruimeng Hu, Jihao Long, Haosheng Zhou
+  Code: nan
 
 ## August
 
