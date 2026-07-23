@@ -113,6 +113,9 @@
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
   Code: https://github.com/PKU-SEC-Lab/EfficientNav
+- [PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](http://arxiv.org/abs/2510.18348v2)
+  Alexandros Ntagkas, Chairi Kiourt, Konstantinos Chatzilygeroudis
+  Code: nan
 - [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](http://arxiv.org/abs/2510.16518v2)
   Jesús Ortega-Peimbert, Finn Lukas Busch, Timon Homberger, Quantao Yang, Olov Andersson
   Code: nan

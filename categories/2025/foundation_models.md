@@ -26,11 +26,11 @@
 - [AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](http://arxiv.org/abs/2512.11797v2)
   Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad, Yue Wang, Vitor Guizilini
   Code: nan
-- [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
-  Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
-  Code: nan
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
+  Code: nan
+- [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
+  Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
   Code: nan
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](http://arxiv.org/abs/2512.09928v2)
   Minghui Lin, Pengxiang Ding, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang, Donglin Wang
@@ -43,6 +43,9 @@
   Code: nan
 - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](http://arxiv.org/abs/2512.04124v4)
   Afshin Khadangi, Hanna Marxen, Amir Sartipi, Igor Tchappi, Gilbert Fridgen
+  Code: nan
+- [WorldPack: Dynamic Frame Compression for Long-context Video World Modeling](http://arxiv.org/abs/2512.02473v2)
+  Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, Hiroki Furuta
   Code: nan
 - [IGen: Scalable Data Generation for Robot Learning from Open-World Images](http://arxiv.org/abs/2512.01773v2)
   Chenghao Gu, Haolan Kang, Junchao Lin, Jinghe Wang, Duo Wu, Shuzhao Xie, Fanding Huang, Junchen Ge, Ziyang Gong, Letian Li, Hongying Zheng, Changwei Lv, Zhi Wang
@@ -59,11 +62,11 @@
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](http://arxiv.org/abs/2511.20645v2)
   Yongsheng Yu, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo
   Code: https://github.com/NVlabs/PixelDiT
-- [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
-  Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
-  Code: nan
 - [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](http://arxiv.org/abs/2511.17411v2)
   Nikolay Nikolov, Giuliano Albanese, Sombit Dey, Aleksandar Yanev, Luc Van Gool, Jan-Nico Zaech, Danda Pani Paudel
+  Code: nan
+- [Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?](http://arxiv.org/abs/2511.17792v2)
+  Dingrui Wang, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, Yuchen Zhang, Yuyu Zhao, Yuan Gao, Marvin Seegert, Finn Schäfer, Haotong Qin, Wei Li, Luigi Palmieri, Felix Jahncke, Mattia Piccinini, Johannes Betz
   Code: nan
 - [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2511.17097v2)
   Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Yutian Zhou, Wanting Li, Deying Li, Zhaoxin Fan
@@ -122,13 +125,13 @@
 - [VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v2)
   Dominick Reilly, Manish Kumar Govind, Le Xue, Srijan Das
   Code: https://github.com/dominickrei/VisCoP
-- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
-  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
-  Code: nan
 - [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
   Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
+  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
 - [RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation](http://arxiv.org/abs/2510.09036v2)
