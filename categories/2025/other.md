@@ -17,6 +17,9 @@
 - [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
+- [Vision-Language-Policy Model for Dynamic Robot Task Planning](http://arxiv.org/abs/2512.19178v2)
+  Jin Wang, Kim Tien Ly, Jacques Cloete, Jin Jin, Nikos Tsagarakis, Ioannis Havoutis
+  Code: nan
 - [Olaf: Bringing an Animated Character to Life in the Physical World](http://arxiv.org/abs/2512.16705v2)
   David Müller, Espen Knoop, Dario Mylonopoulos, Agon Serifi, Michael A. Hopkins, Ruben Grandia, Moritz Bächer
   Code: nan
