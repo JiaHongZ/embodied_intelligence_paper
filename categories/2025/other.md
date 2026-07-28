@@ -50,6 +50,9 @@
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
+- [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
+  Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
+  Code: nan
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](http://arxiv.org/abs/2512.01467v2)
   Fabian Kresse, Christoph H. Lampert
   Code: nan
@@ -83,11 +86,11 @@
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
-- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
-  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
-  Code: nan
 - [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
   Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
+  Code: nan
+- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
+  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
   Code: nan
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda
@@ -239,20 +242,20 @@
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)
   Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Zhaoxin Fan, Yifan Sun, Wenjun Wu
   Code: https://github.com/AiDuanshiying/RoboPARA
-- [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
-  Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
-  Code: nan
 - [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
   Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
+  Code: nan
+- [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
+  Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
   Code: nan
 
 ## May
 
-- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
-  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
-  Code: nan
 - [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
   Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
+  Code: nan
+- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
+  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
@@ -274,6 +277,9 @@
 
 - [StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v2)
   Xu Wang, Jialang Xu, Shuai Zhang, Baoru Huang, Danail Stoyanov, Evangelos B. Mazomenos
+  Code: nan
+- [Unifying Complementarity Constraints and Control Barrier Functions for Safe Whole-Body Robot Control](http://arxiv.org/abs/2504.17647v2)
+  Rafael I. Cabral Muchacho, Riddhiman Laha, Florian T. Pokorny, Luis F. C. Figueredo, Nilanjan Chakraborty
   Code: nan
 - [Geometric Formulation of Unified Force-Impedance Control on SE(3) for Robotic Manipulators](http://arxiv.org/abs/2504.17080v3)
   Joohwan Seo, Nikhil Potu Surya Prakash, Soomi Lee, Arvind Kruthiventy, Megan Teng, Jongeun Choi, Roberto Horowitz

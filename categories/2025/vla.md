@@ -38,12 +38,12 @@
 - [Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models](http://arxiv.org/abs/2510.09976v2)
   Mingyang Lyu, Yinqian Sun, Erliang Lin, Huangrui Li, Ruolin Chen, Feifei Zhao, Yi Zeng
   Code: nan
-- [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
-  Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
-  Code: https://github.com/X-Luffy/GTR-Bench
 - [Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency](http://arxiv.org/abs/2510.08431v3)
   Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, Jintao Zhang, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang
   Code: https://github.com/NVlabs/rcm
+- [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
+  Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
+  Code: https://github.com/X-Luffy/GTR-Bench
 - [KeySG: Hierarchical Keyframe-Based 3D Scene Graphs](http://arxiv.org/abs/2510.01049v2)
   Abdelrhman Werby, Dennis Rotondi, Fabio Scaparro, Kai O. Arras
   Code: nan
@@ -59,6 +59,9 @@
 - [Seeing Space and Motion: Enhancing Latent Actions with Geometric and Dynamic Awareness for Vision-Language-Action Models](http://arxiv.org/abs/2509.26251v2)
   Zhejia Cai, Yandan Yang, Xinyuan Chang, Shiyi Liang, Ronghan Chen, Feng Xiong, Mu Xu, Ruqi Huang
   Code: nan
+- [RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations](http://arxiv.org/abs/2510.00037v6)
+  Jianing Guo, Zhenhong Wu, Chang Tu, Yiyao Ma, Xiangqi Kong, Zhiqian Liu, Jiaming Ji, Shuning Zhang, Yuanpei Chen, Kai Chen, Qi Dou, Yaodong Yang, Xianglong Liu, Huijie Zhao, Weifeng Lv, Simin Li
+  Code: https://github.com/gakakulicc/RobustVLA
 - [GenExam: A Multidisciplinary Text-to-Image Exam](http://arxiv.org/abs/2509.14232v4)
   Zhaokai Wang, Penghao Yin, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo
   Code: https://github.com/OpenGVLab/GenExam

@@ -248,6 +248,9 @@
 - [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v2)
   Jiahui Wu, Chengjie Lu, Aitor Arrieta, Shaukat Ali, Thomas Peyrucain
   Code: nan
+- [UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents](http://arxiv.org/abs/2508.00288v5)
+  Jianqiang Xiao, Yuexuan Sun, Yixin Shao, Boxi Gan, Rongqiang Liu, Yanjin Wu, Weili Guan, Xiang Deng
+  Code: nan
 
 ## July
 

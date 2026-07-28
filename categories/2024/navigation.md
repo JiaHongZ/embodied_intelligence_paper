@@ -17,6 +17,9 @@
 - [Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](http://arxiv.org/abs/2408.12548v3)
   Yousef Emami, Mohammadhossein Homaei, Miguel Gutiérrez Gaitán, Luis Almeida, Kai Li, Hui Huang, Zhu Han
   Code: nan
+- [CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases](http://arxiv.org/abs/2408.03910v3)
+  Xiangyan Liu, Bo Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Fei Wang, Michael Shieh, Wenmeng Zhou
+  Code: https://github.com/modelscope/modelscope-agent/tree/master/apps/codexgraph_agent
 
 ## June
 

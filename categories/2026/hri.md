@@ -2,6 +2,9 @@
 
 ## July
 
+- [Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim](http://arxiv.org/abs/2607.24190v1)
+  Steve Aschenbrenner, Marcel Heisler, Thomas Sievers, Christian Becker-Asano
+  Code: nan
 - [Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition](http://arxiv.org/abs/2607.18737v1)
   Radovan Gregor, Igor Farkaš
   Code: nan
