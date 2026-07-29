@@ -20,6 +20,9 @@
 - [OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective](http://arxiv.org/abs/2512.20770v2)
   Markus Gross, Sai B. Matha, Aya Fahmy, Rui Song, Daniel Cremers, Henri Meess
   Code: https://github.com/markus-42/occufly
+- [Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers](http://arxiv.org/abs/2512.17351v2)
+  Zeyuan Allen-Zhu
+  Code: nan
 - [CustomX: Unified Character, Action, and Scene Customization in Video World Models](http://arxiv.org/abs/2512.17796v2)
   Yitong Wang, Fangyun Wei, Hongyang Zhang, Bo Dai, Yan Lu
   Code: nan

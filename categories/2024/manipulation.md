@@ -26,6 +26,9 @@
 
 ## October
 
+- [A context-adaptive policy framework for robust and reactive robotic manipulation via uncertainty-aware imitation learning](http://arxiv.org/abs/2410.24035v2)
+  Tim R. Winter, Leonard Klüpfel, Ashok M. Sundaram, Werner Friedl, Maximo A. Roa, Freek Stulp, João Silvério
+  Code: nan
 - [Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes](http://arxiv.org/abs/2410.22177v2)
   Junlong Chen, Jens Grubert, Per Ola Kristensson
   Code: nan

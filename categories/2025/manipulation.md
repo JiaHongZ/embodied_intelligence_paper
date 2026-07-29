@@ -332,13 +332,13 @@
 - [PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking](http://arxiv.org/abs/2507.21540v3)
   Quanchen Zou, Zonghao Ying, Moyang Chen, Wenzhuo Xu, Yisong Xiao, Yakai Li, Deyue Zhang, Dongdong Yang, Zhao Liu, Xiangzheng Zhang
   Code: nan
-- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v3)
+- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v2)
   Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
   Code: https://github.com/ValentinLafargue/Inspection
 - [Enhancing Jailbreak Attacks on LLMs via Persona Prompts](http://arxiv.org/abs/2507.22171v3)
   Zheng Zhang, Peilin Zhao, Deheng Ye, Hao Wang
   Code: https://github.com/CjangCjengh/Generic_Persona
-- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v2)
+- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](http://arxiv.org/abs/2507.20708v3)
   Valentin Lafargue, Adriana Laurindo Monteiro, Emmanuelle Claeys, Laurent Risser, Jean-Michel Loubes
   Code: https://github.com/ValentinLafargue/Inspection
 - [Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v3)
@@ -365,11 +365,11 @@
 - [Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes](http://arxiv.org/abs/2506.09163v2)
   Daniel Jenson, Jhonathan Navott, Piotr Grynfelder, Mengyan Zhang, Makkunda Sharma, Elizaveta Semenova, Seth Flaxman
   Code: nan
-- [Where Do Humans Look When Demonstrating to Robots? Human Gaze Behavior in Pick-and-Place Tasks Across Demonstration Devices](http://arxiv.org/abs/2506.05808v2)
-  Yutaro Ishida, Takamitsu Matsubara, Takayuki Kanai, Kazuhiro Shintani, Hiroshi Bito
-  Code: nan
 - [Unsupervised Discovery of Failure Taxonomies from Deployment Logs](http://arxiv.org/abs/2506.06570v3)
   Aryaman Gupta, Yusuf Umut Ciftci, Somil Bansal
+  Code: nan
+- [Where Do Humans Look When Demonstrating to Robots? Human Gaze Behavior in Pick-and-Place Tasks Across Demonstration Devices](http://arxiv.org/abs/2506.05808v2)
+  Yutaro Ishida, Takamitsu Matsubara, Takayuki Kanai, Kazuhiro Shintani, Hiroshi Bito
   Code: nan
 - [STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization](http://arxiv.org/abs/2506.03863v3)
   Hao Li, Qi Lv, Rui Shao, Xiang Deng, Yinchuan Li, Jianye Hao, Liqiang Nie
@@ -395,11 +395,11 @@
 - [TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Objects in Contact-Rich Scenes](http://arxiv.org/abs/2505.22882v2)
   Wen Yang, Zhixian Xie, Yiting Wang, Abhijit Tadepalli, Heni Ben Amor, Shan Lin, Wanxin Jin
   Code: nan
-- [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
-  Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
-  Code: nan
 - [The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](http://arxiv.org/abs/2505.17476v3)
   Yuchen Zhang, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+  Code: nan
+- [But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v3)
+  Leon Eshuijs, Archie Chaudhury, Alan McBeth, Ethan Nguyen
   Code: nan
 - [CUB: Benchmarking Context Utilisation Techniques for Language Models](http://arxiv.org/abs/2505.16518v3)
   Lovisa Hagström, Youna Kim, Haeun Yu, Sang-goo Lee, Richard Johansson, Hyunsoo Cho, Isabelle Augenstein
@@ -469,6 +469,9 @@
 
 - [FunHOI: Annotation-Free 3D Hand-Object Interaction Generation via Functional Text Guidance](http://arxiv.org/abs/2502.20805v3)
   Yongqi Tian, Xueyu Sun, Haoyuan He, jianlei Wang, Caigui Jiang
+  Code: nan
+- [Invariance Pair Guidance: Robustness to Spurious Correlations via Corrective Gradients](http://arxiv.org/abs/2502.18975v3)
+  Martin Surner, Abdelmajid Khelil, Ludwig Bothmann
   Code: nan
 - [A Distributional Treatment of Real2Sim2Real for Object-Centric Agent Adaptation in Vision-Driven Deformable Linear Object Manipulation](http://arxiv.org/abs/2502.18615v4)
   Georgios Kamaras, Subramanian Ramamoorthy
