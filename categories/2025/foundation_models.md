@@ -245,6 +245,9 @@
 - [Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](http://arxiv.org/abs/2505.11237v2)
   Wenhao Qian, Zhenzhen Hu, Zijie Song, Jia Li
   Code: https://github.com/Qianvenh/CDGLT}{https://github.com/Qianvenh/CDGLT}
+- [Embodied intelligent industrial robotics: Framework and techniques](http://arxiv.org/abs/2505.09305v6)
+  Chaoran Zhang, Chenhao Zhang, Zhaobo Xu, Qinghongbing Xie, Jinliang Hou, Pingfa Feng, Long Zeng
+  Code: https://github.com/jackyzengl/EIIR
 
 ## April
 

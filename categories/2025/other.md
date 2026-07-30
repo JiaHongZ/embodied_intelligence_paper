@@ -329,6 +329,9 @@
 
 ## January
 
+- [Neural Radiance Fields for the Real World: A Survey](http://arxiv.org/abs/2501.13104v3)
+  Wenhui Xiao, Remi Chierchia, Rodrigo Santa Cruz, Xuesong Li, David Ahmedt-Aristizabal, Olivier Salvado, Clinton Fookes, Leo Lebrat
+  Code: nan
 - [Why Automate This? Exploring Correlations Between Desire for Robotic Automation, Invested Time and Well-Being](http://arxiv.org/abs/2501.06348v4)
   Ruchira Ray, Leona Pang, Sanjana Srivastava, Li Fei-Fei, Samantha Shorey, Roberto Martín-Martín
   Code: nan
