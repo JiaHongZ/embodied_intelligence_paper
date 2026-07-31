@@ -32,14 +32,17 @@
 - [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
   Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
+- [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
+  Rosanna Coccaro
+  Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
   Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
   Code: nan
-- [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
-  Madeleine Rischer, Benedikt Bußmann
-  Code: nan
 - [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
   Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
+  Code: nan
+- [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
+  Madeleine Rischer, Benedikt Bußmann
   Code: nan
 
 ## June
@@ -62,20 +65,20 @@
 - [When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure](http://arxiv.org/abs/2606.23339v1)
   Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David, Jamison Heard
   Code: nan
+- [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
+  Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
+  Code: nan
 - [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
   James Fant-Male, Roel Pieters
   Code: nan
-- [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
-  Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
+- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
+  Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
   Thomas M. Kwok, Nicholas Koenig, Yue Hu
-  Code: nan
-- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
-  Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
@@ -95,12 +98,12 @@
 - [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
   Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
   Code: nan
-- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
-  Sadman Sakib Enan, Junaed Sattar
-  Code: nan
 - [Fast-SDE: Efficient Single-Microphone Sound Source Distance Estimation in Reverberant Environments](http://arxiv.org/abs/2606.12339v1)
   Jiang Wang, Runwu Shi, Yaozhong Kang, Benjamin Yen, Takeshi Ashizawa, Kazuhiro Nakadai
   Code: https://github.com/JiangWAV/FAST-SDE
+- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
+  Sadman Sakib Enan, Junaed Sattar
+  Code: nan
 - [Toward Signing Activity Projection in Sign Language Interaction](http://arxiv.org/abs/2606.09424v1)
   Takao Obi, Wang Yusong, Koji Inoue, Kotaro Funakoshi
   Code: nan
@@ -170,11 +173,11 @@
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v4)
   Tongfei Bian, Mathieu Chollet, Tanaya Guha
   Code: nan
-- [Learning to Forget -- Hierarchical Episodic Memory for Lifelong Robot Deployment](http://arxiv.org/abs/2604.11306v2)
-  Leonard Bärmann, Joana Plewnia, Alex Waibel, Tamim Asfour
-  Code: nan
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v2)
   Tongfei Bian, Mathieu Chollet, Tanaya Guha
+  Code: nan
+- [Learning to Forget -- Hierarchical Episodic Memory for Lifelong Robot Deployment](http://arxiv.org/abs/2604.11306v2)
+  Leonard Bärmann, Joana Plewnia, Alex Waibel, Tamim Asfour
   Code: nan
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani

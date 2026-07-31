@@ -66,6 +66,12 @@
   Zhaokai Wang, Penghao Yin, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo
   Code: https://github.com/OpenGVLab/GenExam
 
+## August
+
+- [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](http://arxiv.org/abs/2508.04227v3)
+  Yuyang Liu, Qiuhe Hong, Linlan Huang, Alexandra Gomez-Villa, Dipam Goswami, Tiantian Peng, Xialei Liu, Joost van de Weijer, Yonghong Tian
+  Code: https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models
+
 ## May
 
 - [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](http://arxiv.org/abs/2505.20279v4)

@@ -104,14 +104,14 @@
 - [Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v2)
   Jose Luis Ponton, Eduardo Alvarado, Lin Geng Foo, Nuria Pelechano, Carlos Andujar, Marc Habermann
   Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
-  Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
-  Code: nan
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
   Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
+  Code: nan
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
+  Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
   Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
@@ -140,11 +140,11 @@
 - [PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing](http://arxiv.org/abs/2510.12346v2)
   Bingquan Li, Ning Wang, Zhicheng He, Yucong Wu, Tianwei Zhang
   Code: nan
-- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
-  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
-  Code: nan
 - [Rotor-Failure-Aware Quadrotors Flight in Unknown Environments](http://arxiv.org/abs/2510.11306v2)
   Xiaobin Zhou, Miao Wang, Chengao Li, Can Cui, Ruibin Zhang, Yongchao Wang, Chao Xu, Fei Gao
+  Code: nan
+- [Constraint-Aware Reinforcement Learning via Adaptive Action Scaling](http://arxiv.org/abs/2510.11491v2)
+  Murad Dawood, Usama Ahmed Siddiquie, Shahram Khorshidi, Maren Bennewitz
   Code: nan
 - [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](http://arxiv.org/abs/2510.11542v2)
   Neil Janwani, Varun Madabushi, Maegan Tucker
@@ -163,6 +163,9 @@
   Code: nan
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](http://arxiv.org/abs/2510.04607v2)
   Yuan Wang, Mingyu Li, Haibo Chen
+  Code: nan
+- [Metrics vs Surveys: An Analysis for Human-Aligned Benchmarking in Social Robot Navigation](http://arxiv.org/abs/2510.02941v2)
+  Stefano Trepella, Mauro Martini, Noé Pérez-Higueras, Andrea Ostuni, Fernando Caballero, Luis Merino, Marcello Chiaberge
   Code: nan
 - [EgoTraj-Bench: Towards Robust Trajectory Prediction Under Ego-view Noisy Observations](http://arxiv.org/abs/2510.00405v2)
   Jiayi Liu, Jiaming Zhou, Ke Ye, Kun-Yu Lin, Allan Wang, Junwei Liang

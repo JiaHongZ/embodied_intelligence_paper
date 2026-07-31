@@ -29,11 +29,11 @@
 - [AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](http://arxiv.org/abs/2512.11797v2)
   Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad, Yue Wang, Vitor Guizilini
   Code: nan
-- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
-  Bowen Wen, Shaurya Dewan, Stan Birchfield
-  Code: nan
 - [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
   Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
+  Code: nan
+- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
+  Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](http://arxiv.org/abs/2512.09928v2)
   Minghui Lin, Pengxiang Ding, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang, Donglin Wang
@@ -128,13 +128,13 @@
 - [VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v2)
   Dominick Reilly, Manish Kumar Govind, Le Xue, Srijan Das
   Code: https://github.com/dominickrei/VisCoP
+- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
+  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
 - [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
   Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
-  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
-  Code: nan
-- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
 - [RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation](http://arxiv.org/abs/2510.09036v2)
@@ -215,11 +215,11 @@
 - [HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation](http://arxiv.org/abs/2506.08797v2)
   Ziyao Huang, Zixiang Zhou, Juan Cao, Yifeng Ma, Yi Chen, Zejing Rao, Zhiyong Xu, Hongmei Wang, Qin Lin, Yuan Zhou, Qinglin Lu, Fan Tang
   Code: nan
-- [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
-  Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
-  Code: nan
 - [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
   Martin JJ. Bucher, Iro Armeni
+  Code: nan
+- [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
+  Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
   Code: nan
 
 ## May
@@ -263,6 +263,9 @@
 
 ## March
 
+- [SharedAssembly: A Data Collection Approach via Shared Tele-Assembly](http://arxiv.org/abs/2503.12287v2)
+  Yansong Wu, Xiao Chen, Yu Chen, Hamid Sadeghian, Fan Wu, Zhenshan Bing, Alois Knoll
+  Code: nan
 - [iPack: Intuitive Bin Packing with Large Language Models](http://arxiv.org/abs/2503.08445v2)
   Yannik Blei, Michael Krawez, Adrian Göß, Devadas Vijayan Sheela, Tobias Jülg, Pierre Krack, Florian Walter, Wolfram Burgard
   Code: nan
