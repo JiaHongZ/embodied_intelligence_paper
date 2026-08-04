@@ -143,6 +143,9 @@
 - [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
   Yunzhe Xu, Yiyuan Pan, Zhe Liu
   Code: nan
+- [DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction](http://arxiv.org/abs/2510.07152v3)
+  Jingkai Sun, Gang Han, Pihai Sun, Wen Zhao, Jiahang Cao, Jiaxu Wang, Qiang Zhang, Yijie Guo
+  Code: nan
 - [Seeing the Bigger Picture: 3D Latent Mapping for Mobile Manipulation Policy Learning](http://arxiv.org/abs/2510.03885v3)
   Sunghwan Kim, Woojeh Chung, Zhirui Dai, Dwait Bhatt, Arth Shukla, Hao Su, Yulun Tian, Nikolay Atanasov
   Code: nan
@@ -215,11 +218,11 @@
 - [HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation](http://arxiv.org/abs/2506.08797v2)
   Ziyao Huang, Zixiang Zhou, Juan Cao, Yifeng Ma, Yi Chen, Zejing Rao, Zhiyong Xu, Hongmei Wang, Qin Lin, Yuan Zhou, Qinglin Lu, Fan Tang
   Code: nan
-- [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
-  Martin JJ. Bucher, Iro Armeni
-  Code: nan
 - [On the Robustness of Tabular Foundation Models: Test-Time Attacks and In-Context Defenses](http://arxiv.org/abs/2506.02978v2)
   Mohamed Djilani, Thibault Simonetto, Karim Tit, Florian Tambon, Salah Ghamizi, Maxime Cordy, Mike Papadakis
+  Code: nan
+- [ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](http://arxiv.org/abs/2506.02459v6)
+  Martin JJ. Bucher, Iro Armeni
   Code: nan
 
 ## May

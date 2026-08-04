@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2026)
 
+## August
+
+- [Adaptive Human-Robot Collaborative Painting Combining Preference-Based Optimization and Dynamic Motion Primitives](http://arxiv.org/abs/2608.01981v1)
+  C. Cella, M. Ristic, M. Faroni, A. M. Zanchettin, P. Rocco
+  Code: nan
+
 ## July
 
 - [Belief-Aware Influence and Trust (BAIT): Shaping Human Belief During Repeated Human-Robot Interaction](http://arxiv.org/abs/2607.25327v1)
@@ -71,14 +77,14 @@
 - [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
   James Fant-Male, Roel Pieters
   Code: nan
+- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
+  Thomas M. Kwok, Nicholas Koenig, Yue Hu
+  Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
-  Code: nan
-- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
-  Thomas M. Kwok, Nicholas Koenig, Yue Hu
   Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi

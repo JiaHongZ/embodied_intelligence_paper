@@ -47,6 +47,9 @@
 - [ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation](http://arxiv.org/abs/2409.08926v3)
   Kaixin Bai, Huajian Zeng, Lei Zhang, Yiwen Liu, Hongli Xu, Zhaopeng Chen, Jianwei Zhang
   Code: nan
+- [Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models](http://arxiv.org/abs/2409.07163v3)
+  Jiahang Cao, Qiang Zhang, Jingkai Sun, Jiaxu Wang, Hao Cheng, Yulin Li, Jun Ma, Kun Wu, Zhiyuan Xu, Yecheng Shao, Wen Zhao, Gang Han, Yijie Guo, Renjing Xu
+  Code: nan
 
 ## July
 
@@ -55,4 +58,10 @@
   Code: nan
 - [Rod models in continuum and soft robot control: a review](http://arxiv.org/abs/2407.05886v3)
   Carlo Alessi, Camilla Agabiti, Daniele Caradonna, Cecilia Laschi, Federico Renda, Egidio Falotico
+  Code: nan
+
+## May
+
+- [Direct and Adaptable Mesh-Gaussian Scene Reconstruction from Multi-View Images](http://arxiv.org/abs/2405.06945v4)
+  Ancheng Lin, Tianqing Su, Zuo Yuan, Quanke Su, Samuel S. Mao, Yusheng Xiang
   Code: nan
