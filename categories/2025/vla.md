@@ -59,6 +59,9 @@
 - [Seeing Space and Motion: Enhancing Latent Actions with Geometric and Dynamic Awareness for Vision-Language-Action Models](http://arxiv.org/abs/2509.26251v2)
   Zhejia Cai, Yandan Yang, Xinyuan Chang, Shiyi Liang, Ronghan Chen, Feng Xiong, Mu Xu, Ruqi Huang
   Code: nan
+- [HomeSafeBench: A Benchmark for Embodied Vision-Language Models in Free-Exploration Home Safety Inspection](http://arxiv.org/abs/2509.23690v2)
+  Jiashu Yao, Haoyu Wen, Siyuan Gao, Yuhang Guo, Zeming Liu, Heyan Huang
+  Code: https://github.com/BITHLP/HomeSafeBench
 - [RobustVLA: On Robustness of Vision-Language-Action Model against Multi-Modal Perturbations](http://arxiv.org/abs/2510.00037v6)
   Jianing Guo, Zhenhong Wu, Chang Tu, Yiyao Ma, Xiangqi Kong, Zhiqian Liu, Jiaming Ji, Shuning Zhang, Yuanpei Chen, Kai Chen, Qi Dou, Yaodong Yang, Xianglong Liu, Huijie Zhao, Weifeng Lv, Simin Li
   Code: https://github.com/gakakulicc/RobustVLA

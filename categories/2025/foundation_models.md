@@ -29,11 +29,11 @@
 - [AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](http://arxiv.org/abs/2512.11797v2)
   Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad, Yue Wang, Vitor Guizilini
   Code: nan
-- [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
-  Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
-  Code: nan
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
   Bowen Wen, Shaurya Dewan, Stan Birchfield
+  Code: nan
+- [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
+  Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
   Code: nan
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](http://arxiv.org/abs/2512.09928v2)
   Minghui Lin, Pengxiang Ding, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang, Donglin Wang
@@ -58,6 +58,9 @@
 
 - [Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](http://arxiv.org/abs/2512.00883v2)
   Jiahua Wang, Leqi Zheng, Jialong Wu, Yaoxin Mao
+  Code: nan
+- [Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics](http://arxiv.org/abs/2512.00883v4)
+  Jiahua Wang, Leqi Zheng, Jialong Wu, Yaoxin Mao, Shijie Cheng
   Code: nan
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
@@ -170,6 +173,9 @@
 - [Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters](http://arxiv.org/abs/2509.18831v2)
   Pin-Yen Chiu, I-Sheng Fang, Jun-Cheng Chen
   Code: nan
+- [FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR](http://arxiv.org/abs/2509.17390v3)
+  Junzhe Wu, Yufei Jia, Yiyi Yan, Zhixing Chen, Tiao Tan, Zifan Wang, Guangyu Wang, BoKui Chen, Guyue Zhou
+  Code: https://github.com/discoverse-dev/FGGS-LiDAR
 - [Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale](http://arxiv.org/abs/2509.14932v2)
   Tobias Jülg, Pierre Krack, Seongjin Bien, Yannik Blei, Khaled Gamal, Ken Nakahara, Johannes Hechtl, Roberto Calandra, Wolfram Burgard, Florian Walter
   Code: nan

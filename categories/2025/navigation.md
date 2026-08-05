@@ -239,6 +239,9 @@
 - [Real-Time Model Checking for Closed-Loop Robot Reactive Planning](http://arxiv.org/abs/2508.19186v2)
   Christopher Chandler, Bernd Porr, Giulia Lafratta, Alice Miller
   Code: nan
+- [MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](http://arxiv.org/abs/2508.15169v4)
+  Xuyang Chen, Zhijun Zhai, Kaixuan Zhou, Zengmao Wang, Jianan He, Dong Wang, Yanfeng Zhang, mingwei Sun, Rüdiger Westermann, Konrad Schindler, Liqiu Meng
+  Code: nan
 - [Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control](http://arxiv.org/abs/2508.12335v2)
   Yunfan Gao, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl
   Code: nan
