@@ -308,6 +308,9 @@
 
 ## March
 
+- [Curiosity-Diffuser: Curiosity Guide Diffusion Models for Reliability](http://arxiv.org/abs/2503.14833v2)
+  Zihao Liu, Xing Liu, Yuhang Dong, Haitao Chang, Zhengxiong Liu, Panfeng Huang
+  Code: nan
 - [Stratified Topological Autonomy for Long-Range Coordination (STALC)](http://arxiv.org/abs/2503.10475v4)
   Cora A. Duggan, Adam Goertz, Adam Polevoy, Mark Gonzales, Kevin C. Wolfe, Bradley Woosley, John G. Rogers, Joseph Moore
   Code: nan
