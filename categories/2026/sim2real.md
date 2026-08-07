@@ -1,5 +1,11 @@
 # Simulation and Sim2Real Papers (2026)
 
+## August
+
+- [IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation](http://arxiv.org/abs/2608.06088v1)
+  Zhixiang Chen, Zhuangbin Chen, Ruoxi Jia, Zeqin Liao, Wei Li, Jinyang Liu, Zibin Zheng
+  Code: nan
+
 ## July
 
 - [World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation](http://arxiv.org/abs/2607.18154v1)
