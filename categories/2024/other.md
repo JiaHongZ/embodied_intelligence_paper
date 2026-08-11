@@ -29,6 +29,9 @@
 - [Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space](http://arxiv.org/abs/2409.08439v3)
   Maximilian Stölzle, Cosimo Della Santina
   Code: nan
+- [Unsupervised Point Cloud Registration with Self-Distillation](http://arxiv.org/abs/2409.07558v2)
+  Christian Löwens, Thorben Funke, André Wagner, Alexandru Paul Condurache
+  Code: https://github.com/boschresearch/direg
 
 ## August
 

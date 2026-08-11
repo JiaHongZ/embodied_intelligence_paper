@@ -71,6 +71,9 @@
 
 ## August
 
+- [$\mathcal{P}^3$: Toward Versatile Embodied Agents](http://arxiv.org/abs/2508.07033v3)
+  Shengli Zhou, Xiangchen Wang, Jinrui Zhang, Ruozai Tian, Jianzheng Huang, Rongtao Xu, Guanhua Chen, Feng Zheng
+  Code: https://github.com/fz-zsl/P3
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](http://arxiv.org/abs/2508.04227v3)
   Yuyang Liu, Qiuhe Hong, Linlan Huang, Alexandra Gomez-Villa, Dipam Goswami, Tiantian Peng, Xialei Liu, Joost van de Weijer, Yonghong Tian
   Code: https://github.com/YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models
