@@ -29,3 +29,9 @@
 - [ReMoBot: Retrieval-Based Few-Shot Imitation Learning for Mobile Manipulation with Vision Foundation Models](http://arxiv.org/abs/2408.15919v4)
   Yuying Zhang, Wenyan Yang, Francesco Verdoja, Ville Kyrki, Joni Pajarinen
   Code: nan
+
+## May
+
+- [Pretrained Optimization Model for Zero-Shot Black Box Optimization](http://arxiv.org/abs/2405.03728v3)
+  Xiaobin Li, Kai Wu, Yujian Betterest Li, Xiaoyu Zhang, Handing Wang, Jing Liu
+  Code: https://github.com/ninja-wm/POM/

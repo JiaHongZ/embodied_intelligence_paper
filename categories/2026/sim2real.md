@@ -2,6 +2,9 @@
 
 ## August
 
+- [EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim](http://arxiv.org/abs/2608.08522v2)
+  Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, Miguel Campusano, Rodrigo Verschae
+  Code: nan
 - [IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation](http://arxiv.org/abs/2608.06088v1)
   Zhixiang Chen, Zhuangbin Chen, Ruoxi Jia, Zeqin Liao, Wei Li, Jinyang Liu, Zibin Zheng
   Code: nan
@@ -116,6 +119,9 @@
 
 ## January
 
+- [Influence of Operator Expertise on Robot Supervision and Intervention](http://arxiv.org/abs/2601.15069v2)
+  Yanran Jiang, Pavan Sikka, Leimin Tian, Dana Kuliic, Cecile Paris
+  Code: nan
 - [ObjSplat: Geometry-Aware Gaussian Surfels for Active Object Reconstruction](http://arxiv.org/abs/2601.06997v2)
   Yuetao Li, Zhizhou Jia, Yu Zhang, Qun Hao, Shaohui Zhang
   Code: nan

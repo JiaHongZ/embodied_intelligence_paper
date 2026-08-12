@@ -38,11 +38,11 @@
 - [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](http://arxiv.org/abs/2512.08280v3)
   Haldun Balim, Na Li, Yilun Du
   Code: nan
-- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
-  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
-  Code: nan
 - [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
   Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
+  Code: nan
+- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
+  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
   Code: nan
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
@@ -176,11 +176,11 @@
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
   Code: nan
-- [RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking](http://arxiv.org/abs/2509.20717v2)
-  Zhenguo Sun, Yibo Peng, Yuan Meng, Xukun Li, Bo-Sheng Huang, Zhenshan Bing, Xinlong Wang, Alois Knoll
-  Code: nan
 - [Autonomous UAV-Quadruped Docking in Complex Terrains via Active Posture Alignment and Constraint-Aware Control](http://arxiv.org/abs/2509.21571v2)
   Haozhe Xu, Cheng Cheng, Hongrui Sang, Zhipeng Wang, Qiyong He, Xiuxian Li, Bin He
+  Code: nan
+- [RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking](http://arxiv.org/abs/2509.20717v2)
+  Zhenguo Sun, Yibo Peng, Yuan Meng, Xukun Li, Bo-Sheng Huang, Zhenshan Bing, Xinlong Wang, Alois Knoll
   Code: nan
 - [GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference](http://arxiv.org/abs/2509.19916v3)
   Zijun Che, Yinghong Zhang, Shengyi Liang, Boyu Zhou, Jun Ma, Jinni Zhou
@@ -199,6 +199,9 @@
   Code: nan
 - [CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](http://arxiv.org/abs/2509.04859v3)
   Hannah Schieber, Dominik Frischmann, Victor Schaack, Simon Boche, Angela Schoellig, Stefan Leutenegger, Daniel Roth
+  Code: nan
+- [Reconfiguration of pivoting cube ensembles under local sensing constraints using geometric deep learning](http://arxiv.org/abs/2509.03140v2)
+  Nadezhda Dobreva, Emmanuel Blazquez, Jai Grover, Dario Izzo, Yuzhen Qin, Dominik Dold
   Code: nan
 
 ## August
@@ -251,20 +254,20 @@
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)
   Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Zhaoxin Fan, Yifan Sun, Wenjun Wu
   Code: https://github.com/AiDuanshiying/RoboPARA
-- [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
-  Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
-  Code: nan
 - [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
   Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
+  Code: nan
+- [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
+  Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
   Code: nan
 
 ## May
 
-- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
-  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
-  Code: nan
 - [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
   Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+  Code: nan
+- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
+  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
