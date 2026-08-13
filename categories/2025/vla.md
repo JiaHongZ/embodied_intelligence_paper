@@ -38,12 +38,15 @@
 - [Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models](http://arxiv.org/abs/2510.09976v2)
   Mingyang Lyu, Yinqian Sun, Erliang Lin, Huangrui Li, Ruolin Chen, Feifei Zhao, Yi Zeng
   Code: nan
-- [Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency](http://arxiv.org/abs/2510.08431v3)
-  Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, Jintao Zhang, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang
-  Code: https://github.com/NVlabs/rcm
 - [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
   Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
   Code: https://github.com/X-Luffy/GTR-Bench
+- [Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency](http://arxiv.org/abs/2510.08431v3)
+  Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, Jintao Zhang, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang
+  Code: https://github.com/NVlabs/rcm
+- [RLinf-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models](http://arxiv.org/abs/2510.06710v3)
+  Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Peihong Wang, Liangzhi Shi, Yuqing Xie, Zhexuan Xu, Zhihao Liu, Kang Chen, Wenhao Tang, Quanlu Zhang, Weinan Zhang, Chao Yu, Yu Wang
+  Code: nan
 - [KeySG: Hierarchical Keyframe-Based 3D Scene Graphs](http://arxiv.org/abs/2510.01049v2)
   Abdelrhman Werby, Dennis Rotondi, Fabio Scaparro, Kai O. Arras
   Code: nan

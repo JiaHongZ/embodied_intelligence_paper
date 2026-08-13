@@ -167,11 +167,11 @@
 
 ## September
 
-- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
-  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
-  Code: nan
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
   Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
+  Code: nan
+- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
+  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
   Code: nan
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
@@ -254,20 +254,20 @@
 - [RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks](http://arxiv.org/abs/2506.06683v3)
   Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Zhaoxin Fan, Yifan Sun, Wenjun Wu
   Code: https://github.com/AiDuanshiying/RoboPARA
-- [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
-  Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
-  Code: nan
 - [Towards provable probabilistic safety for scalable embodied AI systems](http://arxiv.org/abs/2506.05171v3)
   Linxuan He, Lingxiang Fan, Qing-Shan Jia, Ang Li, Hongyan Sang, Ling Wang, Guanghui Wen, Jiwen Lu, Tao Zhang, Jie Zhou, Yi Zhang, Yisen Wang, Peng Wei, Zhongyuan Wang, Henry X. Liu, Shuo Feng
+  Code: nan
+- [A Three-Stage Offline SDRE-Based Control Framework for Human Motion Reproduction on a Suspended Bipedal Robot](http://arxiv.org/abs/2506.04680v2)
+  Ping-Kong Huang, Chien-Wu Lan, Chin-Tien Wu, Ching-Kai Lin
   Code: nan
 
 ## May
 
-- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
-  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
-  Code: nan
 - [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
   Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
+  Code: nan
+- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
+  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
@@ -281,12 +281,18 @@
 - [Apple: Toward General Active Perception via Reinforcement Learning](http://arxiv.org/abs/2505.06182v5)
   Tim Schneider, Cristiana de Farias, Roberto Calandra, Liming Chen, Jan Peters
   Code: nan
+- [3D Scene Generation: A Survey](http://arxiv.org/abs/2505.05474v2)
+  Haozhe Xie, Beichen Wen, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu
+  Code: https://github.com/hzxie/Awesome-3D-Scene-Generation
 - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](http://arxiv.org/abs/2505.00986v3)
   Xiao Ma, Young D. Kwon, Dong Ma
   Code: nan
 
 ## April
 
+- [Who Is Responsible? Self-Adaptation Under Multiple Concurrent Failures With Unknown Faults in Complex Robotic Systems](http://arxiv.org/abs/2504.20477v5)
+  Andreas Wiedholz, Rafael Paintner, Alwin Hoffmann, Tobias Huber
+  Code: nan
 - [StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v2)
   Xu Wang, Jialang Xu, Shuai Zhang, Baoru Huang, Danail Stoyanov, Evangelos B. Mazomenos
   Code: nan
