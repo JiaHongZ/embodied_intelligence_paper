@@ -2,6 +2,15 @@
 
 ## August
 
+- [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
+  Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
+  Code: nan
+- [Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots](http://arxiv.org/abs/2608.16686v1)
+  Zi Haur Pang, Casey Kennington, Tatsuya Kawahara
+  Code: nan
+- [Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities](http://arxiv.org/abs/2608.16049v1)
+  Raj Korpan
+  Code: nan
 - [Manufacturing Complex Airtight Soft Pneumatic Actuators for Soft Robotics: Process Evaluation and Optimization](http://arxiv.org/abs/2608.13233v1)
   Mohammed Abboodi
   Code: nan
@@ -41,14 +50,14 @@
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
   Code: nan
-- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
-  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
-  Code: nan
 - [Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems](http://arxiv.org/abs/2607.11792v1)
   Sheng Li, Jing Li, Felix Schijve, Jun Hu, Emilia Barakova
   Code: nan
 - [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](http://arxiv.org/abs/2607.11633v1)
   Yuga Yano, Yuki Okafuji, Ryo Miyoshi, Sanae Yamashita, Yoshiki Ohira
+  Code: nan
+- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
+  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
   Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
@@ -101,20 +110,20 @@
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
   Code: nan
-- [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
-  Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
-  Code: nan
-- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
-  Haotian Qi, Gabriel Skantze
-  Code: nan
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
-- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
-  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
+- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
+  Haotian Qi, Gabriel Skantze
+  Code: nan
+- [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
+  Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
   Code: nan
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
+  Code: nan
+- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
+  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
   Code: nan
 - [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
   Sadman Sakib Enan, Junaed Sattar
@@ -179,14 +188,14 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
-- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
-  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
-  Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
+- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
+  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v2)
   Tongfei Bian, Mathieu Chollet, Tanaya Guha
