@@ -60,6 +60,12 @@
   Carlo Alessi, Camilla Agabiti, Daniele Caradonna, Cecilia Laschi, Federico Renda, Egidio Falotico
   Code: nan
 
+## June
+
+- [ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation](http://arxiv.org/abs/2406.01586v4)
+  Zifeng Gao, Guanxing Lu, Tianxing Chen, Wenxun Dai, Ziwei Wang, Chao Shang, Wenbo Ding, Yansong Tang
+  Code: nan
+
 ## May
 
 - [Direct and Adaptable Mesh-Gaussian Scene Reconstruction from Multi-View Images](http://arxiv.org/abs/2405.06945v4)

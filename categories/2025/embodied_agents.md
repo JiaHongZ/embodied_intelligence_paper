@@ -77,6 +77,9 @@
 - [A Survey on Hypergame Theory: Modelling Misaligned Perceptions and Nested Beliefs for Multi-Agent Systems](http://arxiv.org/abs/2507.19593v3)
   Vince Trencsenyi, Agnieszka Mensfelt, Kostas Stathis
   Code: nan
+- [Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration](http://arxiv.org/abs/2507.15455v3)
+  Hee Jun Yang, Minjung Gim, Yeoneung Kim
+  Code: nan
 
 ## June
 

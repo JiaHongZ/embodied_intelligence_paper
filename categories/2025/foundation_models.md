@@ -71,6 +71,9 @@
 - [Reinforcing Action Policies by Prophesying](http://arxiv.org/abs/2511.20633v2)
   Jiahui Zhang, Ze Huang, Chun Gu, Zipei Ma, Li Zhang
   Code: nan
+- [UrbanWorld2.0: A Multimodal Agentic Framework for Reality-Aligned 3D World Generation at City-Scale](http://arxiv.org/abs/2511.18005v3)
+  Shengyuan Wang, Zhiheng Zheng, Yu Shang, Lixuan He, Yangcheng Yu, Fan Hangyu, Jie Feng, Qingmin Liao, Yong Li
+  Code: nan
 - [UrbanWorld2.0: A Multimodal Agentic Framework for Reality-Aligned 3D World Generation at City-Scale](http://arxiv.org/abs/2511.18005v2)
   Shengyuan Wang, Zhiheng Zheng, Yu Shang, Lixuan He, Yangcheng Yu, Fan Hangyu, Jie Feng, Qingmin Liao, Yong Li
   Code: nan
@@ -101,11 +104,11 @@
 - [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](http://arxiv.org/abs/2511.13207v2)
   Cheng Peng, Zhenzhe Zhang, Xiaobao Wei, Yanhao Zhang, Heng Wang, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Shanghang Zhang, Jing Liu
   Code: nan
-- [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
-  Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
-  Code: nan
 - [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
   Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
+  Code: nan
+- [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
+  Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
   Code: nan
 - [SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation](http://arxiv.org/abs/2511.05203v3)
   Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert
@@ -155,6 +158,9 @@
 - [Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation](http://arxiv.org/abs/2510.08553v2)
   Yunzhe Xu, Yiyuan Pan, Zhe Liu
   Code: nan
+- [Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight](http://arxiv.org/abs/2510.08713v3)
+  Yifei Dong, Fengyi Wu, Guangyu Chen, Lingdong Kong, Qiyu Hu, Yuxuan Zhou, Xu Zhu, Jingdong Sun, Jun-Yan He, Qi Dai, Alexander G. Hauptmann, Zhi-Qi Cheng
+  Code: https://github.com/UWMILab/UniWM
 - [DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction](http://arxiv.org/abs/2510.07152v3)
   Jingkai Sun, Gang Han, Pihai Sun, Wen Zhao, Jiahang Cao, Jiaxu Wang, Qiang Zhang, Yijie Guo
   Code: nan
