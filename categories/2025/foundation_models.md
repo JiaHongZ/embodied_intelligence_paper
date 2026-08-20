@@ -41,14 +41,17 @@
 - [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](http://arxiv.org/abs/2512.05955v2)
   Haowen Liu, Shaoxiong Yao, Haonan Chen, Jiawei Gao, Jiayuan Mao, Jia-Bin Huang, Yilun Du
   Code: nan
-- [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2512.02982v2)
-  Xiang Xu, Alan Liang, Youquan Liu, Linfeng Li, Lingdong Kong, Ziwei Liu, Qingshan Liu
-  Code: nan
 - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](http://arxiv.org/abs/2512.04124v4)
   Afshin Khadangi, Hanna Marxen, Amir Sartipi, Igor Tchappi, Gilbert Fridgen
   Code: nan
 - [WorldPack: Dynamic Frame Compression for Long-context Video World Modeling](http://arxiv.org/abs/2512.02473v2)
   Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, Hiroki Furuta
+  Code: nan
+- [WorldPack: Dynamic Frame Compression for Long-context Video World Modeling](http://arxiv.org/abs/2512.02473v3)
+  Yuta Oshima, Yusuke Iwasawa, Masahiro Suzuki, Yutaka Matsuo, Hiroki Furuta
+  Code: nan
+- [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](http://arxiv.org/abs/2512.02982v2)
+  Xiang Xu, Alan Liang, Youquan Liu, Linfeng Li, Lingdong Kong, Ziwei Liu, Qingshan Liu
   Code: nan
 - [IGen: Scalable Data Generation for Robot Learning from Open-World Images](http://arxiv.org/abs/2512.01773v2)
   Chenghao Gu, Haolan Kang, Junchao Lin, Jinghe Wang, Duo Wu, Shuzhao Xie, Fanding Huang, Junchen Ge, Ziyang Gong, Letian Li, Hongying Zheng, Changwei Lv, Zhi Wang
@@ -104,11 +107,11 @@
 - [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](http://arxiv.org/abs/2511.13207v2)
   Cheng Peng, Zhenzhe Zhang, Xiaobao Wei, Yanhao Zhang, Heng Wang, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Shanghang Zhang, Jing Liu
   Code: nan
-- [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
-  Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
-  Code: nan
 - [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
   Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
+  Code: nan
+- [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
+  Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
   Code: nan
 - [SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation](http://arxiv.org/abs/2511.05203v3)
   Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert
@@ -143,11 +146,11 @@
 - [VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v2)
   Dominick Reilly, Manish Kumar Govind, Le Xue, Srijan Das
   Code: https://github.com/dominickrei/VisCoP
-- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
-  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
-  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter

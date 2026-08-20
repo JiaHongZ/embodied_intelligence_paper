@@ -48,6 +48,12 @@
   Tomohiko Jimbo, Takashi Ozaki, Norikazu Ohta, Kanae Hamaguchi
   Code: nan
 
+## May
+
+- [Reconstruction of continuum robots by marker-free shape registration of image data using a kinematic model](http://arxiv.org/abs/2405.15336v2)
+  Matthias K. Hoffmann, Julian Mühlenhoff, Zhaoheng Ding, Thomas Sattel, Kathrin Flaßkamp
+  Code: nan
+
 ## March
 
 - [An Active Perception Game for Robust Exploration](http://arxiv.org/abs/2404.00769v5)

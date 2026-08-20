@@ -2,6 +2,9 @@
 
 ## August
 
+- [Designing Social Robots for Social-Cognition Training with Autistic Adults](http://arxiv.org/abs/2608.18488v1)
+  Yuval Zohar, Mordi Benhamou, Guy Laban
+  Code: nan
 - [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
   Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
   Code: nan
@@ -80,11 +83,11 @@
 - [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](http://arxiv.org/abs/2606.28469v2)
   Thomas Vitry, Vanessa Maeder, Kieran von Valeburg, Asihati Hazaiti, Doga Deniz Ates, Connor Gäde, Jan-Gerrit Habekost, Dennis Becker, Stefan Wermter
   Code: nan
-- [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
-  Carlos Gomez Cubero, Elizabeth Jochum
-  Code: nan
 - [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
   Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
+  Code: nan
+- [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
+  Carlos Gomez Cubero, Elizabeth Jochum
   Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
@@ -113,11 +116,11 @@
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
-- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
-  Haotian Qi, Gabriel Skantze
-  Code: nan
 - [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
   Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
+  Code: nan
+- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
+  Haotian Qi, Gabriel Skantze
   Code: nan
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
