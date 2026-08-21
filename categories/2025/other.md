@@ -38,11 +38,11 @@
 - [Model-Based Diffusion Sampling for Predictive Control in Offline Decision Making](http://arxiv.org/abs/2512.08280v3)
   Haldun Balim, Na Li, Yilun Du
   Code: nan
-- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
-  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
-  Code: nan
 - [Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks](http://arxiv.org/abs/2512.07697v2)
   Aileen Liao, Dong-Ki Kim, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei
+  Code: nan
+- [sim2art: Accurate Articulated Object Modeling from a Single Video using Synthetic Training Data Only](http://arxiv.org/abs/2512.07698v2)
+  Arslan Artykov, Tom Ravaud, Corentin Sautier, Vincent Lepetit
   Code: nan
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
@@ -89,11 +89,11 @@
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
-- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
-  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
-  Code: nan
 - [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
   Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
+  Code: nan
+- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
+  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
   Code: nan
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda
@@ -125,11 +125,11 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
-- [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
-  Matti Pekkanen, Francesco Verdoja, Ville Kyrki
-  Code: nan
 - [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
   Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
+  Code: nan
+- [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
+  Matti Pekkanen, Francesco Verdoja, Ville Kyrki
   Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
   Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
@@ -167,14 +167,14 @@
 
 ## September
 
+- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
+  Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
+  Code: nan
 - [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
   Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
   Code: nan
 - [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
   Shunan Yin, Zehui Lu, Shaoshuai Mou
-  Code: nan
-- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
-  Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
   Code: nan
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
@@ -266,17 +266,20 @@
 
 ## May
 
+- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
+  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+  Code: nan
 - [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
   Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
-- [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
-  Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
+- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
+  Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
   Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
   Code: nan
-- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
-  Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
+- [Symmetric Lyapunov Subcenter Manifolds for Periodic Regulation of Mechanical Systems](http://arxiv.org/abs/2505.13064v4)
+  Yannik P. Wotte, Arne Sachtler, Alin Albu-Schäffer, Stefano Stramigioli, Cosimo Della Santina
   Code: nan
 - [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](http://arxiv.org/abs/2505.10018v4)
   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, Xieyuanli Chen, Fei Gao

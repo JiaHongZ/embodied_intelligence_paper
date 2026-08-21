@@ -2,6 +2,9 @@
 
 ## August
 
+- [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](http://arxiv.org/abs/2608.20087v1)
+  Tao Huang, Ruofei Liu, Xuchen Tang, Xinyin Zhang, Junli Ren, Huayi Wang, Feiyu Jia, Yukai Qi, Kangning Yin, Weishuai Zeng, Lipeng Chen, Xi Li, Ting Wu, Kailin Li, Ruoli Dai, Jingbo Wang, Lei Han, Jiangmiao Pang
+  Code: nan
 - [RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction](http://arxiv.org/abs/2608.13028v1)
   Tianyu Sun, Zhoujie Fu, Zihui Gao, Bang Zhang, Guosheng Lin
   Code: nan
@@ -38,6 +41,9 @@
 - [RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction](http://arxiv.org/abs/2606.26955v1)
   Jinhyung Lee, Haeun Yun, Siwon Kim, Gihyun Baek, Sungho Moon, Sehyun Hwang, Sunghoon Im
   Code: nan
+- [Sim-to-Real Betting on the E-Process: Bringing "simulators" to anytime-valid confidence sequences](http://arxiv.org/abs/2606.24038v2)
+  Yujia Chen, Bowen Weng
+  Code: https://github.com/ISUSAIL/Bet4Sim2Real-EProcess
 - [How Should a Simulation-to-Reality Transfer Budget Be Spent?](http://arxiv.org/abs/2606.22062v2)
   Syed Hamzah Rizvi, Yash Vardhan Tomar
   Code: nan

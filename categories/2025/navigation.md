@@ -47,17 +47,17 @@
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
   Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
   Code: nan
-- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
-  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
-  Code: https://github.com/worv-ai/CostNav
-- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
-  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
-  Code: nan
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v7)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
+  Code: https://github.com/worv-ai/CostNav
+- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
+  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
+  Code: nan
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
+  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
 - [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
   Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -92,6 +92,9 @@
 - [MacroNav: Multi-Task Context Representation Learning Enables Efficient Navigation in Unknown Environments](http://arxiv.org/abs/2511.04320v2)
   Kuankuan Sima, Longbin Tang, Zhenyu Yang, Haozhe Ma, Lin Zhao
   Code: nan
+- [Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots](http://arxiv.org/abs/2511.03996v2)
+  Yushi Wang, Changsheng Luo, Penghui Chen, Jianran Liu, Weijian Sun, Tong Guo, Kechang Yang, Biao Hu, Yangang Zhang, Mingguo Zhao
+  Code: nan
 - [Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](http://arxiv.org/abs/2511.01219v6)
   Muhua Zhang, Lei Ma, Ying Wu, Kai Shen, Deqing Huang, Henry Leung
   Code: nan
@@ -110,10 +113,10 @@
 - [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
   Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
   Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
@@ -141,6 +144,9 @@
   Helene J. Levy, Brett T. Lopez
   Code: nan
 - [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v2)
+  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
+  Code: https://github.com/AlexTraveling/SUM-AgriVLN
+- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v3)
   Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
   Code: https://github.com/AlexTraveling/SUM-AgriVLN
 - [PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing](http://arxiv.org/abs/2510.12346v2)
@@ -203,17 +209,17 @@
 - [Scalable Multi Agent Diffusion Policies for Coverage Control](http://arxiv.org/abs/2509.17244v2)
   Frederic Vatnsdal, Romina Garcia Camargo, Saurav Agarwal, Alejandro Ribeiro
   Code: nan
-- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
-  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
-  Code: nan
 - [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v3)
   Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
-- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
-  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
+- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
+  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
+  Code: nan
+- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
+  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
   Code: nan
 - [Responsibility and Engagement -- Evaluating Interactions in Social Robot Navigation](http://arxiv.org/abs/2509.12890v2)
   Malte Probst, Raphael Wenzel, Monica Dasi
