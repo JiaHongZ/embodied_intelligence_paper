@@ -53,6 +53,9 @@
 
 ## July
 
+- [Reasoning as a Weapon: Adaptive Dual-Path Jailbreak Attack on Large Language Models](http://arxiv.org/abs/2407.16205v7)
+  Shi Lin, Peng Qian, Hongming Yang, Renjie Sun, Dezhang Kong, Xun Wang
+  Code: nan
 - [ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter](http://arxiv.org/abs/2407.11298v2)
   Yaoyao Qian, Xupeng Zhu, Ondrej Biza, Shuo Jiang, Linfeng Zhao, Haojie Huang, Yu Qi, Robert Platt
   Code: nan
