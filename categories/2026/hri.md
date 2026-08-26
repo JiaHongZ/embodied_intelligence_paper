@@ -2,6 +2,9 @@
 
 ## August
 
+- [Stakeholder Insights for Designing In-Home Social Robots for Dementia Disorientation Detection and Caregiver-Aware Intervention](http://arxiv.org/abs/2608.22008v2)
+  Emmanuel Akinrintoyo, Nicole Salomons
+  Code: nan
 - [Designing Social Robots for Social-Cognition Training with Autistic Adults](http://arxiv.org/abs/2608.18488v1)
   Yuval Zohar, Mordi Benhamou, Guy Laban
   Code: nan
@@ -68,11 +71,11 @@
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
   Rosanna Coccaro
   Code: nan
-- [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
-  Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
-  Code: nan
 - [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
   Madeleine Rischer, Benedikt Bußmann
+  Code: nan
+- [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
+  Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
   Code: nan
 
 ## June
@@ -83,11 +86,11 @@
 - [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](http://arxiv.org/abs/2606.28469v2)
   Thomas Vitry, Vanessa Maeder, Kieran von Valeburg, Asihati Hazaiti, Doga Deniz Ates, Connor Gäde, Jan-Gerrit Habekost, Dennis Becker, Stefan Wermter
   Code: nan
-- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
-  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
-  Code: nan
 - [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
   Carlos Gomez Cubero, Elizabeth Jochum
+  Code: nan
+- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
+  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
   Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
@@ -113,15 +116,15 @@
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
   Code: nan
-- [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
-  Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
-  Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
 - [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
   Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
   Code: nan
 - [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
   Haotian Qi, Gabriel Skantze
   Code: nan
+- [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
+  Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
+  Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
   Code: nan
@@ -161,11 +164,11 @@
 
 ## April
 
-- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
-  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
-  Code: nan
 - [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
   Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
+  Code: nan
+- [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
+  Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
   Code: nan
 - [Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar](http://arxiv.org/abs/2604.26473v1)
   Do Won Park, Samuele Bordini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi
@@ -191,14 +194,14 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
+- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
+  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
+  Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
-  Code: nan
-- [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
-  Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v2)
   Tongfei Bian, Mathieu Chollet, Tanaya Guha
@@ -218,14 +221,14 @@
 - [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
-  Bijan Kavousian, Oliver Petrovic, Werner Herfs
-  Code: nan
 - [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
   Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
 - [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
   Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+  Code: nan
+- [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
+  Bijan Kavousian, Oliver Petrovic, Werner Herfs
   Code: nan
 - [Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction](http://arxiv.org/abs/2604.01756v1)
   Sheng Li, Jingcheng Huang, Min Li
@@ -266,11 +269,11 @@
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
   Code: https://github.com/OctopusWen/HiSync
-- [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
-  Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
-  Code: nan
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
+  Code: nan
+- [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
+  Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
   Code: nan
 - [SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly](http://arxiv.org/abs/2603.10459v1)
   Xiao Liu, Prakash Baskaran, Songpo Li, Simon Manschitz, Wei Ma, Dirk Ruiken, Soshi Iba
