@@ -179,6 +179,9 @@
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](http://arxiv.org/abs/2510.04607v2)
   Yuan Wang, Mingyu Li, Haibo Chen
   Code: nan
+- [Performance-guided Task-specific Optimization for Multirotor Design](http://arxiv.org/abs/2510.04724v2)
+  Etor Arza, Welf Rehberg, Philipp Weiss, Mihir Kulkarni, Kostas Alexis
+  Code: nan
 - [Metrics vs Surveys: An Analysis for Human-Aligned Benchmarking in Social Robot Navigation](http://arxiv.org/abs/2510.02941v2)
   Stefano Trepella, Mauro Martini, Noé Pérez-Higueras, Andrea Ostuni, Fernando Caballero, Luis Merino, Marcello Chiaberge
   Code: nan

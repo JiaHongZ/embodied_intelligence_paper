@@ -80,6 +80,9 @@
 - [Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration](http://arxiv.org/abs/2507.15455v3)
   Hee Jun Yang, Minjung Gim, Yeoneung Kim
   Code: nan
+- [Human vs. Teleoperated Robots in Vineyard Management: A Simulation-Based Analysis of Travel Speed, Routing, and Task Performance](http://arxiv.org/abs/2507.04167v2)
+  Daniel Udekwe, Hasan Seyyedhasani, Muhammad Ali Qadri
+  Code: nan
 
 ## June
 

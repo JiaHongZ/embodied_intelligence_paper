@@ -47,3 +47,6 @@
 - [SemanticScanpath: Combining Gaze and Speech for Situated Human-Robot Interaction Using LLMs](http://arxiv.org/abs/2503.16548v2)
   Elisabeth Menendez, Michael Gienger, Santiago Martínez, Carlos Balaguer, Anna Belardinelli
   Code: nan
+- [Multi-Touch and Bending Sensing Using Electrical Impedance Tomography for Robotics](http://arxiv.org/abs/2503.13048v4)
+  Haofeng Chen, Bedrich Himmel, Bin Li, Xiaojie Wang, Matej Hoffmann
+  Code: nan
