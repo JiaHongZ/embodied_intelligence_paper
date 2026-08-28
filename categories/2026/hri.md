@@ -2,6 +2,9 @@
 
 ## August
 
+- [STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration](http://arxiv.org/abs/2608.27225v1)
+  Maitrey Gramopadhye, Prakash Baskaran, Xiao Liu, Songpo Li, Soshi Iba
+  Code: nan
 - [Stakeholder Insights for Designing In-Home Social Robots for Dementia Disorientation Detection and Caregiver-Aware Intervention](http://arxiv.org/abs/2608.22008v2)
   Emmanuel Akinrintoyo, Nicole Salomons
   Code: nan

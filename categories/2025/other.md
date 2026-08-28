@@ -131,11 +131,11 @@
 - [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
   Matti Pekkanen, Francesco Verdoja, Ville Kyrki
   Code: nan
-- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
-  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
-  Code: nan
 - [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
   Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
+  Code: nan
+- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
+  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
   Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
@@ -160,6 +160,9 @@
   Code: nan
 - [Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8 and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition](http://arxiv.org/abs/2510.09653v3)
   Ranjan Sapkota, Manoj Karkee
+  Code: nan
+- [Egosurg: Arbitrary view synthesis for egocentric replay of operating room workflows from ambient cameras](http://arxiv.org/abs/2510.04802v2)
+  Han Zhang, Lalithkumar Seenivasan, Jose L. Porras, Roger D. Soberanis-Mukul, Hao Ding, Hongchao Shu, Benjamin D. Killeen, Ankita Ghosh, Lonny Yarmus, Jeffrey K. Jopling, Masaru Ishii, Angela C. Argento, Mathias Unberath
   Code: nan
 - [Optimization-Based Robust Permissive Synthesis for Interval MDPs](http://arxiv.org/abs/2510.03481v2)
   Khang Vo Huynh, David Parker, Lu Feng

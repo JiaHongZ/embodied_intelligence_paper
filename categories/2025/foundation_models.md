@@ -107,11 +107,11 @@
 - [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](http://arxiv.org/abs/2511.13207v2)
   Cheng Peng, Zhenzhe Zhang, Xiaobao Wei, Yanhao Zhang, Heng Wang, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Shanghang Zhang, Jing Liu
   Code: nan
-- [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
-  Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
-  Code: nan
 - [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
   Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
+  Code: nan
+- [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
+  Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
   Code: nan
 - [SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation](http://arxiv.org/abs/2511.05203v3)
   Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert
@@ -127,6 +127,9 @@
   Code: https://github.com/fiveai/FMs-for-driving-trajectories
 - [NaviTrace: Evaluating Embodied Navigation of Vision-Language Models](http://arxiv.org/abs/2510.26909v3)
   Tim Windecker, Manthan Patel, Moritz Reuss, Richard Schwarzkopf, Cesar Cadena, Rudolf Lioutikov, Marco Hutter, Jonas Frey
+  Code: nan
+- [Using VLM Reasoning to Constrain Task and Motion Planning](http://arxiv.org/abs/2510.25548v3)
+  Muyang Yan, Miras Mengdibayev, Ardon Floros, Weihang Guo, Lydia E. Kavraki, Zachary Kingston
   Code: nan
 - [From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors](http://arxiv.org/abs/2510.17439v3)
   Zhengshen Zhang, Hao Li, Yalun Dai, Zhengbang Zhu, Lei Zhou, Chenchen Liu, Dong Wang, Francis E. H. Tay, Sijin Chen, Ziwei Liu, Yuxiao Liu, Xinghang Li, Pan Zhou
@@ -146,11 +149,11 @@
 - [VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](http://arxiv.org/abs/2510.13808v2)
   Dominick Reilly, Manish Kumar Govind, Le Xue, Srijan Das
   Code: https://github.com/dominickrei/VisCoP
-- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
-  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
-  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
