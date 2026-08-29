@@ -30,9 +30,6 @@ Automatically updated daily.
 - [NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics](http://arxiv.org/abs/2608.24199v1)
   Javier Gamazo Tejero, Lukas Zbinden, Keyur Sheth, Raghavendra K M, Nadim Daher, Diego Granero Maraña, Filip Binkiewicz, Patrick Thornycroft, Mahdi Azizian, Sean D. Huver
   Code: nan
-- [PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control](http://arxiv.org/abs/2608.24115v1)
-  Suhwan Choi, Jaeyoon Jung, Sungkyung Kim, Yunsung Lee, Youngjae Yu
-  Code: nan
 - [TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks](http://arxiv.org/abs/2608.24101v1)
   Zhi Cao, Howard Ji, Kevin Zhang, Kuangzhi Ge, Li Fei-Fei, Jiajun Wu, Huang Huang
   Code: nan
@@ -41,6 +38,9 @@ Automatically updated daily.
   Code: nan
 - [NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning](http://arxiv.org/abs/2608.24026v1)
   Sibo Tian, Chang Liu, Minghui Zheng, Xiao Liang
+  Code: nan
+- [PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control](http://arxiv.org/abs/2608.24115v1)
+  Suhwan Choi, Jaeyoon Jung, Sungkyung Kim, Yunsung Lee, Youngjae Yu
   Code: nan
 - [Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning](http://arxiv.org/abs/2608.24885v1)
   Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo, Tinghao Wang, Siyuan Qian, Hao Chen, Jiajun Cao, Jian Tang, Shanghang Zhang
@@ -123,11 +123,11 @@ Automatically updated daily.
 - [Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor](http://arxiv.org/abs/2608.24162v1)
   Ziyang Ma, Yuhao Sun, Zichen Ai, Xiangyang Ji, Bin Fang
   Code: nan
-- [A Durable Vision-Based Tactile Fingertip for Robotic Manipulation](http://arxiv.org/abs/2608.24242v1)
-  F. Richard Cottrell, Megha H. Tippur, Edward H. Adelson
-  Code: nan
 - [Trajectory-Level Continuous Action Representation for Robotic Manipulation](http://arxiv.org/abs/2608.24111v1)
   Tong Yang, Jingkai Jia, Yuecheng Xu, Xueyao Chen, Chi Zhang, Wenqiang Zhang
+  Code: nan
+- [A Durable Vision-Based Tactile Fingertip for Robotic Manipulation](http://arxiv.org/abs/2608.24242v1)
+  F. Richard Cottrell, Megha H. Tippur, Edward H. Adelson
   Code: nan
 - [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](http://arxiv.org/abs/2608.24479v1)
   Zihao Wu, Hongyao Tang, Yi Ma, Huizhong Song, Pengyi Li, Yifu Yuan, Fei Ni, Jinyi Liu, Wei Wei, Jianrong Wang, Yan Zheng, Jianye Hao
@@ -185,9 +185,6 @@ Automatically updated daily.
   Code: nan
 - [Cultural Moment Benchmark: Evaluating Video Cultural Reasoning and Grounding in Southeast Asia](http://arxiv.org/abs/2608.23065v1)
   Burak Satar, Zhixin Ma, Cheng Yu-Tong, Huy Hoang Tran, Phuong Anh Nguyen, Chong-Wah Ngo
-  Code: nan
-- [ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation](http://arxiv.org/abs/2608.20735v2)
-  Siyuan Ma, Yutian Zhang, Boshi Zhang, Qinglian Wu, Jiaqi Zhai, Dong Wei, Xiaojin Huang
   Code: nan
 
 ### Robot Navigation
@@ -300,8 +297,8 @@ Automatically updated daily.
 - [Simplified Cross-Modal Calibration for Heterogeneous Event-RGB Stereo Systems](http://arxiv.org/abs/2608.22965v1)
   Nico Hessenthaler, Adam T. Müller, Nicolaj C. Stache
   Code: https://github.com/nhessenthaler/simple-evrgb-cal
-- [Switched Turn-based Adaptive Source Seeking Strategy using Estimation and Information-driven Direction of Improvement](http://arxiv.org/abs/2608.23068v1)
-  Shubhra Banerjee, Satadal Ghosh
+- [Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning](http://arxiv.org/abs/2608.23100v1)
+  Junru Song, Yang Yang, Yaqing Xu, Ying Wen, Wei Peng, Guozhen Li, Wei'en Zhou, Wen Yao
   Code: nan
 - [Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments](http://arxiv.org/abs/2608.23290v1)
   Antoni Valls, Jordi Sanchez-Riera
@@ -309,8 +306,8 @@ Automatically updated daily.
 - [Design of a Biomimetic Joint-Covering Skin with Tissue-Like Structure to Enhance Proprioception in a Musculoskeletal Humanoid](http://arxiv.org/abs/2608.23304v1)
   Akihiro Miki, Shun Hasegawa, Yoshimoto Ribayashi, Kento Kawaharazuka, Kei Okada
   Code: nan
-- [Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning](http://arxiv.org/abs/2608.23100v1)
-  Junru Song, Yang Yang, Yaqing Xu, Ying Wen, Wei Peng, Guozhen Li, Wei'en Zhou, Wen Yao
+- [Switched Turn-based Adaptive Source Seeking Strategy using Estimation and Information-driven Direction of Improvement](http://arxiv.org/abs/2608.23068v1)
+  Shubhra Banerjee, Satadal Ghosh
   Code: nan
 
 ## Full Archive
