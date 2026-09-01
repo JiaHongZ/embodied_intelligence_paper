@@ -74,3 +74,9 @@
 - [Direct and Adaptable Mesh-Gaussian Scene Reconstruction from Multi-View Images](http://arxiv.org/abs/2405.06945v4)
   Ancheng Lin, Tianqing Su, Zuo Yuan, Quanke Su, Samuel S. Mao, Yusheng Xiang
   Code: nan
+
+## February
+
+- [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems](http://arxiv.org/abs/2402.03741v4)
+  Oubo Ma, Yuwen Pu, Linkang Du, Yang Dai, Ruo Wang, Xiaolei Liu, Yingcai Wu, Shouling Ji
+  Code: nan
