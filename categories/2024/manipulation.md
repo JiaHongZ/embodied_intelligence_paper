@@ -38,6 +38,9 @@
 
 ## September
 
+- [Adaptive Collision Sensitivity for Efficient and Safe Human-Robot Collaboration](http://arxiv.org/abs/2409.20184v3)
+  Lukas Rustler, Matej Misar, Matej Hoffmann
+  Code: nan
 - [Hypnopaedia-Aware Machine Unlearning via Psychometrics of Artificial Mental Imagery](http://arxiv.org/abs/2410.05284v2)
   Ching-Chun Chang, Kai Gao, Shuying Xu, Anastasia Kordoni, Christopher Leckie, Isao Echizen
   Code: nan

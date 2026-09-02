@@ -68,6 +68,9 @@
 - [ROVER: Regulator-Driven Robust Temporal Verification of Black-Box Robot Policies](http://arxiv.org/abs/2511.17781v2)
   Kristy Sakano, Jianyu An, Dinesh Manocha, Huan Xu
   Code: nan
+- [MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots](http://arxiv.org/abs/2511.16949v2)
+  Junseo Kim, Guido Dumont, Xinyu Gao, Gang Chen, Holger Caesar, Javier Alonso-Mora
+  Code: nan
 - [Symmetry-Breaking in Multi-Agent Navigation: Winding Number-Aware MPC with a Learned Topological Strategy](http://arxiv.org/abs/2511.15239v3)
   Tomoki Nakao, Kazumi Kasaura, Tadashi Kozuno
   Code: https://github.com/omron-sinicx/WNumMPC
@@ -119,12 +122,12 @@
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
-- [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
-  Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
-  Code: https://github.com/PKU-SEC-Lab/EfficientNav
 - [PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](http://arxiv.org/abs/2510.18348v2)
   Alexandros Ntagkas, Chairi Kiourt, Konstantinos Chatzilygeroudis
   Code: nan
+- [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
+  Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
+  Code: https://github.com/PKU-SEC-Lab/EfficientNav
 - [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](http://arxiv.org/abs/2510.16518v2)
   Jesús Ortega-Peimbert, Finn Lukas Busch, Timon Homberger, Quantao Yang, Olov Andersson
   Code: nan
@@ -218,17 +221,17 @@
 - [Review of Explainable Decision Support and Adaptive Human-Machine Interfaces for Automation Transparency in Maritime Autonomous Surface Ships](http://arxiv.org/abs/2509.15959v2)
   Zhuoyue Zhang, Haitong Xu, Carlos Guedes Soares
   Code: nan
-- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
-  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
-  Code: nan
 - [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v3)
   Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
-- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
-  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
+- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
+  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
+  Code: nan
+- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
+  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
   Code: nan
 - [Responsibility and Engagement -- Evaluating Interactions in Social Robot Navigation](http://arxiv.org/abs/2509.12890v2)
   Malte Probst, Raphael Wenzel, Monica Dasi

@@ -47,11 +47,11 @@
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
   Code: nan
-- [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
-  Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
-  Code: nan
 - [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
   Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
+  Code: nan
+- [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
+  Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](http://arxiv.org/abs/2512.01467v2)
   Fabian Kresse, Christoph H. Lampert
@@ -83,17 +83,17 @@
 - [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
   Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
   Code: nan
-- [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
-  Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
-  Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
   Code: nan
-- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
-  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
+- [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
+  Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
   Code: nan
 - [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
   Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
+  Code: nan
+- [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
+  Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
   Code: nan
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda
@@ -128,14 +128,14 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
-- [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
-  Matti Pekkanen, Francesco Verdoja, Ville Kyrki
+- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
+  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
   Code: nan
 - [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
   Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
   Code: nan
-- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
-  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
+- [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
+  Matti Pekkanen, Francesco Verdoja, Ville Kyrki
   Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
@@ -173,14 +173,14 @@
 
 ## September
 
+- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
+  Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
+  Code: nan
 - [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
   Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
   Code: nan
 - [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
   Shunan Yin, Zehui Lu, Shaoshuai Mou
-  Code: nan
-- [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
-  Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
   Code: nan
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
@@ -272,17 +272,17 @@
 
 ## May
 
-- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
-  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
-  Code: nan
 - [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
   Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
   Code: nan
-- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
-  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
+- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
+  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
 - [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
   Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
+  Code: nan
+- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
+  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
   Code: nan
 - [Symmetric Lyapunov Subcenter Manifolds for Periodic Regulation of Mechanical Systems](http://arxiv.org/abs/2505.13064v4)
   Yannik P. Wotte, Arne Sachtler, Alin Albu-Schäffer, Stefano Stramigioli, Cosimo Della Santina
@@ -304,6 +304,9 @@
 
 - [Who Is Responsible? Self-Adaptation Under Multiple Concurrent Failures With Unknown Faults in Complex Robotic Systems](http://arxiv.org/abs/2504.20477v5)
   Andreas Wiedholz, Rafael Paintner, Alwin Hoffmann, Tobias Huber
+  Code: nan
+- [Hydra: Marker-Free RGB-D Hand-Eye Calibration](http://arxiv.org/abs/2504.20584v2)
+  Martin Huber, Huanyu Tian, Christopher E. Mower, Lucas-Raphael Müller, Sébastien Ourselin, Christos Bergeles, Tom Vercauteren
   Code: nan
 - [StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v2)
   Xu Wang, Jialang Xu, Shuai Zhang, Baoru Huang, Danail Stoyanov, Evangelos B. Mazomenos
@@ -332,6 +335,9 @@
 - [Curiosity-Diffuser: Curiosity Guide Diffusion Models for Reliability](http://arxiv.org/abs/2503.14833v2)
   Zihao Liu, Xing Liu, Yuhang Dong, Haitao Chang, Zhengxiong Liu, Panfeng Huang
   Code: nan
+- [D4orm: Multi-Robot Trajectories with Dynamics-aware Diffusion Denoised Deformations](http://arxiv.org/abs/2503.12204v4)
+  Yuhao Zhang, Keisuke Okumura, Heedo Woo, Ajay Shankar, Amanda Prorok
+  Code: https://github.com/proroklab/d4orm
 - [Stratified Topological Autonomy for Long-Range Coordination (STALC)](http://arxiv.org/abs/2503.10475v4)
   Cora A. Duggan, Adam Goertz, Adam Polevoy, Mark Gonzales, Kevin C. Wolfe, Bradley Woosley, John G. Rogers, Joseph Moore
   Code: nan

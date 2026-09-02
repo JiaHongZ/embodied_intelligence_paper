@@ -89,3 +89,6 @@
 - [LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval](http://arxiv.org/abs/2505.15269v2)
   Zhenyu Ning, Guangda Liu, Qihao Jin, Chengwei Li, Wenchao Ding, Minyi Guo, Jieru Zhao
   Code: nan
+- [ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models](http://arxiv.org/abs/2505.13180v3)
+  Matteo Merler, Nicola Dainese, Minttu Alakuijala, Giovanni Bonetta, Pietro Ferrazzi, Yu Tian, Bernardo Magnini, Pekka Marttinen
+  Code: nan

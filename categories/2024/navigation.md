@@ -35,6 +35,9 @@
 - [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v5)
   Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
   Code: nan
+- [NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU](http://arxiv.org/abs/2405.07392v5)
+  Yuhao Zhang, Mihai Bujanca, Mikel Luján
+  Code: https://github.com/yuhaozhang7/NGD-SLAM
 
 ## April
 

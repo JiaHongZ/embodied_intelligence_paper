@@ -107,11 +107,14 @@
 - [PIGEON: VLM-Driven Object Navigation via Points of Interest Selection](http://arxiv.org/abs/2511.13207v2)
   Cheng Peng, Zhenzhe Zhang, Xiaobao Wei, Yanhao Zhang, Heng Wang, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Shanghang Zhang, Jing Liu
   Code: nan
-- [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
-  Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
+- [SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning](http://arxiv.org/abs/2511.09681v2)
+  Tairan Huang, Yulin Jin, Junxu Liu, Qingqing Ye, Haibo Hu
   Code: nan
 - [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
   Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
+  Code: nan
+- [ViPRA: Video Prediction for Robot Actions](http://arxiv.org/abs/2511.07732v2)
+  Sandeep Routray, Hengkai Pan, Unnat Jain, Shikhar Bahl, Deepak Pathak
   Code: nan
 - [SIL: Symbiotic Interactive Learning for Language-Conditioned Human-Agent Co-Adaptation](http://arxiv.org/abs/2511.05203v3)
   Linus Nwankwo, Bjoern Ellensohn, Christian Rauch, Elmar Rueckert
