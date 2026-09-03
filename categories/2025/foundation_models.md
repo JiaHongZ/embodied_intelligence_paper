@@ -5,6 +5,9 @@
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation](http://arxiv.org/abs/2512.24212v3)
   Ming-Ming Yu, Yi Chen, Börje F. Karlsson, Wenjun Wu
   Code: nan
+- [What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](http://arxiv.org/abs/2512.24497v4)
+  Basile Terver, Tsung-Yen Yang, Jean Ponce, Adrien Bardes, Yann LeCun
+  Code: https://github.com/facebookresearch/jepa-wms
 - [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](http://arxiv.org/abs/2512.23864v3)
   Guo Ye, Zexi Zhang, Xu Zhao, Shang Wu, Haoran Lu, Shihan Lu, Han Liu
   Code: nan
@@ -110,6 +113,9 @@
 - [SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning](http://arxiv.org/abs/2511.09681v2)
   Tairan Huang, Yulin Jin, Junxu Liu, Qingqing Ye, Haibo Hu
   Code: nan
+- [SEBA: Sample-Efficient Black-Box Attacks on Visual Reinforcement Learning](http://arxiv.org/abs/2511.09681v3)
+  Tairan Huang, Yulin Jin, Junxu Liu, Qingqing Ye, Haibo Hu
+  Code: https://github.com/tairanhuang/seba
 - [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](http://arxiv.org/abs/2511.07820v4)
   Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen, Zi-Ang Cao, Jiefeng Li, David Minor, Qingwei Ben, Jinhyung Park, David Sami, Zi Wang, Xingye Da, Runyu Ding, Cyrus Hogg, Lina Song, Edy Lim, Eugene Jeong, Tairan He, Haoru Xue, Wenli Xiao, Simon Yuen, Jan Kautz, Yan Chang, Umar Iqbal, Linxi "Jim" Fan, Yuke Zhu
   Code: nan
@@ -155,11 +161,11 @@
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
-- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
-  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
-  Code: nan
 - [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
+  Code: nan
+- [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
+  Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
   Code: nan
 - [RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation](http://arxiv.org/abs/2510.09036v2)
   Chuanrui Zhang, Zhengxian Wu, Guanxing Lu, Yansong Tang, Ziwei Wang

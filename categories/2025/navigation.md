@@ -29,6 +29,9 @@
 - [RVC-NMPC: Nonlinear Model Predictive Control with Reciprocal Velocity Constraints for Mutual Collision Avoidance in Agile UAV Flight](http://arxiv.org/abs/2512.08574v2)
   Vit Kratky, Robert Penicka, Parakh M. Gupta, Ondrej Prochazka, Martin Saska
   Code: nan
+- [Wake Vectoring for Efficient Morphing Flight](http://arxiv.org/abs/2512.05211v2)
+  Ioannis Mandralis, Severin Schumacher, Morteza Gharib
+  Code: nan
 - [Context-Triggered Contingency Games for Strategic Multi-Agent Interaction](http://arxiv.org/abs/2512.03639v3)
   Kilian Schweppe, Anne-Kathrin Schmuck
   Code: nan
@@ -47,17 +50,17 @@
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](http://arxiv.org/abs/2511.21083v2)
   Feiyang Pan, Shenghe Zheng, Chunyan Yin, Guangbin Dou
   Code: nan
-- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
-  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
-  Code: https://github.com/worv-ai/CostNav
-- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
-  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
-  Code: nan
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v6)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
 - [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v7)
   Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Samwoo Seong, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Youngjae Yu, Yunsung Lee
+  Code: https://github.com/worv-ai/CostNav
+- [RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines](http://arxiv.org/abs/2511.20823v2)
+  Roman Naeem, David Hagerman, Jennifer Alvén, Fredrik Kahl
+  Code: nan
+- [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](http://arxiv.org/abs/2511.20216v5)
+  Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, Geunwoo Kim, Yubeen Park, Sunhoo Kim, Yoonshik Kim, Suhwan Choi, Jaeyoon Jung, Jiyong Youn, Jinmyung Kwak, Sunghee Ahn, Jaemin Lee, Younggil Do, Seungyeop Yi, Woojin Cheong, Minhyeok Oh, Minchan Kim, Seongjae Kang, Samwoo Seong, Youngjae Yu, Yunsung Lee
   Code: https://github.com/worv-ai/CostNav
 - [Reference-Free Sampling-Based Model Predictive Control](http://arxiv.org/abs/2511.19204v3)
   Fabian Schramm, Pierre Fabre, Nicolas Perrin-Gilbert, Justin Carpentier
@@ -80,11 +83,11 @@
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](http://arxiv.org/abs/2511.10376v5)
   Xun Huang, Shijia Zhao, Yunxiang Wang, Xin Lu, Wanfa Zhang, Rongsheng Qu, Weixin Li, Yunhong Wang, Chenglu Wen
   Code: https://github.com/ylwhxht/MSGNav
-- [TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](http://arxiv.org/abs/2511.07412v2)
-  Han Zhang, Yiqing Shen, Roger D. Soberanis-Mukul, Ankita Ghosh, Hao Ding, Lalithkumar Seenivasan, Jose L. Porras, Zhekai Mao, Chenjia Li, Wenjie Xiao, Lonny Yarmus, Angela Christine Argento, Masaru Ishii, Mathias Unberath
-  Code: nan
 - [The Journal of Prompt-Engineered (Moral) Philosophy Or: Why AI-Assisted Ethics Research Requires Process Transparency](http://arxiv.org/abs/2511.08639v5)
   Michele Loi
+  Code: nan
+- [TwinOR: Photorealistic Digital Twins of Dynamic Operating Rooms for Embodied AI Research](http://arxiv.org/abs/2511.07412v2)
+  Han Zhang, Yiqing Shen, Roger D. Soberanis-Mukul, Ankita Ghosh, Hao Ding, Lalithkumar Seenivasan, Jose L. Porras, Zhekai Mao, Chenjia Li, Wenjie Xiao, Lonny Yarmus, Angela Christine Argento, Masaru Ishii, Mathias Unberath
   Code: nan
 - [Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning](http://arxiv.org/abs/2511.06371v3)
   Yingnan Zhao, Xinmiao Wang, Dewei Wang, Xinzhe Liu, Dan Lu, Qilong Han, Peng Liu, Chenjia Bai
@@ -116,10 +119,10 @@
 - [Deep Learning-Powered Visual SLAM Aimed at Assisting Visually Impaired Navigation](http://arxiv.org/abs/2510.20549v2)
   Marziyeh Bamdad, Hans-Peter Hutter, Alireza Darvishy
   Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
-- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
+- [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v4)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
 - [PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](http://arxiv.org/abs/2510.18348v2)

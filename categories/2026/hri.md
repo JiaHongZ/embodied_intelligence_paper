@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2026)
 
+## September
+
+- [A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](http://arxiv.org/abs/2609.02402v1)
+  Chengxiao He, Shanghai Yuan, Liuqun Fan, Shenzhen Zhu
+  Code: nan
+
 ## August
 
 - [STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration](http://arxiv.org/abs/2608.27225v1)
@@ -128,6 +134,9 @@
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
+- [OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](http://arxiv.org/abs/2606.15255v2)
+  Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan, Nak Young Chong
+  Code: nan
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
   Code: nan
@@ -197,13 +206,13 @@
 - [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
   Qi Xia, Peishan Cong, Ziyi Wang, Yujing Sun, Qin Sun, Xinge Zhu, Mao Ye, Ruigang Yang, Yuexin Ma
   Code: nan
+- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
+  Jintao Xue, Xiao Li, Nianmin Zhang
+  Code: nan
 - [Designing for Error Recovery in Human-Robot Interaction](http://arxiv.org/abs/2604.12473v1)
   Christopher D. Wallbridge, Erwin Jose Lopez Pulgarin
   Code: nan
 - [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v2)
-  Jintao Xue, Xiao Li, Nianmin Zhang
-  Code: nan
-- [Safe reinforcement learning with online filtering for fatigue-predictive human-robot task planning and allocation in production](http://arxiv.org/abs/2604.12667v1)
   Jintao Xue, Xiao Li, Nianmin Zhang
   Code: nan
 - [Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning](http://arxiv.org/abs/2604.10895v2)
