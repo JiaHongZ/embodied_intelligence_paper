@@ -29,6 +29,9 @@
 - [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](http://arxiv.org/abs/2511.12676v2)
   Subin Varghese, Joshua Gao, Asad Ur Rahman, Vedhus Hoskere
   Code: nan
+- [A Quantitative Comparison of Centralised and Distributed Reinforcement Learning-Based Control for Soft Robotic Arms](http://arxiv.org/abs/2511.02192v3)
+  Linxin Hou, Qirui Wu, Zhihang Qin, Neil Banerjee, Yongxin Guo, Cecilia Laschi
+  Code: nan
 - [MARS: Multi-Agent Robotic System with Multimodal Large Language Models for Assistive Intelligence](http://arxiv.org/abs/2511.01594v2)
   Renjun Gao
   Code: nan

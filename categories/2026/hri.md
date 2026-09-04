@@ -2,6 +2,9 @@
 
 ## September
 
+- [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](http://arxiv.org/abs/2609.04030v1)
+  Chen Li, Dimitrios Chrysostomou
+  Code: nan
 - [A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](http://arxiv.org/abs/2609.02402v1)
   Chengxiao He, Shanghai Yuan, Liuqun Fan, Shenzhen Zhu
   Code: nan
@@ -32,11 +35,11 @@
 - [Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation](http://arxiv.org/abs/2608.06221v1)
   Alperen Kenan, Paul Bremner, Manuel Giuliani
   Code: nan
-- [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
-  Rainier Natividad, Raye Chen-Hua Yeow
-  Code: nan
 - [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
   Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
+  Code: nan
+- [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
+  Rainier Natividad, Raye Chen-Hua Yeow
   Code: nan
 - [Adaptive Human-Robot Collaborative Painting Combining Preference-Based Optimization and Dynamic Motion Primitives](http://arxiv.org/abs/2608.01981v1)
   C. Cella, M. Ristic, M. Faroni, A. M. Zanchettin, P. Rocco
@@ -74,17 +77,17 @@
 - [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
   Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
-- [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
-  Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
-  Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
   Rosanna Coccaro
   Code: nan
-- [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
-  Madeleine Rischer, Benedikt Bußmann
+- [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
+  Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
   Code: nan
 - [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
   Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
+  Code: nan
+- [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
+  Madeleine Rischer, Benedikt Bußmann
   Code: nan
 
 ## June
@@ -113,14 +116,14 @@
 - [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
   Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
   Code: nan
-- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
-  Thomas M. Kwok, Nicholas Koenig, Yue Hu
+- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
+  Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
-- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
-  Taewoon Kim, Emma van Zoelen, Mark Neerincx
+- [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
+  Thomas M. Kwok, Nicholas Koenig, Yue Hu
   Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
@@ -233,11 +236,11 @@
 - [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
-  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
-  Code: nan
 - [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
   Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+  Code: nan
+- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
+  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs

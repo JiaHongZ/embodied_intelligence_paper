@@ -47,11 +47,11 @@
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
   Code: nan
-- [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
-  Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
-  Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
+  Code: nan
+- [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
+  Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
   Code: nan
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](http://arxiv.org/abs/2512.01467v2)
   Fabian Kresse, Christoph H. Lampert
@@ -128,6 +128,9 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
+- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v4)
+  Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
+  Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
   Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
   Code: nan
@@ -136,6 +139,9 @@
   Code: nan
 - [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
   Matti Pekkanen, Francesco Verdoja, Ville Kyrki
+  Code: nan
+- [Vision-Based Tactile Sensing for the Perception of the Object's Compliance and Hardness](http://arxiv.org/abs/2510.12528v2)
+  Muxing Huang, Zibin Chen, Weiliang Xu, Zilan Li, Yuanzhi Zhou, Guoyuan Zhou, Wenjing Chen, Xinming Li
   Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
@@ -185,11 +191,14 @@
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
   Code: nan
-- [Autonomous UAV-Quadruped Docking in Complex Terrains via Active Posture Alignment and Constraint-Aware Control](http://arxiv.org/abs/2509.21571v2)
-  Haozhe Xu, Cheng Cheng, Hongrui Sang, Zhipeng Wang, Qiyong He, Xiuxian Li, Bin He
+- [Parameterized Hardness of Zonotope Containment and Neural Network Verification](http://arxiv.org/abs/2509.22849v3)
+  Vincent Froese, Moritz Grillo, Christoph Hertrich, Moritz Stargalla
   Code: nan
 - [RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking](http://arxiv.org/abs/2509.20717v2)
   Zhenguo Sun, Yibo Peng, Yuan Meng, Xukun Li, Bo-Sheng Huang, Zhenshan Bing, Xinlong Wang, Alois Knoll
+  Code: nan
+- [Autonomous UAV-Quadruped Docking in Complex Terrains via Active Posture Alignment and Constraint-Aware Control](http://arxiv.org/abs/2509.21571v2)
+  Haozhe Xu, Cheng Cheng, Hongrui Sang, Zhipeng Wang, Qiyong He, Xiuxian Li, Bin He
   Code: nan
 - [GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference](http://arxiv.org/abs/2509.19916v3)
   Zijun Che, Yinghong Zhang, Shengyi Liang, Boyu Zhou, Jun Ma, Jinni Zhou
@@ -223,6 +232,9 @@
   Code: nan
 - [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
   Hakjin Lee, Junghoon Seo, Jaehoon Sim
+  Code: nan
+- [Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring](http://arxiv.org/abs/2508.15038v2)
+  Makram Chahine, William Yang, Alaa Maalouf, Justin Siriska, Ninad Jadhav, Daniel Vogt, Stephanie Gil, Robert Wood, Daniela Rus
   Code: nan
 - [Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory](http://arxiv.org/abs/2508.12681v3)
   Johann Licher, Max Bartholdt, Henrik Krauss, Tim-Lukas Habich, Thomas Seel, Moritz Schappler
@@ -350,6 +362,9 @@
 - [Small-Scale Testbeds for Connected and Automated Vehicles and Robot Swarms: Challenges and a Roadmap](http://arxiv.org/abs/2503.05656v3)
   Jianye Xu, Johannes Betz, Armin Mokhtarian, Archak Mittal, Mengchi Cai, Rahul Mangharam, Omar M. Shehata, Catherine M. Elias, Jan-Nico Zaech, Patrick Scheffe, Felix Jahncke, Sangeet Sankaramangalam Ulhas, Kaj Munhoz Arfvidsson, Bassam Alrifaee
   Code: nan
+- [DogLegs: Robust Proprioceptive State Estimation for Legged Robots Using Multiple Leg-Mounted IMUs](http://arxiv.org/abs/2503.04580v3)
+  Yibin Wu, Jian Kuang, Shahram Khorshidi, Xiaoji Niu, Lasse Klingbeil, Maren Bennewitz, Heiner Kuhlmann
+  Code: https://github.com/YibinWu/DogLegs
 
 ## February
 
