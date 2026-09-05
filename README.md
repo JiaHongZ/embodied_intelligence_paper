@@ -75,15 +75,15 @@ Automatically updated daily.
 - [Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation](http://arxiv.org/abs/2608.30396v1)
   Zixing Lei, Gengze Zhou, Xiong-Hui Chen, Jiazhao Zhang, Yiyang Huang, Hang Yin, Haoqi Yuan, Qi Wu, Weixin Li, Siheng Chen
   Code: nan
-- [GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures](http://arxiv.org/abs/2608.30858v1)
-  Yanran Xu, Chuanhang Qiu, Yue Wang, Wenbo Wu, Zhaoxing Li
-  Code: https://github.com/Xu-Yanran/geo_anchored_fine_tuning
-- [Learning to infer and manipulate through distributed whole-arm interaction in a soft robot](http://arxiv.org/abs/2608.30773v1)
-  Chuhan Zhang, Ebrahim Shahabi, Kseniia Khomenko, Wei Pan, Cosimo Della Santina
-  Code: nan
 - [Zeva: In-Context Causal Learning for Generalizable Embodied Manipulation](http://arxiv.org/abs/2608.30880v1)
   Fu Chen, Xin Ding, Bingjia Huang, Xiangyu Li, Mingju Wang, Jiawei He, Kun Li, Wei Sun, Yunxin Liu, Hao Wu, Ting Cao
   Code: nan
+- [Learning to infer and manipulate through distributed whole-arm interaction in a soft robot](http://arxiv.org/abs/2608.30773v1)
+  Chuhan Zhang, Ebrahim Shahabi, Kseniia Khomenko, Wei Pan, Cosimo Della Santina
+  Code: nan
+- [GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures](http://arxiv.org/abs/2608.30858v1)
+  Yanran Xu, Chuanhang Qiu, Yue Wang, Wenbo Wu, Zhaoxing Li
+  Code: https://github.com/Xu-Yanran/geo_anchored_fine_tuning
 - [CAER: Causal Action Effect Reweighting for World Model Training](http://arxiv.org/abs/2608.30897v1)
   Jianjie Fang, Xvyuan Liu, Ziyou Wang, Rongze Tang, Zhaolu Wang, Zhuohang Li, Xin Zhang, Haisheng Su, Chen Gao, Wei Wu, Xinlei Chen, Yong Li
   Code: nan
@@ -188,9 +188,6 @@ Automatically updated daily.
   Code: nan
 - [SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)
   Weiqi Wang, Zhi Li, Yudong Lei, David Martinez, Xiaofeng Gao, Yuxin Jiang, Chenfanfu Jiang, Yingnian Wu, Demetri Terzopoulos, Ran Gong
-  Code: nan
-- [GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image](http://arxiv.org/abs/2608.28386v2)
-  Semin Kim, Haechan Shin, Jongyoo Kim
   Code: nan
 
 ### Robot Navigation
