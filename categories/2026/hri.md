@@ -2,6 +2,9 @@
 
 ## September
 
+- [HiBRIDGE: A Hierarchical Bayesian Neural Network Framework for Interpretable Dialogue Management in Group-Robot Interaction](http://arxiv.org/abs/2609.08678v1)
+  Massimiliano Nigro, Hatice Gunes, Micol Spitale, Fethiye Irmak Dogan
+  Code: nan
 - [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](http://arxiv.org/abs/2609.04030v1)
   Chen Li, Dimitrios Chrysostomou
   Code: nan

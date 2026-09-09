@@ -71,6 +71,9 @@
 - [VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft](http://arxiv.org/abs/2508.18722v3)
   Honghao Fu, Junlong Ren, Qi Chai, Deheng Ye, Yujun Cai, Hao Wang
   Code: nan
+- [Learning Acrobatic Flight from Preferences](http://arxiv.org/abs/2508.18817v3)
+  Colin Merk, Ismail Geles, Jiaxu Xing, Angel Romero, Giorgia Ramponi, Davide Scaramuzza
+  Code: nan
 - [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](http://arxiv.org/abs/2508.01415v7)
   Mingcong Lei, Honghao Cai, Yuyuan Yang, Yimou Wu, Jinke Ren, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Shaohan Jiang, Ge Wang, Junyuan Tan, Zhenglin Wan, Zheng Li, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
   Code: nan

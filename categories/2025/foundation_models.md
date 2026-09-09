@@ -227,6 +227,9 @@
 - [Projected Coupled Diffusion for Test-Time Constrained Joint Generation](http://arxiv.org/abs/2508.10531v3)
   Hao Luan, Yi Xian Goh, See-Kiong Ng, Chun Kai Ling
   Code: nan
+- [Imaginative World Modeling with Scene Graphs for Embodied Agent Navigation](http://arxiv.org/abs/2508.06990v2)
+  Yue Hu, Junzhe Wu, Ruihan Xu, Hang Liu, Avery Xi, Henry X. Liu, Ram Vasudevan, Maani Ghaffari
+  Code: https://github.com/UMich-CURLY/SGImagineNav
 - [FCBV-Net: Category-Level Robotic Garment Smoothing via Feature-Conditioned Bimanual Value Prediction](http://arxiv.org/abs/2508.05153v2)
   Mohammed Daba, Jing Qiu
   Code: nan

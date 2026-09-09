@@ -1,5 +1,11 @@
 # Simulation and Sim2Real Papers (2026)
 
+## September
+
+- [Ostrich: Taking Large Strides Through Stiff Contact in Differentiable Dynamics](http://arxiv.org/abs/2609.08800v1)
+  Aleš Kučera, Karel Zimmermann
+  Code: nan
+
 ## August
 
 - [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](http://arxiv.org/abs/2608.20087v1)
@@ -53,6 +59,9 @@
 - [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](http://arxiv.org/abs/2606.12365v1)
   Adam Wei, Nicholas Pfaff, Thomas Cohn, Arif Kerem Dayı, Constantinos Daskalakis, Giannis Daras, Russ Tedrake
   Code: nan
+- [From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting](http://arxiv.org/abs/2606.11381v4)
+  Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu
+  Code: https://github.com/wjson2435/FieldStraw6D-pipeline
 - [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
   Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
   Code: nan
