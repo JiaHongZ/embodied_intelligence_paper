@@ -2,11 +2,14 @@
 
 ## September
 
-- [CLAMP: Constrained Decoding for Vision-Language Embodied Planning](http://arxiv.org/abs/2609.08602v1)
-  Tianyi Ma, Parisa Kordjamshidi
+- [Frequency-Conditioned Flow Matching for Vision-Language-Action Models](http://arxiv.org/abs/2609.10405v1)
+  Haochen Niu, Shengye Dong, Hao Liu, Peiwen Lin, Wang Chuang
   Code: nan
 - [Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method](http://arxiv.org/abs/2609.08402v1)
   Boao Yu, Zimo Chen, Junreng Rao, Yue Hu, Zhengqiu Zhu, Yong Zhao, Rusheng Ju
+  Code: nan
+- [CLAMP: Constrained Decoding for Vision-Language Embodied Planning](http://arxiv.org/abs/2609.08602v1)
+  Tianyi Ma, Parisa Kordjamshidi
   Code: nan
 - [Safe Task Planning with Long-Term Graph Memory for Embodied Agents](http://arxiv.org/abs/2609.08444v1)
   Siyuan Li, Taiyan Lang, Aoqi Yan, Jia Yu, Feifan Liu, Yihan Du, Yu Zheng, Xun Wang, Peng Liu
@@ -83,11 +86,11 @@
 - [Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization](http://arxiv.org/abs/2608.12158v1)
   Byungoh Ko, Jinyoung Park, Jongha Kim, Jeehye Na, Jaewon Cho, Hyunwoo J. Kim
   Code: https://github.com/mlvlab/C2-DPO
-- [Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models](http://arxiv.org/abs/2608.10484v1)
-  Li Wenjie, Yash Jangir, Ignacy Stepka, Yash Agarwal, Marion Kipsang, Yonatan Bisk
-  Code: nan
 - [Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models](http://arxiv.org/abs/2608.10824v1)
   Zhijie Wu, Kento Kawaharazuka, Kei Okada
+  Code: nan
+- [Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models](http://arxiv.org/abs/2608.10484v1)
+  Li Wenjie, Yash Jangir, Ignacy Stepka, Yash Agarwal, Marion Kipsang, Yonatan Bisk
   Code: nan
 - [GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](http://arxiv.org/abs/2608.05747v1)
   Qifeng Zhang, Kaixiang Huang, Heng Dong, Huang Fang, Junting Chen, Junjie Zhu, Yonghang Chen, Zhiyu Zhang, Wei Li
@@ -113,12 +116,12 @@
 
 ## July
 
-- [SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them](http://arxiv.org/abs/2607.27703v2)
-  Yang Zhou, Zixuan Huang, Sunzhu Li, Zhuo Yang, Chen Zhang, Shunian Chen, Caijun Yan, Jianyao Xu, Shunyu Liu, Weijie Fu, Peiliang Li, Xiaozhi Chen, Yuxiang Cai
-  Code: nan
 - [The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection](http://arxiv.org/abs/2607.27933v3)
   Ziyang Rao, Yiren Zhao, Weiyu Guo, Ben Fei, Yandong Guo, Hui Xiong
   Code: https://github.com/rrrrrrzy/fm-geometry
+- [SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them](http://arxiv.org/abs/2607.27703v2)
+  Yang Zhou, Zixuan Huang, Sunzhu Li, Zhuo Yang, Chen Zhang, Shunian Chen, Caijun Yan, Jianyao Xu, Shunyu Liu, Weijie Fu, Peiliang Li, Xiaozhi Chen, Yuxiang Cai
+  Code: nan
 - [ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA](http://arxiv.org/abs/2607.28442v1)
   Ping-Kun Chiang, Kun-Ru Wu, Po-han Li, Sandeep Chinchali, Ufuk Topcu, Yu-Chee Tseng
   Code: nan
@@ -155,12 +158,12 @@
 - [Reflex: Real-Time VLA Control through Streaming Inference](http://arxiv.org/abs/2607.14695v1)
   Yuanchun Guo, Bingyan Liu
   Code: nan
-- [FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models](http://arxiv.org/abs/2607.14739v1)
-  Wei Li, Peijin Jia, Yuan Ma, Xuefeng Jiang, Titong Jiang, Sheng Sun, Yujian Li, Xin Wen, Han Hong, Zhikang Liu, Bailin Li, Kun Zhan
-  Code: nan
 - [On Success and Simplicity: A Second Look at Transferable Vision-Language Attack Pipeline](http://arxiv.org/abs/2607.14974v1)
   Yuchen Ren, Zhengyu Zhao, Chenhao Lin, Bo Yang, Chao Shen
   Code: https://github.com/RYC-98/SimVLA
+- [FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models](http://arxiv.org/abs/2607.14739v1)
+  Wei Li, Peijin Jia, Yuan Ma, Xuefeng Jiang, Titong Jiang, Sheng Sun, Yujian Li, Xin Wen, Han Hong, Zhikang Liu, Bailin Li, Kun Zhan
+  Code: nan
 - [UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following](http://arxiv.org/abs/2607.13621v1)
   Kun Yu, Jianhua Yang, Yixiang Chen, Changwei Wang, Hongyuan Yu, Yan Huang, Fushuo Huo, Ya Jing, Zhumin Chen, Keji He
   Code: nan
