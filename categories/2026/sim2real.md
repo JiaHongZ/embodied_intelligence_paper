@@ -2,6 +2,9 @@
 
 ## September
 
+- [LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \&amp; Maintenance](http://arxiv.org/abs/2609.17124v1)
+  Juliette Grosset, Marie Dubromel, Hélène Lechêne, Quentin Arzel, Cédric Buche
+  Code: nan
 - [Ostrich: Taking Large Strides Through Stiff Contact in Differentiable Dynamics](http://arxiv.org/abs/2609.08800v1)
   Aleš Kučera, Karel Zimmermann
   Code: nan

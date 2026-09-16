@@ -1,5 +1,11 @@
 # Robot Navigation Papers (2024)
 
+## December
+
+- [SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data](http://arxiv.org/abs/2412.16078v3)
+  Xinwei Ju, Rema Daher, Razvan Caramalau, Baoru Huang, Negin Ghamsarian, Shunsuke Kikuchi, Atsushi Kouno, Hiroki Matsuzaki, Danail Stoyanov, Francisco Vasconcelos
+  Code: https://github.com/surgical-vision/segcol_challenge
+
 ## October
 
 - [The Indirect Method for Generating Libraries of Optimal Periodic Trajectories and Its Application to Economical Bipedal Walking](http://arxiv.org/abs/2410.09512v2)

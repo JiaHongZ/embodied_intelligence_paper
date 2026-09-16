@@ -2,11 +2,14 @@
 
 ## September
 
-- [ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI](http://arxiv.org/abs/2609.11737v1)
-  Zhengran Ji, Jonathan Hyun, Boyuan Chen
+- [Machine Zygote: Causal Biparental Heredity Before Learning in a Germline--Soma Artificial Agent](http://arxiv.org/abs/2609.17300v1)
+  Lyes Saad Saoud
   Code: nan
 - [Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents](http://arxiv.org/abs/2609.11660v1)
   Marica Notte, Ludovica Marinucci, Vieri Giuliano Santucci
+  Code: nan
+- [ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI](http://arxiv.org/abs/2609.11737v1)
+  Zhengran Ji, Jonathan Hyun, Boyuan Chen
   Code: nan
 - [Adaptive Shared Control with Online Bounded-Rational Human Behavior Estimation](http://arxiv.org/abs/2609.10215v1)
   Henry Ascencio Trejo, Roel Pieters, Gokhan Alcan
