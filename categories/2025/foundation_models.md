@@ -227,6 +227,9 @@
 - [LHM-Humanoid: Learning a Unified Policy for Long-Horizon Humanoid Whole-Body Loco-Manipulation in Diverse Messy Environments](http://arxiv.org/abs/2508.16943v2)
   Haozhuo Zhang, Jingkai Sun, Michele Caprio, Jian Tang, Shanghang Zhang, Qiang Zhang, Wei Pan
   Code: nan
+- [Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](http://arxiv.org/abs/2508.11584v3)
+  Jakub Łucki, Jonathan Becktor, Georgios Georgakis, Rob Royce, Shehryar Khattak
+  Code: nan
 - [Projected Coupled Diffusion for Test-Time Constrained Joint Generation](http://arxiv.org/abs/2508.10531v3)
   Hao Luan, Yi Xian Goh, See-Kiong Ng, Chun Kai Ling
   Code: nan

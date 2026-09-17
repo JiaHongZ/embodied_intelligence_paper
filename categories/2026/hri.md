@@ -2,6 +2,9 @@
 
 ## September
 
+- [Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming](http://arxiv.org/abs/2609.18900v1)
+  Sean Dallas, Absalat Getachew, Motaz AbuHijleh, Andrea Macklem-Zabel, Douglas Zytko, Mark Brudnak, Wing-Yue Geoffrey Louie
+  Code: nan
 - [EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset](http://arxiv.org/abs/2609.17189v1)
   Ryosei Hara, Wataru Ikeda, Masashi Hatano, Mariko Isogawa
   Code: nan
@@ -44,11 +47,11 @@
 - [Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation](http://arxiv.org/abs/2608.06221v1)
   Alperen Kenan, Paul Bremner, Manuel Giuliani
   Code: nan
-- [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
-  Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
-  Code: nan
 - [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
   Rainier Natividad, Raye Chen-Hua Yeow
+  Code: nan
+- [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
+  Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
   Code: nan
 - [Adaptive Human-Robot Collaborative Painting Combining Preference-Based Optimization and Dynamic Motion Primitives](http://arxiv.org/abs/2608.01981v1)
   C. Cella, M. Ristic, M. Faroni, A. M. Zanchettin, P. Rocco
@@ -77,20 +80,20 @@
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
   Code: nan
-- [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](http://arxiv.org/abs/2607.11633v1)
-  Yuga Yano, Yuki Okafuji, Ryo Miyoshi, Sanae Yamashita, Yoshiki Ohira
-  Code: nan
 - [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
   Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
+  Code: nan
+- [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](http://arxiv.org/abs/2607.11633v1)
+  Yuga Yano, Yuki Okafuji, Ryo Miyoshi, Sanae Yamashita, Yoshiki Ohira
   Code: nan
 - [Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems](http://arxiv.org/abs/2607.11792v1)
   Sheng Li, Jing Li, Felix Schijve, Jun Hu, Emilia Barakova
   Code: nan
-- [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
-  Rosanna Coccaro
-  Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
   Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
+  Code: nan
+- [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
+  Rosanna Coccaro
   Code: nan
 - [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
   Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
@@ -119,19 +122,19 @@
 - [When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure](http://arxiv.org/abs/2606.23339v1)
   Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David, Jamison Heard
   Code: nan
-- [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
-  James Fant-Male, Roel Pieters
-  Code: nan
 - [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
   Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
   Code: nan
-- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
-  Taewoon Kim, Emma van Zoelen, Mark Neerincx
+- [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
+  James Fant-Male, Roel Pieters
   Code: nan
 - [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
   Thomas M. Kwok, Nicholas Koenig, Yue Hu
   Code: nan
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v1)
+  Taewoon Kim, Emma van Zoelen, Mark Neerincx
+  Code: nan
+- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
@@ -248,11 +251,11 @@
 - [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
   Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
   Code: nan
-- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
-  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
-  Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs
+  Code: nan
+- [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
+  Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
 - [Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction](http://arxiv.org/abs/2604.01756v1)
   Sheng Li, Jingcheng Huang, Min Li

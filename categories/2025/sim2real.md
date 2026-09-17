@@ -14,6 +14,9 @@
 - [Efficient Model-Based Reinforcement Learning for Robot Control via Online Optimization](http://arxiv.org/abs/2510.18518v2)
   Fang Nan, Hao Ma, Qinghua Guan, Josie Hughes, Michael Muehlebach, Marco Hutter
   Code: nan
+- [Model-Based Adaptive Precision Control for Tabletop Planar Pushing Under Uncertain Dynamics](http://arxiv.org/abs/2510.03768v2)
+  Aydin Ahmadi, Baris Akgun
+  Code: nan
 
 ## September
 
