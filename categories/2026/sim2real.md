@@ -2,6 +2,9 @@
 
 ## September
 
+- [Towards Scaling Marine Perception with Synthetic Data](http://arxiv.org/abs/2609.20680v1)
+  Haoyu Ma, Onur Bagoren, Anja Sheppard, Elias Fandi, Ashrith Edukulla, Tanner Aslan, Natasha Sieh, Jingyu Song, Katherine A. Skinner
+  Code: https://github.com/umfieldrobotics/OceanSim
 - [LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \&amp; Maintenance](http://arxiv.org/abs/2609.17124v1)
   Juliette Grosset, Marie Dubromel, Hélène Lechêne, Quentin Arzel, Cédric Buche
   Code: nan
@@ -41,11 +44,11 @@
 - [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](http://arxiv.org/abs/2606.31889v1)
   Marina Murillo, Guido Sanchez, Nestor Deniz, Lucas Genzelis, Leonardo Giovanini
   Code: nan
-- [Domain Adaptation with Adaptive Imagination for Visual Reinforcement Learning under Limited Target Data](http://arxiv.org/abs/2606.30192v1)
-  Hyunwoo Park, Sang-Hyun Lee
-  Code: nan
 - [OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](http://arxiv.org/abs/2606.30378v1)
   Haocong He, Chenfei Liao, Zichen Wen, Zihao Dongfang, Xu Zheng, Bin Ren, Chang Su, Zixin Zhang, Harold Haodong Chen, Hongfei Zhang, Weijia Li, Kailun Yang, Conghui He, Xuming Hu, Nicu Sebe, Linfeng Zhang
+  Code: nan
+- [Domain Adaptation with Adaptive Imagination for Visual Reinforcement Learning under Limited Target Data](http://arxiv.org/abs/2606.30192v1)
+  Hyunwoo Park, Sang-Hyun Lee
   Code: nan
 - [RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction](http://arxiv.org/abs/2606.26955v1)
   Jinhyung Lee, Haeun Yun, Siwon Kim, Gihyun Baek, Sungho Moon, Sehyun Hwang, Sunghoon Im
@@ -65,11 +68,11 @@
 - [From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting](http://arxiv.org/abs/2606.11381v4)
   Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu
   Code: https://github.com/wjson2435/FieldStraw6D-pipeline
-- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
-  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
-  Code: nan
 - [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
   Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
+  Code: nan
+- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
+  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
   Code: nan
 
 ## May
@@ -98,23 +101,23 @@
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)
   Yingke Wang, Hao Li, Yifeng Zhu, Hong-Xing Yu, Ken Goldberg, Li Fei-Fei, Jiajun Wu, Yunzhu Li, Ruohan Zhang
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
-  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
-  Code: nan
-- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
-  Dong Heon Cho, Boyuan Chen
-  Code: nan
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
-- [Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics](http://arxiv.org/abs/2603.19063v1)
-  Anton R. Wagner, Madhan Balaji Rao, Helge Wrede, Sören Pirk, Xuesu Xiao
+- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
+  Dong Heon Cho, Boyuan Chen
+  Code: nan
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
   Code: nan
 - [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
   Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang
+  Code: nan
+- [Fire as a Service: Augmenting Robot Simulators with Thermally and Visually Accurate Fire Dynamics](http://arxiv.org/abs/2603.19063v1)
+  Anton R. Wagner, Madhan Balaji Rao, Helge Wrede, Sören Pirk, Xuesu Xiao
   Code: nan
 - [Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](http://arxiv.org/abs/2603.16233v1)
   Ryosuke Hori, Jyun-Ting Song, Zhengyi Luo, Jinkun Cao, Soyong Shin, Hideo Saito, Kris Kitani

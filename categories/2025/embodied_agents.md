@@ -80,6 +80,9 @@
 
 ## July
 
+- [Emergent interactions lead to collective frustration in robotic matter](http://arxiv.org/abs/2507.22148v3)
+  Onurcan Bektas, Adolfo Alsina, Steffen Rulands
+  Code: nan
 - [A Survey on Hypergame Theory: Modelling Misaligned Perceptions and Nested Beliefs for Multi-Agent Systems](http://arxiv.org/abs/2507.19593v3)
   Vince Trencsenyi, Agnieszka Mensfelt, Kostas Stathis
   Code: nan

@@ -14,6 +14,9 @@
 
 ## September
 
+- [DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences](http://arxiv.org/abs/2409.18457v2)
+  Jingwei Song, Maani Ghaffari
+  Code: nan
 - [Generation of Uncertainty-Aware High-Level Spatial Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](http://arxiv.org/abs/2409.11972v4)
   Jose Andres Millan-Romera, Muhammad Shaheer, Miguel Fernandez-Cortizas, Martin R. Oswald, Holger Voos, Jose Luis Sanchez-Lopez
   Code: nan
@@ -35,10 +38,10 @@
 
 ## May
 
-- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v4)
+- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v5)
   Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
   Code: nan
-- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v5)
+- [OGM-CBF: Occupancy Grid Map-based Control Barrier Function for Safe Mobile Robot Control with Memory of out of View Obstacles](http://arxiv.org/abs/2405.10703v4)
   Golnaz Raja, Miloš Prágr, Topi Reino Johannes Kärki, Teemu Mökkönen, Reza Ghabcheloo
   Code: nan
 - [NGD-SLAM: Towards Real-Time Dynamic SLAM without GPU](http://arxiv.org/abs/2405.07392v5)
