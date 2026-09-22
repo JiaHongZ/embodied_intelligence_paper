@@ -2,6 +2,15 @@
 
 ## September
 
+- [LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](http://arxiv.org/abs/2609.24742v1)
+  Hanxiao Chen
+  Code: nan
+- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v1)
+  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+  Code: nan
+- [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
+  Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
+  Code: nan
 - [Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming](http://arxiv.org/abs/2609.18900v1)
   Sean Dallas, Absalat Getachew, Motaz AbuHijleh, Andrea Macklem-Zabel, Douglas Zytko, Mark Brudnak, Wing-Yue Geoffrey Louie
   Code: nan
@@ -32,14 +41,14 @@
 - [Designing Social Robots for Social-Cognition Training with Autistic Adults](http://arxiv.org/abs/2608.18488v1)
   Yuval Zohar, Mordi Benhamou, Guy Laban
   Code: nan
-- [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
-  Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
+- [Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities](http://arxiv.org/abs/2608.16049v1)
+  Raj Korpan
   Code: nan
 - [Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots](http://arxiv.org/abs/2608.16686v1)
   Zi Haur Pang, Casey Kennington, Tatsuya Kawahara
   Code: nan
-- [Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities](http://arxiv.org/abs/2608.16049v1)
-  Raj Korpan
+- [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
+  Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
   Code: nan
 - [Manufacturing Complex Airtight Soft Pneumatic Actuators for Soft Robotics: Process Evaluation and Optimization](http://arxiv.org/abs/2608.13233v1)
   Mohammed Abboodi
@@ -80,14 +89,14 @@
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
   Code: nan
-- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
-  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
+- [Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems](http://arxiv.org/abs/2607.11792v1)
+  Sheng Li, Jing Li, Felix Schijve, Jun Hu, Emilia Barakova
   Code: nan
 - [Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues](http://arxiv.org/abs/2607.11633v1)
   Yuga Yano, Yuki Okafuji, Ryo Miyoshi, Sanae Yamashita, Yoshiki Ohira
   Code: nan
-- [Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems](http://arxiv.org/abs/2607.11792v1)
-  Sheng Li, Jing Li, Felix Schijve, Jun Hu, Emilia Barakova
+- [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](http://arxiv.org/abs/2607.11570v1)
+  Maria Teresa Parreira, Micol Spitale, Maia Stiber, Shiye Cao, Amama Mahmood, Chien-Ming Huang, Hatice Gunes, Wendy Ju
   Code: nan
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v1)
   Rosanna Coccaro, Enrico Ferrentino, Antonio Parziale, Angelo Marcelli, Pasquale Chiacchio
@@ -122,11 +131,11 @@
 - [When Robots Rate Their Own Interactions: Engagement Validity and the Strangeness Failure](http://arxiv.org/abs/2606.23339v1)
   Victor Lockwood, Hasan Mahmud, Mohammad Javad Khojasteh, Prabu David, Jamison Heard
   Code: nan
-- [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
-  Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
-  Code: nan
 - [Robust Assembly State Reasoning from Action Recognition for Human-Robot Collaboration](http://arxiv.org/abs/2606.20150v1)
   James Fant-Male, Roel Pieters
+  Code: nan
+- [Co-policy: Responsive Human-Robot Co-Creation for Musical Performances](http://arxiv.org/abs/2606.19914v1)
+  Xuetao Li, Wenke Huang, Mang Ye, Zijian Liu, Jinhua Xie, Jifeng Xuan, Miao Li
   Code: nan
 - [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1)
   Thomas M. Kwok, Nicholas Koenig, Yue Hu
@@ -158,12 +167,12 @@
 - [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
   Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
   Code: nan
-- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
-  Sadman Sakib Enan, Junaed Sattar
-  Code: nan
 - [Fast-SDE: Efficient Single-Microphone Sound Source Distance Estimation in Reverberant Environments](http://arxiv.org/abs/2606.12339v1)
   Jiang Wang, Runwu Shi, Yaozhong Kang, Benjamin Yen, Takeshi Ashizawa, Kazuhiro Nakadai
   Code: https://github.com/JiangWAV/FAST-SDE
+- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
+  Sadman Sakib Enan, Junaed Sattar
+  Code: nan
 - [Toward Signing Activity Projection in Sign Language Interaction](http://arxiv.org/abs/2606.09424v1)
   Takao Obi, Wang Yusong, Koji Inoue, Kotaro Funakoshi
   Code: nan
@@ -325,6 +334,9 @@
 
 - [Optimized Human-Robot Co-Dispatch Planning for Petro-Site Surveillance under Varying Criticalities](http://arxiv.org/abs/2602.07924v2)
   Nur Ahmad Khatim, Mansur Arief
+  Code: nan
+- [Robot Programming with Augmented Reality: The Role of Spatial Ability](http://arxiv.org/abs/2602.03544v2)
+  Nicolas Leins, Muriel Fischer, Malte Teichmann, Jana Gonnermann-Müller, Sebastian Pokutta
   Code: nan
 
 ## January

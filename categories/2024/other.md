@@ -20,6 +20,9 @@
 - [LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers](http://arxiv.org/abs/2410.22258v2)
   Patricia Pauli, Ruigang Wang, Ian Manchester, Frank Allgöwer
   Code: nan
+- [Streaming Deep Reinforcement Learning Finally Works](http://arxiv.org/abs/2410.14606v3)
+  Mohamed Elsayed, Elena Sorina Lupu, Gautham Vasan, A. Rupam Mahmood
+  Code: nan
 
 ## September
 

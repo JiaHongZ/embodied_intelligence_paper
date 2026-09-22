@@ -35,11 +35,11 @@
 - [AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](http://arxiv.org/abs/2512.11797v2)
   Junjie Ye, Rong Xue, Basile Van Hoorick, Pavel Tokmakov, Muhammad Zubair Irshad, Yue Wang, Vitor Guizilini
   Code: nan
-- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
-  Bowen Wen, Shaurya Dewan, Stan Birchfield
-  Code: nan
 - [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](http://arxiv.org/abs/2512.10958v2)
   Ao Liang, Lingdong Kong, Tianyi Yan, Hongsi Liu, Wesley Yang, Ziqi Huang, Wei Yin, Jialong Zuo, Yixuan Hu, Dekai Zhu, Dongyue Lu, Youquan Liu, Guangfeng Jiang, Linfeng Li, Xiangtai Li, Long Zhuo, Lai Xing Ng, Benoit R. Cottereau, Changxin Gao, Liang Pan, Wei Tsang Ooi, Ziwei Liu
+  Code: nan
+- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](http://arxiv.org/abs/2512.11130v2)
+  Bowen Wen, Shaurya Dewan, Stan Birchfield
   Code: nan
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](http://arxiv.org/abs/2512.09928v2)
   Minghui Lin, Pengxiang Ding, Shu Wang, Zifeng Zhuang, Yang Liu, Xinyang Tong, Wenxuan Song, Shangke Lyu, Siteng Huang, Donglin Wang
@@ -164,11 +164,11 @@
 - [Pretraining in Actor-Critic Reinforcement Learning for Locomotion](http://arxiv.org/abs/2510.12363v4)
   Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
-- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
-  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
-  Code: nan
 - [Reflection-Based Task Adaptation for Self-Improving VLA](http://arxiv.org/abs/2510.12710v3)
   Baicheng Li, Dong Wu, Zike Yan, Xinchen Liu, Lusong Li, Zecui Zeng, Hongbin Zha
+  Code: nan
+- [Pretraining in Actor-Critic Reinforcement Learning for Robot Locomotion](http://arxiv.org/abs/2510.12363v3)
+  Jiale Fan, Andrei Cramariuc, Tifanny Portela, Marco Hutter
   Code: nan
 - [RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation](http://arxiv.org/abs/2510.09036v2)
   Chuanrui Zhang, Zhengxian Wu, Guanxing Lu, Yansong Tang, Ziwei Wang
@@ -212,6 +212,9 @@
 - [FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR](http://arxiv.org/abs/2509.17390v3)
   Junzhe Wu, Yufei Jia, Yiyi Yan, Zhixing Chen, Tiao Tan, Zifan Wang, Guangyu Wang, BoKui Chen, Guyue Zhou
   Code: https://github.com/discoverse-dev/FGGS-LiDAR
+- [GeCCo -- a Generalist Contact-Conditioned Policy for Loco-Manipulation Skills on Legged Robots](http://arxiv.org/abs/2509.17582v2)
+  Vassil Atanassov, Wanming Yu, Siddhant Gangapurwala, James Wilson, Ioannis Havoutis
+  Code: nan
 - [Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale](http://arxiv.org/abs/2509.14932v2)
   Tobias Jülg, Pierre Krack, Seongjin Bien, Yannik Blei, Khaled Gamal, Ken Nakahara, Johannes Hechtl, Roberto Calandra, Wolfram Burgard, Florian Walter
   Code: nan
@@ -290,12 +293,12 @@
 - [Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics](http://arxiv.org/abs/2505.13150v2)
   Maksim Bobrin, Ilya Zisman, Alexander Nikulin, Vladislav Kurenkov, Dmitry Dylov
   Code: nan
-- [EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v3)
-  Ryan Hoque, Peide Huang, David J. Yoon, Mouli Sivapurapu, Jian Zhang
-  Code: https://github.com/apple/ml-egodex
 - [Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification](http://arxiv.org/abs/2505.11237v2)
   Wenhao Qian, Zhenzhen Hu, Zijie Song, Jia Li
   Code: https://github.com/Qianvenh/CDGLT}{https://github.com/Qianvenh/CDGLT}
+- [EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video](http://arxiv.org/abs/2505.11709v3)
+  Ryan Hoque, Peide Huang, David J. Yoon, Mouli Sivapurapu, Jian Zhang
+  Code: https://github.com/apple/ml-egodex
 - [Embodied intelligent industrial robotics: Framework and techniques](http://arxiv.org/abs/2505.09305v6)
   Chaoran Zhang, Chenhao Zhang, Zhaobo Xu, Qinghongbing Xie, Jinliang Hou, Pingfa Feng, Long Zeng
   Code: https://github.com/jackyzengl/EIIR
