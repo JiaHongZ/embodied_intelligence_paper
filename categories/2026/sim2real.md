@@ -5,6 +5,9 @@
 - [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
   Abhinav Jain, Cindy Grimm, Stefan Lee
   Code: nan
+- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
+  Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
+  Code: nan
 - [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v1)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan

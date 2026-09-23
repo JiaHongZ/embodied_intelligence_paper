@@ -5,6 +5,9 @@
 - [ROBOPOL: Social Robotics Meets Vehicular Communications for Cooperative Automated Driving](http://arxiv.org/abs/2512.24129v2)
   John Pravin Arockiasamy, Andy Comeca, Victoria Yang, Manuel Bied, Maximilian Schrapel, Alexey Rolich, Barbara Bruno, Maike Schwammberger, Dieter Fiems, Alexey Vinel
   Code: nan
+- [Mirror Skin: In Situ Visualization of Robot Touch Intent on Robotic Skin](http://arxiv.org/abs/2512.11472v3)
+  David Wagmann, Matti Krüger, Chao Wang, Michael Gienger, Jürgen Steimle
+  Code: nan
 
 ## October
 

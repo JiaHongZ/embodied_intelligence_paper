@@ -11,14 +11,14 @@
 - [Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot](http://arxiv.org/abs/2512.21226v3)
   Shuhan Zhang, Tin Lun Lam
   Code: nan
+- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
+  Zaidao Han, Risa Higashita, Jiang Liu
+  Code: nan
 - [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v4)
   Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
 - [Vision-Language-Policy Model for Dynamic Robot Task Planning](http://arxiv.org/abs/2512.19178v2)
   Jin Wang, Kim Tien Ly, Jacques Cloete, Jin Jin, Nikos Tsagarakis, Ioannis Havoutis
-  Code: nan
-- [VOIC: Visible-Occluded Integrated Guidance for 3D Semantic Scene Completion](http://arxiv.org/abs/2512.18954v2)
-  Zaidao Han, Risa Higashita, Jiang Liu
   Code: nan
 - [Olaf: Bringing an Animated Character to Life in the Physical World](http://arxiv.org/abs/2512.16705v2)
   David Müller, Espen Knoop, Dario Mylonopoulos, Agon Serifi, Michael A. Hopkins, Ruben Grandia, Moritz Bächer
@@ -89,11 +89,11 @@
 - [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
   Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
   Code: nan
-- [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
-  Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
-  Code: nan
 - [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
   Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
+  Code: nan
+- [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](http://arxiv.org/abs/2511.14286v3)
+  Luohong Wu, Matthias Seibold, Nicola A. Cavalcanti, Yunke Ao, Roman Flepp, Aidana Massalimova, Lilian Calvet, Philipp Fürnstahl
   Code: nan
 - [Model Predictive Control via Probabilistic Inference: A Tutorial and Survey](http://arxiv.org/abs/2511.08019v4)
   Kohei Honda
@@ -134,11 +134,14 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v4)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
-- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
-  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
-  Code: nan
 - [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
   Matti Pekkanen, Francesco Verdoja, Ville Kyrki
+  Code: nan
+- [NeMo-map: Neural Implicit Flow Fields for Spatio-Temporal Motion Mapping](http://arxiv.org/abs/2510.14827v3)
+  Yufei Zhu, Shih-Min Yang, Andrey Rudenko, Tomasz P. Kucner, Achim J. Lilienthal, Martin Magnusson
+  Code: https://github.com/test-bai-cpu/nemo-map
+- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
+  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
   Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
   Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré

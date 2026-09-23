@@ -2,14 +2,20 @@
 
 ## September
 
+- [Benchmarking Robots for Everyday Environments: From Lab Experiments to Real-World Operations](http://arxiv.org/abs/2609.26490v1)
+  Raphael Memmesheimer, Martina Overbeck, Dominik Beyer, Björn Kral, Sabine Bellmann, Sven Schneider, Jan Zimmermann, Anna-Maria Meer, Medina Klicic, Simone Roth, Carolin Straßmann, Alexander Arntz, Marlene Wessels, Johannes Kraus, Paul Schweidler, Tristan Schnell, Christoph Zimmermann, Benedikt Pulver, Wilhelm Stork, Martin Gersch, Sven Behnke, Arne Rönnau
+  Code: nan
+- [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
+  Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
+  Code: nan
+- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v2)
+  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+  Code: nan
 - [LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](http://arxiv.org/abs/2609.24742v1)
   Hanxiao Chen
   Code: nan
 - [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v1)
   Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
-  Code: nan
-- [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
-  Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
   Code: nan
 - [Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming](http://arxiv.org/abs/2609.18900v1)
   Sean Dallas, Absalat Getachew, Motaz AbuHijleh, Andrea Macklem-Zabel, Douglas Zytko, Mark Brudnak, Wing-Yue Geoffrey Louie
@@ -80,11 +86,11 @@
 - [PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction](http://arxiv.org/abs/2607.15579v2)
   Peizhen Li, Longbing Cao, Megani Rajendran, Timothy Liu, Aik Beng Ng, Simon See
   Code: nan
-- [Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults](http://arxiv.org/abs/2607.15156v1)
-  Aniol Civit, Antonio Andriella, Alba Martínez, Joan Ars, Aida Ribera, Cristian Barrué, Guillem Alenyà
-  Code: nan
 - [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
   Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
+  Code: nan
+- [Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults](http://arxiv.org/abs/2607.15156v1)
+  Aniol Civit, Antonio Andriella, Alba Martínez, Joan Ars, Aida Ribera, Cristian Barrué, Guillem Alenyà
   Code: nan
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
