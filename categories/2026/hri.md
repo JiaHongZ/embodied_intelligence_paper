@@ -2,19 +2,22 @@
 
 ## September
 
+- [RoboCafé in the Open: Interaction Continuity in Long-Term Public Human-Robot Interaction](http://arxiv.org/abs/2609.27475v1)
+  Kaitlynn Taylor Pineda, Kush Kumar Kushwaha, Jie Wang, Jiaming Du, Anvii Mishra, Emilie Basu Suri, Angela Guo, Chien-Ming Huang
+  Code: nan
 - [Benchmarking Robots for Everyday Environments: From Lab Experiments to Real-World Operations](http://arxiv.org/abs/2609.26490v1)
   Raphael Memmesheimer, Martina Overbeck, Dominik Beyer, Björn Kral, Sabine Bellmann, Sven Schneider, Jan Zimmermann, Anna-Maria Meer, Medina Klicic, Simone Roth, Carolin Straßmann, Alexander Arntz, Marlene Wessels, Johannes Kraus, Paul Schweidler, Tristan Schnell, Christoph Zimmermann, Benedikt Pulver, Wilhelm Stork, Martin Gersch, Sven Behnke, Arne Rönnau
-  Code: nan
-- [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
-  Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
-  Code: nan
-- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v2)
-  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
   Code: nan
 - [LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](http://arxiv.org/abs/2609.24742v1)
   Hanxiao Chen
   Code: nan
 - [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v1)
+  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+  Code: nan
+- [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
+  Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
+  Code: nan
+- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v2)
   Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
   Code: nan
 - [Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming](http://arxiv.org/abs/2609.18900v1)
@@ -47,14 +50,14 @@
 - [Designing Social Robots for Social-Cognition Training with Autistic Adults](http://arxiv.org/abs/2608.18488v1)
   Yuval Zohar, Mordi Benhamou, Guy Laban
   Code: nan
-- [Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities](http://arxiv.org/abs/2608.16049v1)
-  Raj Korpan
+- [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
+  Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
   Code: nan
 - [Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots](http://arxiv.org/abs/2608.16686v1)
   Zi Haur Pang, Casey Kennington, Tatsuya Kawahara
   Code: nan
-- [Design Optimization for Large High-Force Soft Robot Manipulators Under Gravitational Loads](http://arxiv.org/abs/2608.16728v1)
-  Isara Cholaseuk, Penelope Llibre, Alexa Kyriacou, Audrey Wang, Akua K. Dickson, Ran Jing, Juan C. Pacheco Garcia, Andrew P. Sabelhaus
+- [Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities](http://arxiv.org/abs/2608.16049v1)
+  Raj Korpan
   Code: nan
 - [Manufacturing Complex Airtight Soft Pneumatic Actuators for Soft Robotics: Process Evaluation and Optimization](http://arxiv.org/abs/2608.13233v1)
   Mohammed Abboodi
