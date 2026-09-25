@@ -2,6 +2,9 @@
 
 ## September
 
+- [OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping](http://arxiv.org/abs/2609.29157v1)
+  Zhirui Dai, Qihao Qian, Dinh Minh Nguyen, Quan-Dung Pham, Kiana Bronder, Carlos Nieto-Granda, Yiyu Chen, Quan Nguyen, Nikolay Atanasov
+  Code: nan
 - [RoboCafé in the Open: Interaction Continuity in Long-Term Public Human-Robot Interaction](http://arxiv.org/abs/2609.27475v1)
   Kaitlynn Taylor Pineda, Kush Kumar Kushwaha, Jie Wang, Jiaming Du, Anvii Mishra, Emilie Basu Suri, Angela Guo, Chien-Ming Huang
   Code: nan
@@ -89,11 +92,11 @@
 - [PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction](http://arxiv.org/abs/2607.15579v2)
   Peizhen Li, Longbing Cao, Megani Rajendran, Timothy Liu, Aik Beng Ng, Simon See
   Code: nan
-- [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
-  Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
-  Code: nan
 - [Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults](http://arxiv.org/abs/2607.15156v1)
   Aniol Civit, Antonio Andriella, Alba Martínez, Joan Ars, Aida Ribera, Cristian Barrué, Guillem Alenyà
+  Code: nan
+- [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
+  Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
   Code: nan
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
@@ -128,11 +131,11 @@
 - [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](http://arxiv.org/abs/2606.28469v2)
   Thomas Vitry, Vanessa Maeder, Kieran von Valeburg, Asihati Hazaiti, Doga Deniz Ates, Connor Gäde, Jan-Gerrit Habekost, Dennis Becker, Stefan Wermter
   Code: nan
-- [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
-  Carlos Gomez Cubero, Elizabeth Jochum
-  Code: nan
 - [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
   Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
+  Code: nan
+- [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
+  Carlos Gomez Cubero, Elizabeth Jochum
   Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
@@ -170,18 +173,18 @@
 - [OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](http://arxiv.org/abs/2606.15255v2)
   Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan, Nak Young Chong
   Code: nan
+- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
+  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
+  Code: nan
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
   Code: nan
-- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
-  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
+- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
+  Sadman Sakib Enan, Junaed Sattar
   Code: nan
 - [Fast-SDE: Efficient Single-Microphone Sound Source Distance Estimation in Reverberant Environments](http://arxiv.org/abs/2606.12339v1)
   Jiang Wang, Runwu Shi, Yaozhong Kang, Benjamin Yen, Takeshi Ashizawa, Kazuhiro Nakadai
   Code: https://github.com/JiangWAV/FAST-SDE
-- [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
-  Sadman Sakib Enan, Junaed Sattar
-  Code: nan
 - [Toward Signing Activity Projection in Sign Language Interaction](http://arxiv.org/abs/2606.09424v1)
   Takao Obi, Wang Yusong, Koji Inoue, Kotaro Funakoshi
   Code: nan
@@ -227,11 +230,11 @@
 - [Where are they looking in the operating room?](http://arxiv.org/abs/2604.20574v1)
   Keqi Chen, Séraphin Baributsa, Lilien Schewski, Vinkle Srivastav, Didier Mutter, Guido Beldi, Sandra Keller, Nicolas Padoy
   Code: nan
-- [Achieving Interaction Fluidity in a Wizard-of-Oz Robotic System: A Prototype for Fluid Error-Correction](http://arxiv.org/abs/2604.19374v1)
-  Carlos Baptista De Lima, Julian Hough, Frank Förster, Patrick Holthaus, Yongjun Zheng
-  Code: nan
 - [Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming](http://arxiv.org/abs/2604.19670v1)
   Alex Cuellar, Michael Hagenow, Julie Shah
+  Code: nan
+- [Achieving Interaction Fluidity in a Wizard-of-Oz Robotic System: A Prototype for Fluid Error-Correction](http://arxiv.org/abs/2604.19374v1)
+  Carlos Baptista De Lima, Julian Hough, Frank Förster, Patrick Holthaus, Yongjun Zheng
   Code: nan
 - [Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees](http://arxiv.org/abs/2604.15221v1)
   Jakob Thumm, Marian Frei, Tianle Ni, Matthias Althoff, Marco Pavone
@@ -260,14 +263,11 @@
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
   Code: nan
-- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
-  Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
-  Code: nan
 - [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
-  Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
+  Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
   Bijan Kavousian, Oliver Petrovic, Werner Herfs
@@ -275,12 +275,15 @@
 - [Dialogue based Interactive Explanations for Safety Decisions in Human Robot Collaboration](http://arxiv.org/abs/2604.05896v1)
   Yifan Xu, Xiao Zhan, Akilu Yunusa Kaltungo, Ming Shan Ng, Tsukasa Ishizawa, Kota Fujimoto, Clara Cheung
   Code: nan
-- [Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction](http://arxiv.org/abs/2604.01756v1)
-  Sheng Li, Jingcheng Huang, Min Li
-  Code: https://github.com/yuesheng21/Phoneme-to-Lip-14DOF}
+- [Hazard Management in Robot-Assisted Mammography Support](http://arxiv.org/abs/2604.05749v1)
+  Ioannis Stefanakos, Roisin Bradley, Radu Calinescu, Beverley Townsend, Tianyuan Wang, Jihong Zhu
+  Code: nan
 - [IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline](http://arxiv.org/abs/2604.02032v1)
   Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea
   Code: nan
+- [Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction](http://arxiv.org/abs/2604.01756v1)
+  Sheng Li, Jingcheng Huang, Min Li
+  Code: https://github.com/yuesheng21/Phoneme-to-Lip-14DOF}
 
 ## March
 
@@ -305,21 +308,21 @@
 - [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)
   Bruce W. Wilson, David A. Robb, Mei Yii Lim, Helen Hastie, Matthew Peter Aylett, Theodoros Georgiou
   Code: nan
-- [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
-  Lukáš Hajdúch, Viktor Kocur
-  Code: nan
 - [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v2)
   Lukáš Hajdúch, Viktor Kocur
   Code: nan
-- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
-  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
-  Code: https://github.com/OctopusWen/HiSync
+- [Pointing-Based Object Recognition](http://arxiv.org/abs/2603.15403v1)
+  Lukáš Hajdúch, Viktor Kocur
+  Code: nan
 - [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v1)
   Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
   Code: nan
 - [From Pets to Robots: MojiKit as a Data-Informed Toolkit for Affective HRI Design](http://arxiv.org/abs/2603.11632v1)
   Liwen He, Pingting Chen, Ziheng Tang, Yixiao Liu, Jihong Jeung, Teng Han, Xin Tong
   Code: nan
+- [HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI](http://arxiv.org/abs/2603.11809v2)
+  Chengwen Zhang, Chun Yu, Borong Zhuang, Haopeng Jin, Qingyang Wan, Zhuojun Li, Zhe He, Zhoutong Ye, Yu Mei, Chang Liu, Weinan Shi, Yuanchun Shi
+  Code: https://github.com/OctopusWen/HiSync
 - [SUBTA: A Framework for Supported User-Guided Bimanual Teleoperation in Structured Assembly](http://arxiv.org/abs/2603.10459v1)
   Xiao Liu, Prakash Baskaran, Songpo Li, Simon Manschitz, Wei Ma, Dirk Ruiken, Soshi Iba
   Code: nan

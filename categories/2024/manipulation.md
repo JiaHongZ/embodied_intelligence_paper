@@ -84,6 +84,12 @@
   Ancheng Lin, Tianqing Su, Zuo Yuan, Quanke Su, Samuel S. Mao, Yusheng Xiang
   Code: nan
 
+## April
+
+- [Band-Attention Modulation Network for Robust Face Forgery Detection](http://arxiv.org/abs/2404.06022v3)
+  Zhida Zhang, Wenkui Yang, Xinlei Ma, Qihang Fan, Jie Cao
+  Code: nan
+
 ## February
 
 - [SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems](http://arxiv.org/abs/2402.03741v4)
