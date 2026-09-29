@@ -60,6 +60,12 @@
   Jiahang Cao, Qiang Zhang, Jingkai Sun, Jiaxu Wang, Hao Cheng, Yulin Li, Jun Ma, Kun Wu, Zhiyuan Xu, Yecheng Shao, Wen Zhao, Gang Han, Yijie Guo, Renjing Xu
   Code: nan
 
+## August
+
+- [Detection and Characterization of Coordinated Online Behavior: A Survey](http://arxiv.org/abs/2408.01257v3)
+  Lorenzo Mannocci, Michele Mazza, Anna Monreale, Maurizio Tesconi, Stefano Cresci
+  Code: nan
+
 ## July
 
 - [Reasoning as a Weapon: Adaptive Dual-Path Jailbreak Attack on Large Language Models](http://arxiv.org/abs/2407.16205v7)

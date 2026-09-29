@@ -26,6 +26,9 @@
 - [DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models](http://arxiv.org/abs/2511.15669v2)
   Cheng Yin, Yankai Lin, Wang Xu, Sikyuen Tam, Xiangrui Zeng, Zhiyuan Liu, Zhouping Yin
   Code: https://github.com/OpenBMB/DeepThinkVLA
+- [A Survey on Efficient Vision-Language-Action Models](http://arxiv.org/abs/2510.24795v3)
+  Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen
+  Code: nan
 - [Gaze-VLM:Bridging Gaze and VLMs through Attention Regularization for Egocentric Understanding](http://arxiv.org/abs/2510.21356v2)
   Anupam Pani, Yanchao Yang
   Code: https://github.com/anupampani/Gaze-VLM
