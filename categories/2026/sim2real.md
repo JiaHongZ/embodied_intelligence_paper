@@ -2,6 +2,9 @@
 
 ## September
 
+- [RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing](http://arxiv.org/abs/2609.37560v1)
+  Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang, Jiaoyang Li, Changliu Liu
+  Code: nan
 - [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](http://arxiv.org/abs/2609.29644v1)
   Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, Carlos Pérez-del-Pulgar
   Code: nan

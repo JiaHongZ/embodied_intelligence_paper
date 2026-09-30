@@ -119,6 +119,9 @@
 - [PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding](http://arxiv.org/abs/2510.20155v3)
   Penghao Wang, Yiyang He, Xin Lv, Yukai Zhou, Lan Xu, Jingyi Yu, Jiayuan Gu
   Code: nan
+- [Learning On The Job: Zero-Shot Task Execution under Parametric Uncertainty via Trajectory-Parametrized Dual Control](http://arxiv.org/abs/2510.20483v2)
+  Victor Vantilborgh, Hrishikesh Sathyanarayan, Guillaume Crevecoeur, Ian Abraham, Tom Lefebvre
+  Code: nan
 - [Interactive Force-Impedance Control](http://arxiv.org/abs/2510.17341v2)
   Fan Shao, Satoshi Endo, Sandra Hirche, Fanny Ficuciello
   Code: nan
@@ -188,11 +191,11 @@
 
 ## September
 
-- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
-  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
-  Code: nan
 - [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
   Shunan Yin, Zehui Lu, Shaoshuai Mou
+  Code: nan
+- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
+  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
   Code: nan
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
   Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
