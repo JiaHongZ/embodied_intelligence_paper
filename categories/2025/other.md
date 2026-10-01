@@ -191,11 +191,11 @@
 
 ## September
 
-- [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
-  Shunan Yin, Zehui Lu, Shaoshuai Mou
-  Code: nan
 - [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
   Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
+  Code: nan
+- [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
+  Shunan Yin, Zehui Lu, Shaoshuai Mou
   Code: nan
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
   Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
@@ -242,11 +242,11 @@
 - [OpenTie: Open-vocabulary Sequential Rebar Tying System](http://arxiv.org/abs/2509.00064v2)
   Sai Fan, Mingze Liu, Haozhen Li, Haobo Liang, Yixing Yuan, Yanke Wang
   Code: nan
-- [Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring](http://arxiv.org/abs/2508.15038v2)
-  Makram Chahine, William Yang, Alaa Maalouf, Justin Siriska, Ninad Jadhav, Daniel Vogt, Stephanie Gil, Robert Wood, Daniela Rus
-  Code: nan
 - [You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation](http://arxiv.org/abs/2508.14965v3)
   Hakjin Lee, Junghoon Seo, Jaehoon Sim
+  Code: nan
+- [Decentralized Vision-Based Autonomous Aerial Wildlife Monitoring](http://arxiv.org/abs/2508.15038v2)
+  Makram Chahine, William Yang, Alaa Maalouf, Justin Siriska, Ninad Jadhav, Daniel Vogt, Stephanie Gil, Robert Wood, Daniela Rus
   Code: nan
 - [Adaptive Model-Predictive Control of a Soft Continuum Robot Using a Physics-Informed Neural Network Based on Cosserat Rod Theory](http://arxiv.org/abs/2508.12681v3)
   Johann Licher, Max Bartholdt, Henrik Krauss, Tim-Lukas Habich, Thomas Seel, Moritz Schappler
@@ -296,17 +296,17 @@
 
 ## May
 
-- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
-  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
-  Code: nan
 - [Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v3)
   Hassan Sartaj, Shaukat Ali, Ana Cavalcanti, Lukas Esterle, Cláudio Gomes, Peter Gorm Larsen, Anastasios Tefas, Jim Woodcock, Houxiang Zhang
   Code: nan
-- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
-  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
+- [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
+  Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
 - [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
   Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
+  Code: nan
+- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
+  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
   Code: nan
 - [Symmetric Lyapunov Subcenter Manifolds for Periodic Regulation of Mechanical Systems](http://arxiv.org/abs/2505.13064v4)
   Yannik P. Wotte, Arne Sachtler, Alin Albu-Schäffer, Stefano Stramigioli, Cosimo Della Santina
@@ -344,6 +344,9 @@
 - [Shoulder Range of Motion Rehabilitation Robot Incorporating Scapulohumeral Rhythm for Frozen Shoulder](http://arxiv.org/abs/2504.10163v2)
   Hyunbum Cho, Sungmoon Hur, Joowan Kim, Keewon Kim, Jaeheung Park
   Code: nan
+- [Towards More Efficient, Robust, Instance-adaptive, and Generalizable Sequential Decision making](http://arxiv.org/abs/2504.09192v5)
+  Zhiyong Wang
+  Code: nan
 - [Line-Search Filter Differential Dynamic Programming for Optimal Control with Nonlinear Equality Constraints](http://arxiv.org/abs/2504.08278v6)
   Ming Xu, Stephen Gould, Iman Shames
   Code: nan
@@ -358,6 +361,9 @@
 
 - [Curiosity-Diffuser: Curiosity Guide Diffusion Models for Reliability](http://arxiv.org/abs/2503.14833v2)
   Zihao Liu, Xing Liu, Yuhang Dong, Haitao Chang, Zhengxiong Liu, Panfeng Huang
+  Code: nan
+- [Learning-Based Progressive Barrier Control for Robot Manipulators with Initial Errors Outside Prescribed Tracking Bounds](http://arxiv.org/abs/2503.14669v2)
+  Hamed Rahimi Nohooji, Danial Zafaranchizadeh Moghaddam, Abolfazl Zaraki, Holger Voos
   Code: nan
 - [D4orm: Multi-Robot Trajectories with Dynamics-aware Diffusion Denoised Deformations](http://arxiv.org/abs/2503.12204v4)
   Yuhao Zhang, Keisuke Okumura, Heedo Woo, Ajay Shankar, Amanda Prorok

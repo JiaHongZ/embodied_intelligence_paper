@@ -590,6 +590,9 @@
 - [AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI](http://arxiv.org/abs/2503.10070v2)
   Haiqin Cui, Yifu Yuan, Yan Zheng, Jianye Hao
   Code: nan
+- [An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer](http://arxiv.org/abs/2503.10118v3)
+  Yuxuan Xu, Shiyu Wang, Jinhao Huang, Wenhao Zhao, Yufei Jia, Zike Yan, Weibin Gu, Lu Shi, Guyue Zhou
+  Code: nan
 - [Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments](http://arxiv.org/abs/2503.05226v2)
   Xibai Wang
   Code: nan

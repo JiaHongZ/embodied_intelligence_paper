@@ -2,6 +2,9 @@
 
 ## September
 
+- [Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?](http://arxiv.org/abs/2609.40341v1)
+  Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang, Wei Feng, Huiqiang Zhang, Xiaosong Jia, Zhizhong Su, Zuxuan Wu
+  Code: nan
 - [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v1)
   Dantong Qin, Yike Guo, Qinlin Liu, Alessandro Bozzon, Pan Wang
   Code: nan
@@ -95,11 +98,11 @@
 - [PACE: Persona Adaptation through Conversational Elicitation in Human-Robot Interaction](http://arxiv.org/abs/2607.15579v2)
   Peizhen Li, Longbing Cao, Megani Rajendran, Timothy Liu, Aik Beng Ng, Simon See
   Code: nan
-- [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
-  Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
-  Code: nan
 - [Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults](http://arxiv.org/abs/2607.15156v1)
   Aniol Civit, Antonio Andriella, Alba Martínez, Joan Ars, Aida Ribera, Cristian Barrué, Guillem Alenyà
+  Code: nan
+- [Catch, Throw, Repeat: Planning for Human-Robot Partner Juggling](http://arxiv.org/abs/2607.15129v1)
+  Jonathan Rainer Lippert, Kai Ploeger, Abir Chowdhury, Hermann Müller, Jan Peters, Alap Kshirsagar
   Code: nan
 - [Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration](http://arxiv.org/abs/2607.13696v1)
   Ridhima Bector, Souravik Dutta, Poornima Ramachandran, Ree Yan Yeoh, Jui Hien Tan, Domenico Campolo, Bernhard Johannes Schmitt
