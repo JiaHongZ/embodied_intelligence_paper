@@ -1,5 +1,14 @@
 # Simulation and Sim2Real Papers (2026)
 
+## October
+
+- [H-SPAR: Hydrodynamic-aware Simulation for Particle Transport and Autonomous Robots](http://arxiv.org/abs/2610.01985v1)
+  Navid Zarrabi, Nariman Yousefi, Sajad Saeedi
+  Code: https://github.com/naviiidz/h-spar-sim
+- [Continue, Abort, or Fall: Viability-Aware Policy Selection (VAPS) for Safe Humanoid Acrobatics](http://arxiv.org/abs/2610.01397v1)
+  Siwei Ju, Lu Liu, Jan Peters, Oleg Arenz
+  Code: nan
+
 ## September
 
 - [FIGS: Evaluating Multi-Turn Sycophancy Without Penalizing Empathy](http://arxiv.org/abs/2609.39863v1)
@@ -86,11 +95,11 @@
 - [From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting](http://arxiv.org/abs/2606.11381v4)
   Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu
   Code: https://github.com/wjson2435/FieldStraw6D-pipeline
-- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
-  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
-  Code: nan
 - [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
   Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
+  Code: nan
+- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
+  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
   Code: nan
 
 ## May
@@ -119,10 +128,10 @@
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)
   Yingke Wang, Hao Li, Yifeng Zhu, Hong-Xing Yu, Ken Goldberg, Li Fei-Fei, Jiajun Wu, Yunzhu Li, Ruohan Zhang
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
 - [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
@@ -157,6 +166,9 @@
 
 - [Marinarium: A Modular Experimental Facility for Reproducible Maritime and Space-Analog Field Robotics](http://arxiv.org/abs/2602.23053v2)
   Ignacio Torroba, David Dorner, Victor Nan Fernandez-Ayala, Mart Kartasev, Joris Verhagen, Elias Krantz, Gregorio Marchesini, Carl Ljung, Pedro Roque, Chelsea Sidrane, Linda Van der Spaa, Nicola De Carli, Petter Ogren, Christer Fuglesang, Jana Tumova, Dimos V. Dimarogonas, Ivan Stenius
+  Code: nan
+- [Bridging the Sim-to-Real Gap with multipanda_ros2: A Real-Time ROS2 Framework for Multimanual Systems](http://arxiv.org/abs/2602.02269v2)
+  Jon Škerlj, Seongjin Bien, Abdeldjallil Naceri, Sami Haddadin
   Code: nan
 
 ## January
