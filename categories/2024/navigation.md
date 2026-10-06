@@ -5,6 +5,9 @@
 - [SegCol Challenge: Semantic Segmentation for Tools and Fold Edges in Colonoscopy data](http://arxiv.org/abs/2412.16078v3)
   Xinwei Ju, Rema Daher, Razvan Caramalau, Baoru Huang, Negin Ghamsarian, Shunsuke Kikuchi, Atsushi Kouno, Hiroki Matsuzaki, Danail Stoyanov, Francisco Vasconcelos
   Code: https://github.com/surgical-vision/segcol_challenge
+- [Answer Set Networks: Casting Answer Set Programming into Deep Learning](http://arxiv.org/abs/2412.14814v2)
+  Arseny Skryagin, Daniel Ochs, Philipp Deibert, Simon Kohaut, Devendra Singh Dhami, Kristian Kersting
+  Code: nan
 
 ## October
 

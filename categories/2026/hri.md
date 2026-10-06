@@ -5,6 +5,9 @@
 - [Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?](http://arxiv.org/abs/2609.40341v1)
   Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang, Wei Feng, Huiqiang Zhang, Xiaosong Jia, Zhizhong Su, Zuxuan Wu
   Code: nan
+- [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v2)
+  Dantong Qin, Yike Guo, Qinlin Liu, Alessandro Bozzon, Pan Wang
+  Code: nan
 - [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v1)
   Dantong Qin, Yike Guo, Qinlin Liu, Alessandro Bozzon, Pan Wang
   Code: nan
