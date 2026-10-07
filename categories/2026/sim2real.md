@@ -2,6 +2,9 @@
 
 ## October
 
+- [Micro Neural Policies for Safe Real-Time Robotic Control](http://arxiv.org/abs/2610.08541v1)
+  Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo
+  Code: nan
 - [ArtifactArena: Evaluating Models by What They Build in the Physical World](http://arxiv.org/abs/2610.06511v1)
   Kushagra Tiwary*, David Mayo*, Nikhil Behari, Xiangzhou Sun, Abdulrahman Alabdulkareem, Isaac Galatzer-Levy, Boris Katz, Brian Cheung
   Code: nan

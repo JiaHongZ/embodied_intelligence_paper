@@ -137,24 +137,27 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v4)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
+- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
+  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
+  Code: nan
+- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
+  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
+  Code: nan
 - [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
   Matti Pekkanen, Francesco Verdoja, Ville Kyrki
   Code: nan
 - [NeMo-map: Neural Implicit Flow Fields for Spatio-Temporal Motion Mapping](http://arxiv.org/abs/2510.14827v3)
   Yufei Zhu, Shih-Min Yang, Andrey Rudenko, Tomasz P. Kucner, Achim J. Lilienthal, Martin Magnusson
   Code: https://github.com/test-bai-cpu/nemo-map
-- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
-  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
-  Code: nan
-- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
-  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
-  Code: nan
 - [Vision-Based Tactile Sensing for the Perception of the Object's Compliance and Hardness](http://arxiv.org/abs/2510.12528v2)
   Muxing Huang, Zibin Chen, Weiliang Xu, Zilan Li, Yuanzhi Zhou, Guoyuan Zhou, Wenjing Chen, Xinming Li
   Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
   Code: https://github.com/ylylyl-sjtu/ODI-Bench
+- [Koopman Model Predictive Control of An Origami-Inspired Soft Exoskeleton for Knee Rehabilitation](http://arxiv.org/abs/2510.11094v2)
+  Junxiang Wang, Han Zhang, Zehao Wang, Huaiyuan Chen, Pu Wang, Weidong Chen
+  Code: nan
 - [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
   Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
   Code: nan

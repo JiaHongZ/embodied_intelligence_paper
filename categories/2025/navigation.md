@@ -143,27 +143,27 @@
 - [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](http://arxiv.org/abs/2510.16518v2)
   Jesús Ortega-Peimbert, Finn Lukas Busch, Timon Homberger, Quantao Yang, Olov Andersson
   Code: nan
-- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
+- [Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](http://arxiv.org/abs/2510.14819v3)
+  Ji Cao, Yu Wang, Tongya Zheng, Jie Song, Qinghong Guo, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song
+  Code: https://github.com/caoji2001/CORE
+- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v3)
+  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
+  Code: https://github.com/AlexTraveling/SUM-AgriVLN
+- [STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](http://arxiv.org/abs/2510.14893v4)
+  Helene J. Levy, Brett T. Lopez
+  Code: nan
+- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v2)
+  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
+  Code: https://github.com/AlexTraveling/SUM-AgriVLN
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v6)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v5)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
-- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v6)
+- [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v3)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
-- [Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](http://arxiv.org/abs/2510.14819v3)
-  Ji Cao, Yu Wang, Tongya Zheng, Jie Song, Qinghong Guo, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song
-  Code: https://github.com/caoji2001/CORE
-- [STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](http://arxiv.org/abs/2510.14893v4)
-  Helene J. Levy, Brett T. Lopez
-  Code: nan
-- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v3)
-  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
-  Code: https://github.com/AlexTraveling/SUM-AgriVLN
-- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v2)
-  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
-  Code: https://github.com/AlexTraveling/SUM-AgriVLN
 - [Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.13394v4)
   Xinmiao Huang, Qisong He, Zhenglin Huang, Boxuan Wang, Zhuoyun Li, Guangliang Cheng, Yi Dong, Xiaowei Huang
   Code: nan
@@ -215,6 +215,9 @@
 
 ## September
 
+- [Learning from Hallucinating Critical Points for Navigation in Dynamic Environments](http://arxiv.org/abs/2509.26513v2)
+  Saad Abdul Ghani, Kameron Lee, Xuesu Xiao
+  Code: nan
 - [Learning Goal-Oriented Vision-and-Language Navigation with Self-Improving Demonstrations at Scale](http://arxiv.org/abs/2509.24910v2)
   Songze Li, Zun Wang, Gengze Zhou, Jialu Li, Xiangyu Zeng, Ziyang Gong, Limin Wang, Yu Qiao, Qi Wu, Mohit Bansal, Yi Wang
   Code: nan
@@ -272,6 +275,9 @@
 - [CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](http://arxiv.org/abs/2509.04859v4)
   Hannah Schieber, Dominik Frischmann, Victor Schaack, Simon Boche, Angela Schoellig, Stefan Leutenegger, Daniel Roth
   Code: nan
+- [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v3)
+  Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
+  Code: nan
 - [Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators](http://arxiv.org/abs/2509.04094v2)
   Fatih Dursun, Bruno Vilhena Adorno, Simon Watson, Wei Pan
   Code: nan
@@ -299,10 +305,10 @@
 - [Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents](http://arxiv.org/abs/2508.07642v3)
   Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
   Code: nan
-- [Learning Multi-Timescale Interventions under Safety and Resource Constraints](http://arxiv.org/abs/2508.03875v3)
+- [Learning Multi-Timescale Interventions under Safety and Resource Constraints](http://arxiv.org/abs/2508.03875v4)
   David Mguni, Wanrong Yang, Jing Dong, Jing Peng, Ziquan Liu, Muhammad Salman Haleem, Baoxiang Wang, Dominik Wojtczak
   Code: https://github.com/heywanrong/mint-rl
-- [Learning Multi-Timescale Interventions under Safety and Resource Constraints](http://arxiv.org/abs/2508.03875v4)
+- [Learning Multi-Timescale Interventions under Safety and Resource Constraints](http://arxiv.org/abs/2508.03875v3)
   David Mguni, Wanrong Yang, Jing Dong, Jing Peng, Ziquan Liu, Muhammad Salman Haleem, Baoxiang Wang, Dominik Wojtczak
   Code: https://github.com/heywanrong/mint-rl
 - [Learning Multi-Timescale Interventions under Safety and Resource Constraints](http://arxiv.org/abs/2508.03875v2)

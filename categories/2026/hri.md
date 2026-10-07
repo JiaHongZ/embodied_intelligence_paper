@@ -1,14 +1,20 @@
 # Human-Robot Interaction Papers (2026)
 
+## October
+
+- [Towards an Extensible Benchmark for Spoken Dialogue with Social Robots](http://arxiv.org/abs/2610.08733v1)
+  Casey Kennington, Ross Mead, Saad Elbeleidy, Jesse Thomason
+  Code: nan
+
 ## September
 
 - [Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?](http://arxiv.org/abs/2609.40341v1)
   Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang, Wei Feng, Huiqiang Zhang, Xiaosong Jia, Zhizhong Su, Zuxuan Wu
   Code: nan
-- [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v2)
+- [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v1)
   Dantong Qin, Yike Guo, Qinlin Liu, Alessandro Bozzon, Pan Wang
   Code: nan
-- [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v1)
+- [CoBrush: A Hierarchical Planning Framework for Human-Robot Co-Painting](http://arxiv.org/abs/2609.35476v2)
   Dantong Qin, Yike Guo, Qinlin Liu, Alessandro Bozzon, Pan Wang
   Code: nan
 - [OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping](http://arxiv.org/abs/2609.29157v1)
@@ -140,11 +146,11 @@
 - [When May I Help You? On The Effect of Proactivity on Group Human-Robot Collaboration](http://arxiv.org/abs/2606.28469v2)
   Thomas Vitry, Vanessa Maeder, Kieran von Valeburg, Asihati Hazaiti, Doga Deniz Ates, Connor Gäde, Jan-Gerrit Habekost, Dennis Becker, Stefan Wermter
   Code: nan
-- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
-  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
-  Code: nan
 - [Emcar: Embodied Controller for Animating Robots](http://arxiv.org/abs/2606.26008v1)
   Carlos Gomez Cubero, Elizabeth Jochum
+  Code: nan
+- [1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis](http://arxiv.org/abs/2606.25620v1)
+  Raphaela Kreiser, Asude Aydin, Yin Bi, Claudio Fanconi, Peter Dürr, Naoya Takahashi
   Code: nan
 - [VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](http://arxiv.org/abs/2606.24498v1)
   Ling Li, Zhizhen Cai, Xinkun Wu, Ziyu Zhu, Jiaqing Lyu, Bowen Liu, Zhidong Deng
@@ -182,11 +188,11 @@
 - [OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](http://arxiv.org/abs/2606.15255v2)
   Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan, Nak Young Chong
   Code: nan
-- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
-  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
-  Code: nan
 - [Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bilingual Personal and Political Robot-Delivered AI Jokes](http://arxiv.org/abs/2606.13256v1)
   Anna-Maria Velentza, Anne-Gwenn Bosser
+  Code: nan
+- [Embedding ISO 10218 Safety Compliance in Robots via Control Barrier Functions for Human-Robot Collaboration](http://arxiv.org/abs/2606.13203v1)
+  Federico Parma, Cesare Tonola, Nicola Pedrocchi, Manuel Beschi
   Code: nan
 - [Semantically-Aware Diver Activity Recognition Framework for Effective Underwater Multi-Human-Robot Collaboration](http://arxiv.org/abs/2606.12374v1)
   Sadman Sakib Enan, Junaed Sattar
