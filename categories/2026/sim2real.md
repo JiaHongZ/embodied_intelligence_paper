@@ -2,6 +2,9 @@
 
 ## October
 
+- [LLA-MPPI: Rapidly Adaptive Whole-body Control of Legged Robots with GPU-Accelerated Parallel Simulations](http://arxiv.org/abs/2610.10465v1)
+  Sebin Jung, Maitham F. AL-Sunni, Juan Alvarez-Padilla, Zachary Manchester, Changliu Liu, John M. Dolan
+  Code: nan
 - [Micro Neural Policies for Safe Real-Time Robotic Control](http://arxiv.org/abs/2610.08541v1)
   Hongpeng Cao, Riccardo Curcio, Daniele Ottaviano, Marco Caccamo
   Code: nan
