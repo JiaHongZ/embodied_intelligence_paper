@@ -74,6 +74,9 @@
 - [Audio-Visual World Models: Learning Physically Grounded Multisensory Dynamics](http://arxiv.org/abs/2512.00883v4)
   Jiahua Wang, Leqi Zheng, Jialong Wu, Yaoxin Mao, Shijie Cheng
   Code: nan
+- [Learning Projection-Aware 360-Degree Image Rectification via Dual-Projection Fusion](http://arxiv.org/abs/2512.00911v2)
+  Yuhao Shan, Qianyi Yuan, Jingguo Liu, Shigang Li, Jianfeng Li, Tong Chen
+  Code: https://github.com/YuhaoShine/DualProjectionFusion
 - [E0: Enhancing Generalization and Fine-Grained Control in VLA Models via Tweedie Discrete Diffusion](http://arxiv.org/abs/2511.21542v2)
   Zhihao Zhan, Jiaying Zhou, Likui Zhang, Qinhan Lv, Hao Liu, Jusheng Zhang, Weizheng Li, Ziliang Chen, Tianshui Chen, Ruifeng Zhai, Keze Wang, Liang Lin, Guangrun Wang
   Code: nan

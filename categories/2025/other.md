@@ -107,6 +107,9 @@
 - [Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments](http://arxiv.org/abs/2510.26280v3)
   Gangyang Li, Qing Shi, Youhao Hu, Zhongyuan Wang, Xinlong Wang, Shaqi Luo
   Code: nan
+- [A Sliding-Window Filter for Online Continuous-Time Continuum Robot State Estimation](http://arxiv.org/abs/2510.26623v2)
+  Spencer Teetaert, Sven Lilge, Jessica Burgner-Kahrs, Timothy D. Barfoot
+  Code: nan
 - [One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors](http://arxiv.org/abs/2510.25241v2)
   Hao Huang, Geeta Chandra Raju Bethala, Shuaihang Yuan, Congcong Wen, Mengyu Wang, Anthony Tzes, Yi Fang
   Code: https://github.com/hhuang-code/One-shot-WBM
@@ -137,18 +140,18 @@
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v4)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
-- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
-  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
-  Code: nan
-- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
-  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
-  Code: nan
 - [QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps](http://arxiv.org/abs/2510.14546v2)
   Matti Pekkanen, Francesco Verdoja, Ville Kyrki
   Code: nan
 - [NeMo-map: Neural Implicit Flow Fields for Spatio-Temporal Motion Mapping](http://arxiv.org/abs/2510.14827v3)
   Yufei Zhu, Shih-Min Yang, Andrey Rudenko, Tomasz P. Kucner, Achim J. Lilienthal, Martin Magnusson
   Code: https://github.com/test-bai-cpu/nemo-map
+- [Stability Boundaries and Motor Performance in Delayed Robot-Mediated Dyadic Interactions](http://arxiv.org/abs/2510.14511v3)
+  Mingtian Du, Suhas Raghavendra Kulkarni, Simone Kager, Erkan Kayacan, Domenico Campolo
+  Code: nan
+- [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)
+  Edward Sandra, Lander Vanroye, Dries Dirckx, Ruben Cartuyvels, Jan Swevers, Wilm Decré
+  Code: nan
 - [Vision-Based Tactile Sensing for the Perception of the Object's Compliance and Hardness](http://arxiv.org/abs/2510.12528v2)
   Muxing Huang, Zibin Chen, Weiliang Xu, Zilan Li, Yuanzhi Zhou, Guoyuan Zhou, Wenjing Chen, Xinming Li
   Code: nan
@@ -158,20 +161,20 @@
 - [Koopman Model Predictive Control of An Origami-Inspired Soft Exoskeleton for Knee Rehabilitation](http://arxiv.org/abs/2510.11094v2)
   Junxiang Wang, Han Zhang, Zehao Wang, Huaiyuan Chen, Pu Wang, Weidong Chen
   Code: nan
-- [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
-  Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
-  Code: nan
-- [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v3)
-  Simon Idoko, Prajyot Jadhav, Arun Kumar Singh
-  Code: nan
 - [Toggling stiffness via multistability](http://arxiv.org/abs/2510.09511v2)
   Hugo de Souza Oliveira, Michele Curatolo, Renate Sachse, Edoardo Milana
+  Code: nan
+- [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v4)
+  Simon Idoko, Prajyot Jadhav, Arun Kumar Singh
   Code: nan
 - [SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](http://arxiv.org/abs/2510.09606v2)
   Peiwen Sun, Shiqiang Lang, Dongming Wu, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
   Code: nan
-- [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v4)
+- [Flow-Opt: Scalable Centralized Multi-Robot Trajectory Optimization with Flow Matching and Differentiable Optimization](http://arxiv.org/abs/2510.09204v3)
   Simon Idoko, Prajyot Jadhav, Arun Kumar Singh
+  Code: nan
+- [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
+  Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
   Code: nan
 - [A Multimodal Depth-Aware Method For Embodied Reference Understanding](http://arxiv.org/abs/2510.08278v3)
   Fevziye Irem Eyiokur, Dogucan Yaman, Hazım Kemal Ekenel, Alexander Waibel
@@ -194,11 +197,11 @@
 
 ## September
 
-- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
-  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
-  Code: nan
 - [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
   Shunan Yin, Zehui Lu, Shaoshuai Mou
+  Code: nan
+- [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
+  Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
   Code: nan
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
   Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee

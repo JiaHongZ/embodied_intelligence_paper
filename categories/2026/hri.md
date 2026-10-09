@@ -2,6 +2,9 @@
 
 ## October
 
+- [Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation](http://arxiv.org/abs/2610.12245v1)
+  Bowen Yang, Xinliang Xiao, Wenjing Zhang, Li Yang, Wei Zhou
+  Code: https://github.com/WeiZhou96/FRPR-interaction-anticipation
 - [Towards an Extensible Benchmark for Spoken Dialogue with Social Robots](http://arxiv.org/abs/2610.08733v1)
   Casey Kennington, Ross Mead, Saad Elbeleidy, Jesse Thomason
   Code: nan

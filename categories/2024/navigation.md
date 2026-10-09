@@ -38,6 +38,9 @@
 - [SPIRONet: Spatial-Frequency Learning and Graph-based Channel Interaction Network for Vessel Segmentation](http://arxiv.org/abs/2406.19749v2)
   De-Xing Huang, Xiao-Hu Zhou, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Zhen-Qiu Feng, Mei-Jiang Gui, Hao Li, Tian-Yu Xiang, Bo-Xian Yao, Zeng-Guang Hou
   Code: https://github.com/Dxhuang-CASIA/SPIRONet
+- [The Kinetics Observer: A Tightly Coupled Estimator for Legged Robots](http://arxiv.org/abs/2406.13267v2)
+  Arnaud Demont, Mehdi Benallegue, Abdelaziz Benallegue, Pierre Gergondet, Antonin Dallard, Rafael Cisneros, Masaki Murooka, Fumio Kanehiro
+  Code: nan
 
 ## May
 

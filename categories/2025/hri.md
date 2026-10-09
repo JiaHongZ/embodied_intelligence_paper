@@ -17,6 +17,9 @@
 
 ## September
 
+- [Gaze Estimation for Human-Robot Interaction: Analysis Using the NICO Platform](http://arxiv.org/abs/2509.24001v3)
+  Matej Palider, Omar Eldardeer, Viktor Kocur
+  Code: nan
 - [CapStARE: Capsule-based Sequential Architecture for Robust and Efficient Gaze Estimation](http://arxiv.org/abs/2509.19936v2)
   Miren Samaniego, Igor Rodriguez, Elena Lazkano
   Code: https://github.com/toukapy/capsStare
