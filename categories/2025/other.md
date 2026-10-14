@@ -197,11 +197,11 @@
 
 ## September
 
-- [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
-  Shunan Yin, Zehui Lu, Shaoshuai Mou
-  Code: nan
 - [Prompting Robot Teams with Natural Language](http://arxiv.org/abs/2509.24575v2)
   Eduardo Sebastián, Nicolas Pfitzer, Ajay Shankar, Amanda Prorok
+  Code: nan
+- [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
+  Shunan Yin, Zehui Lu, Shaoshuai Mou
   Code: nan
 - [YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](http://arxiv.org/abs/2509.25164v5)
   Ranjan Sapkota, Rahul Harsha Cheppally, Ajay Sharda, Manoj Karkee
@@ -262,6 +262,9 @@
   Code: nan
 - [From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](http://arxiv.org/abs/2508.07494v2)
   Mircea Lazar
+  Code: nan
+- [All-Electric Heavy-Duty Robotic Manipulator: Surrogate-Enhanced Modeling and Adaptive Modular Control](http://arxiv.org/abs/2508.06313v2)
+  Amir Hossein Barjini, Mohammad Bahari, Mahdi Hejrati, Jouni Mattila
   Code: nan
 - [Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images](http://arxiv.org/abs/2508.03643v4)
   Xiangyu Sun, Haoyi Jiang, Liu Liu, Seungtae Nam, Gyeongjin Kang, Xinjie Wang, Wei Sui, Zhizhong Su, Wenyu Liu, Xinggang Wang, Eunbyung Park
@@ -326,6 +329,9 @@
 - [3D Scene Generation: A Survey](http://arxiv.org/abs/2505.05474v2)
   Haozhe Xie, Beichen Wen, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu
   Code: https://github.com/hzxie/Awesome-3D-Scene-Generation
+- [Panoramic Out-of-Distribution Segmentation](http://arxiv.org/abs/2505.03539v4)
+  Mengfei Duan, Yuheng Zhang, Yihong Cao, Fei Teng, Kai Luo, Jiaming Zhang, Kailun Yang, Zhiyong Li
+  Code: https://github.com/MengfeiD/PanOoS
 - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](http://arxiv.org/abs/2505.00986v3)
   Xiao Ma, Young D. Kwon, Dong Ma
   Code: nan

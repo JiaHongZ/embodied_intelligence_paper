@@ -2,6 +2,9 @@
 
 ## October
 
+- [Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](http://arxiv.org/abs/2610.18176v1)
+  Farnaz Soleimani, Abdelghani Chibani, Yacine Amirat, Ghazaleh Khodabandelou
+  Code: nan
 - [Fixed-Reference Pose Residuals for Measuring Cross-Dataset Cue Transfer in Human-Robot Interaction Anticipation](http://arxiv.org/abs/2610.12245v1)
   Bowen Yang, Xinliang Xiao, Wenjing Zhang, Li Yang, Wei Zhou
   Code: https://github.com/WeiZhou96/FRPR-interaction-anticipation
@@ -212,6 +215,9 @@
 
 ## May
 
+- [Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving](http://arxiv.org/abs/2605.31256v2)
+  Luca Benfenati, Ali Azimi, Matteo Risso, Fabio Carapellese, Daniele Jahier Pagliari, Alessio Burrello
+  Code: nan
 - [Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot](http://arxiv.org/abs/2605.26991v1)
   Carlotta Sartore, Mohamed Elobaid, Lorenzo Rapetti, Giulio Romualdi, Stefano Dafarra, Nicola A. Piga, Ines Sorrentino, Paolo Maria Vicecone, Silvio Traversaro, Ugo Pattacini, Luca Fiorio, Francesco Draicchio, Giovanna Tranfo, Lorenzo Natale, Marco Maggiali, Daniele Pucci
   Code: nan
