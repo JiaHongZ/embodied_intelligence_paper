@@ -2,6 +2,9 @@
 
 ## October
 
+- [PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](http://arxiv.org/abs/2610.20579v1)
+  Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu, Yixuan Pan, Zhenjie Yang, Jingbo Wang, Tianyu Li, Li Chen
+  Code: nan
 - [LLA-MPPI: Rapidly Adaptive Whole-body Control of Legged Robots with GPU-Accelerated Parallel Simulations](http://arxiv.org/abs/2610.10465v1)
   Sebin Jung, Maitham F. AL-Sunni, Juan Alvarez-Padilla, Zachary Manchester, Changliu Liu, John M. Dolan
   Code: nan
@@ -98,10 +101,10 @@
 - [How Should a Simulation-to-Reality Transfer Budget Be Spent?](http://arxiv.org/abs/2606.22062v2)
   Syed Hamzah Rizvi, Yash Vardhan Tomar
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
 - [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](http://arxiv.org/abs/2606.12365v1)
@@ -146,10 +149,10 @@
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)
   Yingke Wang, Hao Li, Yifeng Zhu, Hong-Xing Yu, Ken Goldberg, Li Fei-Fei, Jiajun Wu, Yunzhu Li, Ruohan Zhang
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
 - [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)

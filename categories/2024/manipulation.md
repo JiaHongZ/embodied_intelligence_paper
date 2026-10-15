@@ -98,6 +98,9 @@
 - [Band-Attention Modulation Network for Robust Face Forgery Detection](http://arxiv.org/abs/2404.06022v3)
   Zhida Zhang, Wenkui Yang, Xinlei Ma, Qihang Fan, Jie Cao
   Code: nan
+- [Active Exploration in Bayesian Model-based Reinforcement Learning for Robot Manipulation](http://arxiv.org/abs/2404.01867v3)
+  Carlos Plou, Ana C. Murillo, Ruben Martinez-Cantin
+  Code: https://github.com/ropertunizar/BayesianActiveExploration
 
 ## February
 
