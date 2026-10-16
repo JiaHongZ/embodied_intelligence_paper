@@ -101,10 +101,10 @@
 - [How Should a Simulation-to-Reality Transfer Budget Be Spent?](http://arxiv.org/abs/2606.22062v2)
   Syed Hamzah Rizvi, Yash Vardhan Tomar
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
 - [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](http://arxiv.org/abs/2606.12365v1)
@@ -138,6 +138,9 @@
   Yunfu Deng, Yuhao Li, Josiah P. Hanna
   Code: nan
 - [Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks](http://arxiv.org/abs/2604.09487v3)
+  Jan Schneider, Mridul Mahajan, Le Chen, Simon Guist, Bernhard Schölkopf, Ingmar Posner, Dieter Büchler
+  Code: nan
+- [Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks](http://arxiv.org/abs/2604.09487v4)
   Jan Schneider, Mridul Mahajan, Le Chen, Simon Guist, Bernhard Schölkopf, Ingmar Posner, Dieter Büchler
   Code: nan
 - [Robots that learn to evaluate models of collective behavior](http://arxiv.org/abs/2604.07303v1)

@@ -296,6 +296,9 @@
 - [Real-Time Model Checking for Closed-Loop Robot Reactive Planning](http://arxiv.org/abs/2508.19186v2)
   Christopher Chandler, Bernd Porr, Giulia Lafratta, Alice Miller
   Code: nan
+- [ZeST: A VLM-based Zero-Shot Traversability Navigation for Unknown Environments](http://arxiv.org/abs/2508.19131v4)
+  Shreya Gummadi, Mateus V. Gasparino, Gianluca Capezzuto, Marcelo Becker, Girish Chowdhary
+  Code: nan
 - [MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](http://arxiv.org/abs/2508.15169v4)
   Xuyang Chen, Zhijun Zhai, Kaixuan Zhou, Zengmao Wang, Jianan He, Dong Wang, Yanfeng Zhang, mingwei Sun, Rüdiger Westermann, Konrad Schindler, Liqiu Meng
   Code: nan
