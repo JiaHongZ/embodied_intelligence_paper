@@ -2,6 +2,12 @@
 
 ## October
 
+- [A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces](http://arxiv.org/abs/2610.26605v1)
+  Branden Frieden, Alan Kuntz, Varun Shankar
+  Code: nan
+- [RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion](http://arxiv.org/abs/2610.26414v1)
+  Till Hielscher, Kai O. Arras
+  Code: nan
 - [PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](http://arxiv.org/abs/2610.20579v1)
   Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu, Yixuan Pan, Zhenjie Yang, Jingbo Wang, Tianyu Li, Li Chen
   Code: nan
@@ -101,10 +107,10 @@
 - [How Should a Simulation-to-Reality Transfer Budget Be Spent?](http://arxiv.org/abs/2606.22062v2)
   Syed Hamzah Rizvi, Yash Vardhan Tomar
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
-- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v1)
+- [Redesigning Regularization for Effective Policy Smoothing](http://arxiv.org/abs/2606.13169v2)
   Taisuke Kobayashi, Naoto Yamanaka
   Code: nan
 - [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](http://arxiv.org/abs/2606.12365v1)
@@ -158,11 +164,11 @@
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
-- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
-  Dong Heon Cho, Boyuan Chen
-  Code: nan
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
+  Code: nan
+- [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
+  Dong Heon Cho, Boyuan Chen
   Code: nan
 - [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
   Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang

@@ -317,11 +317,11 @@
 - [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
   Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
-- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
-  Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
-  Code: nan
 - [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
   Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
+  Code: nan
+- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
+  Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
   Code: nan
 - [RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction](http://arxiv.org/abs/2505.15737v3)
   Zhuodong Jiang, Haoran Wang, Guoxi Huang, Brett Seymour, Nantheera Anantrasirichai
@@ -331,6 +331,9 @@
   Code: nan
 - [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](http://arxiv.org/abs/2505.10018v4)
   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, Xieyuanli Chen, Fei Gao
+  Code: nan
+- [LLM-Flock: LLM-Driven Decentralized Multi-Robot Flocking via Influence-Based Consensus with Collision Avoidance](http://arxiv.org/abs/2505.06513v2)
+  Peihan Li, Lifeng Zhou
   Code: nan
 - [Apple: Toward General Active Perception via Reinforcement Learning](http://arxiv.org/abs/2505.06182v5)
   Tim Schneider, Cristiana de Farias, Roberto Calandra, Liming Chen, Jan Peters
