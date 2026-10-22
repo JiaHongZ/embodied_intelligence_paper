@@ -2,6 +2,9 @@
 
 ## October
 
+- [Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities](http://arxiv.org/abs/2610.29829v1)
+  Rafael Felix
+  Code: nan
 - [Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences](http://arxiv.org/abs/2610.18176v1)
   Farnaz Soleimani, Abdelghani Chibani, Yacine Amirat, Ghazaleh Khodabandelou
   Code: nan
@@ -89,11 +92,11 @@
 - [Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation](http://arxiv.org/abs/2608.06221v1)
   Alperen Kenan, Paul Bremner, Manuel Giuliani
   Code: nan
-- [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
-  Rainier Natividad, Raye Chen-Hua Yeow
-  Code: nan
 - [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
   Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
+  Code: nan
+- [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
+  Rainier Natividad, Raye Chen-Hua Yeow
   Code: nan
 - [Adaptive Human-Robot Collaborative Painting Combining Preference-Based Optimization and Dynamic Motion Primitives](http://arxiv.org/abs/2608.01981v1)
   C. Cella, M. Ristic, M. Faroni, A. M. Zanchettin, P. Rocco
@@ -137,11 +140,11 @@
 - [A New Human-Likeness and Comfort Index for Robot Movements Along Prescribed Paths](http://arxiv.org/abs/2607.08620v2)
   Rosanna Coccaro
   Code: nan
-- [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
-  Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
-  Code: nan
 - [Designing Touch for Trauma-Informed Social Robots: A Design Space for Direct and Indirect Actuation](http://arxiv.org/abs/2607.04981v1)
   Madeleine Rischer, Benedikt Bußmann
+  Code: nan
+- [Toward Personalized Social Robots for Child Well-being: Data Requirement Principles from a Recommender-System Perspective](http://arxiv.org/abs/2607.05110v1)
+  Jin Huang, Eric Nichols, Fethiye Irmak Dogan, Hatice Gunes
   Code: nan
 
 ## June
@@ -182,15 +185,15 @@
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
   Code: nan
-- [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
-  Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
-  Code: nan
 - [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
   Haotian Qi, Gabriel Skantze
   Code: nan
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
+- [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
+  Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
+  Code: nan
 - [OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](http://arxiv.org/abs/2606.15255v2)
   Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan, Nak Young Chong
   Code: nan
@@ -236,11 +239,11 @@
 
 ## April
 
-- [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
-  Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
-  Code: nan
 - [SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction](http://arxiv.org/abs/2604.27508v1)
   Yongpeng Cao, Masahiro Hirano, Hyuno Kim, Yuji Yamakawa
+  Code: nan
+- [OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction](http://arxiv.org/abs/2604.28197v1)
+  Junyoung Lee, Sookwan Han, Jeonghwan Kim, Inhee Lee, Mingi Choi, Jisoo Kim, Wonjung Woo, Hanbyul Joo
   Code: nan
 - [Alter-Art: Exploring Embodied Artistic Creation through a Robot Avatar](http://arxiv.org/abs/2604.26473v1)
   Do Won Park, Samuele Bordini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi
@@ -287,10 +290,10 @@
 - [A Unified Multi-Layer Framework for Skill Acquisition from Imperfect Human Demonstrations](http://arxiv.org/abs/2604.08341v1)
   Zi-Qi Yang, Mehrdad R. Kermani
   Code: nan
-- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
+- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
-- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v1)
+- [Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction](http://arxiv.org/abs/2604.06961v2)
   Pablo Parte, Roberto Valle, José M. Buenaposada, Luis Baumela
   Code: nan
 - [Intuitive Human-Robot Interaction: Development and Evaluation of a Gesture-Based User Interface for Object Selection](http://arxiv.org/abs/2604.06073v1)
