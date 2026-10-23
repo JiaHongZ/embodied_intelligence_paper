@@ -47,11 +47,11 @@
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
   Code: nan
-- [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
-  Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
-  Code: nan
 - [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
   Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
+  Code: nan
+- [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
+  Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
   Code: nan
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](http://arxiv.org/abs/2512.01467v2)
   Fabian Kresse, Christoph H. Lampert
@@ -59,12 +59,12 @@
 
 ## November
 
-- [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
-  Alex Diep
-  Code: nan
 - [Uncertainty Quantification for Visual Object Pose Estimation: S-Lemma Ellipsoidal Bounds](http://arxiv.org/abs/2511.21666v2)
   Lorenzo Shaikewitz, Charis Georgiou, Luca Carlone
   Code: https://github.com/MIT-SPARK/PoseUncertaintySets
+- [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
+  Alex Diep
+  Code: nan
 - [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
   Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
   Code: https://github.com/JMUWRobotics/Dynamic-ICP
@@ -88,6 +88,9 @@
   Code: nan
 - [DISCA: A Digital In-memory Stochastic Computing Architecture Using A Compressed Bent-Pyramid Format](http://arxiv.org/abs/2511.17265v2)
   Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis
+  Code: nan
+- [Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers](http://arxiv.org/abs/2511.17166v3)
+  Tim Lakemann, Daniel Bonilla Licea, Viktor Walter, Martin Saska
   Code: nan
 - [Multi-Timescale Model Predictive Control for Slow-Fast Systems](http://arxiv.org/abs/2511.14311v2)
   Lukas Schroth, Daniel Morton, Amon Lahr, Daniele Gammelli, Andrea Carron, Marco Pavone
@@ -131,13 +134,13 @@
 - [Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](http://arxiv.org/abs/2510.16344v2)
   Chenrui Tie, Shengxiang Sun, Yudi Lin, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
   Code: nan
+- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v2)
+  Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
+  Code: nan
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v3)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
 - [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v4)
-  Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
-  Code: nan
-- [Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery](http://arxiv.org/abs/2510.15869v2)
   Jie-Ying Lee, Yi-Ruei Liu, Shr-Ruei Tsai, Wei-Cheng Chang, Chung-Ho Wu, Jiewen Chan, Zhenjun Zhao, Chieh Hubert Lin, Yu-Lun Liu
   Code: nan
 - [Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models](http://arxiv.org/abs/2510.14615v2)

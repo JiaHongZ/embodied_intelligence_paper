@@ -62,6 +62,9 @@
 - [An Active Perception Game for Robust Exploration](http://arxiv.org/abs/2404.00769v5)
   Siming He, Yuezhan Tao, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari
   Code: nan
+- [Hearing the shape of an arena with spectral swarm robotics](http://arxiv.org/abs/2403.17147v2)
+  Leo Cazenille, Nicolas Lobato-Dauzier, Alessia Loi, Loona Macabre, Mika Ito, Olivier Marchal, Soo-Hyeon Kim, Nathanael Aubert-Kato, Nicolas Bredeche, Anthony J. Genot
+  Code: nan
 - [IKSPARK: Obstacle-Aware Inverse Kinematics via Convex Optimization](http://arxiv.org/abs/2403.12235v2)
   Liangting Wu, Roberto Tron
   Code: nan

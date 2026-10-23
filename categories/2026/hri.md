@@ -2,6 +2,9 @@
 
 ## October
 
+- [Navigating human-robot interaction challenges in private and residential aged care homes](http://arxiv.org/abs/2610.31149v1)
+  David Ahmedt-Aristizabal, Mohammad Ali Armin, Akila Pemasiri, Harshala Gammulle, Tharindu Fernando, David Silvera-Tawil, Simon Denman
+  Code: nan
 - [Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities](http://arxiv.org/abs/2610.29829v1)
   Rafael Felix
   Code: nan

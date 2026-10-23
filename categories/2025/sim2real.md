@@ -9,6 +9,12 @@
   Zhoufeng Wang, Hang Zhao, Juzhan Xu, Shishun Zhang, Ruizhen Hu, Chenyang Zhu, Zecui Zeng, Weiyan Zhu, Zeyu Xiong, Haibin Yu, Kai Xu
   Code: nan
 
+## November
+
+- [CENIC: Convex Error-controlled Numerical Integration for Contact](http://arxiv.org/abs/2511.08771v2)
+  Vince Kurtz, Alejandro Castro
+  Code: nan
+
 ## October
 
 - [Efficient Model-Based Reinforcement Learning for Robot Control via Online Optimization](http://arxiv.org/abs/2510.18518v2)

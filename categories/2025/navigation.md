@@ -134,27 +134,27 @@
 - [C-NAV: Towards Self-Evolving Continual Object Navigation in Open World](http://arxiv.org/abs/2510.20685v3)
   Ming-Ming Yu, Fei Zhu, Wenzhuo Liu, Yirong Yang, Qunbo Wang, Wenjun Wu, Jing Liu
   Code: nan
-- [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
-  Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
-  Code: https://github.com/PKU-SEC-Lab/EfficientNav
 - [PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](http://arxiv.org/abs/2510.18348v2)
   Alexandros Ntagkas, Chairi Kiourt, Konstantinos Chatzilygeroudis
   Code: nan
+- [EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v3)
+  Zebin Yang, Sunjian Zheng, Tong Xie, Tianshi Xu, Bo Yu, Fan Wang, Jie Tang, Shaoshan Liu, Meng Li
+  Code: https://github.com/PKU-SEC-Lab/EfficientNav
 - [DIV-Nav: Open-Vocabulary Spatial Relationships for Multi-Object Navigation](http://arxiv.org/abs/2510.16518v2)
   Jesús Ortega-Peimbert, Finn Lukas Busch, Timon Homberger, Quantao Yang, Olov Andersson
   Code: nan
 - [Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning](http://arxiv.org/abs/2510.14819v3)
   Ji Cao, Yu Wang, Tongya Zheng, Jie Song, Qinghong Guo, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song
   Code: https://github.com/caoji2001/CORE
-- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v3)
-  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
-  Code: https://github.com/AlexTraveling/SUM-AgriVLN
 - [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v2)
   Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
   Code: https://github.com/AlexTraveling/SUM-AgriVLN
 - [STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](http://arxiv.org/abs/2510.14893v4)
   Helene J. Levy, Brett T. Lopez
   Code: nan
+- [SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](http://arxiv.org/abs/2510.14357v3)
+  Xiaobei Zhao, Xingqi Lyu, Xin Chen, Xiang Li
+  Code: https://github.com/AlexTraveling/SUM-AgriVLN
 - [CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions](http://arxiv.org/abs/2510.14959v6)
   Lizhi Yang, Blake Werner, Massimiliano de Sa, Aaron D. Ames
   Code: nan
@@ -185,12 +185,12 @@
 - [CompassNav: Steering From Path Imitation To Decision Understanding In Navigation](http://arxiv.org/abs/2510.10154v2)
   LinFeng Li, Jian Zhao, Yuan Xie, Xin Tan, Xuelong Li
   Code: nan
-- [Deductive Logic in Language Models: Horizontal vs Vertical Reasoning](http://arxiv.org/abs/2510.09340v2)
-  Davide Maltoni, Matteo Ferrara
-  Code: nan
 - [Online Structure Learning and Planning for Autonomous Robot Navigation using Active Inference](http://arxiv.org/abs/2510.09574v2)
   Daria de tinguy, Tim Verbelen, Emilio Gamba, Bart Dhoedt
   Code: https://github.com/decide-ugent/aimapp
+- [Deductive Logic in Language Models: Horizontal vs Vertical Reasoning](http://arxiv.org/abs/2510.09340v2)
+  Davide Maltoni, Matteo Ferrara
+  Code: nan
 - [Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing](http://arxiv.org/abs/2510.06470v2)
   Abdülbaki Şanlan, Fatih Erol, Murad Abu-Khalaf, Emre Koyuncu
   Code: nan
@@ -202,6 +202,9 @@
   Code: nan
 - [Metrics vs Surveys: An Analysis for Human-Aligned Benchmarking in Social Robot Navigation](http://arxiv.org/abs/2510.02941v2)
   Stefano Trepella, Mauro Martini, Noé Pérez-Higueras, Andrea Ostuni, Fernando Caballero, Luis Merino, Marcello Chiaberge
+  Code: nan
+- [To Distill or Decide? Understanding the Algorithmic Trade-off in Partially Observable Reinforcement Learning](http://arxiv.org/abs/2510.03207v2)
+  Yuda Song, Dhruv Rohatgi, Aarti Singh, J. Andrew Bagnell
   Code: nan
 - [SPARC: Spine with Prismatic And Revolute Compliance for Faster Quadrupedal Bounding](http://arxiv.org/abs/2510.01984v4)
   Yue Wang, Yanran Xu
@@ -245,17 +248,17 @@
 - [BEV-ODOM2: Enhanced BEV-based Monocular Visual Odometry with PV-BEV Fusion and Dense Flow Supervision for Ground Robots](http://arxiv.org/abs/2509.14636v3)
   Yufei Wei, Chenxiao Hu, Wangtao Lu, Sha Lu, Yuxiang Cui, Fuzhang Han, Rong Xiong, Yue Wang
   Code: nan
-- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
-  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
-  Code: nan
 - [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v3)
   Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
-- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
-  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
+- [JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs](http://arxiv.org/abs/2509.14000v4)
+  Ivana Kesić, Aljaž Blatnik, Carolina Fortuna, Blaž Bertalanič
   Code: nan
 - [MetricNet: Recovering Metric Scale in Generative Navigation Policies](http://arxiv.org/abs/2509.13965v2)
   Abhijeet Nayak, Débora Oliveira Makowski, Samiran Gode, Cordelia Schmid, Wolfram Burgard
+  Code: nan
+- [MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](http://arxiv.org/abs/2509.14191v3)
+  Zhihao Cao, Hanyu Wu, Li Wa Tang, Zizhou Luo, Wei Zhang, Marc Pollefeys, Zihan Zhu, Martin R. Oswald
   Code: nan
 - [Responsibility and Engagement -- Evaluating Interactions in Social Robot Navigation](http://arxiv.org/abs/2509.12890v2)
   Malte Probst, Raphael Wenzel, Monica Dasi
