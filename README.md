@@ -93,6 +93,9 @@ Automatically updated daily.
 - [EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models](http://arxiv.org/abs/2610.25959v1)
   X. Feng, J. Tang, Z. Lin, L. Chen, S. Shao, Q. Lu, K. Huang
   Code: nan
+- [PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements](http://arxiv.org/abs/2610.26711v1)
+  Kaiwei Chen, Moran Li, Zhenye Gan, Yabiao Wang, Chengjie Wang, Kexin Zhang, Yong Liu, Jiangning Zhang
+  Code: nan
 - [Beyond Omni: A Unified MLLM for Embodied Sensory Understanding](http://arxiv.org/abs/2610.26751v1)
   Shiyun Xiong, Dongming Wu, Peiwen Sun, Bokang Yang, Jiaxu Wang, Xiaolou Sun, Mingxing Wen, Xiangyu Yue
   Code: nan
@@ -116,9 +119,6 @@ Automatically updated daily.
   Code: nan
 - [Robot Learning with Vision-Language-Action Models for Agricultural Manipulation](http://arxiv.org/abs/2610.26717v1)
   Hamid Hafezi, Javad Mohammadpour Velni, Mohammadreza Davoodi
-  Code: nan
-- [PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements](http://arxiv.org/abs/2610.26711v1)
-  Kaiwei Chen, Moran Li, Zhenye Gan, Yabiao Wang, Chengjie Wang, Kexin Zhang, Yong Liu, Jiangning Zhang
   Code: nan
 - [VaDar: Implicit Goal Conditioning via Value Disaggregation](http://arxiv.org/abs/2610.26629v1)
   Shashwat Saxena, Mehul Goel, Sreyas Venkataraman, Sarvesh Patil, Max Simchowitz
@@ -180,9 +180,6 @@ Automatically updated daily.
 - [FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models](http://arxiv.org/abs/2610.31423v1)
   Huixin Xu, Ziya Yu, Peng Li
   Code: nan
-- [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](http://arxiv.org/abs/2610.29560v1)
-  Tingwen Du, Haoyu Guo, Hanxue Zhang, Xuanxu Wang, Junting Dong, Chao Gao, Mingfei Han, Tao Lu, Mulin Yu, Chunhua Shen, Xiaojun Chang, Zhihui Li
-  Code: nan
 - [Toward Recursive Self-Improvement in Physical AI](http://arxiv.org/abs/2610.29677v1)
   Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin
   Code: nan
@@ -197,6 +194,9 @@ Automatically updated daily.
   Code: nan
 - [CausGround: Causal Interaction Grounding for Adaptive Embodied Planning](http://arxiv.org/abs/2610.29702v1)
   Yijun Shen, Diqi He, Jinbang Guo, Wanyue Zhang, Jiaming Mi, Huan Yang, Zhongyuan Wang, Zhiwei Yu, Kai Zhang
+  Code: nan
+- [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](http://arxiv.org/abs/2610.29560v1)
+  Tingwen Du, Haoyu Guo, Hanxue Zhang, Xuanxu Wang, Junting Dong, Chao Gao, Mingfei Han, Tao Lu, Mulin Yu, Chunhua Shen, Xiaojun Chang, Zhihui Li
   Code: nan
 - [CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation](http://arxiv.org/abs/2610.30117v1)
   Houzhu Ding, Xinda Qi, Luqi Wang, Ming Yang
@@ -246,9 +246,6 @@ Automatically updated daily.
 - [CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA](http://arxiv.org/abs/2610.25927v1)
   Feiyang Hong, Yujie Wei, Bo Zhao, Xiu Su, Hongxun Yao, Shuo Yang
   Code: https://github.com/FeiyangHong/CondenseVLA
-- [Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO](http://arxiv.org/abs/2610.27003v2)
-  Zhuoran Wang, Keqing Fan, Yang Li, Jinbo Su, Ke Wang, Sijia Luo, Yuanzheng Tan, Junkun Peng, Jing Zhang
-  Code: nan
 - [SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models](http://arxiv.org/abs/2610.26487v1)
   Shenli Zheng, Zhou Fang, Yuan Du, Yijiang Liu, Li Du
   Code: nan
@@ -270,8 +267,8 @@ Automatically updated daily.
 - [EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience](http://arxiv.org/abs/2610.26625v1)
   Xinhao Ji, Hui En Pang, Hao Li, Kairui Hu, Jiner Wang, Mingze Sun, Ziang Cao, Yalun Dai, Thang Luu, Qin Ma, Hongyi Chen, Yukang Cao, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu
   Code: nan
-- [Goal Images Are Control Targets: Spatially-Grounded Goal-Image Synthesis for Robotic Manipulation](http://arxiv.org/abs/2610.24885v2)
-  Riddhi Chatterjee, Ritish Shrirao, Kushagra Mehrotra, Viswanath Gopalakrishnan
+- [Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO](http://arxiv.org/abs/2610.27003v2)
+  Zhuoran Wang, Keqing Fan, Yang Li, Jinbo Su, Ke Wang, Sijia Luo, Yuanzheng Tan, Junkun Peng, Jing Zhang
   Code: nan
 
 ### Robot Navigation
@@ -453,6 +450,9 @@ Automatically updated daily.
 - [Joint-Angle Invariance of Jacobian-Based Performance Indices for Serial Robotic Manipulators](http://arxiv.org/abs/2610.29570v1)
   Yaohua Zhou, Mingdao Lin, Jiayu Song, Xixin Zhao, Haidong Huang, Jiahu Qin, Xiaocong Li
   Code: nan
+- [AutoPhyX: Automatic Text-Condition Physics Property Generation](http://arxiv.org/abs/2610.29517v1)
+  Bei Huang, Yixin Chen, Hongbin Zha, Yuru Pei, Siyuan Huang
+  Code: nan
 - [Preserving Operator Intent Under Actuation Constraints: Teleoperation of Manipulators with Coupled Transmissions](http://arxiv.org/abs/2610.29565v1)
   Xuhan Miao, Zijin Han, Yutong Shen, Haidong Huang, Shanliushui Gao, Lei Zhang, Xiaocong Li, Chenguang Yang
   Code: nan
@@ -464,9 +464,6 @@ Automatically updated daily.
   Code: nan
 - [Payload generalization on feedforward control actions for trajectory tracking in robots with rigid and elastic joints](http://arxiv.org/abs/2610.29356v1)
   Giorgia Pazzi, Giorgio Simonini, Michele Pierallini, Paolo Salaris, Giorgio Grioli, Manolo Garabini, Franco Angelini
-  Code: nan
-- [AutoPhyX: Automatic Text-Condition Physics Property Generation](http://arxiv.org/abs/2610.29517v1)
-  Bei Huang, Yixin Chen, Hongbin Zha, Yuru Pei, Siyuan Huang
   Code: nan
 - [Test-Time Motion Steering for Perceptive Humanoid Fall Recovery](http://arxiv.org/abs/2610.30061v1)
   Osher Azulay, Cheng-Lin Hsieh, Stella X. Yu
