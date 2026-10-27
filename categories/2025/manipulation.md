@@ -11,11 +11,11 @@
 - [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v2)
   Chen Liang, Daniel Rakita
   Code: nan
-- [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v4)
-  Chen Liang, Daniel Rakita
-  Code: nan
 - [Meta-RL with Bayesian Linear Task Models](http://arxiv.org/abs/2512.20974v4)
   Jingyang You, Hanna Kurniawati
+  Code: nan
+- [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v4)
+  Chen Liang, Daniel Rakita
   Code: nan
 - [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](http://arxiv.org/abs/2512.20014v3)
   Sangoh Lee, Sangwoo Mo, Wook-Shin Han
@@ -47,11 +47,11 @@
 - [UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](http://arxiv.org/abs/2512.11609v2)
   Tingyu Yuan, Biaoliang Guan, Wen Ye, Ziyan Tian, Yi Yang, Weijie Zhou, Zhaowen Li, Yan Huang, Peng Wang, Chaoyang Zhao, Jinqiao Wang
   Code: nan
-- [XDen-1K: A Density Field Dataset of Real-World Objects](http://arxiv.org/abs/2512.10668v2)
-  Jingxuan Zhang, Tianqi Yu, Yatu Zhang, Jinze Wu, Kaixin Yao, Jingyang Liu, Yuyao Zhang, Jiayuan Gu, Jingyi Yu
-  Code: nan
 - [ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](http://arxiv.org/abs/2512.10946v2)
   Wendi Chen, Han Xue, Yi Wang, Fangyuan Zhou, Jun Lv, Yang Jin, Shirun Tang, Chuan Wen, Cewu Lu
+  Code: nan
+- [XDen-1K: A Density Field Dataset of Real-World Objects](http://arxiv.org/abs/2512.10668v2)
+  Jingxuan Zhang, Tianqi Yu, Yatu Zhang, Jinze Wu, Kaixin Yao, Jingyang Liu, Yuyao Zhang, Jiayuan Gu, Jingyi Yu
   Code: nan
 - [RoboNeuron: A Middle-Layer Infrastructure for Agent-Driven Orchestration in Embodied AI](http://arxiv.org/abs/2512.10394v2)
   Weifan Guan, Qinghao Hu, Huasen Xi, Chenxiao Zhang, Aosheng Li, Jian Cheng
@@ -95,6 +95,9 @@
 - [TabletopGen: Tabletop Scene Generation and Interactive Simulation for Robotic Manipulation](http://arxiv.org/abs/2512.01204v4)
   Ziqian Wang, Yonghao He, Licheng Yang, Wei Zou, Hongxuan Ma, Liu Liu, Wei Sui, Yuxin Guo, Hu Su
   Code: nan
+- [GRASP: Guided Residual Adapters with Sample-wise Partitioning](http://arxiv.org/abs/2512.01675v3)
+  Felix Nützel, Mischa Dombrowski, Bernhard Kainz
+  Code: https://github.com/Felix-012/GRASP-LT
 - [GRASP: Guided Residual Adapters with Sample-wise Partitioning](http://arxiv.org/abs/2512.01675v2)
   Felix Nützel, Mischa Dombrowski, Bernhard Kainz
   Code: nan
@@ -134,15 +137,15 @@
 - [Human-computer interactions predict mental health](http://arxiv.org/abs/2511.20179v5)
   Veith Weilnhammer, Jefferson Ortega, David Whitney
   Code: nan
-- [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v2)
-  Junsung Lee, Hyunsoo Lee, Yong Jae Lee, Bohyung Han
-  Code: nan
-- [Human-computer interactions predict mental health](http://arxiv.org/abs/2511.20179v4)
-  Veith Weilnhammer, Jefferson Ortega, David Whitney
-  Code: nan
 - [V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs](http://arxiv.org/abs/2511.20223v2)
   Sen Nie, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen
   Code: https://github.com/Summu77/V-Attack
+- [Human-computer interactions predict mental health](http://arxiv.org/abs/2511.20179v4)
+  Veith Weilnhammer, Jefferson Ortega, David Whitney
+  Code: nan
+- [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v2)
+  Junsung Lee, Hyunsoo Lee, Yong Jae Lee, Bohyung Han
+  Code: nan
 - [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](http://arxiv.org/abs/2512.00074v3)
   Qiwei Liang, Boyang Cai, Minghao Lai, Sitong Zhuang, Tao Lin, Yan Qin, Yixuan Ye, Jiaming Liang, Renjing Xu
   Code: nan
@@ -329,11 +332,11 @@
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v4)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
   Code: nan
-- [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](http://arxiv.org/abs/2509.18671v2)
-  Kaixin Chai, Hyunjun Lee, Joseph J. Lim
-  Code: nan
 - [Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation](http://arxiv.org/abs/2509.18597v3)
   Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao, Xukun Li, Zhenshan Bing, Alois Knoll
+  Code: nan
+- [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](http://arxiv.org/abs/2509.18671v2)
+  Kaixin Chai, Hyunjun Lee, Joseph J. Lim
   Code: nan
 - [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
   Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee

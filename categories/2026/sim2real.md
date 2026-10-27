@@ -2,11 +2,14 @@
 
 ## October
 
-- [A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces](http://arxiv.org/abs/2610.26605v1)
-  Branden Frieden, Alan Kuntz, Varun Shankar
-  Code: nan
+- [SPECOLA: A Tool for Specification Driven Robot Evaluation](http://arxiv.org/abs/2610.35730v1)
+  Immanuel Ampomah Mensah, Hadas Kress-Gazit
+  Code: https://github.com/specola-eval/specola
 - [RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion](http://arxiv.org/abs/2610.26414v1)
   Till Hielscher, Kai O. Arras
+  Code: nan
+- [A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces](http://arxiv.org/abs/2610.26605v1)
+  Branden Frieden, Alan Kuntz, Varun Shankar
   Code: nan
 - [PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](http://arxiv.org/abs/2610.20579v1)
   Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu, Yixuan Pan, Zhenjie Yang, Jingbo Wang, Tianyu Li, Li Chen
@@ -41,14 +44,17 @@
 - [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](http://arxiv.org/abs/2609.29644v1)
   Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, Carlos Pérez-del-Pulgar
   Code: nan
-- [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
-  Abhinav Jain, Cindy Grimm, Stefan Lee
-  Code: nan
 - [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v1)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan
 - [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
+  Code: nan
+- [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
+  Abhinav Jain, Cindy Grimm, Stefan Lee
+  Code: nan
+- [A Novel Path-Tracking Algorithm for Automated Tractor-Trailer Forward and Backward Maneuvers](http://arxiv.org/abs/2609.21718v3)
+  Alexandre Lombard, Florent Perronnet, Théo Rigal, Nicolas Gaud, Abdeljalil Abbas-Turki
   Code: nan
 - [Towards Scaling Marine Perception with Synthetic Data](http://arxiv.org/abs/2609.20680v1)
   Haoyu Ma, Onur Bagoren, Anja Sheppard, Elias Fandi, Ashrith Edukulla, Tanner Aslan, Natasha Sieh, Jingyu Song, Katherine A. Skinner
