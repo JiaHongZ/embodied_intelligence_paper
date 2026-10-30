@@ -38,17 +38,17 @@
 - [Benchmarking Robots for Everyday Environments: From Lab Experiments to Real-World Operations](http://arxiv.org/abs/2609.26490v1)
   Raphael Memmesheimer, Martina Overbeck, Dominik Beyer, Björn Kral, Sabine Bellmann, Sven Schneider, Jan Zimmermann, Anna-Maria Meer, Medina Klicic, Simone Roth, Carolin Straßmann, Alexander Arntz, Marlene Wessels, Johannes Kraus, Paul Schweidler, Tristan Schnell, Christoph Zimmermann, Benedikt Pulver, Wilhelm Stork, Martin Gersch, Sven Behnke, Arne Rönnau
   Code: nan
-- [LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](http://arxiv.org/abs/2609.24742v1)
-  Hanxiao Chen
-  Code: nan
-- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v1)
-  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
-  Code: nan
 - [NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware](http://arxiv.org/abs/2609.24391v1)
   Leonidas Delimpasis, Panagiota Moraiti, Antonis Porichis, Panos Chatzakos, Michail Karamousadakis
   Code: nan
 - [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v2)
   Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+  Code: nan
+- [MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](http://arxiv.org/abs/2609.24547v1)
+  Lijian Lin, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+  Code: nan
+- [LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot](http://arxiv.org/abs/2609.24742v1)
+  Hanxiao Chen
   Code: nan
 - [Examining the Difference in Human Behavior Between Virtual and Real-World Human-Robot Teaming](http://arxiv.org/abs/2609.18900v1)
   Sean Dallas, Absalat Getachew, Motaz AbuHijleh, Andrea Macklem-Zabel, Douglas Zytko, Mark Brudnak, Wing-Yue Geoffrey Louie
@@ -185,15 +185,18 @@
 - [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v2)
   Taewoon Kim, Emma van Zoelen, Mark Neerincx
   Code: nan
+- [Improving Human-Robot Teamwork in Urban Search and Rescue Through Episodic Memory of Prior Collaboration](http://arxiv.org/abs/2606.18836v3)
+  Taewoon Kim, Emma van Zoelen, Mark Neerincx
+  Code: nan
 - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](http://arxiv.org/abs/2606.17897v1)
   Xiaodan Shi
-  Code: nan
-- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
-  Haotian Qi, Gabriel Skantze
   Code: nan
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
+- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
+  Haotian Qi, Gabriel Skantze
+  Code: nan
 - [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
   Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
   Code: nan
