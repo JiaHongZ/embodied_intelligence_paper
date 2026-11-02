@@ -39,15 +39,15 @@ Automatically updated daily.
 - [TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation](http://arxiv.org/abs/2610.40349v1)
   Haozhe Zhang, Gu Zhang, Zirui Zou, Yuzheng Chen, Jinlong Wu, Zixuan Hu, Jianke Zhang, Yucheng Hu, Zhecheng Yuan, Huazhe Xu
   Code: nan
+- [JevVLA: Jev-Inspired Energy-Based Adaptation for Vision-Language-Action Policies](http://arxiv.org/abs/2610.35010v1)
+  Wei Wang, Wenqiao Zhang, Zheqi Lv, Zheng Dong, Yingjie Niu, Jiaqi Zhu, Jun Xiao, Chao Li, Yueting Zhuang
+  Code: https://github.com/ZJU4EmbodiedAI/JevVLA
 - [MemVLN: Streaming Episodic Memory for Vision-Language Navigation](http://arxiv.org/abs/2610.35066v1)
   Yan Wang, Jiangyong Huang, Baoxiong Jia, Siyuan Huang
   Code: nan
 - [VISTA: Active Exploration for Self-Improvement in Embodied Agents](http://arxiv.org/abs/2610.35051v1)
   Zhang Zhang, Shengjun Zhang, Simin Huang, Min Chen, Chong Xia, Xin Fei, Yueqi Duan
   Code: nan
-- [JevVLA: Jev-Inspired Energy-Based Adaptation for Vision-Language-Action Policies](http://arxiv.org/abs/2610.35010v1)
-  Wei Wang, Wenqiao Zhang, Zheqi Lv, Zheng Dong, Yingjie Niu, Jiaqi Zhu, Jun Xiao, Chao Li, Yueting Zhuang
-  Code: https://github.com/ZJU4EmbodiedAI/JevVLA
 - [Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](http://arxiv.org/abs/2610.35817v1)
   Benjamin Pikus, Daniel Saunders, Mircea Mironenco, Salman Mohammadi, Mathew Mathew, Sirou Zhu, Divya Makkar, Xuhua Huang, Qinbo Li, Supreeth Narasimhaswamy, Siyuan Cen, Thomas Neff, Dejia Xu, Shyamal Buch
   Code: nan
@@ -102,7 +102,7 @@ Automatically updated daily.
 - [Gaussian Distillation of Flow Policies](http://arxiv.org/abs/2610.40271v1)
   Youssef Saied, Ziyad Sheebaelhamd, Claire Vernade, François Fleuret
   Code: nan
-- [Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition](http://arxiv.org/abs/2610.35494v2)
+- [Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition](http://arxiv.org/abs/2610.35494v1)
   Yuanzhi He, Victor Romero-Cano, Jiayu Xu, Juan David Hernández, Gualtiero Colombo
   Code: nan
 - [DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection](http://arxiv.org/abs/2610.35462v1)
@@ -117,8 +117,8 @@ Automatically updated daily.
 - [Labference: Benchmarking the Reasoning-Action Connection in Robotic Laboratories](http://arxiv.org/abs/2610.35252v1)
   Shitong Liu, Jingwei Zhang, Sheng Lian, Xinyu Zhuang, Kaiwen Guo, Quan Liu, Chunhai Zhao, Jiaxin He, Fan Yang, Manli Tao, Tingyu Yuan, Jinqiao Wang, Hongwei Shi, Chaomin Guo, Xiao-jing Liu, Xiangyu Zhu, Zhuang Xiong, Feichan Yang, Chaoyang Zhao, Zhiyong Liu
   Code: nan
-- [High-resolution tactile observation makes hidden racket-control mechanisms learnable](http://arxiv.org/abs/2610.35563v1)
-  Haoyang Tian, Zhengwei Li, Houcheng Li, Xu Yang, Peigeng Gu, Xinyue Wang, Tairan Zhu, Shuo Jiang, Long Cheng
+- [Copying As Defense: Protecting Images from Editing By Eliciting Model Copying](http://arxiv.org/abs/2610.35566v1)
+  Salma Abdel Magid, Sanghyuk Chun, Eric Slyman, Kushal Kafle, Olga Russakovsky
   Code: nan
 - [SoK: Timestamps Are Not a Time Model: Rethinking Temporal Reasoning in Host-Based Intrusion Detection](http://arxiv.org/abs/2610.35151v1)
   Rene Heinzl, Markus Nissl
@@ -135,11 +135,11 @@ Automatically updated daily.
 - [3D-Force Estimation for Dual-arm Manipulation of Deformable Linear Objects via Factor Graphs](http://arxiv.org/abs/2610.35058v1)
   Annika Delucchi, Vincenzo Di Paola, Bruno Marco Quadrelli, Matteo Zoppi
   Code: nan
-- [Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition](http://arxiv.org/abs/2610.35494v1)
-  Yuanzhi He, Victor Romero-Cano, Jiayu Xu, Juan David Hernández, Gualtiero Colombo
+- [High-resolution tactile observation makes hidden racket-control mechanisms learnable](http://arxiv.org/abs/2610.35563v1)
+  Haoyang Tian, Zhengwei Li, Houcheng Li, Xu Yang, Peigeng Gu, Xinyue Wang, Tairan Zhu, Shuo Jiang, Long Cheng
   Code: nan
-- [Copying As Defense: Protecting Images from Editing By Eliciting Model Copying](http://arxiv.org/abs/2610.35566v1)
-  Salma Abdel Magid, Sanghyuk Chun, Eric Slyman, Kushal Kafle, Olga Russakovsky
+- [Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks](http://arxiv.org/abs/2610.35671v1)
+  Yao Huang, Zhiyuan Zeng, Yu Wang, Zhitong Zhu, Dingcheng Duan, Hao Li, Shangzhi Xu, Yifan Wang, Jinzhe Tu, Shukun Xiong, Yihe Zang, Han Yan, Hongchang Yang, Fuyu Gu, Wei Xu, Yinpeng Dong, Xiaojian Li
   Code: nan
 - [Learning Force-Reactive Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.35862v1)
   Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan Yang, Chen Feng, Guanya Shi, Haozhi Qi
@@ -153,8 +153,8 @@ Automatically updated daily.
 - [TrySee: Modular Perception-Enhanced VLM Grounding for Closed-Loop Robot Task Planning in Specialized Domains](http://arxiv.org/abs/2610.35687v1)
   Elias Hofele, Thomas Trapp, David Timmermann, Tristan Schnell, Georg Heppner, Arne Roennau
   Code: nan
-- [Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks](http://arxiv.org/abs/2610.35671v1)
-  Yao Huang, Zhiyuan Zeng, Yu Wang, Zhitong Zhu, Dingcheng Duan, Hao Li, Shangzhi Xu, Yifan Wang, Jinzhe Tu, Shukun Xiong, Yihe Zang, Han Yan, Hongchang Yang, Fuyu Gu, Wei Xu, Yinpeng Dong, Xiaojian Li
+- [Enhancing Deep Reinforcement Learning for Robotic Motion Planning via Task Decomposition](http://arxiv.org/abs/2610.35494v2)
+  Yuanzhi He, Victor Romero-Cano, Jiayu Xu, Juan David Hernández, Gualtiero Colombo
   Code: nan
 
 ### Robot Navigation
@@ -183,14 +183,11 @@ Automatically updated daily.
 - [RetroNav: Scene-Grounded Retrospection and Retry for Self-Evolving Lifelong Navigation](http://arxiv.org/abs/2610.35172v1)
   Diantao Tu, Yangdong Liu, Niannian Dai, Mengqi Rong, Shuhan Shen
   Code: https://github.com/3dv-casia/RetroNav
-- [Continuous-Time Safe Planning and Control for Agile Quadrupeds](http://arxiv.org/abs/2610.35670v1)
-  Gage MacLin, Mason Peterson, Camilla Tabasso, Venanzio Cichella, Joshua Migdal, Tye Brady, Taskin Padir
-  Code: nan
 - [Preemptive Instruction Following with Resumption](http://arxiv.org/abs/2610.35576v1)
   Zerun Liu, Lechao Cheng, Yimin Liu, Shengeng Tang, Yaxiong Wang, Zhun Zhong
   Code: nan
-- [The German Tank Problem & Navigating by Scent](http://arxiv.org/abs/2610.34583v2)
-  Kordel Kade France
+- [Continuous-Time Safe Planning and Control for Agile Quadrupeds](http://arxiv.org/abs/2610.35670v1)
+  Gage MacLin, Mason Peterson, Camilla Tabasso, Venanzio Cichella, Joshua Migdal, Tye Brady, Taskin Padir
   Code: nan
 
 ### Vision-Language-Action
@@ -291,6 +288,9 @@ Automatically updated daily.
 - [Context-dependent Runtime Construction of Safe Regions of Attraction from Design-Time Identification for Multi-Candidate Simplex Architectures](http://arxiv.org/abs/2610.35040v1)
   Georg Jäger, Nils-Jonathan Friedrich, Norman Seyffer, José Cecílio, António Casimiro
   Code: nan
+- [Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena](http://arxiv.org/abs/2610.35582v1)
+  Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf, Nicolas Vandewalle, Ana-Sunčana Smith, Andreas Maier
+  Code: nan
 - [Nonprehensile Robotic Catching Using Virtual Constraints](http://arxiv.org/abs/2610.35851v1)
   Aakash Khandelwal, Ranjan Mukherjee
   Code: nan
@@ -305,9 +305,6 @@ Automatically updated daily.
   Code: nan
 - [Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View](http://arxiv.org/abs/2610.35630v1)
   Stanisław Kuczma, Sławomir K. Tadeja, Michał R. Nowicki
-  Code: nan
-- [Distributed Predictive Flocking for a Swarm of Miniature Vibration-Driven Robots in a Confined Arena](http://arxiv.org/abs/2610.35582v1)
-  Prajol Shrestha, Siddhant Mohapatra, Filip Novkoski, Julian Oelhaf, Nicolas Vandewalle, Ana-Sunčana Smith, Andreas Maier
   Code: nan
 
 ## Full Archive
