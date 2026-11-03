@@ -1,15 +1,21 @@
 # Simulation and Sim2Real Papers (2026)
 
+## November
+
+- [KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge](http://arxiv.org/abs/2611.03091v1)
+  Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea
+  Code: nan
+
 ## October
 
 - [SPECOLA: A Tool for Specification Driven Robot Evaluation](http://arxiv.org/abs/2610.35730v1)
   Immanuel Ampomah Mensah, Hadas Kress-Gazit
   Code: https://github.com/specola-eval/specola
-- [RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion](http://arxiv.org/abs/2610.26414v1)
-  Till Hielscher, Kai O. Arras
-  Code: nan
 - [A Probabilistic, Rotation-Preserving Kernel Operator Surrogate for Continuum-Robot Design Spaces](http://arxiv.org/abs/2610.26605v1)
   Branden Frieden, Alan Kuntz, Varun Shankar
+  Code: nan
+- [RoboMMT: Learning Stable Tracking of Modulated Expressive and Interactive Robot Motion](http://arxiv.org/abs/2610.26414v1)
+  Till Hielscher, Kai O. Arras
   Code: nan
 - [PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](http://arxiv.org/abs/2610.20579v1)
   Haoran Jiang, Yichao Zhong, Kai Zhang, Cheng Liu, Yixuan Pan, Zhenjie Yang, Jingbo Wang, Tianyu Li, Li Chen
@@ -44,10 +50,10 @@
 - [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](http://arxiv.org/abs/2609.29644v1)
   Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, Carlos Pérez-del-Pulgar
   Code: nan
-- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v1)
+- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan
-- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
+- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v1)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan
 - [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
@@ -164,17 +170,17 @@
 - [IMPASTO: Integrating Model-Based Planning with Learned Dynamics Models for Robotic Oil Painting Reproduction](http://arxiv.org/abs/2603.29315v1)
   Yingke Wang, Hao Li, Yifeng Zhu, Hong-Xing Yu, Ken Goldberg, Li Fei-Fei, Jiajun Wu, Yunzhu Li, Ruohan Zhang
   Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
-  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
-  Code: nan
-- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
-  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
-  Code: nan
 - [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v1)
   Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Li Yi, Hao Zhao
   Code: nan
 - [RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning](http://arxiv.org/abs/2603.22039v1)
   Dong Heon Cho, Boyuan Chen
+  Code: nan
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v2)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
+  Code: nan
+- [PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation](http://arxiv.org/abs/2603.22193v3)
+  Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
   Code: nan
 - [Introducing M: A Modular, Modifiable Social Robot](http://arxiv.org/abs/2603.19134v1)
   Victor Nikhil Antony, Zhili Gong, Yoonjae Kim, Chien-Ming Huang

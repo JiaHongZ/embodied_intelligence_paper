@@ -35,18 +35,21 @@
 - [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](http://arxiv.org/abs/2510.20333v3)
   Chiyu Chen, Xinhao Song, Yunkai Chai, Yang Yao, Haodong Zhao, Lijun Li, Jie Li, Yan Teng, Gongshen Liu, Yingchun Wang
   Code: nan
+- [On the Structure of Stationary Solutions to McKean-Vlasov Equations with Applications to Noisy Transformers](http://arxiv.org/abs/2510.20094v3)
+  Krishnakumar Balasubramanian, Sayan Banerjee, Philippe Rigollet
+  Code: nan
 - [Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models](http://arxiv.org/abs/2510.19268v2)
   Mingen Li, Houjian Yu, Yixuan Huang, Youngjin Hong, Hantao Ye, Changhyun Choi
   Code: nan
 - [Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models](http://arxiv.org/abs/2510.09976v2)
   Mingyang Lyu, Yinqian Sun, Erliang Lin, Huangrui Li, Ruolin Chen, Feifei Zhao, Yi Zeng
   Code: nan
-- [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
-  Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
-  Code: https://github.com/X-Luffy/GTR-Bench
 - [Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency](http://arxiv.org/abs/2510.08431v3)
   Kaiwen Zheng, Yuji Wang, Qianli Ma, Huayu Chen, Jintao Zhang, Yogesh Balaji, Jianfei Chen, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang
   Code: https://github.com/NVlabs/rcm
+- [GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v3)
+  Qinghongbing Xie, Zhaoyuan Xia, Feng Zhu, Lijun Gong, Ziyue Li, Rui Zhao, Long Zeng
+  Code: https://github.com/X-Luffy/GTR-Bench
 - [RLinf-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models](http://arxiv.org/abs/2510.06710v3)
   Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Peihong Wang, Liangzhi Shi, Yuqing Xie, Zhexuan Xu, Zhihao Liu, Kang Chen, Wenhao Tang, Quanlu Zhang, Weinan Zhang, Chao Yu, Yu Wang
   Code: nan
