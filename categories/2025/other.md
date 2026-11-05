@@ -5,6 +5,9 @@
 - [Strategic Response of News Publishers to Generative AI](http://arxiv.org/abs/2512.24968v4)
   Hangcheng Zhao, Ron Berman
   Code: nan
+- [PointRAFT: 3D deep learning for high-throughput prediction of potato tuber weight from partial point clouds](http://arxiv.org/abs/2512.24193v2)
+  Pieter M. Blok, Haozhou Wang, Hyun Kwon Suh, Peicheng Wang, James Burridge, Wei Guo
+  Code: https://github.com/pieterblok/pointraft
 - [Bridging the Ex-Vivo to In-Vivo Gap: Synthetic Priors for Monocular Depth Estimation in Specular Surgical Environments](http://arxiv.org/abs/2512.23786v2)
   Ankan Aich, Emma D. Ryan, Kris Moe, Isaac Schmale, Li-Xing Man, Yangming Lee
   Code: nan
@@ -47,11 +50,11 @@
 - [Unified Disturbance Aware Safe Kinematic Control for Closed-Architecture Robots](http://arxiv.org/abs/2512.05292v3)
   Fan Zhang, Jinfeng Chen, Joseph J. B. Mvogo Ahanda, Hanz Richter, Ge Lv, Bin Hu, Qin Lin
   Code: nan
-- [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
-  Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
-  Code: nan
 - [MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization](http://arxiv.org/abs/2512.03522v3)
   Gihyeon Lee, Jungwoo Lee, Juwon Kim, Young-Sik Shin, Younggun Cho
+  Code: nan
+- [Guided Flow Policy: Learning from High-Value Actions in Offline Reinforcement Learning](http://arxiv.org/abs/2512.03973v2)
+  Franki Nguimatsia Tiofack, Théotime Le Hellard, Fabian Schramm, Nicolas Perrin-Gilbert, Justin Carpentier
   Code: nan
 - [Differentiable Weightless Controllers: Learning Logic Circuits for Continuous Control](http://arxiv.org/abs/2512.01467v2)
   Fabian Kresse, Christoph H. Lampert
@@ -59,12 +62,12 @@
 
 ## November
 
-- [Uncertainty Quantification for Visual Object Pose Estimation: S-Lemma Ellipsoidal Bounds](http://arxiv.org/abs/2511.21666v2)
-  Lorenzo Shaikewitz, Charis Georgiou, Luca Carlone
-  Code: https://github.com/MIT-SPARK/PoseUncertaintySets
 - [When Models Fabricate Credentials: Measuring How Professional Identity Suppresses Honest Self-Representation](http://arxiv.org/abs/2511.21569v7)
   Alex Diep
   Code: nan
+- [Uncertainty Quantification for Visual Object Pose Estimation: S-Lemma Ellipsoidal Bounds](http://arxiv.org/abs/2511.21666v2)
+  Lorenzo Shaikewitz, Charis Georgiou, Luca Carlone
+  Code: https://github.com/MIT-SPARK/PoseUncertaintySets
 - [Dynamic-ICP: Doppler-Aware Iterative Closest Point Registration for Dynamic Scenes](http://arxiv.org/abs/2511.20292v3)
   Dong Wang, Daniel Casado Herraez, Stefan May, Andreas Nüchter
   Code: https://github.com/JMUWRobotics/Dynamic-ICP
@@ -77,11 +80,11 @@
 - [A Virtual Mechanical Interaction Layer Enables Resilient Human-to-Robot Object Handovers](http://arxiv.org/abs/2511.19543v2)
   Omar Faris, Sławomir Tadeja, Fulvio Forni
   Code: nan
-- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
-  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
-  Code: nan
 - [MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](http://arxiv.org/abs/2511.18370v2)
   Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli
+  Code: nan
+- [SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](http://arxiv.org/abs/2511.18493v3)
+  Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho
   Code: nan
 - [See, Plan, Cut: MPC-Based Autonomous Volumetric Robotic Laser Surgery with OCT Guidance](http://arxiv.org/abs/2511.17777v2)
   Ravi Prakash, Vincent Y. Wang, Arpit Mishra, Devi Yuliarti, Pei Zhong, Ryan P. McNabb, Patrick J. Codd, Leila J. Bridgeman
@@ -107,11 +110,14 @@
 
 ## October
 
-- [A Sliding-Window Filter for Online Continuous-Time Continuum Robot State Estimation](http://arxiv.org/abs/2510.26623v2)
-  Spencer Teetaert, Sven Lilge, Jessica Burgner-Kahrs, Timothy D. Barfoot
+- [Learning Soft Robotic Dynamics with Active Exploration](http://arxiv.org/abs/2510.27428v2)
+  Hehui Zheng, Bhavya Sukhija, Chenhao Li, Klemens Iten, Andreas Krause, Robert K. Katzschmann
   Code: nan
 - [Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments](http://arxiv.org/abs/2510.26280v3)
   Gangyang Li, Qing Shi, Youhao Hu, Zhongyuan Wang, Xinlong Wang, Shaqi Luo
+  Code: nan
+- [A Sliding-Window Filter for Online Continuous-Time Continuum Robot State Estimation](http://arxiv.org/abs/2510.26623v2)
+  Spencer Teetaert, Sven Lilge, Jessica Burgner-Kahrs, Timothy D. Barfoot
   Code: nan
 - [One-shot Adaptation of Humanoid Whole-body Motion with Walking Priors](http://arxiv.org/abs/2510.25241v2)
   Hao Huang, Geeta Chandra Raju Bethala, Shuaihang Yuan, Congcong Wen, Mengyu Wang, Anthony Tzes, Yi Fang
@@ -158,12 +164,12 @@
 - [Vision-Based Tactile Sensing for the Perception of the Object's Compliance and Hardness](http://arxiv.org/abs/2510.12528v2)
   Muxing Huang, Zibin Chen, Weiliang Xu, Zilan Li, Yuanzhi Zhou, Guoyuan Zhou, Wenjing Chen, Xinming Li
   Code: nan
-- [Koopman Model Predictive Control of An Origami-Inspired Soft Exoskeleton for Knee Rehabilitation](http://arxiv.org/abs/2510.11094v2)
-  Junxiang Wang, Han Zhang, Zehao Wang, Huaiyuan Chen, Pu Wang, Weidong Chen
-  Code: nan
 - [ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](http://arxiv.org/abs/2510.11549v2)
   Liu Yang, Huiyu Duan, Ran Tao, Juntao Cheng, Sijing Wu, Yunhao Li, Jing Liu, Xiongkuo Min, Guangtao Zhai
   Code: https://github.com/ylylyl-sjtu/ODI-Bench
+- [Koopman Model Predictive Control of An Origami-Inspired Soft Exoskeleton for Knee Rehabilitation](http://arxiv.org/abs/2510.11094v2)
+  Junxiang Wang, Han Zhang, Zehao Wang, Huaiyuan Chen, Pu Wang, Weidong Chen
+  Code: nan
 - [Direct Data-Driven Predictive Control for a Three-dimensional Cable-Driven Soft Robotic Arm](http://arxiv.org/abs/2510.08953v2)
   Cheng Ouyang, Moeen Ul Islam, Dong Chen, Kaixiang Zhang, Zhaojian Li, Xiaobo Tan
   Code: nan
@@ -320,11 +326,11 @@
 - [Representation Learning for Equivariant Inference with Guarantees](http://arxiv.org/abs/2505.19809v3)
   Daniel Ordoñez-Apraez, Vladimir Kostić, Alek Fröhlich, Vivien Brandt, Karim Lounici, Massimiliano Pontil
   Code: nan
-- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
-  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
-  Code: nan
 - [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](http://arxiv.org/abs/2505.17006v3)
   Jiange Yang, Yansong Shi, Haoyi Zhu, Mingyu Liu, Kaijing Ma, Yating Wang, Gangshan Wu, Tong He, Limin Wang
+  Code: nan
+- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](http://arxiv.org/abs/2505.16187v2)
+  Guanghe Li, Junming Zhao, Shengjie Wang, Yang Gao
   Code: nan
 - [RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction](http://arxiv.org/abs/2505.15737v3)
   Zhuodong Jiang, Haoran Wang, Guoxi Huang, Brett Seymour, Nantheera Anantrasirichai

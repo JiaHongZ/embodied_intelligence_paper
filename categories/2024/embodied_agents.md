@@ -5,6 +5,9 @@
 - [Instructional Text Across Disciplines: A Survey of Representations, Downstream Tasks, and Open Challenges Toward Capable AI Agents](http://arxiv.org/abs/2410.18529v3)
   Abdulfattah Safa, Tamta Kapanadze, Arda Uzunoğlu, Gözde Gül Şahin
   Code: nan
+- [MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation](http://arxiv.org/abs/2410.14383v5)
+  Toby Godfrey, William Hunt, Mohammad D. Soorati
+  Code: https://github.com/SooratiLab/MARLIN
 
 ## September
 

@@ -71,6 +71,9 @@
 
 ## January
 
+- [EgoGen: An Egocentric Synthetic Data Generator](http://arxiv.org/abs/2401.08739v3)
+  Gen Li, Kaifeng Zhao, Siwei Zhang, Xiaozhong Lyu, Mihai Dusmanu, Yan Zhang, Marc Pollefeys, Siyu Tang
+  Code: nan
 - [WiFi-GEN: High-Resolution Indoor Imaging from WiFi Signals Using Generative AI](http://arxiv.org/abs/2401.04317v2)
   Jianyang Shi, Bowen Zhang, Amartansh Dubey, Ross Murch, Liwen Jing
   Code: https://github.com/CNFightingSjy/WiFiGEN
