@@ -2,6 +2,12 @@
 
 ## November
 
+- [VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception](http://arxiv.org/abs/2611.08368v1)
+  Sacha Jungerman, Kaustubh Sadekar, Avery Gump, Sriram Narayanan, Shantanu Gupta, Bhuyashi Deka, Srinivasa Narasimhan, Atul Ingle, Mohit Gupta
+  Code: nan
+- [Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3](http://arxiv.org/abs/2611.08142v1)
+  Jaime P. Pérez-Moro, Alejandro Romero, Hector Quintian, Francisco Bellas
+  Code: nan
 - [KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge](http://arxiv.org/abs/2611.03091v1)
   Nicklas Sohm, Aswin Ramachandran, Raffaello D'Andrea
   Code: nan
@@ -50,14 +56,14 @@
 - [Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](http://arxiv.org/abs/2609.29644v1)
   Juan De Dios Alfaro, Arturo Ríos, David Rodríguez-Martínez, Carlos Pérez-del-Pulgar
   Code: nan
-- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
-  Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
+- [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
+  Abhinav Jain, Cindy Grimm, Stefan Lee
   Code: nan
 - [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v1)
   Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan
-- [Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning](http://arxiv.org/abs/2609.24906v1)
-  Abhinav Jain, Cindy Grimm, Stefan Lee
+- [Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI](http://arxiv.org/abs/2609.24815v2)
+  Wenkang Qin, Yukun Zhou, Noah Shen, Jisong Cai, Dongxiao Mao, Baicheng Li, Yue Zhang, Wei Sui
   Code: nan
 - [A Novel Path-Tracking Algorithm for Automated Tractor-Trailer Forward and Backward Maneuvers](http://arxiv.org/abs/2609.21718v3)
   Alexandre Lombard, Florent Perronnet, Théo Rigal, Nicolas Gaud, Abdeljalil Abbas-Turki
@@ -104,11 +110,11 @@
 - [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](http://arxiv.org/abs/2606.31889v1)
   Marina Murillo, Guido Sanchez, Nestor Deniz, Lucas Genzelis, Leonardo Giovanini
   Code: nan
-- [OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](http://arxiv.org/abs/2606.30378v1)
-  Haocong He, Chenfei Liao, Zichen Wen, Zihao Dongfang, Xu Zheng, Bin Ren, Chang Su, Zixin Zhang, Harold Haodong Chen, Hongfei Zhang, Weijia Li, Kailun Yang, Conghui He, Xuming Hu, Nicu Sebe, Linfeng Zhang
-  Code: nan
 - [Domain Adaptation with Adaptive Imagination for Visual Reinforcement Learning under Limited Target Data](http://arxiv.org/abs/2606.30192v1)
   Hyunwoo Park, Sang-Hyun Lee
+  Code: nan
+- [OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](http://arxiv.org/abs/2606.30378v1)
+  Haocong He, Chenfei Liao, Zichen Wen, Zihao Dongfang, Xu Zheng, Bin Ren, Chang Su, Zixin Zhang, Harold Haodong Chen, Hongfei Zhang, Weijia Li, Kailun Yang, Conghui He, Xuming Hu, Nicu Sebe, Linfeng Zhang
   Code: nan
 - [RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction](http://arxiv.org/abs/2606.26955v1)
   Jinhyung Lee, Haeun Yun, Siwon Kim, Gihyun Baek, Sungho Moon, Sehyun Hwang, Sunghoon Im

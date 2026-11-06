@@ -215,6 +215,9 @@
 - [Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics](http://arxiv.org/abs/2509.24928v2)
   Shunan Yin, Zehui Lu, Shaoshuai Mou
   Code: nan
+- [GUARD: Sensitivity-aware Uncertainty Attribution for Safe Traditional and Learning-based Robot Control](http://arxiv.org/abs/2509.23312v2)
+  Woo-Jeong Baek, Johannes A. Gaus, Jonas Kiemel, Junheon Yoon, Suhan Park, Tamim Asfour, Jaeheung Park
+  Code: nan
 - [Ask, Reason, Assist: Robot Collaboration via Natural Language and Temporal Logic](http://arxiv.org/abs/2509.23506v3)
   Dan BW Choe, Sundhar Vinodh Sangeetha, Steven Emanuel, Chih-Yuan Chiu, Samuel Coogan, Shreyas Kousik
   Code: nan
@@ -287,6 +290,9 @@
 
 ## July
 
+- [CoMPAS3D: A Dataset and Benchmark for Interactive Motion](http://arxiv.org/abs/2507.19684v3)
+  Bermet Burkanova, Yasaman Etesam, Payam Jome Yazdian, Trinity Evans, Chuxuan Zhang, Zoe Stanley, Paige Tuttösí, Angelica Lim
+  Code: nan
 - [AnthroTAP: Learning Point Tracking with Real-World Motion](http://arxiv.org/abs/2507.06233v3)
   Inès Hyeonsu Kim, Seokju Cho, Jahyeok Koo, Junghyun Park, Jiahui Huang, Honglak Lee, Joon-Young Lee, Seungryong Kim
   Code: nan

@@ -11,3 +11,6 @@
 - [RAYEN: Imposition of Hard Convex Constraints on Neural Networks](http://arxiv.org/abs/2307.08336v2)
   Jesus Tordesillas, Victor Klemm, Jonathan P. How, Marco Hutter
   Code: https://github.com/leggedrobotics/rayen
+- [RAYEN: Imposition of Hard Convex Constraints on Neural Networks](http://arxiv.org/abs/2307.08336v3)
+  Jesus Tordesillas, Victor Klemm, Jonathan P. How, Marco Hutter
+  Code: https://github.com/leggedrobotics/rayen
