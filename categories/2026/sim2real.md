@@ -2,6 +2,9 @@
 
 ## November
 
+- [Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation](http://arxiv.org/abs/2611.12818v1)
+  Amit Manicka, Laurent Coulon, Darwin Ang, Michael Loushin, Timothy M. Kowalewski
+  Code: nan
 - [VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception](http://arxiv.org/abs/2611.08368v1)
   Sacha Jungerman, Kaustubh Sadekar, Avery Gump, Sriram Narayanan, Shantanu Gupta, Bhuyashi Deka, Srinivasa Narasimhan, Atul Ingle, Mohit Gupta
   Code: nan
