@@ -14,3 +14,6 @@
 - [A study on the effects of mixed explicit and implicit communications in human-artificial-agent interactions](http://arxiv.org/abs/2409.18745v5)
   Ana Christina Almada Campos, Bruno Vilhena Adorno
   Code: nan
+- [A study on the effects of mixed explicit and implicit communications in human-artificial-agent interactions](http://arxiv.org/abs/2409.18745v6)
+  Ana Christina Almada Campos, Bruno Vilhena Adorno
+  Code: nan

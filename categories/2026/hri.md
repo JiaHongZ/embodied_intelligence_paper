@@ -1,5 +1,11 @@
 # Human-Robot Interaction Papers (2026)
 
+## November
+
+- [A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation](http://arxiv.org/abs/2611.14062v1)
+  Jinhua Chen, Xiaoji Xu, Zhongyuan Liao, Huang Zhenmin, Zhang Ye, Changying Xiang
+  Code: nan
+
 ## October
 
 - [Navigating human-robot interaction challenges in private and residential aged care homes](http://arxiv.org/abs/2610.31149v1)
