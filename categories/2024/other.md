@@ -57,6 +57,12 @@
   Matthias K. Hoffmann, Julian Mühlenhoff, Zhaoheng Ding, Thomas Sattel, Kathrin Flaßkamp
   Code: nan
 
+## April
+
+- [A Tutorial on Gaussian Process Learning-based Model Predictive Control](http://arxiv.org/abs/2404.03689v2)
+  Jie Wang, Youmin Zhang
+  Code: nan
+
 ## March
 
 - [An Active Perception Game for Robust Exploration](http://arxiv.org/abs/2404.00769v5)
