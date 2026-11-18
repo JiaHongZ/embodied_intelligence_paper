@@ -11,14 +11,14 @@
 - [Geometric Scaling of Bayesian Inference in LLMs](http://arxiv.org/abs/2512.23752v4)
   Naman Agarwal, Siddhartha R. Dalal, Vishal Misra
   Code: nan
+- [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v4)
+  Chen Liang, Daniel Rakita
+  Code: nan
 - [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v2)
   Chen Liang, Daniel Rakita
   Code: nan
 - [Meta-RL with Bayesian Linear Task Models](http://arxiv.org/abs/2512.20974v4)
   Jingyang You, Hanna Kurniawati
-  Code: nan
-- [Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives](http://arxiv.org/abs/2512.21109v4)
-  Chen Liang, Daniel Rakita
   Code: nan
 - [Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting](http://arxiv.org/abs/2512.20014v3)
   Sangoh Lee, Sangwoo Mo, Wook-Shin Han
@@ -44,11 +44,11 @@
 - [NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks](http://arxiv.org/abs/2512.13670v2)
   Licheng Luo, Kaier Liang, Yu Xia, Mingyu Cai
   Code: nan
-- [Programmable Deformation Design of Porous Soft Actuator through Volumetric-Pattern-Induced Anisotropy](http://arxiv.org/abs/2512.12320v2)
-  Canqi Meng, Weibang Bai
-  Code: nan
 - [Illumination-Robust Localization around Unknown Space Objects using Multispectral Image Fusion](http://arxiv.org/abs/2512.12203v3)
   Eric J. Elias, Michael Esswein, Jonathan P. How, David W. Miller
+  Code: nan
+- [Programmable Deformation Design of Porous Soft Actuator through Volumetric-Pattern-Induced Anisotropy](http://arxiv.org/abs/2512.12320v2)
+  Canqi Meng, Weibang Bai
   Code: nan
 - [UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](http://arxiv.org/abs/2512.11609v2)
   Tingyu Yuan, Biaoliang Guan, Wen Ye, Ziyan Tian, Yi Yang, Weijie Zhou, Zhaowen Li, Yan Huang, Peng Wang, Chaoyang Zhao, Jinqiao Wang
@@ -77,11 +77,11 @@
 - [TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](http://arxiv.org/abs/2512.04772v2)
   Mauro Martini, Marco Ambrosio, Judith Vilella-Cantos, Alessandro Navone, Marcello Chiaberge
   Code: nan
-- [InStyle: Instant Appearance Stylization of 3D Shapes](http://arxiv.org/abs/2512.03683v2)
-  Melis Ocal, Xiaoyan Xing, Yue Li, Ngo Anh Vien, Sezer Karaoglu, Theo Gevers
-  Code: nan
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](http://arxiv.org/abs/2512.04069v2)
   Siyi Chen, Mikaela Angelina Uy, Chan Hee Song, Faisal Ladhak, Adithyavairavan Murali, Qing Qu, Stan Birchfield, Valts Blukis, Jonathan Tremblay
+  Code: nan
+- [InStyle: Instant Appearance Stylization of 3D Shapes](http://arxiv.org/abs/2512.03683v2)
+  Melis Ocal, Xiaoyan Xing, Yue Li, Ngo Anh Vien, Sezer Karaoglu, Theo Gevers
   Code: nan
 - [OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation](http://arxiv.org/abs/2512.03532v2)
   Zhishan Zhou, Siyuan Wei, Zengran Wang, Chunjie Wang, Xiaosheng Yan, Xiao Liu
@@ -344,22 +344,22 @@
 - [Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks](http://arxiv.org/abs/2509.19696v4)
   Noah Geiger, Tamim Asfour, Neville Hogan, Johannes Lachner
   Code: nan
-- [Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation](http://arxiv.org/abs/2509.18597v3)
-  Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao, Xukun Li, Zhenshan Bing, Alois Knoll
-  Code: nan
 - [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](http://arxiv.org/abs/2509.18671v2)
   Kaixin Chai, Hyunjun Lee, Joseph J. Lim
   Code: nan
+- [Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation](http://arxiv.org/abs/2509.18597v3)
+  Yuan Meng, Zhenguo Sun, Max Fest, Xiangtong Yao, Xukun Li, Zhenshan Bing, Alois Knoll
+  Code: nan
 - [BiGraspFormer: End-to-End Bimanual Grasp Transformer](http://arxiv.org/abs/2509.19142v2)
   Kangmin Kim, Seunghyeok Back, Geonhyup Lee, Sangbeom Lee, Sangjun Noh, Kyoobin Lee
+  Code: nan
+- [Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands](http://arxiv.org/abs/2509.18455v4)
+  Yunshuang Li, Yiyang Ling, Gaurav S. Sukhatme, Daniel Seita
   Code: nan
 - [Learning Dexterous Manipulation with Quantized Hand State](http://arxiv.org/abs/2509.17450v2)
   Ying Feng, Hongjie Fang, Yinong He, Jingjing Chen, Chenxi Wang, Zihao He, Ruonan Liu, Cewu Lu
   Code: nan
 - [Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands](http://arxiv.org/abs/2509.18455v3)
-  Yunshuang Li, Yiyang Ling, Gaurav S. Sukhatme, Daniel Seita
-  Code: nan
-- [Learning Geometry-Aware Nonprehensile Pushing and Pulling with Dexterous Hands](http://arxiv.org/abs/2509.18455v4)
   Yunshuang Li, Yiyang Ling, Gaurav S. Sukhatme, Daniel Seita
   Code: nan
 - [History-Aware Visuomotor Policy Learning via Point Tracking](http://arxiv.org/abs/2509.17141v2)
@@ -497,6 +497,9 @@
 - [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](http://arxiv.org/abs/2507.05116v5)
   Juyi Lin, Amir Taherin, Arash Akbari, Arman Akbari, Lei Lu, Guangyu Chen, Taskin Padir, Xiaomeng Yang, Weiwei Chen, Yiqian Li, Xue Lin, David Kaeli, Pu Zhao, Yanzhi Wang
   Code: https://github.com/LukeLIN-web/VOTE
+- [Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models](http://arxiv.org/abs/2507.05248v3)
+  Ziqi Miao, Lijun Li, Yuan Xiong, Zhenhua Liu, Pengyu Zhu, Chen Qian, Haonan Jia, Zihang Xu, Ken Deng, Jing Shao
+  Code: https://github.com/Dtc7w3PQ/Response-Attack
 
 ## June
 
@@ -527,11 +530,11 @@
 - [The Alignment Illusion: How BadReward Corrupts Text-to-Image Generation](http://arxiv.org/abs/2506.03234v2)
   Kaiwen Duan, Hongwei Yao, Yufei Chen, Ziyun Li, Tong Qiao, Zhan Qin, Cong Wang
   Code: https://github.com/ZJUICSR/BadReward
-- [Grounded Vision-Language Interpreter for Long-Horizon Bimanual Task and Motion Planning](http://arxiv.org/abs/2506.03270v3)
-  Jeremy Siburian, Keisuke Shirai, Cristian C. Beltran-Hernandez, Masashi Hamaya, Michael Görner, Atsushi Hashimoto
-  Code: nan
 - [Geometric Visual Servo Via Optimal Transport](http://arxiv.org/abs/2506.02768v2)
   Ethan Canzini, Simon Pope, Ashutosh Tiwari
+  Code: nan
+- [Grounded Vision-Language Interpreter for Long-Horizon Bimanual Task and Motion Planning](http://arxiv.org/abs/2506.03270v3)
+  Jeremy Siburian, Keisuke Shirai, Cristian C. Beltran-Hernandez, Masashi Hamaya, Michael Görner, Atsushi Hashimoto
   Code: nan
 - [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](http://arxiv.org/abs/2506.01941v3)
   Longyan Wu, Checheng Yu, Jieji Ren, Li Chen, Yufei Jiang, Ran Huang, Guoying Gu, Hongyang Li

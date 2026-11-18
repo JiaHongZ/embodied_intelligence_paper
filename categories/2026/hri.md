@@ -2,6 +2,9 @@
 
 ## November
 
+- [Event-Based Dynamic Lip Region Estimation During Speech](http://arxiv.org/abs/2611.23111v1)
+  Hamze Hammami, Omar Eldardeer, Francesco Rea
+  Code: nan
 - [A human-in-the-loop Control Paradigm for Construction Robotics: From VR-Guided Teleoperation to Semi-Autonomous Dual-Arm Operation](http://arxiv.org/abs/2611.14062v1)
   Jinhua Chen, Xiaoji Xu, Zhongyuan Liao, Huang Zhenmin, Zhang Ye, Changying Xiang
   Code: nan
@@ -200,11 +203,11 @@
 - [WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots](http://arxiv.org/abs/2606.16600v1)
   Thang Tran Viet, Thanh Nguyen Canh, Gia Huy Uong, Phuc Van Dinh, Tan Viet Tuyen Nguyen, Xiem HoangVan, Nak Young Chong
   Code: https://github.com/pairs-lab/WaveSync}{WaveSync}
-- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
-  Haotian Qi, Gabriel Skantze
-  Code: nan
 - [ExoTraj: A General Lower-limb Exoskeleton Assistance Policy for Complex Environments](http://arxiv.org/abs/2606.16876v1)
   Xiao-Yin Liu, Guotao Li, Long Sun, Xu Liang, Zeng-Guang Hou
+  Code: nan
+- [MuVAP: Multimodal Multiparty Voice Activity Projection for Turn-taking Prediction in the Wild](http://arxiv.org/abs/2606.16731v1)
+  Haotian Qi, Gabriel Skantze
   Code: nan
 - [OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](http://arxiv.org/abs/2606.15255v2)
   Thanh Nguyen Canh, Thang Tran Viet, Phuc Van Dinh, Xiem HoangVan, Nak Young Chong

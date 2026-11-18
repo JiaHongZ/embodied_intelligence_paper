@@ -2,6 +2,9 @@
 
 ## November
 
+- [Arboreus: A Realistic Boreal Forest Simulator with Topographic Terrain and Satellite-Informed Parametric Tree Distributions](http://arxiv.org/abs/2611.22908v1)
+  F. Labra Caso, A. Saradagi, A. Koval, G. Nikolakopoulos
+  Code: nan
 - [Simulating Vein Compressibility for Ultrasound-Guided Femoral Access: Speed, Accuracy, and Phantom Validation](http://arxiv.org/abs/2611.12818v1)
   Amit Manicka, Laurent Coulon, Darwin Ang, Michael Loushin, Timothy M. Kowalewski
   Code: nan
@@ -140,15 +143,18 @@
 - [From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting](http://arxiv.org/abs/2606.11381v4)
   Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu
   Code: https://github.com/wjson2435/FieldStraw6D-pipeline
-- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
-  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
-  Code: nan
 - [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
   Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
+  Code: nan
+- [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
+  Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
   Code: nan
 
 ## May
 
+- [Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos](http://arxiv.org/abs/2605.23762v2)
+  Constant Roux, Ludovic De Matteïs, Mathias Gatineau, Armand Jordana, Valentin Guillet, Nicolas Mansard, Olivier Stasse, Philippe Souères
+  Code: nan
 - [Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation](http://arxiv.org/abs/2605.12347v1)
   Hamza Ahmed Durrani, Suleman Khan
   Code: nan
