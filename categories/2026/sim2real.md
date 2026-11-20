@@ -2,6 +2,12 @@
 
 ## November
 
+- [A Tutorial on Complementarity-Based Contact Models for Robotics](http://arxiv.org/abs/2611.26600v1)
+  Onur Beker, A. René Geist, Michael Posa, Marc Toussaint, Justin Carpentier, Georg Martius
+  Code: nan
+- [LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control](http://arxiv.org/abs/2611.26293v1)
+  Firas Al-Hafez, Davide Tateo, Oleg Kaidanov, Aditya Bhatt, Artur Zelik, Zhengyi Luo, Jan Peters
+  Code: https://github.com/robfiras/loco-mujoco
 - [Arboreus: A Realistic Boreal Forest Simulator with Topographic Terrain and Satellite-Informed Parametric Tree Distributions](http://arxiv.org/abs/2611.22908v1)
   F. Labra Caso, A. Saradagi, A. Koval, G. Nikolakopoulos
   Code: nan
@@ -143,11 +149,11 @@
 - [From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting](http://arxiv.org/abs/2606.11381v4)
   Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu
   Code: https://github.com/wjson2435/FieldStraw6D-pipeline
-- [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
-  Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
-  Code: nan
 - [Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems](http://arxiv.org/abs/2606.09432v1)
   Karn Tiwari, Niladri Dutta, N M Anoop Krishnan, Prathosh A P
+  Code: nan
+- [Bridged SBI: Correcting Biased Low-Fidelity Posteriors for Cost-Efficient High-Fidelity Inference](http://arxiv.org/abs/2606.09155v1)
+  Gahee Kim, Yuki Kadokawa, Sandro M. Alcantara Tacora, Taro Abe, Daisuke Endo, Genki Yamauchi, Takeshi Hashimoto, Takamitsu Matsubara
   Code: nan
 
 ## May

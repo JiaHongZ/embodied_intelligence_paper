@@ -2,6 +2,9 @@
 
 ## November
 
+- [Dynamic Human-Robot Role Allocation through Entropy-Based Monitoring and LLM Reasoning](http://arxiv.org/abs/2611.26090v1)
+  Elena Merlo, Marta Lagomarsino, Hamidreza Raei, Arash Ajoudani
+  Code: nan
 - [Event-Based Dynamic Lip Region Estimation During Speech](http://arxiv.org/abs/2611.23111v1)
   Hamze Hammami, Omar Eldardeer, Francesco Rea
   Code: nan
@@ -77,6 +80,9 @@
 - [A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](http://arxiv.org/abs/2609.02402v1)
   Chengxiao He, Shanghai Yuan, Liuqun Fan, Shenzhen Zhu
   Code: nan
+- [A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care](http://arxiv.org/abs/2609.02402v2)
+  Chengxiao He, Shenghai Yuan, Liuqun Fan, Shenzhe Zhu
+  Code: nan
 
 ## August
 
@@ -104,11 +110,11 @@
 - [Robot Learning from Human Demonstrations: Handwritten Alphabet Trajectories and Human-Likeness Evaluation](http://arxiv.org/abs/2608.06221v1)
   Alperen Kenan, Paul Bremner, Manuel Giuliani
   Code: nan
-- [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
-  Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
-  Code: nan
 - [Human Centric Embodied Intelligence for Soft Wearable Robotics](http://arxiv.org/abs/2608.03556v1)
   Rainier Natividad, Raye Chen-Hua Yeow
+  Code: nan
+- [Accelerating Human-Aware Robot Trajectory Generation via Diffusion and Consistency Distillation](http://arxiv.org/abs/2608.03159v1)
+  Byeong-Il Ham, Hyun-Bin Kim, Kyung-Soo Kim
   Code: nan
 - [Adaptive Human-Robot Collaborative Painting Combining Preference-Based Optimization and Dynamic Motion Primitives](http://arxiv.org/abs/2608.01981v1)
   C. Cella, M. Ristic, M. Faroni, A. M. Zanchettin, P. Rocco
@@ -346,6 +352,9 @@
   Code: nan
 - ["You've got a friend in me": Co-Designing a Peer Social Robot for Young Newcomers' Language and Cultural Learning](http://arxiv.org/abs/2603.18804v3)
   Neil Fernandes, Cheng Tang, Tehniyat Shahbaz, Alex Hauschildt, Emily Davies-Robinson, Yue Hu, Kerstin Dautenhahn
+  Code: nan
+- [RoboForge: Cross-space Motion Refinement for Physically Executable Humanoid Whole-body Tracking](http://arxiv.org/abs/2603.17927v3)
+  Xichen Yuan, Zhe Li, Zhenzhe Zhang, Yangyang Wei, Xinying Guo, Shanghang Zhang, Jianfei Yang
   Code: nan
 - [Faulty Coffees: Barriers to Adoption of an In-the-wild Robo-Barista](http://arxiv.org/abs/2603.16336v1)
   Bruce W. Wilson, David A. Robb, Mei Yii Lim, Helen Hastie, Matthew Peter Aylett, Theodoros Georgiou
